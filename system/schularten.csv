@@ -1,0 +1,2121 @@
+Schulart,jahr,anzahl,Land
+Schulkindergärten,1992,430,Baden-Württemberg
+Schulkindergärten,2007,480,Baden-Württemberg
+Schulkindergärten,2008,486,Baden-Württemberg
+Schulkindergärten,2009,491,Baden-Württemberg
+Schulkindergärten,2010,493,Baden-Württemberg
+Schulkindergärten,2011,433,Baden-Württemberg
+Schulkindergärten,2012,434,Baden-Württemberg
+Schulkindergärten,2013,435,Baden-Württemberg
+Schulkindergärten,2014,434,Baden-Württemberg
+Schulkindergärten,2015,434,Baden-Württemberg
+Grundschulen,1992,2460,Baden-Württemberg
+Grundschulen,2007,2554,Baden-Württemberg
+Grundschulen,2008,2555,Baden-Württemberg
+Grundschulen,2009,2557,Baden-Württemberg
+Grundschulen,2010,2545,Baden-Württemberg
+Grundschulen,2011,2529,Baden-Württemberg
+Grundschulen,2012,2490,Baden-Württemberg
+Grundschulen,2013,2409,Baden-Württemberg
+Grundschulen,2014,2331,Baden-Württemberg
+Grundschulen,2015,2274,Baden-Württemberg
+Schulartunabhängige Orientierungsstufe,1992,4,Baden-Württemberg
+Schulartunabhängige Orientierungsstufe,2007,1,Baden-Württemberg
+Schulartunabhängige Orientierungsstufe,2008,1,Baden-Württemberg
+Schulartunabhängige Orientierungsstufe,2009,1,Baden-Württemberg
+Schulartunabhängige Orientierungsstufe,2010,1,Baden-Württemberg
+Schulartunabhängige Orientierungsstufe,2011,1,Baden-Württemberg
+Schulartunabhängige Orientierungsstufe,2012,1,Baden-Württemberg
+Schulartunabhängige Orientierungsstufe,2013,1,Baden-Württemberg
+Schulartunabhängige Orientierungsstufe,2014,1,Baden-Württemberg
+Schulartunabhängige Orientierungsstufe,2015,1,Baden-Württemberg
+Hauptschulen,1992,1291,Baden-Württemberg
+Hauptschulen,2007,1225,Baden-Württemberg
+Hauptschulen,2008,1216,Baden-Württemberg
+Hauptschulen,2009,1194,Baden-Württemberg
+Hauptschulen,2010,1076,Baden-Württemberg
+Hauptschulen,2011,938,Baden-Württemberg
+Hauptschulen,2012,906,Baden-Württemberg
+Hauptschulen,2013,868,Baden-Württemberg
+Hauptschulen,2014,827,Baden-Württemberg
+Hauptschulen,2015,791,Baden-Württemberg
+Realschulen,1992,445,Baden-Württemberg
+Realschulen,2007,477,Baden-Württemberg
+Realschulen,2008,478,Baden-Württemberg
+Realschulen,2009,483,Baden-Württemberg
+Realschulen,2010,489,Baden-Württemberg
+Realschulen,2011,494,Baden-Württemberg
+Realschulen,2012,503,Baden-Württemberg
+Realschulen,2013,503,Baden-Württemberg
+Realschulen,2014,503,Baden-Württemberg
+Realschulen,2015,507,Baden-Württemberg
+Gymnasien,1992,411,Baden-Württemberg
+Gymnasien,2007,440,Baden-Württemberg
+Gymnasien,2008,444,Baden-Württemberg
+Gymnasien,2009,445,Baden-Württemberg
+Gymnasien,2010,449,Baden-Württemberg
+Gymnasien,2011,451,Baden-Württemberg
+Gymnasien,2012,455,Baden-Württemberg
+Gymnasien,2013,458,Baden-Württemberg
+Gymnasien,2014,459,Baden-Württemberg
+Gymnasien,2015,459,Baden-Württemberg
+Integrierte Gesamtschulen,1992,3,Baden-Württemberg
+Integrierte Gesamtschulen,2007,3,Baden-Württemberg
+Integrierte Gesamtschulen,2008,3,Baden-Württemberg
+Integrierte Gesamtschulen,2009,3,Baden-Württemberg
+Integrierte Gesamtschulen,2010,3,Baden-Württemberg
+Integrierte Gesamtschulen,2011,3,Baden-Württemberg
+Integrierte Gesamtschulen,2012,45,Baden-Württemberg
+Integrierte Gesamtschulen,2013,242,Baden-Württemberg
+Integrierte Gesamtschulen,2014,391,Baden-Württemberg
+Integrierte Gesamtschulen,2015,500,Baden-Württemberg
+Freie Waldorfschulen,1992,34,Baden-Württemberg
+Freie Waldorfschulen,2007,53,Baden-Württemberg
+Freie Waldorfschulen,2008,55,Baden-Württemberg
+Freie Waldorfschulen,2009,56,Baden-Württemberg
+Freie Waldorfschulen,2010,56,Baden-Württemberg
+Freie Waldorfschulen,2011,57,Baden-Württemberg
+Freie Waldorfschulen,2012,58,Baden-Württemberg
+Freie Waldorfschulen,2013,58,Baden-Württemberg
+Freie Waldorfschulen,2014,58,Baden-Württemberg
+Freie Waldorfschulen,2015,59,Baden-Württemberg
+Förderschulen,1992,539,Baden-Württemberg
+Förderschulen,2007,579,Baden-Württemberg
+Förderschulen,2008,577,Baden-Württemberg
+Förderschulen,2009,581,Baden-Württemberg
+Förderschulen,2010,584,Baden-Württemberg
+Förderschulen,2011,582,Baden-Württemberg
+Förderschulen,2012,582,Baden-Württemberg
+Förderschulen,2013,578,Baden-Württemberg
+Förderschulen,2014,577,Baden-Württemberg
+Förderschulen,2015,567,Baden-Württemberg
+Abendrealschulen,1992,50,Baden-Württemberg
+Abendrealschulen,2007,44,Baden-Württemberg
+Abendrealschulen,2008,42,Baden-Württemberg
+Abendrealschulen,2009,41,Baden-Württemberg
+Abendrealschulen,2010,42,Baden-Württemberg
+Abendrealschulen,2011,41,Baden-Württemberg
+Abendrealschulen,2012,39,Baden-Württemberg
+Abendrealschulen,2013,39,Baden-Württemberg
+Abendrealschulen,2014,39,Baden-Württemberg
+Abendrealschulen,2015,37,Baden-Württemberg
+Abendgymnasien,1992,18,Baden-Württemberg
+Abendgymnasien,2007,20,Baden-Württemberg
+Abendgymnasien,2008,20,Baden-Württemberg
+Abendgymnasien,2009,21,Baden-Württemberg
+Abendgymnasien,2010,22,Baden-Württemberg
+Abendgymnasien,2011,22,Baden-Württemberg
+Abendgymnasien,2012,22,Baden-Württemberg
+Abendgymnasien,2013,23,Baden-Württemberg
+Abendgymnasien,2014,23,Baden-Württemberg
+Abendgymnasien,2015,23,Baden-Württemberg
+Kollegs,1992,8,Baden-Württemberg
+Kollegs,2007,6,Baden-Württemberg
+Kollegs,2008,6,Baden-Württemberg
+Kollegs,2009,6,Baden-Württemberg
+Kollegs,2010,6,Baden-Württemberg
+Kollegs,2011,7,Baden-Württemberg
+Kollegs,2012,7,Baden-Württemberg
+Kollegs,2013,7,Baden-Württemberg
+Kollegs,2014,6,Baden-Württemberg
+Kollegs,2015,6,Baden-Württemberg
+Grundschulen,1992,2371,Bayern
+Grundschulen,2007,2418,Bayern
+Grundschulen,2008,2416,Bayern
+Grundschulen,2009,2415,Bayern
+Grundschulen,2010,2420,Bayern
+Grundschulen,2011,2412,Bayern
+Grundschulen,2012,2411,Bayern
+Grundschulen,2013,2406,Bayern
+Grundschulen,2014,2405,Bayern
+Grundschulen,2015,2404,Bayern
+Schulartunabhängige Orientierungsstufe,1992,1,Bayern
+Schulartunabhängige Orientierungsstufe,2007,1,Bayern
+Schulartunabhängige Orientierungsstufe,2008,1,Bayern
+Schulartunabhängige Orientierungsstufe,2009,1,Bayern
+Schulartunabhängige Orientierungsstufe,2010,1,Bayern
+Schulartunabhängige Orientierungsstufe,2011,1,Bayern
+Schulartunabhängige Orientierungsstufe,2012,1,Bayern
+Schulartunabhängige Orientierungsstufe,2013,1,Bayern
+Schulartunabhängige Orientierungsstufe,2014,1,Bayern
+Schulartunabhängige Orientierungsstufe,2015,1,Bayern
+Hauptschulen,1992,1688,Bayern
+Hauptschulen,2007,1147,Bayern
+Hauptschulen,2008,1109,Bayern
+Hauptschulen,2009,1075,Bayern
+Hauptschulen,2010,1062,Bayern
+Hauptschulen,2011,1044,Bayern
+Hauptschulen,2012,1033,Bayern
+Hauptschulen,2013,1023,Bayern
+Hauptschulen,2014,1005,Bayern
+Hauptschulen,2015,997,Bayern
+Realschulen,1992,393,Bayern
+Realschulen,2007,423,Bayern
+Realschulen,2008,426,Bayern
+Realschulen,2009,429,Bayern
+Realschulen,2010,443,Bayern
+Realschulen,2011,446,Bayern
+Realschulen,2012,451,Bayern
+Realschulen,2013,458,Bayern
+Realschulen,2014,457,Bayern
+Realschulen,2015,456,Bayern
+Gymnasien,1992,395,Bayern
+Gymnasien,2007,405,Bayern
+Gymnasien,2008,408,Bayern
+Gymnasien,2009,410,Bayern
+Gymnasien,2010,413,Bayern
+Gymnasien,2011,415,Bayern
+Gymnasien,2012,418,Bayern
+Gymnasien,2013,422,Bayern
+Gymnasien,2014,424,Bayern
+Gymnasien,2015,426,Bayern
+Integrierte Gesamtschulen,1992,3,Bayern
+Integrierte Gesamtschulen,2007,2,Bayern
+Integrierte Gesamtschulen,2008,2,Bayern
+Integrierte Gesamtschulen,2009,2,Bayern
+Integrierte Gesamtschulen,2010,2,Bayern
+Integrierte Gesamtschulen,2011,2,Bayern
+Integrierte Gesamtschulen,2012,2,Bayern
+Integrierte Gesamtschulen,2013,2,Bayern
+Integrierte Gesamtschulen,2014,2,Bayern
+Integrierte Gesamtschulen,2015,2,Bayern
+Freie Waldorfschulen,1992,14,Bayern
+Freie Waldorfschulen,2007,19,Bayern
+Freie Waldorfschulen,2008,20,Bayern
+Freie Waldorfschulen,2009,20,Bayern
+Freie Waldorfschulen,2010,21,Bayern
+Freie Waldorfschulen,2011,21,Bayern
+Freie Waldorfschulen,2012,21,Bayern
+Freie Waldorfschulen,2013,21,Bayern
+Freie Waldorfschulen,2014,22,Bayern
+Freie Waldorfschulen,2015,22,Bayern
+Förderschulen,1992,381,Bayern
+Förderschulen,2007,365,Bayern
+Förderschulen,2008,362,Bayern
+Förderschulen,2009,363,Bayern
+Förderschulen,2010,356,Bayern
+Förderschulen,2011,356,Bayern
+Förderschulen,2012,355,Bayern
+Förderschulen,2013,355,Bayern
+Förderschulen,2014,355,Bayern
+Förderschulen,2015,355,Bayern
+Abendrealschulen,1992,5,Bayern
+Abendrealschulen,2007,4,Bayern
+Abendrealschulen,2008,4,Bayern
+Abendrealschulen,2009,4,Bayern
+Abendrealschulen,2010,4,Bayern
+Abendrealschulen,2011,4,Bayern
+Abendrealschulen,2012,4,Bayern
+Abendrealschulen,2013,4,Bayern
+Abendrealschulen,2014,4,Bayern
+Abendrealschulen,2015,4,Bayern
+Abendgymnasien,1992,5,Bayern
+Abendgymnasien,2007,5,Bayern
+Abendgymnasien,2008,5,Bayern
+Abendgymnasien,2009,5,Bayern
+Abendgymnasien,2010,5,Bayern
+Abendgymnasien,2011,5,Bayern
+Abendgymnasien,2012,5,Bayern
+Abendgymnasien,2013,5,Bayern
+Abendgymnasien,2014,5,Bayern
+Abendgymnasien,2015,5,Bayern
+Kollegs,1992,6,Bayern
+Kollegs,2007,6,Bayern
+Kollegs,2008,6,Bayern
+Kollegs,2009,6,Bayern
+Kollegs,2010,6,Bayern
+Kollegs,2011,6,Bayern
+Kollegs,2012,6,Bayern
+Kollegs,2013,6,Bayern
+Kollegs,2014,6,Bayern
+Kollegs,2015,6,Bayern
+Vorklassen,1992,435,Berlin
+Vorklassen,2007,0,Berlin
+Vorklassen,2008,0,Berlin
+Vorklassen,2009,0,Berlin
+Vorklassen,2010,0,Berlin
+Vorklassen,2011,0,Berlin
+Vorklassen,2012,0,Berlin
+Vorklassen,2013,0,Berlin
+Vorklassen,2014,0,Berlin
+Vorklassen,2015,0,Berlin
+Grundschulen,1992,476,Berlin
+Grundschulen,2007,428,Berlin
+Grundschulen,2008,432,Berlin
+Grundschulen,2009,436,Berlin
+Grundschulen,2010,433,Berlin
+Grundschulen,2011,422,Berlin
+Grundschulen,2012,423,Berlin
+Grundschulen,2013,426,Berlin
+Grundschulen,2014,431,Berlin
+Grundschulen,2015,428,Berlin
+Schulartunabhängige Orientierungsstufe,1992,476,Berlin
+Schulartunabhängige Orientierungsstufe,2007,417,Berlin
+Schulartunabhängige Orientierungsstufe,2008,414,Berlin
+Schulartunabhängige Orientierungsstufe,2009,422,Berlin
+Schulartunabhängige Orientierungsstufe,2010,415,Berlin
+Schulartunabhängige Orientierungsstufe,2011,410,Berlin
+Schulartunabhängige Orientierungsstufe,2012,412,Berlin
+Schulartunabhängige Orientierungsstufe,2013,418,Berlin
+Schulartunabhängige Orientierungsstufe,2014,426,Berlin
+Schulartunabhängige Orientierungsstufe,2015,422,Berlin
+Hauptschulen,1992,68,Berlin
+Hauptschulen,2007,56,Berlin
+Hauptschulen,2008,52,Berlin
+Hauptschulen,2009,51,Berlin
+Hauptschulen,2010,43,Berlin
+Hauptschulen,2011,43,Berlin
+Hauptschulen,2012,41,Berlin
+Hauptschulen,2013,1,Berlin
+Hauptschulen,2014,0,Berlin
+Hauptschulen,2015,0,Berlin
+Realschulen,1992,76,Berlin
+Realschulen,2007,74,Berlin
+Realschulen,2008,73,Berlin
+Realschulen,2009,70,Berlin
+Realschulen,2010,66,Berlin
+Realschulen,2011,63,Berlin
+Realschulen,2012,63,Berlin
+Realschulen,2013,8,Berlin
+Realschulen,2014,0,Berlin
+Realschulen,2015,0,Berlin
+Gymnasien,1992,121,Berlin
+Gymnasien,2007,111,Berlin
+Gymnasien,2008,108,Berlin
+Gymnasien,2009,110,Berlin
+Gymnasien,2010,112,Berlin
+Gymnasien,2011,116,Berlin
+Gymnasien,2012,116,Berlin
+Gymnasien,2013,115,Berlin
+Gymnasien,2014,113,Berlin
+Gymnasien,2015,113,Berlin
+Integrierte Gesamtschulen,1992,84,Berlin
+Integrierte Gesamtschulen,2007,52,Berlin
+Integrierte Gesamtschulen,2008,53,Berlin
+Integrierte Gesamtschulen,2009,56,Berlin
+Integrierte Gesamtschulen,2010,175,Berlin
+Integrierte Gesamtschulen,2011,204,Berlin
+Integrierte Gesamtschulen,2012,208,Berlin
+Integrierte Gesamtschulen,2013,166,Berlin
+Integrierte Gesamtschulen,2014,165,Berlin
+Integrierte Gesamtschulen,2015,171,Berlin
+Freie Waldorfschulen,1992,5,Berlin
+Freie Waldorfschulen,2007,7,Berlin
+Freie Waldorfschulen,2008,9,Berlin
+Freie Waldorfschulen,2009,9,Berlin
+Freie Waldorfschulen,2010,9,Berlin
+Freie Waldorfschulen,2011,10,Berlin
+Freie Waldorfschulen,2012,11,Berlin
+Freie Waldorfschulen,2013,10,Berlin
+Freie Waldorfschulen,2014,10,Berlin
+Freie Waldorfschulen,2015,10,Berlin
+Förderschulen,1992,94,Berlin
+Förderschulen,2007,93,Berlin
+Förderschulen,2008,92,Berlin
+Förderschulen,2009,95,Berlin
+Förderschulen,2010,92,Berlin
+Förderschulen,2011,89,Berlin
+Förderschulen,2012,86,Berlin
+Förderschulen,2013,82,Berlin
+Förderschulen,2014,77,Berlin
+Förderschulen,2015,71,Berlin
+Abendhauptschulen,1992,11,Berlin
+Abendhauptschulen,2007,8,Berlin
+Abendhauptschulen,2008,7,Berlin
+Abendhauptschulen,2009,8,Berlin
+Abendhauptschulen,2010,10,Berlin
+Abendhauptschulen,2011,10,Berlin
+Abendhauptschulen,2012,10,Berlin
+Abendhauptschulen,2013,10,Berlin
+Abendhauptschulen,2014,10,Berlin
+Abendhauptschulen,2015,10,Berlin
+Abendrealschulen,1992,11,Berlin
+Abendrealschulen,2007,9,Berlin
+Abendrealschulen,2008,6,Berlin
+Abendrealschulen,2009,9,Berlin
+Abendrealschulen,2010,9,Berlin
+Abendrealschulen,2011,9,Berlin
+Abendrealschulen,2012,9,Berlin
+Abendrealschulen,2013,9,Berlin
+Abendrealschulen,2014,9,Berlin
+Abendrealschulen,2015,8,Berlin
+Abendgymnasien,1992,2,Berlin
+Abendgymnasien,2007,2,Berlin
+Abendgymnasien,2008,2,Berlin
+Abendgymnasien,2009,2,Berlin
+Abendgymnasien,2010,2,Berlin
+Abendgymnasien,2011,2,Berlin
+Abendgymnasien,2012,2,Berlin
+Abendgymnasien,2013,2,Berlin
+Abendgymnasien,2014,2,Berlin
+Abendgymnasien,2015,2,Berlin
+Kollegs,1992,5,Berlin
+Kollegs,2007,5,Berlin
+Kollegs,2008,5,Berlin
+Kollegs,2009,5,Berlin
+Kollegs,2010,5,Berlin
+Kollegs,2011,5,Berlin
+Kollegs,2012,5,Berlin
+Kollegs,2013,5,Berlin
+Kollegs,2014,5,Berlin
+Kollegs,2015,5,Berlin
+Grundschulen,1992,562,Brandenburg
+Grundschulen,2007,501,Brandenburg
+Grundschulen,2008,503,Brandenburg
+Grundschulen,2009,504,Brandenburg
+Grundschulen,2010,506,Brandenburg
+Grundschulen,2011,507,Brandenburg
+Grundschulen,2012,505,Brandenburg
+Grundschulen,2013,504,Brandenburg
+Grundschulen,2014,501,Brandenburg
+Grundschulen,2015,502,Brandenburg
+Schulartunabhängige Orientierungsstufe,1992,565,Brandenburg
+Schulartunabhängige Orientierungsstufe,2007,481,Brandenburg
+Schulartunabhängige Orientierungsstufe,2008,482,Brandenburg
+Schulartunabhängige Orientierungsstufe,2009,487,Brandenburg
+Schulartunabhängige Orientierungsstufe,2010,490,Brandenburg
+Schulartunabhängige Orientierungsstufe,2011,496,Brandenburg
+Schulartunabhängige Orientierungsstufe,2012,496,Brandenburg
+Schulartunabhängige Orientierungsstufe,2013,497,Brandenburg
+Schulartunabhängige Orientierungsstufe,2014,496,Brandenburg
+Schulartunabhängige Orientierungsstufe,2015,495,Brandenburg
+Schularten mit mehreren Bildungsgängen,1992,0,Brandenburg
+Schularten mit mehreren Bildungsgängen,2007,131,Brandenburg
+Schularten mit mehreren Bildungsgängen,2008,140,Brandenburg
+Schularten mit mehreren Bildungsgängen,2009,150,Brandenburg
+Schularten mit mehreren Bildungsgängen,2010,151,Brandenburg
+Schularten mit mehreren Bildungsgängen,2011,151,Brandenburg
+Schularten mit mehreren Bildungsgängen,2012,149,Brandenburg
+Schularten mit mehreren Bildungsgängen,2013,148,Brandenburg
+Schularten mit mehreren Bildungsgängen,2014,149,Brandenburg
+Schularten mit mehreren Bildungsgängen,2015,151,Brandenburg
+Realschulen,1992,76,Brandenburg
+Realschulen,2007,52,Brandenburg
+Realschulen,2008,0,Brandenburg
+Realschulen,2009,0,Brandenburg
+Realschulen,2010,0,Brandenburg
+Realschulen,2011,0,Brandenburg
+Realschulen,2012,0,Brandenburg
+Realschulen,2013,0,Brandenburg
+Realschulen,2014,0,Brandenburg
+Realschulen,2015,0,Brandenburg
+Gymnasien,1992,94,Brandenburg
+Gymnasien,2007,101,Brandenburg
+Gymnasien,2008,100,Brandenburg
+Gymnasien,2009,100,Brandenburg
+Gymnasien,2010,96,Brandenburg
+Gymnasien,2011,99,Brandenburg
+Gymnasien,2012,100,Brandenburg
+Gymnasien,2013,100,Brandenburg
+Gymnasien,2014,101,Brandenburg
+Gymnasien,2015,102,Brandenburg
+Integrierte Gesamtschulen,1992,298,Brandenburg
+Integrierte Gesamtschulen,2007,123,Brandenburg
+Integrierte Gesamtschulen,2008,43,Brandenburg
+Integrierte Gesamtschulen,2009,41,Brandenburg
+Integrierte Gesamtschulen,2010,38,Brandenburg
+Integrierte Gesamtschulen,2011,33,Brandenburg
+Integrierte Gesamtschulen,2012,27,Brandenburg
+Integrierte Gesamtschulen,2013,29,Brandenburg
+Integrierte Gesamtschulen,2014,31,Brandenburg
+Integrierte Gesamtschulen,2015,35,Brandenburg
+Freie Waldorfschulen,1992,5,Brandenburg
+Freie Waldorfschulen,2007,4,Brandenburg
+Freie Waldorfschulen,2008,4,Brandenburg
+Freie Waldorfschulen,2009,4,Brandenburg
+Freie Waldorfschulen,2010,4,Brandenburg
+Freie Waldorfschulen,2011,4,Brandenburg
+Freie Waldorfschulen,2012,5,Brandenburg
+Freie Waldorfschulen,2013,5,Brandenburg
+Freie Waldorfschulen,2014,5,Brandenburg
+Freie Waldorfschulen,2015,5,Brandenburg
+Förderschulen,1992,131,Brandenburg
+Förderschulen,2007,123,Brandenburg
+Förderschulen,2008,122,Brandenburg
+Förderschulen,2009,122,Brandenburg
+Förderschulen,2010,121,Brandenburg
+Förderschulen,2011,116,Brandenburg
+Förderschulen,2012,117,Brandenburg
+Förderschulen,2013,119,Brandenburg
+Förderschulen,2014,113,Brandenburg
+Förderschulen,2015,109,Brandenburg
+Abendrealschulen,1992,0,Brandenburg
+Abendrealschulen,2007,16,Brandenburg
+Abendrealschulen,2008,16,Brandenburg
+Abendrealschulen,2009,16,Brandenburg
+Abendrealschulen,2010,17,Brandenburg
+Abendrealschulen,2011,17,Brandenburg
+Abendrealschulen,2012,17,Brandenburg
+Abendrealschulen,2013,17,Brandenburg
+Abendrealschulen,2014,17,Brandenburg
+Abendrealschulen,2015,17,Brandenburg
+Abendgymnasien,1992,34,Brandenburg
+Abendgymnasien,2007,12,Brandenburg
+Abendgymnasien,2008,13,Brandenburg
+Abendgymnasien,2009,13,Brandenburg
+Abendgymnasien,2010,12,Brandenburg
+Abendgymnasien,2011,12,Brandenburg
+Abendgymnasien,2012,12,Brandenburg
+Abendgymnasien,2013,12,Brandenburg
+Abendgymnasien,2014,12,Brandenburg
+Abendgymnasien,2015,12,Brandenburg
+Kollegs,1992,2,Brandenburg
+Kollegs,2007,2,Brandenburg
+Kollegs,2008,2,Brandenburg
+Kollegs,2009,3,Brandenburg
+Kollegs,2010,3,Brandenburg
+Kollegs,2011,3,Brandenburg
+Kollegs,2012,3,Brandenburg
+Kollegs,2013,3,Brandenburg
+Kollegs,2014,3,Brandenburg
+Kollegs,2015,3,Brandenburg
+Vorklassen,1992,7,Bremen
+Vorklassen,2007,0,Bremen
+Vorklassen,2008,0,Bremen
+Vorklassen,2009,0,Bremen
+Vorklassen,2010,0,Bremen
+Vorklassen,2011,0,Bremen
+Vorklassen,2012,0,Bremen
+Vorklassen,2013,0,Bremen
+Vorklassen,2014,0,Bremen
+Vorklassen,2015,0,Bremen
+Schulkindergärten,1992,71,Bremen
+Schulkindergärten,2007,2,Bremen
+Schulkindergärten,2008,2,Bremen
+Schulkindergärten,2009,2,Bremen
+Schulkindergärten,2010,1,Bremen
+Schulkindergärten,2011,1,Bremen
+Schulkindergärten,2012,1,Bremen
+Schulkindergärten,2013,2,Bremen
+Schulkindergärten,2014,1,Bremen
+Schulkindergärten,2015,1,Bremen
+Grundschulen,1992,94,Bremen
+Grundschulen,2007,101,Bremen
+Grundschulen,2008,101,Bremen
+Grundschulen,2009,101,Bremen
+Grundschulen,2010,101,Bremen
+Grundschulen,2011,100,Bremen
+Grundschulen,2012,100,Bremen
+Grundschulen,2013,99,Bremen
+Grundschulen,2014,117,Bremen
+Grundschulen,2015,98,Bremen
+Schulartunabhängige Orientierungsstufe,1992,51,Bremen
+Schulartunabhängige Orientierungsstufe,2007,0,Bremen
+Schulartunabhängige Orientierungsstufe,2008,0,Bremen
+Schulartunabhängige Orientierungsstufe,2009,0,Bremen
+Schulartunabhängige Orientierungsstufe,2010,0,Bremen
+Schulartunabhängige Orientierungsstufe,2011,0,Bremen
+Schulartunabhängige Orientierungsstufe,2012,0,Bremen
+Schulartunabhängige Orientierungsstufe,2013,0,Bremen
+Schulartunabhängige Orientierungsstufe,2014,0,Bremen
+Schulartunabhängige Orientierungsstufe,2015,0,Bremen
+Hauptschulen,1992,44,Bremen
+Hauptschulen,2007,35,Bremen
+Hauptschulen,2008,32,Bremen
+Hauptschulen,2009,1,Bremen
+Hauptschulen,2010,1,Bremen
+Hauptschulen,2011,1,Bremen
+Hauptschulen,2012,0,Bremen
+Hauptschulen,2013,0,Bremen
+Hauptschulen,2014,0,Bremen
+Hauptschulen,2015,0,Bremen
+Schularten mit mehreren Bildungsgängen,1992,0,Bremen
+Schularten mit mehreren Bildungsgängen,2007,35,Bremen
+Schularten mit mehreren Bildungsgängen,2008,31,Bremen
+Schularten mit mehreren Bildungsgängen,2009,43,Bremen
+Schularten mit mehreren Bildungsgängen,2010,39,Bremen
+Schularten mit mehreren Bildungsgängen,2011,26,Bremen
+Schularten mit mehreren Bildungsgängen,2012,26,Bremen
+Schularten mit mehreren Bildungsgängen,2013,27,Bremen
+Schularten mit mehreren Bildungsgängen,2014,20,Bremen
+Schularten mit mehreren Bildungsgängen,2015,12,Bremen
+Realschulen,1992,45,Bremen
+Realschulen,2007,35,Bremen
+Realschulen,2008,30,Bremen
+Realschulen,2009,0,Bremen
+Realschulen,2010,0,Bremen
+Realschulen,2011,0,Bremen
+Realschulen,2012,0,Bremen
+Realschulen,2013,0,Bremen
+Realschulen,2014,0,Bremen
+Realschulen,2015,0,Bremen
+Gymnasien,1992,67,Bremen
+Gymnasien,2007,48,Bremen
+Gymnasien,2008,50,Bremen
+Gymnasien,2009,65,Bremen
+Gymnasien,2010,65,Bremen
+Gymnasien,2011,67,Bremen
+Gymnasien,2012,49,Bremen
+Gymnasien,2013,46,Bremen
+Gymnasien,2014,49,Bremen
+Gymnasien,2015,34,Bremen
+Integrierte Gesamtschulen,1992,7,Bremen
+Integrierte Gesamtschulen,2007,19,Bremen
+Integrierte Gesamtschulen,2008,20,Bremen
+Integrierte Gesamtschulen,2009,31,Bremen
+Integrierte Gesamtschulen,2010,43,Bremen
+Integrierte Gesamtschulen,2011,86,Bremen
+Integrierte Gesamtschulen,2012,46,Bremen
+Integrierte Gesamtschulen,2013,35,Bremen
+Integrierte Gesamtschulen,2014,102,Bremen
+Integrierte Gesamtschulen,2015,52,Bremen
+Freie Waldorfschulen,1992,1,Bremen
+Freie Waldorfschulen,2007,3,Bremen
+Freie Waldorfschulen,2008,3,Bremen
+Freie Waldorfschulen,2009,3,Bremen
+Freie Waldorfschulen,2010,3,Bremen
+Freie Waldorfschulen,2011,3,Bremen
+Freie Waldorfschulen,2012,3,Bremen
+Freie Waldorfschulen,2013,3,Bremen
+Freie Waldorfschulen,2014,3,Bremen
+Freie Waldorfschulen,2015,3,Bremen
+Förderschulen,1992,31,Bremen
+Förderschulen,2007,26,Bremen
+Förderschulen,2008,25,Bremen
+Förderschulen,2009,25,Bremen
+Förderschulen,2010,23,Bremen
+Förderschulen,2011,19,Bremen
+Förderschulen,2012,16,Bremen
+Förderschulen,2013,20,Bremen
+Förderschulen,2014,17,Bremen
+Förderschulen,2015,11,Bremen
+Abendhauptschulen,1992,3,Bremen
+Abendhauptschulen,2007,2,Bremen
+Abendhauptschulen,2008,2,Bremen
+Abendhauptschulen,2009,2,Bremen
+Abendhauptschulen,2010,3,Bremen
+Abendhauptschulen,2011,3,Bremen
+Abendhauptschulen,2012,2,Bremen
+Abendhauptschulen,2013,2,Bremen
+Abendhauptschulen,2014,3,Bremen
+Abendhauptschulen,2015,3,Bremen
+Abendrealschulen,1992,3,Bremen
+Abendrealschulen,2007,2,Bremen
+Abendrealschulen,2008,2,Bremen
+Abendrealschulen,2009,2,Bremen
+Abendrealschulen,2010,3,Bremen
+Abendrealschulen,2011,3,Bremen
+Abendrealschulen,2012,2,Bremen
+Abendrealschulen,2013,2,Bremen
+Abendrealschulen,2014,3,Bremen
+Abendrealschulen,2015,3,Bremen
+Abendgymnasien,1992,3,Bremen
+Abendgymnasien,2007,2,Bremen
+Abendgymnasien,2008,2,Bremen
+Abendgymnasien,2009,2,Bremen
+Abendgymnasien,2010,3,Bremen
+Abendgymnasien,2011,3,Bremen
+Abendgymnasien,2012,2,Bremen
+Abendgymnasien,2013,2,Bremen
+Abendgymnasien,2014,3,Bremen
+Abendgymnasien,2015,3,Bremen
+Vorklassen,1992,186,Hamburg
+Vorklassen,2007,210,Hamburg
+Vorklassen,2008,211,Hamburg
+Vorklassen,2009,214,Hamburg
+Vorklassen,2010,220,Hamburg
+Vorklassen,2011,219,Hamburg
+Vorklassen,2012,221,Hamburg
+Vorklassen,2013,224,Hamburg
+Vorklassen,2014,225,Hamburg
+Vorklassen,2015,223,Hamburg
+Schulkindergärten,1992,12,Hamburg
+Schulkindergärten,2007,7,Hamburg
+Schulkindergärten,2008,7,Hamburg
+Schulkindergärten,2009,6,Hamburg
+Schulkindergärten,2010,0,Hamburg
+Schulkindergärten,2011,0,Hamburg
+Schulkindergärten,2012,0,Hamburg
+Schulkindergärten,2013,0,Hamburg
+Schulkindergärten,2014,0,Hamburg
+Schulkindergärten,2015,0,Hamburg
+Grundschulen,1992,253,Hamburg
+Grundschulen,2007,246,Hamburg
+Grundschulen,2008,220,Hamburg
+Grundschulen,2009,246,Hamburg
+Grundschulen,2010,218,Hamburg
+Grundschulen,2011,217,Hamburg
+Grundschulen,2012,221,Hamburg
+Grundschulen,2013,220,Hamburg
+Grundschulen,2014,221,Hamburg
+Grundschulen,2015,220,Hamburg
+Schulartunabhängige Orientierungsstufe,1992,5,Hamburg
+Schulartunabhängige Orientierungsstufe,2007,5,Hamburg
+Schulartunabhängige Orientierungsstufe,2008,5,Hamburg
+Schulartunabhängige Orientierungsstufe,2009,4,Hamburg
+Schulartunabhängige Orientierungsstufe,2010,27,Hamburg
+Schulartunabhängige Orientierungsstufe,2011,22,Hamburg
+Schulartunabhängige Orientierungsstufe,2012,5,Hamburg
+Schulartunabhängige Orientierungsstufe,2013,5,Hamburg
+Schulartunabhängige Orientierungsstufe,2014,5,Hamburg
+Schulartunabhängige Orientierungsstufe,2015,5,Hamburg
+Hauptschulen,1992,234,Hamburg
+Hauptschulen,2007,120,Hamburg
+Hauptschulen,2008,69,Hamburg
+Hauptschulen,2009,68,Hamburg
+Hauptschulen,2010,46,Hamburg
+Hauptschulen,2011,0,Hamburg
+Hauptschulen,2012,0,Hamburg
+Hauptschulen,2013,0,Hamburg
+Hauptschulen,2014,0,Hamburg
+Hauptschulen,2015,0,Hamburg
+Schularten mit mehreren Bildungsgängen,1992,0,Hamburg
+Schularten mit mehreren Bildungsgängen,2007,13,Hamburg
+Schularten mit mehreren Bildungsgängen,2008,68,Hamburg
+Schularten mit mehreren Bildungsgängen,2009,67,Hamburg
+Schularten mit mehreren Bildungsgängen,2010,53,Hamburg
+Schularten mit mehreren Bildungsgängen,2011,49,Hamburg
+Schularten mit mehreren Bildungsgängen,2012,43,Hamburg
+Schularten mit mehreren Bildungsgängen,2013,0,Hamburg
+Schularten mit mehreren Bildungsgängen,2014,0,Hamburg
+Schularten mit mehreren Bildungsgängen,2015,0,Hamburg
+Realschulen,1992,102,Hamburg
+Realschulen,2007,57,Hamburg
+Realschulen,2008,55,Hamburg
+Realschulen,2009,53,Hamburg
+Realschulen,2010,47,Hamburg
+Realschulen,2011,0,Hamburg
+Realschulen,2012,0,Hamburg
+Realschulen,2013,0,Hamburg
+Realschulen,2014,0,Hamburg
+Realschulen,2015,0,Hamburg
+Gymnasien,1992,79,Hamburg
+Gymnasien,2007,78,Hamburg
+Gymnasien,2008,71,Hamburg
+Gymnasien,2009,71,Hamburg
+Gymnasien,2010,68,Hamburg
+Gymnasien,2011,70,Hamburg
+Gymnasien,2012,78,Hamburg
+Gymnasien,2013,78,Hamburg
+Gymnasien,2014,73,Hamburg
+Gymnasien,2015,73,Hamburg
+Integrierte Gesamtschulen,1992,54,Hamburg
+Integrierte Gesamtschulen,2007,38,Hamburg
+Integrierte Gesamtschulen,2008,38,Hamburg
+Integrierte Gesamtschulen,2009,45,Hamburg
+Integrierte Gesamtschulen,2010,77,Hamburg
+Integrierte Gesamtschulen,2011,74,Hamburg
+Integrierte Gesamtschulen,2012,89,Hamburg
+Integrierte Gesamtschulen,2013,82,Hamburg
+Integrierte Gesamtschulen,2014,80,Hamburg
+Integrierte Gesamtschulen,2015,97,Hamburg
+Freie Waldorfschulen,1992,6,Hamburg
+Freie Waldorfschulen,2007,6,Hamburg
+Freie Waldorfschulen,2008,6,Hamburg
+Freie Waldorfschulen,2009,6,Hamburg
+Freie Waldorfschulen,2010,6,Hamburg
+Freie Waldorfschulen,2011,6,Hamburg
+Freie Waldorfschulen,2012,6,Hamburg
+Freie Waldorfschulen,2013,6,Hamburg
+Freie Waldorfschulen,2014,6,Hamburg
+Freie Waldorfschulen,2015,8,Hamburg
+Förderschulen,1992,53,Hamburg
+Förderschulen,2007,44,Hamburg
+Förderschulen,2008,45,Hamburg
+Förderschulen,2009,45,Hamburg
+Förderschulen,2010,45,Hamburg
+Förderschulen,2011,43,Hamburg
+Förderschulen,2012,42,Hamburg
+Förderschulen,2013,31,Hamburg
+Förderschulen,2014,31,Hamburg
+Förderschulen,2015,31,Hamburg
+Abendhauptschulen,1992,2,Hamburg
+Abendhauptschulen,2007,2,Hamburg
+Abendhauptschulen,2008,2,Hamburg
+Abendhauptschulen,2009,2,Hamburg
+Abendhauptschulen,2010,2,Hamburg
+Abendhauptschulen,2011,2,Hamburg
+Abendhauptschulen,2012,2,Hamburg
+Abendhauptschulen,2013,2,Hamburg
+Abendhauptschulen,2014,1,Hamburg
+Abendhauptschulen,2015,2,Hamburg
+Abendrealschulen,1992,2,Hamburg
+Abendrealschulen,2007,2,Hamburg
+Abendrealschulen,2008,2,Hamburg
+Abendrealschulen,2009,2,Hamburg
+Abendrealschulen,2010,2,Hamburg
+Abendrealschulen,2011,2,Hamburg
+Abendrealschulen,2012,2,Hamburg
+Abendrealschulen,2013,2,Hamburg
+Abendrealschulen,2014,1,Hamburg
+Abendrealschulen,2015,2,Hamburg
+Abendgymnasien,1992,2,Hamburg
+Abendgymnasien,2007,3,Hamburg
+Abendgymnasien,2008,3,Hamburg
+Abendgymnasien,2009,3,Hamburg
+Abendgymnasien,2010,3,Hamburg
+Abendgymnasien,2011,3,Hamburg
+Abendgymnasien,2012,3,Hamburg
+Abendgymnasien,2013,3,Hamburg
+Abendgymnasien,2014,2,Hamburg
+Abendgymnasien,2015,3,Hamburg
+Kollegs,1992,1,Hamburg
+Kollegs,2007,1,Hamburg
+Kollegs,2008,1,Hamburg
+Kollegs,2009,1,Hamburg
+Kollegs,2010,1,Hamburg
+Kollegs,2011,1,Hamburg
+Kollegs,2012,1,Hamburg
+Kollegs,2013,1,Hamburg
+Kollegs,2014,1,Hamburg
+Kollegs,2015,1,Hamburg
+Vorklassen,1992,51,Hessen
+Vorklassen,2007,54,Hessen
+Vorklassen,2008,56,Hessen
+Vorklassen,2009,59,Hessen
+Vorklassen,2010,60,Hessen
+Vorklassen,2011,58,Hessen
+Vorklassen,2012,61,Hessen
+Vorklassen,2013,59,Hessen
+Vorklassen,2014,60,Hessen
+Vorklassen,2015,62,Hessen
+Schulkindergärten,1992,358,Hessen
+Schulkindergärten,2007,305,Hessen
+Schulkindergärten,2008,357,Hessen
+Schulkindergärten,2009,346,Hessen
+Schulkindergärten,2010,322,Hessen
+Schulkindergärten,2011,295,Hessen
+Schulkindergärten,2012,286,Hessen
+Schulkindergärten,2013,278,Hessen
+Schulkindergärten,2014,269,Hessen
+Schulkindergärten,2015,264,Hessen
+Grundschulen,1992,1162,Hessen
+Grundschulen,2007,1189,Hessen
+Grundschulen,2008,1193,Hessen
+Grundschulen,2009,1191,Hessen
+Grundschulen,2010,1189,Hessen
+Grundschulen,2011,1175,Hessen
+Grundschulen,2012,1175,Hessen
+Grundschulen,2013,1166,Hessen
+Grundschulen,2014,1168,Hessen
+Grundschulen,2015,1157,Hessen
+Schulartunabhängige Orientierungsstufe,1992,250,Hessen
+Schulartunabhängige Orientierungsstufe,2007,157,Hessen
+Schulartunabhängige Orientierungsstufe,2008,156,Hessen
+Schulartunabhängige Orientierungsstufe,2009,148,Hessen
+Schulartunabhängige Orientierungsstufe,2010,149,Hessen
+Schulartunabhängige Orientierungsstufe,2011,143,Hessen
+Schulartunabhängige Orientierungsstufe,2012,131,Hessen
+Schulartunabhängige Orientierungsstufe,2013,133,Hessen
+Schulartunabhängige Orientierungsstufe,2014,130,Hessen
+Schulartunabhängige Orientierungsstufe,2015,130,Hessen
+Hauptschulen,1992,342,Hessen
+Hauptschulen,2007,300,Hessen
+Hauptschulen,2008,282,Hessen
+Hauptschulen,2009,272,Hessen
+Hauptschulen,2010,262,Hessen
+Hauptschulen,2011,258,Hessen
+Hauptschulen,2012,253,Hessen
+Hauptschulen,2013,247,Hessen
+Hauptschulen,2014,239,Hessen
+Hauptschulen,2015,222,Hessen
+Schularten mit mehreren Bildungsgängen,1992,0,Hessen
+Schularten mit mehreren Bildungsgängen,2007,0,Hessen
+Schularten mit mehreren Bildungsgängen,2008,0,Hessen
+Schularten mit mehreren Bildungsgängen,2009,0,Hessen
+Schularten mit mehreren Bildungsgängen,2010,0,Hessen
+Schularten mit mehreren Bildungsgängen,2011,18,Hessen
+Schularten mit mehreren Bildungsgängen,2012,20,Hessen
+Schularten mit mehreren Bildungsgängen,2013,22,Hessen
+Schularten mit mehreren Bildungsgängen,2014,19,Hessen
+Schularten mit mehreren Bildungsgängen,2015,19,Hessen
+Realschulen,1992,278,Hessen
+Realschulen,2007,296,Hessen
+Realschulen,2008,284,Hessen
+Realschulen,2009,278,Hessen
+Realschulen,2010,277,Hessen
+Realschulen,2011,276,Hessen
+Realschulen,2012,277,Hessen
+Realschulen,2013,277,Hessen
+Realschulen,2014,266,Hessen
+Realschulen,2015,261,Hessen
+Gymnasien,1992,273,Hessen
+Gymnasien,2007,294,Hessen
+Gymnasien,2008,285,Hessen
+Gymnasien,2009,284,Hessen
+Gymnasien,2010,286,Hessen
+Gymnasien,2011,286,Hessen
+Gymnasien,2012,286,Hessen
+Gymnasien,2013,286,Hessen
+Gymnasien,2014,287,Hessen
+Gymnasien,2015,287,Hessen
+Integrierte Gesamtschulen,1992,80,Hessen
+Integrierte Gesamtschulen,2007,91,Hessen
+Integrierte Gesamtschulen,2008,95,Hessen
+Integrierte Gesamtschulen,2009,98,Hessen
+Integrierte Gesamtschulen,2010,102,Hessen
+Integrierte Gesamtschulen,2011,107,Hessen
+Integrierte Gesamtschulen,2012,109,Hessen
+Integrierte Gesamtschulen,2013,113,Hessen
+Integrierte Gesamtschulen,2014,115,Hessen
+Integrierte Gesamtschulen,2015,117,Hessen
+Freie Waldorfschulen,1992,6,Hessen
+Freie Waldorfschulen,2007,10,Hessen
+Freie Waldorfschulen,2008,10,Hessen
+Freie Waldorfschulen,2009,10,Hessen
+Freie Waldorfschulen,2010,10,Hessen
+Freie Waldorfschulen,2011,10,Hessen
+Freie Waldorfschulen,2012,10,Hessen
+Freie Waldorfschulen,2013,10,Hessen
+Freie Waldorfschulen,2014,10,Hessen
+Freie Waldorfschulen,2015,10,Hessen
+Förderschulen,1992,236,Hessen
+Förderschulen,2007,246,Hessen
+Förderschulen,2008,248,Hessen
+Förderschulen,2009,252,Hessen
+Förderschulen,2010,245,Hessen
+Förderschulen,2011,246,Hessen
+Förderschulen,2012,246,Hessen
+Förderschulen,2013,246,Hessen
+Förderschulen,2014,247,Hessen
+Förderschulen,2015,246,Hessen
+Abendhauptschulen,1992,2,Hessen
+Abendhauptschulen,2007,7,Hessen
+Abendhauptschulen,2008,6,Hessen
+Abendhauptschulen,2009,9,Hessen
+Abendhauptschulen,2010,8,Hessen
+Abendhauptschulen,2011,8,Hessen
+Abendhauptschulen,2012,8,Hessen
+Abendhauptschulen,2013,8,Hessen
+Abendhauptschulen,2014,9,Hessen
+Abendhauptschulen,2015,9,Hessen
+Abendrealschulen,1992,7,Hessen
+Abendrealschulen,2007,9,Hessen
+Abendrealschulen,2008,10,Hessen
+Abendrealschulen,2009,12,Hessen
+Abendrealschulen,2010,12,Hessen
+Abendrealschulen,2011,12,Hessen
+Abendrealschulen,2012,12,Hessen
+Abendrealschulen,2013,12,Hessen
+Abendrealschulen,2014,15,Hessen
+Abendrealschulen,2015,15,Hessen
+Abendgymnasien,1992,10,Hessen
+Abendgymnasien,2007,10,Hessen
+Abendgymnasien,2008,10,Hessen
+Abendgymnasien,2009,11,Hessen
+Abendgymnasien,2010,11,Hessen
+Abendgymnasien,2011,11,Hessen
+Abendgymnasien,2012,11,Hessen
+Abendgymnasien,2013,11,Hessen
+Abendgymnasien,2014,11,Hessen
+Abendgymnasien,2015,11,Hessen
+Kollegs,1992,7,Hessen
+Kollegs,2007,4,Hessen
+Kollegs,2008,4,Hessen
+Kollegs,2009,4,Hessen
+Kollegs,2010,4,Hessen
+Kollegs,2011,4,Hessen
+Kollegs,2012,4,Hessen
+Kollegs,2013,4,Hessen
+Kollegs,2014,4,Hessen
+Kollegs,2015,4,Hessen
+Keine Zuordung zu einer Schulart möglich,1992,0,Hessen
+Keine Zuordung zu einer Schulart möglich,2007,0,Hessen
+Keine Zuordung zu einer Schulart möglich,2008,0,Hessen
+Keine Zuordung zu einer Schulart möglich,2009,0,Hessen
+Keine Zuordung zu einer Schulart möglich,2010,0,Hessen
+Keine Zuordung zu einer Schulart möglich,2011,0,Hessen
+Keine Zuordung zu einer Schulart möglich,2012,0,Hessen
+Keine Zuordung zu einer Schulart möglich,2013,0,Hessen
+Keine Zuordung zu einer Schulart möglich,2014,0,Hessen
+Keine Zuordung zu einer Schulart möglich,2015,271,Hessen
+Vorklassen,1992,42,Mecklenburg-Vorpommern
+Vorklassen,2007,0,Mecklenburg-Vorpommern
+Vorklassen,2008,0,Mecklenburg-Vorpommern
+Vorklassen,2009,0,Mecklenburg-Vorpommern
+Vorklassen,2010,0,Mecklenburg-Vorpommern
+Vorklassen,2011,0,Mecklenburg-Vorpommern
+Vorklassen,2012,0,Mecklenburg-Vorpommern
+Vorklassen,2013,0,Mecklenburg-Vorpommern
+Vorklassen,2014,0,Mecklenburg-Vorpommern
+Vorklassen,2015,0,Mecklenburg-Vorpommern
+Schulkindergärten,1992,6,Mecklenburg-Vorpommern
+Schulkindergärten,2007,11,Mecklenburg-Vorpommern
+Schulkindergärten,2008,9,Mecklenburg-Vorpommern
+Schulkindergärten,2009,0,Mecklenburg-Vorpommern
+Schulkindergärten,2010,0,Mecklenburg-Vorpommern
+Schulkindergärten,2011,0,Mecklenburg-Vorpommern
+Schulkindergärten,2012,0,Mecklenburg-Vorpommern
+Schulkindergärten,2013,0,Mecklenburg-Vorpommern
+Schulkindergärten,2014,0,Mecklenburg-Vorpommern
+Schulkindergärten,2015,0,Mecklenburg-Vorpommern
+Grundschulen,1992,575,Mecklenburg-Vorpommern
+Grundschulen,2007,333,Mecklenburg-Vorpommern
+Grundschulen,2008,328,Mecklenburg-Vorpommern
+Grundschulen,2009,328,Mecklenburg-Vorpommern
+Grundschulen,2010,323,Mecklenburg-Vorpommern
+Grundschulen,2011,323,Mecklenburg-Vorpommern
+Grundschulen,2012,322,Mecklenburg-Vorpommern
+Grundschulen,2013,323,Mecklenburg-Vorpommern
+Grundschulen,2014,324,Mecklenburg-Vorpommern
+Grundschulen,2015,322,Mecklenburg-Vorpommern
+Schulartunabhängige Orientierungsstufe,1992,260,Mecklenburg-Vorpommern
+Schulartunabhängige Orientierungsstufe,2007,0,Mecklenburg-Vorpommern
+Schulartunabhängige Orientierungsstufe,2008,0,Mecklenburg-Vorpommern
+Schulartunabhängige Orientierungsstufe,2009,0,Mecklenburg-Vorpommern
+Schulartunabhängige Orientierungsstufe,2010,0,Mecklenburg-Vorpommern
+Schulartunabhängige Orientierungsstufe,2011,0,Mecklenburg-Vorpommern
+Schulartunabhängige Orientierungsstufe,2012,0,Mecklenburg-Vorpommern
+Schulartunabhängige Orientierungsstufe,2013,0,Mecklenburg-Vorpommern
+Schulartunabhängige Orientierungsstufe,2014,0,Mecklenburg-Vorpommern
+Schulartunabhängige Orientierungsstufe,2015,0,Mecklenburg-Vorpommern
+Hauptschulen,1992,308,Mecklenburg-Vorpommern
+Hauptschulen,2007,0,Mecklenburg-Vorpommern
+Hauptschulen,2008,0,Mecklenburg-Vorpommern
+Hauptschulen,2009,0,Mecklenburg-Vorpommern
+Hauptschulen,2010,0,Mecklenburg-Vorpommern
+Hauptschulen,2011,0,Mecklenburg-Vorpommern
+Hauptschulen,2012,0,Mecklenburg-Vorpommern
+Hauptschulen,2013,0,Mecklenburg-Vorpommern
+Hauptschulen,2014,0,Mecklenburg-Vorpommern
+Hauptschulen,2015,0,Mecklenburg-Vorpommern
+Schularten mit mehreren Bildungsgängen,1992,98,Mecklenburg-Vorpommern
+Schularten mit mehreren Bildungsgängen,2007,186,Mecklenburg-Vorpommern
+Schularten mit mehreren Bildungsgängen,2008,180,Mecklenburg-Vorpommern
+Schularten mit mehreren Bildungsgängen,2009,184,Mecklenburg-Vorpommern
+Schularten mit mehreren Bildungsgängen,2010,186,Mecklenburg-Vorpommern
+Schularten mit mehreren Bildungsgängen,2011,189,Mecklenburg-Vorpommern
+Schularten mit mehreren Bildungsgängen,2012,189,Mecklenburg-Vorpommern
+Schularten mit mehreren Bildungsgängen,2013,189,Mecklenburg-Vorpommern
+Schularten mit mehreren Bildungsgängen,2014,192,Mecklenburg-Vorpommern
+Schularten mit mehreren Bildungsgängen,2015,192,Mecklenburg-Vorpommern
+Realschulen,1992,392,Mecklenburg-Vorpommern
+Realschulen,2007,11,Mecklenburg-Vorpommern
+Realschulen,2008,9,Mecklenburg-Vorpommern
+Realschulen,2009,8,Mecklenburg-Vorpommern
+Realschulen,2010,5,Mecklenburg-Vorpommern
+Realschulen,2011,0,Mecklenburg-Vorpommern
+Realschulen,2012,0,Mecklenburg-Vorpommern
+Realschulen,2013,0,Mecklenburg-Vorpommern
+Realschulen,2014,0,Mecklenburg-Vorpommern
+Realschulen,2015,0,Mecklenburg-Vorpommern
+Gymnasien,1992,94,Mecklenburg-Vorpommern
+Gymnasien,2007,75,Mecklenburg-Vorpommern
+Gymnasien,2008,72,Mecklenburg-Vorpommern
+Gymnasien,2009,71,Mecklenburg-Vorpommern
+Gymnasien,2010,72,Mecklenburg-Vorpommern
+Gymnasien,2011,73,Mecklenburg-Vorpommern
+Gymnasien,2012,73,Mecklenburg-Vorpommern
+Gymnasien,2013,72,Mecklenburg-Vorpommern
+Gymnasien,2014,73,Mecklenburg-Vorpommern
+Gymnasien,2015,74,Mecklenburg-Vorpommern
+Integrierte Gesamtschulen,1992,14,Mecklenburg-Vorpommern
+Integrierte Gesamtschulen,2007,19,Mecklenburg-Vorpommern
+Integrierte Gesamtschulen,2008,20,Mecklenburg-Vorpommern
+Integrierte Gesamtschulen,2009,20,Mecklenburg-Vorpommern
+Integrierte Gesamtschulen,2010,21,Mecklenburg-Vorpommern
+Integrierte Gesamtschulen,2011,20,Mecklenburg-Vorpommern
+Integrierte Gesamtschulen,2012,21,Mecklenburg-Vorpommern
+Integrierte Gesamtschulen,2013,22,Mecklenburg-Vorpommern
+Integrierte Gesamtschulen,2014,21,Mecklenburg-Vorpommern
+Integrierte Gesamtschulen,2015,21,Mecklenburg-Vorpommern
+Freie Waldorfschulen,1992,0,Mecklenburg-Vorpommern
+Freie Waldorfschulen,2007,3,Mecklenburg-Vorpommern
+Freie Waldorfschulen,2008,3,Mecklenburg-Vorpommern
+Freie Waldorfschulen,2009,3,Mecklenburg-Vorpommern
+Freie Waldorfschulen,2010,3,Mecklenburg-Vorpommern
+Freie Waldorfschulen,2011,3,Mecklenburg-Vorpommern
+Freie Waldorfschulen,2012,3,Mecklenburg-Vorpommern
+Freie Waldorfschulen,2013,3,Mecklenburg-Vorpommern
+Freie Waldorfschulen,2014,3,Mecklenburg-Vorpommern
+Freie Waldorfschulen,2015,4,Mecklenburg-Vorpommern
+Förderschulen,1992,101,Mecklenburg-Vorpommern
+Förderschulen,2007,103,Mecklenburg-Vorpommern
+Förderschulen,2008,103,Mecklenburg-Vorpommern
+Förderschulen,2009,102,Mecklenburg-Vorpommern
+Förderschulen,2010,102,Mecklenburg-Vorpommern
+Förderschulen,2011,99,Mecklenburg-Vorpommern
+Förderschulen,2012,96,Mecklenburg-Vorpommern
+Förderschulen,2013,95,Mecklenburg-Vorpommern
+Förderschulen,2014,94,Mecklenburg-Vorpommern
+Förderschulen,2015,93,Mecklenburg-Vorpommern
+Abendgymnasien,1992,4,Mecklenburg-Vorpommern
+Abendgymnasien,2007,4,Mecklenburg-Vorpommern
+Abendgymnasien,2008,4,Mecklenburg-Vorpommern
+Abendgymnasien,2009,4,Mecklenburg-Vorpommern
+Abendgymnasien,2010,4,Mecklenburg-Vorpommern
+Abendgymnasien,2011,4,Mecklenburg-Vorpommern
+Abendgymnasien,2012,4,Mecklenburg-Vorpommern
+Abendgymnasien,2013,4,Mecklenburg-Vorpommern
+Abendgymnasien,2014,4,Mecklenburg-Vorpommern
+Abendgymnasien,2015,4,Mecklenburg-Vorpommern
+Vorklassen,1992,329,Niedersachsen
+Vorklassen,2007,0,Niedersachsen
+Vorklassen,2008,0,Niedersachsen
+Vorklassen,2009,0,Niedersachsen
+Vorklassen,2010,0,Niedersachsen
+Vorklassen,2011,0,Niedersachsen
+Vorklassen,2012,0,Niedersachsen
+Vorklassen,2013,0,Niedersachsen
+Vorklassen,2014,0,Niedersachsen
+Vorklassen,2015,0,Niedersachsen
+Schulkindergärten,1992,376,Niedersachsen
+Schulkindergärten,2007,385,Niedersachsen
+Schulkindergärten,2008,349,Niedersachsen
+Schulkindergärten,2009,329,Niedersachsen
+Schulkindergärten,2010,324,Niedersachsen
+Schulkindergärten,2011,305,Niedersachsen
+Schulkindergärten,2012,289,Niedersachsen
+Schulkindergärten,2013,267,Niedersachsen
+Schulkindergärten,2014,246,Niedersachsen
+Schulkindergärten,2015,240,Niedersachsen
+Grundschulen,1992,1851,Niedersachsen
+Grundschulen,2007,1845,Niedersachsen
+Grundschulen,2008,1833,Niedersachsen
+Grundschulen,2009,1826,Niedersachsen
+Grundschulen,2010,1810,Niedersachsen
+Grundschulen,2011,1796,Niedersachsen
+Grundschulen,2012,1781,Niedersachsen
+Grundschulen,2013,1758,Niedersachsen
+Grundschulen,2014,1739,Niedersachsen
+Grundschulen,2015,1728,Niedersachsen
+Schulartunabhängige Orientierungsstufe,1992,560,Niedersachsen
+Schulartunabhängige Orientierungsstufe,2007,0,Niedersachsen
+Schulartunabhängige Orientierungsstufe,2008,0,Niedersachsen
+Schulartunabhängige Orientierungsstufe,2009,0,Niedersachsen
+Schulartunabhängige Orientierungsstufe,2010,0,Niedersachsen
+Schulartunabhängige Orientierungsstufe,2011,0,Niedersachsen
+Schulartunabhängige Orientierungsstufe,2012,0,Niedersachsen
+Schulartunabhängige Orientierungsstufe,2013,0,Niedersachsen
+Schulartunabhängige Orientierungsstufe,2014,0,Niedersachsen
+Schulartunabhängige Orientierungsstufe,2015,0,Niedersachsen
+Hauptschulen,1992,565,Niedersachsen
+Hauptschulen,2007,517,Niedersachsen
+Hauptschulen,2008,513,Niedersachsen
+Hauptschulen,2009,505,Niedersachsen
+Hauptschulen,2010,500,Niedersachsen
+Hauptschulen,2011,498,Niedersachsen
+Hauptschulen,2012,488,Niedersachsen
+Hauptschulen,2013,481,Niedersachsen
+Hauptschulen,2014,462,Niedersachsen
+Hauptschulen,2015,421,Niedersachsen
+Schularten mit mehreren Bildungsgängen,1992,0,Niedersachsen
+Schularten mit mehreren Bildungsgängen,2007,0,Niedersachsen
+Schularten mit mehreren Bildungsgängen,2008,0,Niedersachsen
+Schularten mit mehreren Bildungsgängen,2009,0,Niedersachsen
+Schularten mit mehreren Bildungsgängen,2010,0,Niedersachsen
+Schularten mit mehreren Bildungsgängen,2011,133,Niedersachsen
+Schularten mit mehreren Bildungsgängen,2012,216,Niedersachsen
+Schularten mit mehreren Bildungsgängen,2013,248,Niedersachsen
+Schularten mit mehreren Bildungsgängen,2014,276,Niedersachsen
+Schularten mit mehreren Bildungsgängen,2015,348,Niedersachsen
+Realschulen,1992,416,Niedersachsen
+Realschulen,2007,498,Niedersachsen
+Realschulen,2008,499,Niedersachsen
+Realschulen,2009,500,Niedersachsen
+Realschulen,2010,503,Niedersachsen
+Realschulen,2011,503,Niedersachsen
+Realschulen,2012,498,Niedersachsen
+Realschulen,2013,495,Niedersachsen
+Realschulen,2014,481,Niedersachsen
+Realschulen,2015,459,Niedersachsen
+Gymnasien,1992,258,Niedersachsen
+Gymnasien,2007,289,Niedersachsen
+Gymnasien,2008,292,Niedersachsen
+Gymnasien,2009,291,Niedersachsen
+Gymnasien,2010,294,Niedersachsen
+Gymnasien,2011,295,Niedersachsen
+Gymnasien,2012,294,Niedersachsen
+Gymnasien,2013,294,Niedersachsen
+Gymnasien,2014,294,Niedersachsen
+Gymnasien,2015,294,Niedersachsen
+Integrierte Gesamtschulen,1992,17,Niedersachsen
+Integrierte Gesamtschulen,2007,32,Niedersachsen
+Integrierte Gesamtschulen,2008,32,Niedersachsen
+Integrierte Gesamtschulen,2009,46,Niedersachsen
+Integrierte Gesamtschulen,2010,64,Niedersachsen
+Integrierte Gesamtschulen,2011,70,Niedersachsen
+Integrierte Gesamtschulen,2012,76,Niedersachsen
+Integrierte Gesamtschulen,2013,81,Niedersachsen
+Integrierte Gesamtschulen,2014,91,Niedersachsen
+Integrierte Gesamtschulen,2015,98,Niedersachsen
+Freie Waldorfschulen,1992,13,Niedersachsen
+Freie Waldorfschulen,2007,20,Niedersachsen
+Freie Waldorfschulen,2008,20,Niedersachsen
+Freie Waldorfschulen,2009,20,Niedersachsen
+Freie Waldorfschulen,2010,20,Niedersachsen
+Freie Waldorfschulen,2011,20,Niedersachsen
+Freie Waldorfschulen,2012,20,Niedersachsen
+Freie Waldorfschulen,2013,20,Niedersachsen
+Freie Waldorfschulen,2014,20,Niedersachsen
+Freie Waldorfschulen,2015,20,Niedersachsen
+Förderschulen,1992,297,Niedersachsen
+Förderschulen,2007,338,Niedersachsen
+Förderschulen,2008,338,Niedersachsen
+Förderschulen,2009,338,Niedersachsen
+Förderschulen,2010,340,Niedersachsen
+Förderschulen,2011,336,Niedersachsen
+Förderschulen,2012,334,Niedersachsen
+Förderschulen,2013,323,Niedersachsen
+Förderschulen,2014,311,Niedersachsen
+Förderschulen,2015,299,Niedersachsen
+Abendgymnasien,1992,5,Niedersachsen
+Abendgymnasien,2007,5,Niedersachsen
+Abendgymnasien,2008,5,Niedersachsen
+Abendgymnasien,2009,5,Niedersachsen
+Abendgymnasien,2010,5,Niedersachsen
+Abendgymnasien,2011,5,Niedersachsen
+Abendgymnasien,2012,5,Niedersachsen
+Abendgymnasien,2013,5,Niedersachsen
+Abendgymnasien,2014,5,Niedersachsen
+Abendgymnasien,2015,5,Niedersachsen
+Kollegs,1992,4,Niedersachsen
+Kollegs,2007,4,Niedersachsen
+Kollegs,2008,4,Niedersachsen
+Kollegs,2009,4,Niedersachsen
+Kollegs,2010,4,Niedersachsen
+Kollegs,2011,4,Niedersachsen
+Kollegs,2012,4,Niedersachsen
+Kollegs,2013,4,Niedersachsen
+Kollegs,2014,4,Niedersachsen
+Kollegs,2015,4,Niedersachsen
+Schulkindergärten,1992,846,Nordrhein-Westfalen
+Schulkindergärten,2007,27,Nordrhein-Westfalen
+Schulkindergärten,2008,27,Nordrhein-Westfalen
+Schulkindergärten,2009,27,Nordrhein-Westfalen
+Schulkindergärten,2010,27,Nordrhein-Westfalen
+Schulkindergärten,2011,27,Nordrhein-Westfalen
+Schulkindergärten,2012,27,Nordrhein-Westfalen
+Schulkindergärten,2013,27,Nordrhein-Westfalen
+Schulkindergärten,2014,25,Nordrhein-Westfalen
+Schulkindergärten,2015,25,Nordrhein-Westfalen
+Grundschulen,1992,3398,Nordrhein-Westfalen
+Grundschulen,2007,3370,Nordrhein-Westfalen
+Grundschulen,2008,3268,Nordrhein-Westfalen
+Grundschulen,2009,3224,Nordrhein-Westfalen
+Grundschulen,2010,3174,Nordrhein-Westfalen
+Grundschulen,2011,3087,Nordrhein-Westfalen
+Grundschulen,2012,3029,Nordrhein-Westfalen
+Grundschulen,2013,2945,Nordrhein-Westfalen
+Grundschulen,2014,2883,Nordrhein-Westfalen
+Grundschulen,2015,2846,Nordrhein-Westfalen
+Hauptschulen,1992,875,Nordrhein-Westfalen
+Hauptschulen,2007,720,Nordrhein-Westfalen
+Hauptschulen,2008,705,Nordrhein-Westfalen
+Hauptschulen,2009,672,Nordrhein-Westfalen
+Hauptschulen,2010,641,Nordrhein-Westfalen
+Hauptschulen,2011,609,Nordrhein-Westfalen
+Hauptschulen,2012,576,Nordrhein-Westfalen
+Hauptschulen,2013,536,Nordrhein-Westfalen
+Hauptschulen,2014,494,Nordrhein-Westfalen
+Hauptschulen,2015,457,Nordrhein-Westfalen
+Schularten mit mehreren Bildungsgängen,1992,0,Nordrhein-Westfalen
+Schularten mit mehreren Bildungsgängen,2007,0,Nordrhein-Westfalen
+Schularten mit mehreren Bildungsgängen,2008,0,Nordrhein-Westfalen
+Schularten mit mehreren Bildungsgängen,2009,0,Nordrhein-Westfalen
+Schularten mit mehreren Bildungsgängen,2010,0,Nordrhein-Westfalen
+Schularten mit mehreren Bildungsgängen,2011,12,Nordrhein-Westfalen
+Schularten mit mehreren Bildungsgängen,2012,54,Nordrhein-Westfalen
+Schularten mit mehreren Bildungsgängen,2013,96,Nordrhein-Westfalen
+Schularten mit mehreren Bildungsgängen,2014,119,Nordrhein-Westfalen
+Schularten mit mehreren Bildungsgängen,2015,124,Nordrhein-Westfalen
+Realschulen,1992,517,Nordrhein-Westfalen
+Realschulen,2007,557,Nordrhein-Westfalen
+Realschulen,2008,557,Nordrhein-Westfalen
+Realschulen,2009,559,Nordrhein-Westfalen
+Realschulen,2010,563,Nordrhein-Westfalen
+Realschulen,2011,564,Nordrhein-Westfalen
+Realschulen,2012,564,Nordrhein-Westfalen
+Realschulen,2013,566,Nordrhein-Westfalen
+Realschulen,2014,563,Nordrhein-Westfalen
+Realschulen,2015,559,Nordrhein-Westfalen
+Gymnasien,1992,623,Nordrhein-Westfalen
+Gymnasien,2007,630,Nordrhein-Westfalen
+Gymnasien,2008,629,Nordrhein-Westfalen
+Gymnasien,2009,630,Nordrhein-Westfalen
+Gymnasien,2010,626,Nordrhein-Westfalen
+Gymnasien,2011,627,Nordrhein-Westfalen
+Gymnasien,2012,627,Nordrhein-Westfalen
+Gymnasien,2013,627,Nordrhein-Westfalen
+Gymnasien,2014,625,Nordrhein-Westfalen
+Gymnasien,2015,625,Nordrhein-Westfalen
+Integrierte Gesamtschulen,1992,182,Nordrhein-Westfalen
+Integrierte Gesamtschulen,2007,218,Nordrhein-Westfalen
+Integrierte Gesamtschulen,2008,218,Nordrhein-Westfalen
+Integrierte Gesamtschulen,2009,221,Nordrhein-Westfalen
+Integrierte Gesamtschulen,2010,225,Nordrhein-Westfalen
+Integrierte Gesamtschulen,2011,232,Nordrhein-Westfalen
+Integrierte Gesamtschulen,2012,252,Nordrhein-Westfalen
+Integrierte Gesamtschulen,2013,282,Nordrhein-Westfalen
+Integrierte Gesamtschulen,2014,311,Nordrhein-Westfalen
+Integrierte Gesamtschulen,2015,319,Nordrhein-Westfalen
+Freie Waldorfschulen,1992,40,Nordrhein-Westfalen
+Freie Waldorfschulen,2007,40,Nordrhein-Westfalen
+Freie Waldorfschulen,2008,40,Nordrhein-Westfalen
+Freie Waldorfschulen,2009,40,Nordrhein-Westfalen
+Freie Waldorfschulen,2010,40,Nordrhein-Westfalen
+Freie Waldorfschulen,2011,40,Nordrhein-Westfalen
+Freie Waldorfschulen,2012,40,Nordrhein-Westfalen
+Freie Waldorfschulen,2013,40,Nordrhein-Westfalen
+Freie Waldorfschulen,2014,40,Nordrhein-Westfalen
+Freie Waldorfschulen,2015,42,Nordrhein-Westfalen
+Förderschulen,1992,731,Nordrhein-Westfalen
+Förderschulen,2007,726,Nordrhein-Westfalen
+Förderschulen,2008,724,Nordrhein-Westfalen
+Förderschulen,2009,724,Nordrhein-Westfalen
+Förderschulen,2010,722,Nordrhein-Westfalen
+Förderschulen,2011,716,Nordrhein-Westfalen
+Förderschulen,2012,716,Nordrhein-Westfalen
+Förderschulen,2013,693,Nordrhein-Westfalen
+Förderschulen,2014,652,Nordrhein-Westfalen
+Förderschulen,2015,580,Nordrhein-Westfalen
+Abendrealschulen,1992,25,Nordrhein-Westfalen
+Abendrealschulen,2007,30,Nordrhein-Westfalen
+Abendrealschulen,2008,31,Nordrhein-Westfalen
+Abendrealschulen,2009,31,Nordrhein-Westfalen
+Abendrealschulen,2010,31,Nordrhein-Westfalen
+Abendrealschulen,2011,31,Nordrhein-Westfalen
+Abendrealschulen,2012,31,Nordrhein-Westfalen
+Abendrealschulen,2013,31,Nordrhein-Westfalen
+Abendrealschulen,2014,31,Nordrhein-Westfalen
+Abendrealschulen,2015,31,Nordrhein-Westfalen
+Abendgymnasien,1992,19,Nordrhein-Westfalen
+Abendgymnasien,2007,28,Nordrhein-Westfalen
+Abendgymnasien,2008,29,Nordrhein-Westfalen
+Abendgymnasien,2009,29,Nordrhein-Westfalen
+Abendgymnasien,2010,28,Nordrhein-Westfalen
+Abendgymnasien,2011,28,Nordrhein-Westfalen
+Abendgymnasien,2012,29,Nordrhein-Westfalen
+Abendgymnasien,2013,29,Nordrhein-Westfalen
+Abendgymnasien,2014,29,Nordrhein-Westfalen
+Abendgymnasien,2015,29,Nordrhein-Westfalen
+Kollegs,1992,16,Nordrhein-Westfalen
+Kollegs,2007,24,Nordrhein-Westfalen
+Kollegs,2008,25,Nordrhein-Westfalen
+Kollegs,2009,25,Nordrhein-Westfalen
+Kollegs,2010,26,Nordrhein-Westfalen
+Kollegs,2011,26,Nordrhein-Westfalen
+Kollegs,2012,26,Nordrhein-Westfalen
+Kollegs,2013,26,Nordrhein-Westfalen
+Kollegs,2014,26,Nordrhein-Westfalen
+Kollegs,2015,26,Nordrhein-Westfalen
+Schulkindergärten,1992,117,Rheinland-Pfalz
+Schulkindergärten,2007,88,Rheinland-Pfalz
+Schulkindergärten,2008,77,Rheinland-Pfalz
+Schulkindergärten,2009,59,Rheinland-Pfalz
+Schulkindergärten,2010,50,Rheinland-Pfalz
+Schulkindergärten,2011,42,Rheinland-Pfalz
+Schulkindergärten,2012,32,Rheinland-Pfalz
+Schulkindergärten,2013,26,Rheinland-Pfalz
+Schulkindergärten,2014,20,Rheinland-Pfalz
+Schulkindergärten,2015,16,Rheinland-Pfalz
+Grundschulen,1992,972,Rheinland-Pfalz
+Grundschulen,2007,989,Rheinland-Pfalz
+Grundschulen,2008,988,Rheinland-Pfalz
+Grundschulen,2009,983,Rheinland-Pfalz
+Grundschulen,2010,976,Rheinland-Pfalz
+Grundschulen,2011,974,Rheinland-Pfalz
+Grundschulen,2012,969,Rheinland-Pfalz
+Grundschulen,2013,970,Rheinland-Pfalz
+Grundschulen,2014,969,Rheinland-Pfalz
+Grundschulen,2015,965,Rheinland-Pfalz
+Hauptschulen,1992,307,Rheinland-Pfalz
+Hauptschulen,2007,176,Rheinland-Pfalz
+Hauptschulen,2008,171,Rheinland-Pfalz
+Hauptschulen,2009,125,Rheinland-Pfalz
+Hauptschulen,2010,61,Rheinland-Pfalz
+Hauptschulen,2011,45,Rheinland-Pfalz
+Hauptschulen,2012,26,Rheinland-Pfalz
+Hauptschulen,2013,5,Rheinland-Pfalz
+Hauptschulen,2014,4,Rheinland-Pfalz
+Hauptschulen,2015,4,Rheinland-Pfalz
+Schularten mit mehreren Bildungsgängen,1992,6,Rheinland-Pfalz
+Schularten mit mehreren Bildungsgängen,2007,97,Rheinland-Pfalz
+Schularten mit mehreren Bildungsgängen,2008,99,Rheinland-Pfalz
+Schularten mit mehreren Bildungsgängen,2009,129,Rheinland-Pfalz
+Schularten mit mehreren Bildungsgängen,2010,179,Rheinland-Pfalz
+Schularten mit mehreren Bildungsgängen,2011,194,Rheinland-Pfalz
+Schularten mit mehreren Bildungsgängen,2012,201,Rheinland-Pfalz
+Schularten mit mehreren Bildungsgängen,2013,201,Rheinland-Pfalz
+Schularten mit mehreren Bildungsgängen,2014,198,Rheinland-Pfalz
+Schularten mit mehreren Bildungsgängen,2015,192,Rheinland-Pfalz
+Realschulen,1992,109,Rheinland-Pfalz
+Realschulen,2007,117,Rheinland-Pfalz
+Realschulen,2008,117,Rheinland-Pfalz
+Realschulen,2009,83,Rheinland-Pfalz
+Realschulen,2010,33,Rheinland-Pfalz
+Realschulen,2011,24,Rheinland-Pfalz
+Realschulen,2012,18,Rheinland-Pfalz
+Realschulen,2013,11,Rheinland-Pfalz
+Realschulen,2014,10,Rheinland-Pfalz
+Realschulen,2015,9,Rheinland-Pfalz
+Gymnasien,1992,136,Rheinland-Pfalz
+Gymnasien,2007,141,Rheinland-Pfalz
+Gymnasien,2008,143,Rheinland-Pfalz
+Gymnasien,2009,146,Rheinland-Pfalz
+Gymnasien,2010,146,Rheinland-Pfalz
+Gymnasien,2011,147,Rheinland-Pfalz
+Gymnasien,2012,149,Rheinland-Pfalz
+Gymnasien,2013,149,Rheinland-Pfalz
+Gymnasien,2014,150,Rheinland-Pfalz
+Gymnasien,2015,151,Rheinland-Pfalz
+Integrierte Gesamtschulen,1992,5,Rheinland-Pfalz
+Integrierte Gesamtschulen,2007,19,Rheinland-Pfalz
+Integrierte Gesamtschulen,2008,25,Rheinland-Pfalz
+Integrierte Gesamtschulen,2009,35,Rheinland-Pfalz
+Integrierte Gesamtschulen,2010,52,Rheinland-Pfalz
+Integrierte Gesamtschulen,2011,54,Rheinland-Pfalz
+Integrierte Gesamtschulen,2012,54,Rheinland-Pfalz
+Integrierte Gesamtschulen,2013,55,Rheinland-Pfalz
+Integrierte Gesamtschulen,2014,55,Rheinland-Pfalz
+Integrierte Gesamtschulen,2015,55,Rheinland-Pfalz
+Freie Waldorfschulen,1992,5,Rheinland-Pfalz
+Freie Waldorfschulen,2007,8,Rheinland-Pfalz
+Freie Waldorfschulen,2008,8,Rheinland-Pfalz
+Freie Waldorfschulen,2009,8,Rheinland-Pfalz
+Freie Waldorfschulen,2010,9,Rheinland-Pfalz
+Freie Waldorfschulen,2011,9,Rheinland-Pfalz
+Freie Waldorfschulen,2012,9,Rheinland-Pfalz
+Freie Waldorfschulen,2013,9,Rheinland-Pfalz
+Freie Waldorfschulen,2014,8,Rheinland-Pfalz
+Freie Waldorfschulen,2015,8,Rheinland-Pfalz
+Förderschulen,1992,148,Rheinland-Pfalz
+Förderschulen,2007,141,Rheinland-Pfalz
+Förderschulen,2008,141,Rheinland-Pfalz
+Förderschulen,2009,139,Rheinland-Pfalz
+Förderschulen,2010,138,Rheinland-Pfalz
+Förderschulen,2011,138,Rheinland-Pfalz
+Förderschulen,2012,138,Rheinland-Pfalz
+Förderschulen,2013,138,Rheinland-Pfalz
+Förderschulen,2014,135,Rheinland-Pfalz
+Förderschulen,2015,132,Rheinland-Pfalz
+Abendgymnasien2,1992,0,Rheinland-Pfalz
+Abendgymnasien2,2007,0,Rheinland-Pfalz
+Abendgymnasien2,2008,0,Rheinland-Pfalz
+Abendgymnasien2,2009,0,Rheinland-Pfalz
+Abendgymnasien2,2010,0,Rheinland-Pfalz
+Abendgymnasien2,2011,0,Rheinland-Pfalz
+Abendgymnasien2,2012,0,Rheinland-Pfalz
+Abendgymnasien2,2013,0,Rheinland-Pfalz
+Abendgymnasien2,2014,0,Rheinland-Pfalz
+Abendgymnasien2,2015,0,Rheinland-Pfalz
+Kollegs,1992,3,Rheinland-Pfalz
+Kollegs,2007,3,Rheinland-Pfalz
+Kollegs,2008,3,Rheinland-Pfalz
+Kollegs,2009,3,Rheinland-Pfalz
+Kollegs,2010,4,Rheinland-Pfalz
+Kollegs,2011,4,Rheinland-Pfalz
+Kollegs,2012,4,Rheinland-Pfalz
+Kollegs,2013,4,Rheinland-Pfalz
+Kollegs,2014,4,Rheinland-Pfalz
+Kollegs,2015,4,Rheinland-Pfalz
+Schulkindergärten,1992,43,Saarland
+Schulkindergärten,2007,29,Saarland
+Schulkindergärten,2008,27,Saarland
+Schulkindergärten,2009,35,Saarland
+Schulkindergärten,2010,30,Saarland
+Schulkindergärten,2011,20,Saarland
+Schulkindergärten,2012,12,Saarland
+Schulkindergärten,2013,11,Saarland
+Schulkindergärten,2014,4,Saarland
+Schulkindergärten,2015,4,Saarland
+Grundschulen,1992,273,Saarland
+Grundschulen,2007,159,Saarland
+Grundschulen,2008,160,Saarland
+Grundschulen,2009,160,Saarland
+Grundschulen,2010,161,Saarland
+Grundschulen,2011,161,Saarland
+Grundschulen,2012,162,Saarland
+Grundschulen,2013,162,Saarland
+Grundschulen,2014,162,Saarland
+Grundschulen,2015,162,Saarland
+Hauptschulen 3,1992,70,Saarland
+Hauptschulen 3,2007,1,Saarland
+Hauptschulen 3,2008,1,Saarland
+Hauptschulen 3,2009,1,Saarland
+Hauptschulen 3,2010,1,Saarland
+Hauptschulen 3,2011,1,Saarland
+Hauptschulen 3,2012,1,Saarland
+Hauptschulen 3,2013,1,Saarland
+Hauptschulen 3,2014,1,Saarland
+Hauptschulen 3,2015,0,Saarland
+Schularten mit mehreren Bildungsgängen,1992,17,Saarland
+Schularten mit mehreren Bildungsgängen,2007,51,Saarland
+Schularten mit mehreren Bildungsgängen,2008,51,Saarland
+Schularten mit mehreren Bildungsgängen,2009,51,Saarland
+Schularten mit mehreren Bildungsgängen,2010,51,Saarland
+Schularten mit mehreren Bildungsgängen,2011,51,Saarland
+Schularten mit mehreren Bildungsgängen,2012,112,Saarland
+Schularten mit mehreren Bildungsgängen,2013,49,Saarland
+Schularten mit mehreren Bildungsgängen,2014,49,Saarland
+Schularten mit mehreren Bildungsgängen,2015,44,Saarland
+Realschulen,1992,30,Saarland
+Realschulen,2007,3,Saarland
+Realschulen,2008,3,Saarland
+Realschulen,2009,3,Saarland
+Realschulen,2010,3,Saarland
+Realschulen,2011,3,Saarland
+Realschulen,2012,3,Saarland
+Realschulen,2013,3,Saarland
+Realschulen,2014,3,Saarland
+Realschulen,2015,3,Saarland
+Gymnasien,1992,37,Saarland
+Gymnasien,2007,35,Saarland
+Gymnasien,2008,35,Saarland
+Gymnasien,2009,35,Saarland
+Gymnasien,2010,35,Saarland
+Gymnasien,2011,35,Saarland
+Gymnasien,2012,35,Saarland
+Gymnasien,2013,35,Saarland
+Gymnasien,2014,35,Saarland
+Gymnasien,2015,35,Saarland
+Integrierte Gesamtschulen,1992,14,Saarland
+Integrierte Gesamtschulen,2007,17,Saarland
+Integrierte Gesamtschulen,2008,18,Saarland
+Integrierte Gesamtschulen,2009,18,Saarland
+Integrierte Gesamtschulen,2010,18,Saarland
+Integrierte Gesamtschulen,2011,18,Saarland
+Integrierte Gesamtschulen,2012,18,Saarland
+Integrierte Gesamtschulen,2013,81,Saarland
+Integrierte Gesamtschulen,2014,81,Saarland
+Integrierte Gesamtschulen,2015,79,Saarland
+Freie Waldorfschulen,1992,2,Saarland
+Freie Waldorfschulen,2007,4,Saarland
+Freie Waldorfschulen,2008,4,Saarland
+Freie Waldorfschulen,2009,4,Saarland
+Freie Waldorfschulen,2010,4,Saarland
+Freie Waldorfschulen,2011,4,Saarland
+Freie Waldorfschulen,2012,4,Saarland
+Freie Waldorfschulen,2013,4,Saarland
+Freie Waldorfschulen,2014,4,Saarland
+Freie Waldorfschulen,2015,4,Saarland
+Förderschulen,1992,43,Saarland
+Förderschulen,2007,41,Saarland
+Förderschulen,2008,41,Saarland
+Förderschulen,2009,41,Saarland
+Förderschulen,2010,41,Saarland
+Förderschulen,2011,38,Saarland
+Förderschulen,2012,38,Saarland
+Förderschulen,2013,38,Saarland
+Förderschulen,2014,38,Saarland
+Förderschulen,2015,38,Saarland
+Abendrealschulen,1992,3,Saarland
+Abendrealschulen,2007,2,Saarland
+Abendrealschulen,2008,2,Saarland
+Abendrealschulen,2009,2,Saarland
+Abendrealschulen,2010,2,Saarland
+Abendrealschulen,2011,2,Saarland
+Abendrealschulen,2012,2,Saarland
+Abendrealschulen,2013,2,Saarland
+Abendrealschulen,2014,2,Saarland
+Abendrealschulen,2015,2,Saarland
+Abendgymnasien,1992,2,Saarland
+Abendgymnasien,2007,1,Saarland
+Abendgymnasien,2008,1,Saarland
+Abendgymnasien,2009,1,Saarland
+Abendgymnasien,2010,1,Saarland
+Abendgymnasien,2011,1,Saarland
+Abendgymnasien,2012,1,Saarland
+Abendgymnasien,2013,1,Saarland
+Abendgymnasien,2014,1,Saarland
+Abendgymnasien,2015,1,Saarland
+Kollegs,1992,1,Saarland
+Kollegs,2007,1,Saarland
+Kollegs,2008,1,Saarland
+Kollegs,2009,1,Saarland
+Kollegs,2010,1,Saarland
+Kollegs,2011,1,Saarland
+Kollegs,2012,1,Saarland
+Kollegs,2013,1,Saarland
+Kollegs,2014,1,Saarland
+Kollegs,2015,1,Saarland
+Vorklassen 4,1992,38,Sachsen
+Vorklassen 4,2007,0,Sachsen
+Vorklassen 4,2008,0,Sachsen
+Vorklassen 4,2009,0,Sachsen
+Vorklassen 4,2010,0,Sachsen
+Vorklassen 4,2011,0,Sachsen
+Vorklassen 4,2012,0,Sachsen
+Vorklassen 4,2013,0,Sachsen
+Vorklassen 4,2014,0,Sachsen
+Vorklassen 4,2015,0,Sachsen
+Schulkindergärten,1992,0,Sachsen
+Schulkindergärten,2007,0,Sachsen
+Schulkindergärten,2008,0,Sachsen
+Schulkindergärten,2009,0,Sachsen
+Schulkindergärten,2010,0,Sachsen
+Schulkindergärten,2011,0,Sachsen
+Schulkindergärten,2012,0,Sachsen
+Schulkindergärten,2013,0,Sachsen
+Schulkindergärten,2014,0,Sachsen
+Schulkindergärten,2015,0,Sachsen
+Grundschulen,1992,1246,Sachsen
+Grundschulen,2007,847,Sachsen
+Grundschulen,2008,842,Sachsen
+Grundschulen,2009,839,Sachsen
+Grundschulen,2010,838,Sachsen
+Grundschulen,2011,831,Sachsen
+Grundschulen,2012,831,Sachsen
+Grundschulen,2013,824,Sachsen
+Grundschulen,2014,825,Sachsen
+Grundschulen,2015,826,Sachsen
+Schularten mit mehreren Bildungsgängen,1992,662,Sachsen
+Schularten mit mehreren Bildungsgängen,2007,348,Sachsen
+Schularten mit mehreren Bildungsgängen,2008,333,Sachsen
+Schularten mit mehreren Bildungsgängen,2009,333,Sachsen
+Schularten mit mehreren Bildungsgängen,2010,339,Sachsen
+Schularten mit mehreren Bildungsgängen,2011,335,Sachsen
+Schularten mit mehreren Bildungsgängen,2012,336,Sachsen
+Schularten mit mehreren Bildungsgängen,2013,336,Sachsen
+Schularten mit mehreren Bildungsgängen,2014,336,Sachsen
+Schularten mit mehreren Bildungsgängen,2015,340,Sachsen
+Gymnasien,1992,185,Sachsen
+Gymnasien,2007,140,Sachsen
+Gymnasien,2008,143,Sachsen
+Gymnasien,2009,145,Sachsen
+Gymnasien,2010,148,Sachsen
+Gymnasien,2011,152,Sachsen
+Gymnasien,2012,153,Sachsen
+Gymnasien,2013,153,Sachsen
+Gymnasien,2014,155,Sachsen
+Gymnasien,2015,155,Sachsen
+Freie Waldorfschulen,1992,3,Sachsen
+Freie Waldorfschulen,2007,3,Sachsen
+Freie Waldorfschulen,2008,3,Sachsen
+Freie Waldorfschulen,2009,3,Sachsen
+Freie Waldorfschulen,2010,3,Sachsen
+Freie Waldorfschulen,2011,5,Sachsen
+Freie Waldorfschulen,2012,5,Sachsen
+Freie Waldorfschulen,2013,5,Sachsen
+Freie Waldorfschulen,2014,6,Sachsen
+Freie Waldorfschulen,2015,6,Sachsen
+Förderschulen,1992,203,Sachsen
+Förderschulen,2007,160,Sachsen
+Förderschulen,2008,159,Sachsen
+Förderschulen,2009,158,Sachsen
+Förderschulen,2010,159,Sachsen
+Förderschulen,2011,158,Sachsen
+Förderschulen,2012,158,Sachsen
+Förderschulen,2013,156,Sachsen
+Förderschulen,2014,155,Sachsen
+Förderschulen,2015,156,Sachsen
+Abendhauptschulen,1992,16,Sachsen
+Abendhauptschulen,2007,0,Sachsen
+Abendhauptschulen,2008,0,Sachsen
+Abendhauptschulen,2009,0,Sachsen
+Abendhauptschulen,2010,0,Sachsen
+Abendhauptschulen,2011,0,Sachsen
+Abendhauptschulen,2012,0,Sachsen
+Abendhauptschulen,2013,0,Sachsen
+Abendhauptschulen,2014,0,Sachsen
+Abendhauptschulen,2015,0,Sachsen
+Abendrealschulen,1992,2,Sachsen
+Abendrealschulen,2007,3,Sachsen
+Abendrealschulen,2008,3,Sachsen
+Abendrealschulen,2009,3,Sachsen
+Abendrealschulen,2010,3,Sachsen
+Abendrealschulen,2011,3,Sachsen
+Abendrealschulen,2012,3,Sachsen
+Abendrealschulen,2013,4,Sachsen
+Abendrealschulen,2014,4,Sachsen
+Abendrealschulen,2015,4,Sachsen
+Abendgymnasien,1992,6,Sachsen
+Abendgymnasien,2007,3,Sachsen
+Abendgymnasien,2008,3,Sachsen
+Abendgymnasien,2009,3,Sachsen
+Abendgymnasien,2010,3,Sachsen
+Abendgymnasien,2011,3,Sachsen
+Abendgymnasien,2012,3,Sachsen
+Abendgymnasien,2013,3,Sachsen
+Abendgymnasien,2014,3,Sachsen
+Abendgymnasien,2015,3,Sachsen
+Kollegs,1992,2,Sachsen
+Kollegs,2007,4,Sachsen
+Kollegs,2008,4,Sachsen
+Kollegs,2009,4,Sachsen
+Kollegs,2010,4,Sachsen
+Kollegs,2011,4,Sachsen
+Kollegs,2012,4,Sachsen
+Kollegs,2013,4,Sachsen
+Kollegs,2014,4,Sachsen
+Kollegs,2015,4,Sachsen
+Schulkindergärten,1992,144,Sachsen-Anhalt
+Schulkindergärten,2007,0,Sachsen-Anhalt
+Schulkindergärten,2008,0,Sachsen-Anhalt
+Schulkindergärten,2009,0,Sachsen-Anhalt
+Schulkindergärten,2010,0,Sachsen-Anhalt
+Schulkindergärten,2011,0,Sachsen-Anhalt
+Schulkindergärten,2012,0,Sachsen-Anhalt
+Schulkindergärten,2013,0,Sachsen-Anhalt
+Schulkindergärten,2014,0,Sachsen-Anhalt
+Schulkindergärten,2015,0,Sachsen-Anhalt
+Grundschulen,1992,850,Sachsen-Anhalt
+Grundschulen,2007,557,Sachsen-Anhalt
+Grundschulen,2008,559,Sachsen-Anhalt
+Grundschulen,2009,555,Sachsen-Anhalt
+Grundschulen,2010,552,Sachsen-Anhalt
+Grundschulen,2011,549,Sachsen-Anhalt
+Grundschulen,2012,544,Sachsen-Anhalt
+Grundschulen,2013,537,Sachsen-Anhalt
+Grundschulen,2014,510,Sachsen-Anhalt
+Grundschulen,2015,503,Sachsen-Anhalt
+Schulartunabhängige Orientierungsstufe,1992,587,Sachsen-Anhalt
+Schulartunabhängige Orientierungsstufe,2007,0,Sachsen-Anhalt
+Schulartunabhängige Orientierungsstufe,2008,0,Sachsen-Anhalt
+Schulartunabhängige Orientierungsstufe,2009,0,Sachsen-Anhalt
+Schulartunabhängige Orientierungsstufe,2010,0,Sachsen-Anhalt
+Schulartunabhängige Orientierungsstufe,2011,0,Sachsen-Anhalt
+Schulartunabhängige Orientierungsstufe,2012,0,Sachsen-Anhalt
+Schulartunabhängige Orientierungsstufe,2013,0,Sachsen-Anhalt
+Schulartunabhängige Orientierungsstufe,2014,0,Sachsen-Anhalt
+Schulartunabhängige Orientierungsstufe,2015,0,Sachsen-Anhalt
+Hauptschulen,1992,361,Sachsen-Anhalt
+Hauptschulen,2007,0,Sachsen-Anhalt
+Hauptschulen,2008,0,Sachsen-Anhalt
+Hauptschulen,2009,0,Sachsen-Anhalt
+Hauptschulen,2010,0,Sachsen-Anhalt
+Hauptschulen,2011,0,Sachsen-Anhalt
+Hauptschulen,2012,0,Sachsen-Anhalt
+Hauptschulen,2013,0,Sachsen-Anhalt
+Hauptschulen,2014,0,Sachsen-Anhalt
+Hauptschulen,2015,0,Sachsen-Anhalt
+Schularten mit mehreren Bildungsgängen,1992,180,Sachsen-Anhalt
+Schularten mit mehreren Bildungsgängen,2007,182,Sachsen-Anhalt
+Schularten mit mehreren Bildungsgängen,2008,181,Sachsen-Anhalt
+Schularten mit mehreren Bildungsgängen,2009,182,Sachsen-Anhalt
+Schularten mit mehreren Bildungsgängen,2010,178,Sachsen-Anhalt
+Schularten mit mehreren Bildungsgängen,2011,177,Sachsen-Anhalt
+Schularten mit mehreren Bildungsgängen,2012,172,Sachsen-Anhalt
+Schularten mit mehreren Bildungsgängen,2013,162,Sachsen-Anhalt
+Schularten mit mehreren Bildungsgängen,2014,154,Sachsen-Anhalt
+Schularten mit mehreren Bildungsgängen,2015,144,Sachsen-Anhalt
+Realschulen,1992,585,Sachsen-Anhalt
+Realschulen,2007,0,Sachsen-Anhalt
+Realschulen,2008,0,Sachsen-Anhalt
+Realschulen,2009,0,Sachsen-Anhalt
+Realschulen,2010,0,Sachsen-Anhalt
+Realschulen,2011,0,Sachsen-Anhalt
+Realschulen,2012,0,Sachsen-Anhalt
+Realschulen,2013,0,Sachsen-Anhalt
+Realschulen,2014,0,Sachsen-Anhalt
+Realschulen,2015,0,Sachsen-Anhalt
+Gymnasien,1992,144,Sachsen-Anhalt
+Gymnasien,2007,84,Sachsen-Anhalt
+Gymnasien,2008,87,Sachsen-Anhalt
+Gymnasien,2009,85,Sachsen-Anhalt
+Gymnasien,2010,85,Sachsen-Anhalt
+Gymnasien,2011,85,Sachsen-Anhalt
+Gymnasien,2012,83,Sachsen-Anhalt
+Gymnasien,2013,83,Sachsen-Anhalt
+Gymnasien,2014,82,Sachsen-Anhalt
+Gymnasien,2015,84,Sachsen-Anhalt
+Integrierte Gesamtschulen,1992,2,Sachsen-Anhalt
+Integrierte Gesamtschulen,2007,4,Sachsen-Anhalt
+Integrierte Gesamtschulen,2008,6,Sachsen-Anhalt
+Integrierte Gesamtschulen,2009,6,Sachsen-Anhalt
+Integrierte Gesamtschulen,2010,7,Sachsen-Anhalt
+Integrierte Gesamtschulen,2011,8,Sachsen-Anhalt
+Integrierte Gesamtschulen,2012,10,Sachsen-Anhalt
+Integrierte Gesamtschulen,2013,22,Sachsen-Anhalt
+Integrierte Gesamtschulen,2014,31,Sachsen-Anhalt
+Integrierte Gesamtschulen,2015,40,Sachsen-Anhalt
+Freie Waldorfschulen,1992,3,Sachsen-Anhalt
+Freie Waldorfschulen,2007,3,Sachsen-Anhalt
+Freie Waldorfschulen,2008,3,Sachsen-Anhalt
+Freie Waldorfschulen,2009,3,Sachsen-Anhalt
+Freie Waldorfschulen,2010,3,Sachsen-Anhalt
+Freie Waldorfschulen,2011,3,Sachsen-Anhalt
+Freie Waldorfschulen,2012,3,Sachsen-Anhalt
+Freie Waldorfschulen,2013,3,Sachsen-Anhalt
+Freie Waldorfschulen,2014,3,Sachsen-Anhalt
+Freie Waldorfschulen,2015,3,Sachsen-Anhalt
+Förderschulen,1992,135,Sachsen-Anhalt
+Förderschulen,2007,127,Sachsen-Anhalt
+Förderschulen,2008,121,Sachsen-Anhalt
+Förderschulen,2009,121,Sachsen-Anhalt
+Förderschulen,2010,119,Sachsen-Anhalt
+Förderschulen,2011,119,Sachsen-Anhalt
+Förderschulen,2012,118,Sachsen-Anhalt
+Förderschulen,2013,117,Sachsen-Anhalt
+Förderschulen,2014,105,Sachsen-Anhalt
+Förderschulen,2015,103,Sachsen-Anhalt
+Abendrealschulen,1992,5,Sachsen-Anhalt
+Abendrealschulen,2007,4,Sachsen-Anhalt
+Abendrealschulen,2008,4,Sachsen-Anhalt
+Abendrealschulen,2009,4,Sachsen-Anhalt
+Abendrealschulen,2010,4,Sachsen-Anhalt
+Abendrealschulen,2011,4,Sachsen-Anhalt
+Abendrealschulen,2012,4,Sachsen-Anhalt
+Abendrealschulen,2013,4,Sachsen-Anhalt
+Abendrealschulen,2014,4,Sachsen-Anhalt
+Abendrealschulen,2015,3,Sachsen-Anhalt
+Abendgymnasien,1992,26,Sachsen-Anhalt
+Abendgymnasien,2007,2,Sachsen-Anhalt
+Abendgymnasien,2008,2,Sachsen-Anhalt
+Abendgymnasien,2009,2,Sachsen-Anhalt
+Abendgymnasien,2010,2,Sachsen-Anhalt
+Abendgymnasien,2011,2,Sachsen-Anhalt
+Abendgymnasien,2012,2,Sachsen-Anhalt
+Abendgymnasien,2013,2,Sachsen-Anhalt
+Abendgymnasien,2014,2,Sachsen-Anhalt
+Abendgymnasien,2015,2,Sachsen-Anhalt
+Kollegs,1992,4,Sachsen-Anhalt
+Kollegs,2007,3,Sachsen-Anhalt
+Kollegs,2008,3,Sachsen-Anhalt
+Kollegs,2009,3,Sachsen-Anhalt
+Kollegs,2010,3,Sachsen-Anhalt
+Kollegs,2011,3,Sachsen-Anhalt
+Kollegs,2012,2,Sachsen-Anhalt
+Kollegs,2013,2,Sachsen-Anhalt
+Kollegs,2014,2,Sachsen-Anhalt
+Kollegs,2015,2,Sachsen-Anhalt
+Vorklassen,1992,180,Schleswig-Holstein
+Vorklassen,2007,0,Schleswig-Holstein
+Vorklassen,2008,0,Schleswig-Holstein
+Vorklassen,2009,0,Schleswig-Holstein
+Vorklassen,2010,0,Schleswig-Holstein
+Vorklassen,2011,0,Schleswig-Holstein
+Vorklassen,2012,0,Schleswig-Holstein
+Vorklassen,2013,0,Schleswig-Holstein
+Vorklassen,2014,0,Schleswig-Holstein
+Vorklassen,2015,0,Schleswig-Holstein
+Schulkindergärten,1992,202,Schleswig-Holstein
+Schulkindergärten,2007,0,Schleswig-Holstein
+Schulkindergärten,2008,0,Schleswig-Holstein
+Schulkindergärten,2009,0,Schleswig-Holstein
+Schulkindergärten,2010,0,Schleswig-Holstein
+Schulkindergärten,2011,0,Schleswig-Holstein
+Schulkindergärten,2012,0,Schleswig-Holstein
+Schulkindergärten,2013,0,Schleswig-Holstein
+Schulkindergärten,2014,0,Schleswig-Holstein
+Schulkindergärten,2015,0,Schleswig-Holstein
+Grundschulen,1992,631,Schleswig-Holstein
+Grundschulen,2007,640,Schleswig-Holstein
+Grundschulen,2008,632,Schleswig-Holstein
+Grundschulen,2009,599,Schleswig-Holstein
+Grundschulen,2010,571,Schleswig-Holstein
+Grundschulen,2011,553,Schleswig-Holstein
+Grundschulen,2012,544,Schleswig-Holstein
+Grundschulen,2013,539,Schleswig-Holstein
+Grundschulen,2014,534,Schleswig-Holstein
+Grundschulen,2015,535,Schleswig-Holstein
+Hauptschulen,1992,296,Schleswig-Holstein
+Hauptschulen,2007,281,Schleswig-Holstein
+Hauptschulen,2008,233,Schleswig-Holstein
+Hauptschulen,2009,217,Schleswig-Holstein
+Hauptschulen,2010,190,Schleswig-Holstein
+Hauptschulen,2011,169,Schleswig-Holstein
+Hauptschulen,2012,92,Schleswig-Holstein
+Hauptschulen,2013,31,Schleswig-Holstein
+Hauptschulen,2014,7,Schleswig-Holstein
+Hauptschulen,2015,0,Schleswig-Holstein
+Schularten mit mehreren Bildungsgängen,1992,0,Schleswig-Holstein
+Schularten mit mehreren Bildungsgängen,2007,0,Schleswig-Holstein
+Schularten mit mehreren Bildungsgängen,2008,36,Schleswig-Holstein
+Schularten mit mehreren Bildungsgängen,2009,57,Schleswig-Holstein
+Schularten mit mehreren Bildungsgängen,2010,68,Schleswig-Holstein
+Schularten mit mehreren Bildungsgängen,2011,77,Schleswig-Holstein
+Schularten mit mehreren Bildungsgängen,2012,80,Schleswig-Holstein
+Schularten mit mehreren Bildungsgängen,2013,79,Schleswig-Holstein
+Schularten mit mehreren Bildungsgängen,2014,73,Schleswig-Holstein
+Schularten mit mehreren Bildungsgängen,2015,69,Schleswig-Holstein
+Realschulen,1992,170,Schleswig-Holstein
+Realschulen,2007,175,Schleswig-Holstein
+Realschulen,2008,173,Schleswig-Holstein
+Realschulen,2009,171,Schleswig-Holstein
+Realschulen,2010,164,Schleswig-Holstein
+Realschulen,2011,157,Schleswig-Holstein
+Realschulen,2012,148,Schleswig-Holstein
+Realschulen,2013,78,Schleswig-Holstein
+Realschulen,2014,30,Schleswig-Holstein
+Realschulen,2015,2,Schleswig-Holstein
+Gymnasien,1992,99,Schleswig-Holstein
+Gymnasien,2007,108,Schleswig-Holstein
+Gymnasien,2008,110,Schleswig-Holstein
+Gymnasien,2009,110,Schleswig-Holstein
+Gymnasien,2010,107,Schleswig-Holstein
+Gymnasien,2011,107,Schleswig-Holstein
+Gymnasien,2012,107,Schleswig-Holstein
+Gymnasien,2013,107,Schleswig-Holstein
+Gymnasien,2014,106,Schleswig-Holstein
+Gymnasien,2015,105,Schleswig-Holstein
+Integrierte Gesamtschulen,1992,19,Schleswig-Holstein
+Integrierte Gesamtschulen,2007,26,Schleswig-Holstein
+Integrierte Gesamtschulen,2008,125,Schleswig-Holstein
+Integrierte Gesamtschulen,2009,162,Schleswig-Holstein
+Integrierte Gesamtschulen,2010,183,Schleswig-Holstein
+Integrierte Gesamtschulen,2011,186,Schleswig-Holstein
+Integrierte Gesamtschulen,2012,188,Schleswig-Holstein
+Integrierte Gesamtschulen,2013,201,Schleswig-Holstein
+Integrierte Gesamtschulen,2014,250,Schleswig-Holstein
+Integrierte Gesamtschulen,2015,246,Schleswig-Holstein
+Freie Waldorfschulen,1992,6,Schleswig-Holstein
+Freie Waldorfschulen,2007,11,Schleswig-Holstein
+Freie Waldorfschulen,2008,11,Schleswig-Holstein
+Freie Waldorfschulen,2009,12,Schleswig-Holstein
+Freie Waldorfschulen,2010,11,Schleswig-Holstein
+Freie Waldorfschulen,2011,11,Schleswig-Holstein
+Freie Waldorfschulen,2012,12,Schleswig-Holstein
+Freie Waldorfschulen,2013,12,Schleswig-Holstein
+Freie Waldorfschulen,2014,12,Schleswig-Holstein
+Freie Waldorfschulen,2015,12,Schleswig-Holstein
+Förderschulen,1992,158,Schleswig-Holstein
+Förderschulen,2007,154,Schleswig-Holstein
+Förderschulen,2008,142,Schleswig-Holstein
+Förderschulen,2009,141,Schleswig-Holstein
+Förderschulen,2010,144,Schleswig-Holstein
+Förderschulen,2011,142,Schleswig-Holstein
+Förderschulen,2012,135,Schleswig-Holstein
+Förderschulen,2013,119,Schleswig-Holstein
+Förderschulen,2014,129,Schleswig-Holstein
+Förderschulen,2015,114,Schleswig-Holstein
+Abendrealschulen,1992,5,Schleswig-Holstein
+Abendrealschulen,2007,0,Schleswig-Holstein
+Abendrealschulen,2008,0,Schleswig-Holstein
+Abendrealschulen,2009,0,Schleswig-Holstein
+Abendrealschulen,2010,0,Schleswig-Holstein
+Abendrealschulen,2011,0,Schleswig-Holstein
+Abendrealschulen,2012,0,Schleswig-Holstein
+Abendrealschulen,2013,0,Schleswig-Holstein
+Abendrealschulen,2014,0,Schleswig-Holstein
+Abendrealschulen,2015,0,Schleswig-Holstein
+Abendgymnasien,1992,3,Schleswig-Holstein
+Abendgymnasien,2007,3,Schleswig-Holstein
+Abendgymnasien,2008,3,Schleswig-Holstein
+Abendgymnasien,2009,3,Schleswig-Holstein
+Abendgymnasien,2010,3,Schleswig-Holstein
+Abendgymnasien,2011,3,Schleswig-Holstein
+Abendgymnasien,2012,3,Schleswig-Holstein
+Abendgymnasien,2013,3,Schleswig-Holstein
+Abendgymnasien,2014,3,Schleswig-Holstein
+Abendgymnasien,2015,3,Schleswig-Holstein
+Grundschulen,1992,767,Thüringen
+Grundschulen,2007,472,Thüringen
+Grundschulen,2008,470,Thüringen
+Grundschulen,2009,467,Thüringen
+Grundschulen,2010,473,Thüringen
+Grundschulen,2011,467,Thüringen
+Grundschulen,2012,464,Thüringen
+Grundschulen,2013,461,Thüringen
+Grundschulen,2014,458,Thüringen
+Grundschulen,2015,451,Thüringen
+Hauptschulen,1992,1,Thüringen
+Hauptschulen,2007,0,Thüringen
+Hauptschulen,2008,0,Thüringen
+Hauptschulen,2009,0,Thüringen
+Hauptschulen,2010,0,Thüringen
+Hauptschulen,2011,0,Thüringen
+Hauptschulen,2012,0,Thüringen
+Hauptschulen,2013,0,Thüringen
+Hauptschulen,2014,0,Thüringen
+Hauptschulen,2015,0,Thüringen
+Schularten mit mehreren Bildungsgängen,1992,455,Thüringen
+Schularten mit mehreren Bildungsgängen,2007,245,Thüringen
+Schularten mit mehreren Bildungsgängen,2008,245,Thüringen
+Schularten mit mehreren Bildungsgängen,2009,246,Thüringen
+Schularten mit mehreren Bildungsgängen,2010,245,Thüringen
+Schularten mit mehreren Bildungsgängen,2011,236,Thüringen
+Schularten mit mehreren Bildungsgängen,2012,230,Thüringen
+Schularten mit mehreren Bildungsgängen,2013,225,Thüringen
+Schularten mit mehreren Bildungsgängen,2014,217,Thüringen
+Schularten mit mehreren Bildungsgängen,2015,210,Thüringen
+Gymnasien,1992,110,Thüringen
+Gymnasien,2007,99,Thüringen
+Gymnasien,2008,97,Thüringen
+Gymnasien,2009,98,Thüringen
+Gymnasien,2010,99,Thüringen
+Gymnasien,2011,99,Thüringen
+Gymnasien,2012,99,Thüringen
+Gymnasien,2013,99,Thüringen
+Gymnasien,2014,99,Thüringen
+Gymnasien,2015,100,Thüringen
+Integrierte Gesamtschulen,1992,3,Thüringen
+Integrierte Gesamtschulen,2007,7,Thüringen
+Integrierte Gesamtschulen,2008,7,Thüringen
+Integrierte Gesamtschulen,2009,9,Thüringen
+Integrierte Gesamtschulen,2010,9,Thüringen
+Integrierte Gesamtschulen,2011,21,Thüringen
+Integrierte Gesamtschulen,2012,30,Thüringen
+Integrierte Gesamtschulen,2013,39,Thüringen
+Integrierte Gesamtschulen,2014,52,Thüringen
+Integrierte Gesamtschulen,2015,59,Thüringen
+Freie Waldorfschulen,1992,2,Thüringen
+Freie Waldorfschulen,2007,5,Thüringen
+Freie Waldorfschulen,2008,5,Thüringen
+Freie Waldorfschulen,2009,5,Thüringen
+Freie Waldorfschulen,2010,5,Thüringen
+Freie Waldorfschulen,2011,5,Thüringen
+Freie Waldorfschulen,2012,5,Thüringen
+Freie Waldorfschulen,2013,5,Thüringen
+Freie Waldorfschulen,2014,5,Thüringen
+Freie Waldorfschulen,2015,5,Thüringen
+Förderschulen,1992,114,Thüringen
+Förderschulen,2007,94,Thüringen
+Förderschulen,2008,90,Thüringen
+Förderschulen,2009,90,Thüringen
+Förderschulen,2010,89,Thüringen
+Förderschulen,2011,85,Thüringen
+Förderschulen,2012,81,Thüringen
+Förderschulen,2013,81,Thüringen
+Förderschulen,2014,81,Thüringen
+Förderschulen,2015,81,Thüringen
+Kollegs,1992,2,Thüringen
+Kollegs,2007,2,Thüringen
+Kollegs,2008,2,Thüringen
+Kollegs,2009,2,Thüringen
+Kollegs,2010,2,Thüringen
+Kollegs,2011,2,Thüringen
+Kollegs,2012,2,Thüringen
+Kollegs,2013,2,Thüringen
+Kollegs,2014,2,Thüringen
+Kollegs,2015,2,Thüringen
+Vorklassen,1992,1268,Deutschland
+Vorklassen,2007,264,Deutschland
+Vorklassen,2008,267,Deutschland
+Vorklassen,2009,273,Deutschland
+Vorklassen,2010,280,Deutschland
+Vorklassen,2011,277,Deutschland
+Vorklassen,2012,282,Deutschland
+Vorklassen,2013,283,Deutschland
+Vorklassen,2014,285,Deutschland
+Vorklassen,2015,285,Deutschland
+Schulkindergärten,1992,2605,Deutschland
+Schulkindergärten,2007,1334,Deutschland
+Schulkindergärten,2008,1341,Deutschland
+Schulkindergärten,2009,1295,Deutschland
+Schulkindergärten,2010,1247,Deutschland
+Schulkindergärten,2011,1123,Deutschland
+Schulkindergärten,2012,1081,Deutschland
+Schulkindergärten,2013,1046,Deutschland
+Schulkindergärten,2014,999,Deutschland
+Schulkindergärten,2015,984,Deutschland
+Grundschulen,1992,17941,Deutschland
+Grundschulen,2007,16649,Deutschland
+Grundschulen,2008,16500,Deutschland
+Grundschulen,2009,16431,Deutschland
+Grundschulen,2010,16290,Deutschland
+Grundschulen,2011,16103,Deutschland
+Grundschulen,2012,15971,Deutschland
+Grundschulen,2013,15749,Deutschland
+Grundschulen,2014,15578,Deutschland
+Grundschulen,2015,15421,Deutschland
+Schulartunabhängige Orientierungsstufe,1992,2759,Deutschland
+Schulartunabhängige Orientierungsstufe,2007,1062,Deutschland
+Schulartunabhängige Orientierungsstufe,2008,1059,Deutschland
+Schulartunabhängige Orientierungsstufe,2009,1063,Deutschland
+Schulartunabhängige Orientierungsstufe,2010,1083,Deutschland
+Schulartunabhängige Orientierungsstufe,2011,1073,Deutschland
+Schulartunabhängige Orientierungsstufe,2012,1046,Deutschland
+Schulartunabhängige Orientierungsstufe,2013,1055,Deutschland
+Schulartunabhängige Orientierungsstufe,2014,1059,Deutschland
+Schulartunabhängige Orientierungsstufe,2015,1054,Deutschland
+Hauptschulen,1992,6450,Deutschland
+Hauptschulen,2007,4578,Deutschland
+Hauptschulen,2008,4383,Deutschland
+Hauptschulen,2009,4181,Deutschland
+Hauptschulen,2010,3883,Deutschland
+Hauptschulen,2011,3606,Deutschland
+Hauptschulen,2012,3416,Deutschland
+Hauptschulen,2013,3193,Deutschland
+Hauptschulen,2014,3039,Deutschland
+Hauptschulen,2015,2892,Deutschland
+Schularten mit mehreren Bildungsgängen,1992,1418,Deutschland
+Schularten mit mehreren Bildungsgängen,2007,1288,Deutschland
+Schularten mit mehreren Bildungsgängen,2008,1364,Deutschland
+Schularten mit mehreren Bildungsgängen,2009,1442,Deutschland
+Schularten mit mehreren Bildungsgängen,2010,1489,Deutschland
+Schularten mit mehreren Bildungsgängen,2011,1648,Deutschland
+Schularten mit mehreren Bildungsgängen,2012,1828,Deutschland
+Schularten mit mehreren Bildungsgängen,2013,1782,Deutschland
+Schularten mit mehreren Bildungsgängen,2014,1802,Deutschland
+Schularten mit mehreren Bildungsgängen,2015,1845,Deutschland
+Realschulen,1992,3634,Deutschland
+Realschulen,2007,2775,Deutschland
+Realschulen,2008,2704,Deutschland
+Realschulen,2009,2637,Deutschland
+Realschulen,2010,2593,Deutschland
+Realschulen,2011,2530,Deutschland
+Realschulen,2012,2525,Deutschland
+Realschulen,2013,2399,Deutschland
+Realschulen,2014,2313,Deutschland
+Realschulen,2015,2256,Deutschland
+Gymnasien,1992,3126,Deutschland
+Gymnasien,2007,3078,Deutschland
+Gymnasien,2008,3074,Deutschland
+Gymnasien,2009,3096,Deutschland
+Gymnasien,2010,3101,Deutschland
+Gymnasien,2011,3124,Deutschland
+Gymnasien,2012,3122,Deutschland
+Gymnasien,2013,3124,Deutschland
+Gymnasien,2014,3125,Deutschland
+Gymnasien,2015,3117,Deutschland
+Integrierte Gesamtschulen,1992,785,Deutschland
+Integrierte Gesamtschulen,2007,670,Deutschland
+Integrierte Gesamtschulen,2008,705,Deutschland
+Integrierte Gesamtschulen,2009,793,Deutschland
+Integrierte Gesamtschulen,2010,1019,Deutschland
+Integrierte Gesamtschulen,2011,1118,Deutschland
+Integrierte Gesamtschulen,2012,1175,Deutschland
+Integrierte Gesamtschulen,2013,1452,Deutschland
+Integrierte Gesamtschulen,2014,1778,Deutschland
+Integrierte Gesamtschulen,2015,1891,Deutschland
+Freie Waldorfschulen,1992,145,Deutschland
+Freie Waldorfschulen,2007,199,Deutschland
+Freie Waldorfschulen,2008,204,Deutschland
+Freie Waldorfschulen,2009,206,Deutschland
+Freie Waldorfschulen,2010,207,Deutschland
+Freie Waldorfschulen,2011,211,Deutschland
+Freie Waldorfschulen,2012,215,Deutschland
+Freie Waldorfschulen,2013,214,Deutschland
+Freie Waldorfschulen,2014,215,Deutschland
+Freie Waldorfschulen,2015,221,Deutschland
+Förderschulen,1992,3395,Deutschland
+Förderschulen,2007,3360,Deutschland
+Förderschulen,2008,3330,Deutschland
+Förderschulen,2009,3337,Deutschland
+Förderschulen,2010,3320,Deutschland
+Förderschulen,2011,3282,Deutschland
+Förderschulen,2012,3258,Deutschland
+Förderschulen,2013,3191,Deutschland
+Förderschulen,2014,3117,Deutschland
+Förderschulen,2015,2986,Deutschland
+Abendhauptschulen,1992,34,Deutschland
+Abendhauptschulen,2007,19,Deutschland
+Abendhauptschulen,2008,17,Deutschland
+Abendhauptschulen,2009,21,Deutschland
+Abendhauptschulen,2010,23,Deutschland
+Abendhauptschulen,2011,23,Deutschland
+Abendhauptschulen,2012,22,Deutschland
+Abendhauptschulen,2013,22,Deutschland
+Abendhauptschulen,2014,23,Deutschland
+Abendhauptschulen,2015,24,Deutschland
+Abendrealschulen,1992,118,Deutschland
+Abendrealschulen,2007,125,Deutschland
+Abendrealschulen,2008,122,Deutschland
+Abendrealschulen,2009,126,Deutschland
+Abendrealschulen,2010,129,Deutschland
+Abendrealschulen,2011,128,Deutschland
+Abendrealschulen,2012,125,Deutschland
+Abendrealschulen,2013,126,Deutschland
+Abendrealschulen,2014,129,Deutschland
+Abendrealschulen,2015,126,Deutschland
+Abendgymnasien,1992,139,Deutschland
+Abendgymnasien,2007,100,Deutschland
+Abendgymnasien,2008,102,Deutschland
+Abendgymnasien,2009,104,Deutschland
+Abendgymnasien,2010,104,Deutschland
+Abendgymnasien,2011,104,Deutschland
+Abendgymnasien,2012,104,Deutschland
+Abendgymnasien,2013,105,Deutschland
+Abendgymnasien,2014,105,Deutschland
+Abendgymnasien,2015,106,Deutschland
+Kollegs,1992,61,Deutschland
+Kollegs,2007,65,Deutschland
+Kollegs,2008,66,Deutschland
+Kollegs,2009,67,Deutschland
+Kollegs,2010,69,Deutschland
+Kollegs,2011,70,Deutschland
+Kollegs,2012,69,Deutschland
+Kollegs,2013,69,Deutschland
+Kollegs,2014,68,Deutschland
+Kollegs,2015,68,Deutschland
+Keine Zuordung zu einer Schulart möglich,1992,0,Deutschland
+Keine Zuordung zu einer Schulart möglich,2007,0,Deutschland
+Keine Zuordung zu einer Schulart möglich,2008,0,Deutschland
+Keine Zuordung zu einer Schulart möglich,2009,0,Deutschland
+Keine Zuordung zu einer Schulart möglich,2010,0,Deutschland
+Keine Zuordung zu einer Schulart möglich,2011,0,Deutschland
+Keine Zuordung zu einer Schulart möglich,2012,0,Deutschland
+Keine Zuordung zu einer Schulart möglich,2013,0,Deutschland
+Keine Zuordung zu einer Schulart möglich,2014,0,Deutschland
+Keine Zuordung zu einer Schulart möglich,2015,271,Deutschland
