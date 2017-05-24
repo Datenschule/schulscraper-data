@@ -1,491 +1,501 @@
-"name","id","address","website","school_type","school_type_entity","legal_status","fax","phone",""
-"Grundschule ""Heinrich Heine"", Rostock","MV-75130301","Heinrich-Heine-Straße 3, 18119 Rostock","www.gs-heinrich-heine-warnemuende.de ","Grundschule",,,"0381/3755641","0381/52607",
-"Grundschule ""Lütt Matten"", Rostock","MV-75130302","Turkuer Straße 59 a, 18107 Rostock","www.gs-luett-matten.repage5.de ","Grundschule",,,"0381/1284843","0381/713030",
-"Grundschule ""Kleine Birke"", Rostock","MV-75130303","Kopenhagener Straße 3, 18107 Rostock",,"Grundschule",,,"0381/7787404","0381/711123",
-"Grundschule ""Am Mühlenteich"", Rostock","MV-75130305","M.-Gorki-Straße 69, 18106 Rostock","www.gs-muehlenteich.repage2.de ","Grundschule",,,"0381/1284968","0381/7998603",
-"Grundschule Schmarl, Rostock","MV-75130306","St.-Jantzen-Ring 5, 18106 Rostock",,"Grundschule",,,"0381/1217142","0381/1200917",
-"Grundschule ""Am Taklerring"", Rostock","MV-75130308","Taklerring 44, 18109 Rostock",,"Grundschule",,,"0381/1215518","0381/1201063",
-"St. Georg-Grundschule, Rostock","MV-75130311","St.-Georg-Straße 63c, 18055 Rostock","www.stgeorg-grundschule.de ","Grundschule",,,"0381/38141263","0381/38141260",
-"Grundschule am Margaretenplatz, Rostock","MV-75130312","Barnstorfer Weg 21a, 18057 Rostock",,"Grundschule",,,"0381/2032809","0381/4923583",
-"""Werner-Lindemann-Grundschule"", Rostock","MV-75130313","Elisabethstraße 27, 18057 Rostock","www.lindemann-schule.de ","Grundschule",,,"0381/38141083","0381/38141081",
-"Grundschule ""Juri-Gagarin"", Rostock","MV-75130314","Joseph-Herzfeld-Straße  19, 18059 Rostock","www.grundschule-juri-gagarin.de ","Grundschule",,,"0381/4010034","0381/4010033",
-"Grundschule ""Ostseekinder"", Rostock","MV-75130318","W.-Butzek-Straße 23, 18146 Rostock",,"Grundschule",,,"0381/6864879","0381/6864982",
-"""Grundschule an den Weiden"",  Rostock-Toitenwinkel","MV-75130326","P.-Picasso-Straße 44, 18147 Rostock","www.grundschule-toitenwinkel.de ","Grundschule",,,"0381/6668062","0381/697093",
-"Grundschule ""Rudolf Tarnow"", Rostock","MV-75130327","Ratzeburger Straße 9, 18109 Rostock","www.tarnowschule.de ","Grundschule",,,"0381/4405810","0381/715101",
-"Grundschule ""John Brinckman"", Rostock","MV-75130342","V.-Grip-Weg 10a, 18055 Rostock","www.grundschule-brinckmansdorf.de","Grundschule",,,"0381/3643332","0381/695425",
-"Gehlsdorfer Grundschule, Rostock","MV-75130343","Pressentinstraße 82, 18147 Rostock","www.grundschule-gehlsdorf.de","Grundschule",,,"0381/6664522","0381/699276",
-"""Türmchenschule""  Reutershagen, Grundschule","MV-75130357","J.-Schehr-Straße 10, 18069 Rostock","www.tuermchenschule-hro.de","Grundschule",,,"0381/1288834","0381/82013",
-"Grundschule Reutershagen ""Nordwindkinner""","MV-75130358","Mathias-Thesen-Straße 17, 18069 Rostock","www.grundschule-nordwindkinner.de","Grundschule",,,"0381/8087464","0381/8087463",
-"""Schule am Schäferteich"" - Schule mit dem Förderschwerpunkt Lernen - Regionales Förderzentrum Toitenwinkel","MV-75230378","Pablo-Picasso-Straße 45, 18147 Rostock","www.schule-am-schaeferteich.de","Förderschule",,,"0381/6664967","0381/690283",
-"Förderzentrum am Schwanenteich - Schule mit dem Förderschwerpunkt Lernen","MV-75230379","Kuphalstraße 78, 18069 Rostock","www.schuleamschwanenteich.de","Förderschule",,,"0381/8087337","0381/82370",
-"""Heinrich-Hoffmann-Schule"" - Schule mit dem Förderschwerpunkt Unterricht kranker Schülerinnen und Schüler","MV-75230380","Gehlsheimer Straße 20, 18147 Rostock",,"Förderschule",,,"0381/6707152","0381/6707150",
-"Förderzentrum an der Danziger Straße - Schule mit dem Förderschwerpunkt Lernen","MV-75230381","Danziger Straße 45, 18107 Rostock","www.foerderzentrum-danzigerstr.de","Förderschule",,,"0381/7787239","0381/713045",
-"""Schule am Alten Markt"" - Schule mit dem Förderschwerpunkt Sprache","MV-75230383","Alter Markt 1, 18055 Rostock","www.sprachheilschule-rostock.de","Förderschule",,,"0381/38141033","0381/4008350",
-"Schulzentrum Paul-Friedrich-Scheel-Schule - Schule mit dem Förderschwerpunkt körperliche und motorische Entwicklung und Grundschulteil","MV-75230384","Semmelweisstraße 3, 18059 Rostock","www.scheel-schule.de","Förderschule",,,"0381/4403422","0381/440340",
-"""Warnowschule Rostock"" Schule mit dem Förderschwerpunkt geistige Entwicklung\nSchule zur individuellen Lebensbewältigung Rostock","MV-75230385","Helsinkier Straße 20, 18107 Rostock",,"Förderschule",,,"0381/2074940","0381/711429",
-"Förderzentrum am Wasserturm - Schule mit dem Förderschwerpunkt emotionale und soziale Entwicklung","MV-75230388","Blücherstraße 42, 18055 Rostock",,"Förderschule",,,"0381/2079727","0381/712288",
-"Schulcampus Evershagen, Kooperative Gesamtschule","MV-75330361","Thomas-Morus-Straße 1-3, 18106 Rostock","www.schulcampus-rostock.de","Kooperative Gesamtschule",,,"0381/7998862","0381/7998861",
-"Integrierte Gesamtschule ""Borwinschule""","MV-75330372","Am Kabutzenhof 8, 18057 Rostock","www.borwinschule.de","Integrierte Gesamtschule",,,"0381/38141041","0381/2003553",
-"Hundertwasser-Gesamtschule Rostock, Integrierte Gesamtschule","MV-75330374","Sternberger Straße 10, 18109 Rostock","www.hundertwasser-gesamtschule.de","Integrierte Gesamtschule",,,"0381/7691122","0381/711173",
-"""Baltic-Schule"" Toitenwinkel\nIntegrierte Gesamtschule mit Regionaler Schule im Aufbau","MV-75330391","P.-Picasso-Straße 43, 18147 Rostock","www.igs-baltic-schule.de","Integrierte Gesamtschule mit Regionaler Schule im Aufbau",,,"0381/6664536","0381/697092",
-"Gesamtschule Südstadt, Kooperative Gesamtschule","MV-75330392","Mendelejewstraße 12a, 18059 Rostock","www.kooperative-gesamtschule-südstadt.de","Kooperative Gesamtschule",,,"0381/40480014","0381/4048000",
-"Jenaplanschule Rostock, Integrierte Gesamtschule mit Grundschule","MV-75330393","Lindenstraße 3a, 18055 Rostock","www.jenaplan-rostock.de","Integrierte Gesamtschule mit Grundschule",,,"0381/38141091","0381/2007523",
-"Regionale Schule ""Heinrich-Schütz"", Rostock","MV-75430337","H.-Schütz-Straße 10a, 18069 Rostock","www.schuetz-schule-rostock.de","Regionale Schule",,,"0381/8002374","0381/83910",
-"Regionale Schule ""Störtebeker-Schule"", Rostock","MV-75430348","Taklerring 43, 18109 Rostock","www.regionale-stoertebeker-schule.de","Regionale Schule",,,"0381/1215933","0381/1200928",
-"Regionale Schule ""Nordlicht-Schule"", Rostock","MV-75430353","Ratzeburger Straße 9, 18109 Rostock","www.nordlicht-schule.de","Regionale Schule",,,"0381/2074355","0381/711066",
-"Regionale Schule ""Otto-Lilienthal-Schule"", Rostock","MV-75430355","B.-von-Suttner-Ring 1 a, 18147 Rostock","www.lilienthalschule.de","Regionale Schule",,,"0381/6095040","0381/609500",
-"Krusensternschule Rostock, Regionale Schule","MV-75430376","St.-Jantzen-Ring 6, 18106 Rostock","www.krusensternschule.de","Regionale Schule",,,"0381/1214286","0381/1214284",
-"Erasmus-Gymnasium Rostock","MV-75530359","Kopenhagener Straße 3, 18107 Rostock","www.erasmus-ganztagsgymnasium.de","Gymnasium",,,"0381/7998754","0381/7998821",
-"Gymnasium Reutershagen","MV-75530363","Mathias-Thesen-Straße 17, 18069 Rostock","www.gymnasium-reutershagen.de","Gymnasium",,,"0381/8087473","0381/82060",
-"Innerstädtisches Gymnasium Rostock","MV-75530365","Goetheplatz 5, 18055 Rostock","www.isg-rostock.de","Gymnasium",,,"0381/38141013","0381/38141010",
-"Käthe-Kollwitz-Gymnasium Rostock","MV-75530369","Heinrich-Tessenow-Straße 47, 18146 Rostock","www.musikgymnasium-kkg-rostock.de","Gymnasium",,,"0381/6095139","0381/609510",
-"Abendgymnasium Rostock","MV-75530390","Goetheplatz 5, 18055 Rostock","www.abendgymnasiumrostock.de","Abendgymnasium",,,"0381/38141023","0381/38141020",
-"Lessing-Grundschule Bad Doberan","MV-75135101","Beethovenstraße 3, 18209 Bad Doberan","www.lessing-grundschule-baddoberan.de","Grundschule",,,"038203/742299","038203/742290",
-"Grundschule Bentwisch","MV-75135102","Stralsunder Straße 58, 18182 Bentwisch","www.grundschule-bentwisch.de","Grundschule",,,"0381/66673884","0381/66673855",
-"Grundschule Dummerstorf","MV-75135105","Am Feldrain 16, 18196 Dummerstorf",,"Grundschule",,,"038208/82548","038208/280",
-"""Ostsee-Grundschule""  Graal-Müritz","MV-75135107","Ostseering 24, 18181 Graal-Müritz",,"Grundschule",,,"038206/78192","038206/77288",
-"Grundschule ""Am Mühlenberg"" Kröpelin","MV-75135109","Schulstraße 1, 18236 Kröpelin","www.grundchule-kroepelin.de","Grundschule",,,"038292/79847","038292/79846",
-"Grundschule ""Fritz Reuter"" Kühlungsborn","MV-75135111","Hermannstraße 9, 18225 Kühlungsborn","www.grundschule-kborn.de","Grundschule",,,"038293/877295","038293/7767",
-"Grundschule ""Am Hellbach"", Neubukow","MV-75135113","Panzower Weg 23a, 18233 Neubukow","www.grundschule-neubukow.de","Grundschule",,,"038294/16559","038294/78422",
-"Grundschule "" De Likedeeler"", Rövershagen","MV-75135114","Schulstraße 6, 18182 Rövershagen",,"Grundschule",,,"038202/44577","038202/2096",
-"Grundschule Lichtenhagen-Dorf","MV-75135116","Dorfstraße 40, 18107 Lichtenhagen","www.grundschule-lichtenhagen.de","Grundschule",,,"0381/7955281","0381/717125",
-"Grundschule Sanitz","MV-75135117","Groß Lüsewitzer Weg 5, 18190 Sanitz","www.grundschule-sanitz.de","Grundschule",,,"038209/875028","038209/290",
-"Grundschule an der Recknitz, Tessin","MV-75135119","Lange Straße 44, 18195 Tessin",,"Grundschule",,,"038205/13204","038205/13204",
-"Grundschule Blankenhagen","MV-75135121","Schulweg 5, 18182 Blankenhagen","www.gs-blankenhagen.de","Grundschule",,,"038201/60649","038201/847",
-"Grundschule Parkentin","MV-75135125","Rostocker Straße 22, 18209 Parkentin",,"Grundschule",,,"038203/735257","038203/63763",
-"Grundschule an der Carbäk, Broderstorf","MV-75135137","An der Schule 32, 18184 Broderstorf",,"Grundschule",,,"038204/15235","038204/15235",
-"Regenbogenkinder Grundschule Kritzmow","MV-75135138","Schulweg 1d, 18198 Kritzmow","www.regenbogenkinder.grundschule-kritzmow.de","Grundschule",,,"038207/769851","038207/769850",
-"Grundschule Rerik","MV-75135140","Kröpeliner Straße 5, 18230 Rerik","www.grundschule-rerik.de","Grundschule",,,"038296/78235","038296/78237",
-"Grundschule und Freizeithaus am Schlossplatz, Bützow","MV-75135304","Schlossplatz 3, 18246 Bützow",,"Grundschule",,,"038461/911280","038461/52006",
-"Grundschule ""Johann Wolfgang von Goethe"", Gnoien","MV-75135306","Teterower Straße 11 b, 17179 Gnoien","www.grundschule-gnoien.de","Grundschule",,,"039971/30610","039971/12239",
-"2. GS ""Fritz Reuter"", Güstrow","MV-75135309","Wendenstraße 14, 18273 Güstrow","www.fritz-reuter-schule-guestrow.de","Grundschule",,,"03843/218666","03843/213015",
-"1. GS ""G. F. Kersting"", Güstrow","MV-75135310","Heiligengeisthof 4, 18273 Güstrow",,"Grundschule",,,"03843/680627","03843/682304",
-"Grundschule Teterow","MV-75135317","Schulkamp 5, 17166 Teterow","www.grundschule-teterow.de","Grundschule",,,"03996/152853","03996/120640",
-"Grundschule am Schmooksberg, Diekhof","MV-75135331","Karl-Hawermann-Straße 12b, 18299 Diekhof",,"Grundschule",,,"038455/20664","038455/20654",
-"3. GS ""Schule am Hasenwald"", Güstrow","MV-75135335","Hafenstraße 13, 18273 Güstrow",,"Grundschule",,,"03843/683074","03843/684046",
-"Grundschule Lüssow","MV-75135343","Schwaaner Straße 38, 18276 Lüssow",,"Grundschule",,,"03843/219639","03843/214195",
-"Grundschule Warnow","MV-75135347","Mühlenstraße 84, 18249 Warnow",,"Grundschule",,,"038462/28244","038462/24248",
-"Schule mit dem Förderschwerpunkt Lernen Bad Doberan","MV-75235147","Bollhäger Weg 2, 18209 Bad Doberan","www.foerderzentrum-doberan.de","Förderschule",,,"038203/14606","038203/62575",
-"Schule mit den Förderschwerpunkten Lernen und geistige Entwicklung Graal-Müritz","MV-75235148","Dr.-Leber-Straße 14, 18181 Graal-Müritz",,"Förderschule",,,"038206/77813","038206/772 12",
-"Schule mit dem Förderschwerpunkt geistige Entwicklung Bad Doberan","MV-75235151","Ehm-Welk-Straße 26, 18209 Bad Doberan",,"Förderschule",,,"038203/735254","038203/65202",
-"Förderzentrum Bützow - Schule mit dem Förderschwerpunkt Lernen","MV-75235355","Dr.-Winckler-Straße, 18246 Bützow",,"Förderschule",,,"038461/69015","038461/69013",
-"Schule mit dem Förderschwerpunkt Lernen","MV-75235357","Ahornpromenade 1, 18273 Güstrow","www.foerderschule-guestrow.de","Förderschule",,,"03843/245443","03843/331044",
-"Schule mit den Förderschwerpunkten Lernen und geistige Entwicklung","MV-75235358","Niels-Stensen-Straße 4, 17166 Teterow",,"Förderschule",,,"03996/140729","03996/172065",
-"Landesförderzentrum für den Förderschwerpunkt ""Hören"" M-V","MV-75235359","Plauer Chaussee 6, 18273 Güstrow","www.lfz-hoeren-mv.de","Förderschule",,,"03843/831326","03843/83130",
-"""Schulzentrum Kühlungsborn""\nVerb. Regionale Schule und Gymnasium","MV-75335143","Neue Reihe 73a, 18225 Kühlungsborn","www.schulzentrum-kborn.de","Kooperative Gesamtschule",,,"038293/14844","038293/7292",
-"Verb. Regionalschule und Gymnasium Rövershagen - Europaschule","MV-75335145","Köhlerstrat 9, 18182 Rövershagen","www.rsg-roev.de","Kooperative Gesamtschule",,,"038202/36117","038202/36116",
-"RecknitzCampus Laage, Kooperative Gesamtschule mit Grundschule ","MV-75335321","Schulstraße 13, 18299 Laage","www.recknitzcampus.de","Kooperative Gesamtschule mit Grundschule",,,"038459/667829","038459/66780",
-"Regionale Schule Dummerstorf","MV-75435123","Am Feldrain 16, 18196 Dummerstorf","www.regionale-schule-dummerstorf.de","Regionale Schule",,,"038208/60207","038208/594",
-"Regionale Schule mit Grundschule Rethwisch","MV-75435126","Schulstraße 5, 18211 Rethwisch","www.schule-rethwisch.de","Regionale Schule mit Grundschule",,,"038203/81130","038203/81130",
-"Regionale Schule ""Heinrich Schliemann""","MV-75435130","Panzower Weg 38, 18233 Neubukow","www.schliemannschule.de","Regionale Schule",,,"038294/78870","038294/78257",
-"Regionale Schule Sanitz","MV-75435131","John-Brinckman-Straße 16, 18190 Sanitz","www.RegionaleSchuleSanitz.de","Regionale Schule",,,"038209/49868","038209/241",
-"Regionale Schule mit Grundschulteil Schwaan","MV-75435132","Rudolf-Breitscheid-Straße 16, 18258 Schwaan","www.schule-schwaan.de","Regionale Schule mit Grundschule",,,"03844/813736","03844/813695",
-"Regionale Schule ""Anne Frank"", Tessin","MV-75435133","St. Jürgen-Straße 61, 18195 Tessin","www.anne-frank-schule-tessin.de","Regionale Schule",,,"038205/78702","038205/13323",
-"Regionale Schule ""Am Kamp"", Bad Doberan","MV-75435135","Beethovenstraße 1, 18209 Bad Doberan","www.kampschule.de","Regionale Schule",,,"038203/736683","038203/62062",
-"Regionale Schule mit Grundschule  Buchenberg, Bad Doberan","MV-75435136","Ehm-Welk-Straße 24, 18209 Bad Doberan",,"Regionale Schule mit Grundschule",,,"038203/734593","038203/65206",
-"Regionale Schule mit Grundschule ""Warnowschule"", Papendorf","MV-75435139","Schulstraße 5, 18059 Papendorf","www.warnowschule.de","Regionale Schule mit Grundschule",,,"0381/4003902","0381/4000355",
-"Regionale Schule mit Grundschule ""Schule am See"", Satow","MV-75435141","Seestraße 9, 18239 Satow","www.schule-satow.repage8.de","Regionale Schule mit Grundschule",,,"038295/777914","038295/77790",
-"Käthe-Kollwitz-Schule, Regionale Schule, Bützow","MV-75435320","Dr.-Winkler-Straße 1, 18246 Bützow",,"Regionale Schule",,,"038461/52295","038461/2396",
-"2. Regionale Schule ""Richard Wossidlo"", Güstrow","MV-75435322","Trotschestraße 8, 18273 Güstrow","www.wossidloschule-guestrow.de","Regionale Schule",,,"03843/680633","03843/681093",
-"Warbel-Schule Gnoien, Regionale Schule","MV-75435328","Schützenplatz 10, 17179 Gnoien","www.warbel-schule-gnoien.de","Regionale Schule",,,"039971/30611","039971/12117",
-"Regionale Schule mit Grundschule Bernitt","MV-75435330","Schulstraße 7, 18249 Bernitt","www.schule-bernitt.de","Regionale Schule mit Grundschule",,,"038464/22858","038464/20250",
-"5. Regionale Schule ""Schule am Inselsee"", Güstrow","MV-75435333","Werner-Seelenbinder-Straße 1, 18273 Güstrow","www.schule-am-inselsee.de","Regionale Schule mit Grundschule",,,"03843/344567","03843/331142",
-"3. Regionalschule ""Thomas Müntzer"", Güstrow","MV-75435334","Wendenstraße 13, 18273 Güstrow","www.thomas-muentzer-schule-guestrow.de","Regionale Schule",,,"03843/211123","03843/214075",
-"Johann-Heinrich-von-Thünen-Schule \nRegionale Schule mit Grundschule, Jördenstorf","MV-75435338","Klenzer Weg 6, 17168 Jördenstorf",,"Regionale Schule mit Grundschule",,,"039977/30314","039977/30224",
-"Regionale Schule Krakow am See mit Grundschule","MV-75435339","Dobbiner Chaussee 7, 18292 Krakow am See","www.schule-kas.de","Regionale Schule mit Grundschule",,,"038457/22242","038457/22241",
-"Johann-Pogge-Schule, Regionale Schule mit Grundschule, Lalendorf","MV-75435341","Schulstraße 15, 18279 Lalendorf","www.schule-lalendorf.de","Regionale Schule mit Grundschule",,,"038452/22347","038452/20241",
-"Regionale Schule Teterow","MV-75435346","Straße der Freundschaft 5, 17166 Teterow","www.teterow.de","Regionale Schule",,,"03996/158618","03996/158600",
-"Regionale Schule mit Grundschule Zehna","MV-75435348","Dorfstraße 49, 18276 Zehna","www.schule-zehna.de","Regionale Schule mit Grundschule",,,"038458/20234","038458/20214",
-"Friderico-Francisceum, Gymnasium Bad Doberan","MV-75535142","Alexandrinenplatz 11, 18209 Bad Doberan","www.ffg-dbr.de","Gymnasium",,,"038203/17149","038203/62395",
-"Gymnasium Sanitz","MV-75535146","Groß Lüsewitzer Weg 4, 18190 Sanitz","www.gymnasium-sanitz.de","Gymnasium",,,"038209/80493","038209/80492",
-"Geschwister-Scholl-Gymnasium Bützow","MV-75535349","Dr.-Winckler-Straße, 18246 Bützow","www.Gymnasiumbuetzow.de","Gymnasium",,,"038461/52295","038461/4301",
-"Gymnasium ""John Brinckman"", Güstrow","MV-75535351","Am Wall 6, 18273 Güstrow","www.brinckmann.de","Gymnasium",,,"03843/686697","03843/686693",
-"Europaschule Gymnasium Teterow","MV-75535354","Constantin-Kirchhoff-Straße 6, 17166 Teterow","www.egt-mv.de","Gymnasium",,,"03996/120685","03996/120683",
-"Grundschule Balow","MV-75135402","Am Wirtschaftshof 10, 19300 Balow",,"Grundschule",,,"038752/80713","038752/80713",
-"Grundschule ""An den Eichen"", Boizenburg","MV-75135403","R.-Breitscheid-Straße 32, 19258 Boizenburg/Elbe",,"Grundschule",,,"038847/62168","038847/54310",
-"Grundschule Ludwig Reinhard, Boizenburg","MV-75135404","An der Quöbbe 10, 19258 Boizenburg/Elbe","www.ludwig-reinhard-grundschule.de","Grundschule",,,"038847/37880","038847/54322",
-"Grundschule Eldena","MV-75135407","Ludwigsluster Straße 16, 19294 Eldena",,"Grundschule",,,"038755 33533","038755/20257",
-"Grundschule Gammelin","MV-75135408","Schulstraße 5, 19230 Gammelin",,"Grundschule",,,"038850/443","038850/427",
-"Grundschule ""Eldekinder"", Grabow","MV-75135410","Hufenweg 2a, 19300 Grabow","www.grundschule-eldekinder.de","Grundschule",,,"038756/28968","038756/28961",
-"Grundschule Kummer","MV-75135412","Schulstraße 5a, 19288 Kummer","www.grundschule-kummer.de","Grundschule",,,"038751/339800","038751/20712",
-"Grundschule ""Fritz Reuter"", Ludwigslust","MV-75135415","Kanalstraße 26, 19288 Ludwigslust","www.grundschule-ludwigslust.de","Grundschule",,,"03874/6637941","03874/23101",
-"Grundschule Malliß","MV-75135418","Schulstraße 1, 19294 Malliß",,"Grundschule",,,"038750/22490","038750/20021",
-"Grundschule ""Viktor Bausch"", Neu Kaliß","MV-75135419","Schulstraße 29, 19294 Neu Kaliß",,"Grundschule",,,"038758/36632","038758/26270",
-"Grundschule J. W. v. Goethe"", Neustadt-Glewe","MV-75135420","Ernst-Thälmann-Straße 22, 19306 Neustadt-Glewe",,"Grundschule",,,"038757/22825","038757/55430",
-"Grundschule Pampow","MV-75135422","Fährweg 8, 19075 Pampow","www.grundschule-pampow.de","Grundschule",,,"03865/787912","03865/787910",
-"Grundschule Ludwigslust","MV-75135424","Schulstraße 5, 19288 Ludwigslust","www.grundschule-techentin.de","Grundschule",,,"03874/444060","03874/22405",
-"Grundschule ""Boizetal"" Gresse","MV-75135439","Zarrentiner Straße 14, 19258 Gresse","www.grundschule-gresse.de","Grundschule",,,"038842/21281","038842/21204",
-"GS ""Mühlenteich"", Hagenow","MV-75135442","Schulstraße 5, 19230 Hagenow","www.stadtschule-hagenow.de","Grundschule",,,"03883/614525","03883/61450",
-"Grundschule Wöbbelin","MV-75135450","Neue Straße 18, 19288 Wöbbelin",,"Grundschule",,,"038753/80791","038753/80791",
-"Grundschule ""Am Friedensring"", Wittenburg","MV-75135452","Friedensring 70, 19243 Wittenburg",,"Grundschule",,,"038852/53541","038852/52220",
-"Grundschule ""Dr. Otto Steinfatt"", Wittenförden","MV-75135453","Schulstraße 4, 19073 Wittenförden",,"Grundschule",,,"0385/6470742","0385/6470226",
-"Grundschule Brüel","MV-75136001","Vogelstangenberg 6, 19412 Brüel",,"Grundschule",,,"038483/293013","038483/293010",
-"Grundschule ""Wilhelm Busch"", Cambs","MV-75136002","Retgendorfer Weg 26, 19067 Cambs","www.grundschule-cambs.de","Grundschule",,,"03866/839369","03866/369",
-"Grundschule ""Fritz Reuter"", Crivitz","MV-75136003","Schulstraße 1, 19089 Crivitz","www.grundschule-crivitz.de","Grundschule",,,"03863/502097","03863/333540",
-"Grundschule Dabel","MV-75136005","Am Mattenstieg 1K, 19406 Dabel",,"Grundschule",,,"038458/50402","038485/20242",
-"Grundschule Domsühl","MV-75136007","Parchimer Straße 39, 19374 Domsühl","www.Grundschule.Domsuehl.de","Grundschule",,,"038728/22565","038728/22547",
-"Grundschule Groß Godems","MV-75136008","Lange Straße 15, 19372 Groß Godems",,"Grundschule",,,"038725/55443","038725/20282",
-"ORI-Grundschule Leezen","MV-75136009","Lindenallee 10, 19067 Leezen","www.ori-grundschule-leezen.de","Grundschule",,,"03866/470247","03866/284",
-"Grundschule Lübz","MV-75136010","Schützenstraße 35, 19386 Lübz","www.grundschule-luebz.de","Grundschule",,,"038731/22725","038731/22725",
-"Grundschule Matzlow","MV-75136012","Parchimer Straße 9, 19372 Matzlow","www.gs.matzlow.de","Grundschule",,,"038726/22874","038726/80101",
-"Grundschule Mestlin","MV-75136013","Marx-Engels-Platz 2, 19374 Mestlin",,"Grundschule",,,"038727/81337","038727/81337",
-"Grundschule ""Adolf Diesterweg"", Parchim","MV-75136014","Mönchhof 7, 19370 Parchim",,"Grundschule",,,"03871/602854","03871/212709",
-"Grundschule ""West"", Parchim","MV-75136015","Hans-Beimler-Straße 24b, 19370 Parchim","www.grundschulewest-parchim.de","Grundschule",,,"03871/421288","03871/441006",
-"Grundschule ""Goethe"", Parchim","MV-75136016","Wallallee 1, 19370 Parchim",,"Grundschule",,,"03871/6069729","03871/602756",
-"Grundschule ""Kantor Carl Ehrich"", Plau am See","MV-75136018","Lange Straße 25, 19395 Plau am See","www.gs-kantor-carl-ehrich.de","Grundschule",,,"038735/49608","038735/44320",
-"Grundschule ""Alexander Behm"", Sternberg","MV-75136021","Finkenkamp 17, 19406 Sternberg","www.grundschule-sternberg.de","Grundschule",,,"03847/311951","03847/2622",
-"Grundschule Sukow","MV-75136023","Hauptstraße 16, 19079 Sukow","www.grundschule-sukow.de","Grundschule",,,"03861/302026","03861/2701",
-"Grundschule Passow","MV-75136033","Charlottenhofer Weg 57A, 19386 Passow",,"Grundschule",,,"038731/20987","038731/24036",
-"Grundschule Plate","MV-75136034","Fr.-Wehmer-Straße 52, 19086 Plate","www.naturgrundschule-plate.de","Grundschule",,,"03861/300891","03861/2024",
-"Grundschule ""John Brinckman"", Goldberg","MV-75136054","Schützenplatz 2, 19399 Goldberg",,"Grundschule",,,"038736/40834","038736/40756",
-"Förderschule mit den Förderschwerpunkten Lernen und geistige Entwicklung Boizenburg","MV-75235463","Theodor-Körner-Straße 5, 19258 Boizenburg/Elbe","www.schule-bzbg.de","Förderschule",,,"038847/297927","038847/297920",
-"Diesterwegschule Hagenow; Schule mit dem Förderschwerpunkt Lernen","MV-75235465","Bahnhofstraße 130, 19230 Hagenow",,"Förderschule",,,"03883/727042","03883/727042",
-"Förderschule ""Johann-Heinrich-Pestalozzi"" Ludwigslust; Schule mit dem Förderschwerpunkt Lernen","MV-75235466","J.-Gillhoff-Straße 17, 19288 Ludwigslust",,"Förderschule",,,"03874/666801","03874/22029",
-"Förderschule mit dem Förderschwerpunkt geistige Entwicklung Hagenow","MV-75235469","Bahnhofstraße 132, 19230 Hagenow",,"Förderschule",,,"03883/641456","03883/724101",
-"Schule an der Bleiche Ludwigslust; Schule mit dem Förderschwerpunkt geistige Entwicklung","MV-75235470","Fr.-Naumann-Allee 37, 19288 Ludwigslust",,"Förderschule",,,"03874/3206669","03874/21922",
-"Schule am Neuen Teich Lübz - Schule mit dem Förderschwerpunkt Lernen","MV-75236063","Neuer Teich 1, 19386 Lübz",,"Förderschule",,,"038731/21192","038731/22838",
-"Pestalozzischule - Schule mit dem Förderschwerpunkt Lernen, Parchim","MV-75236064","Brunnenstraße 21, 19370 Parchim",,"Förderschule",,,"03871/451414","03871/212796",
-"Schule am Alten Hafen Parchim - Schule mit dem Förderschwerpunkt geistige Entwicklung","MV-75236065","Ziegendorfer Chaussee 11, 19370 Parchim","www.sfg-parchim.de","Förderschule",,,"03871/4689873","03871/443132",
-"Schule mit den Förderschwerpunkten Lernen und geistige Entwicklung Sternberg","MV-75236067","Am Berge 3a, 19406 Sternberg",,"Förderschule",,,"03847/435333","03847/435330",
-"Gymnasiales Schulzentrum ""Felix Stillfried"", Stralendorf","MV-75335447","Schulstraße 4, 19073 Stralendorf","www.schulzentrum-stralendorf.de","Kooperative Gesamtschule mit Grundschule",,,"03869/7809809","03869/7437",
-"Gymnasiales Schulzentrum ""Fritz Reuter"" Dömitz","MV-75335456","Roggenfelder Straße 30A, 19303 Dömitz","www.schulzentrum-doemitz.de","Kooperative Gesamtschule mit Grundschule und Förderschule",,,"038758/3554100","038758/35540",
-"Gymnasiales Schulzentrum Wittenburg","MV-75335462","Lindenstraße 13, 19243 Wittenburg","www.schulzentrum-wittenburg.de","Kooperative Gesamtschule",,,"038852/52500","038852/8080",
-"Verbundene Regionale Schule und Gymnasium Sternberg","MV-75336062","Seestraße 1a, 19406 Sternberg","www.kgs-sternberg.de","Kooperative Gesamtschule",,,"03847/4353443","03847/435340",
-"Regionale Schule Friedrich Rohr, Grabow","MV-75435431","Prislicher Straße 23, 19300 Grabow","www.regionale-schule-grabow.de","Regionale Schule",,,"038756/22353","038756/22352",
-"Regionale Schule ""P. J. Lenné"", Ludwigslust","MV-75435433","Rennbahnweg 1, 19288 Ludwigslust","www.lenne-schule-ludwigslust.de","Regionale Schule",,,"03874/665230","03874/29162",
-"Regionale Schule mit Grundschule ""Lindenschule"", Lübtheen","MV-75435434","Rudolf-Breitscheid-Straße 30, 19249 Lübtheen",,"Regionale Schule mit Grundschule",,,"038855/785189","038855/785180",
-"Regionale Schule Malliß","MV-75435435","Schulstraße 1, 19294 Malliß","www.malliss.com","Regionale Schule",,,"038750/22490","038750/20292",
-"Regionale Schule ""Karl-Scharfenberg-Schule"", \nNeustadt-Glewe","MV-75435437","Laascher Straße 57, 19306 Neustadt-Glewe",,"Regionale Schule",,,"038757/33114","038757/33113",
-"Regionale Schule ""Rudolf Tarnow"", Boizenburg","MV-75435438","R.-Markmann-Straße 59, 19258 Boizenburg/Elbe","www.tarnow-schule-boizenburg.de","Regionale Schule",,,"038847/624870","038847/54312",
-"Regionale Schule ""Prof. Dr. Friedrich Heincke"", Hagenow","MV-75435441","Möllner Straße 12, 19230 Hagenow","www.rs-2-hgn.de","Regionale Schule",,,"03883/618555","03883/723012",
-"Regionale Schule mit Grundschule ""Europaschule"", Hagenow","MV-75435443","Kießender Ring 6, 19230 Hagenow","www.europaschule-hagenow.eu","Regionale Schule mit Grundschule",,,"03883/724943","03883/721029",
-"Regionale Schule mit Grundschule ""Theodor Körner"", Picher","MV-75435445","Hagenower Straße 7a, 19230 Picher","www.schulepicher.eu","Regionale Schule mit Grundschule",,,"038751/21203","038751/20234",
-"Regionale Schule mit Grundschule ""Dr. Ernst Alban"", Rastow","MV-75435446","Schulstraße 5, 19077 Rastow","www.schule-rastow.de","Regionale Schule mit Grundschule",,,"03868/292","03868/300683",
-"Regionale Schule mit Grundschule, Vellahn","MV-75435449","Schulstraße 2, 19260 Vellahn","www.vellahn-regionale-schule.de","Regionale Schule mit Grundschule",,,"038848/22418","038848/20209",
-"Regionale Schule mit Grundschule ""Fritz Reuter"", Zarrentin","MV-75435454","Rosenstraße 27, 19246 Zarrentin","www.schule-zarrentin.de","Regionale Schule mit Grundschule",,,"038851/81131","038851/81130",
-"Regionale Schule ""J. W. v. Goethe"", Parchim","MV-75436031","Wallallee 1, 19370 Parchim","www.goetheschule-parchim.de","Regionale Schule",,,"03871/212424","03871/4226590",
-"Regionale Schule Brüel","MV-75436035","Vogelstangenberg 6, 19412 Brüel","www.regionale-schule-brueel.de","Regionale Schule",,,"038483/293013","038483/293030",
-"Regionale Schule ""Am Mühlenberg"", Cambs","MV-75436036","Retgendorfer Weg 24, 19067 Cambs",,"Regionale Schule",,,"03866/80719","03866/326",
-"Regionale Schule Crivitz","MV-75436037","Straße der Freundschaft 19 a, 19089 Crivitz","www.regionalschule-crivitz.de","Regionale Schule",,,"03863/502422","03863/50240",
-"Regionale Schule ""Eldetalschule"", Domsühl","MV-75436040","Parchimer Straße 39, 19374 Domsühl","www.eldetalschule.de","Regionale Schule",,,"038728/22565","038728/20236",
-"Regionale Schule Lübz","MV-75436041","Schützenstraße 35, 19386 Lübz","www.regionale-schule-luebz.de","Regionale Schule",,,"038731/36606","038731/22602",
-"Regionale Schule mit Grundschule Marnitz","MV-75436042","Mooster Straße 10, 19376 Marnitz","www.schule-marnitz.de","Regionale Schule mit Grundschule",,,"038729/29099","038729/29097",
-"Regionale Schule ""Fritz Reuter"", Parchim","MV-75436045","Mönchhof 6, 19370 Parchim","www.fritzreuterschule-pch.de","Regionale Schule",,,"03871/450320","03871/212818",
-"Regionale Schule Schule ""Am Klüschenberg"", Plau am See","MV-75436047","Wittstocker Weg 10c, 19395 Plau am See","www.schule-plau.de","Regionale Schule",,,"038735/41153","038735/40884",
-"Regionale Schule Banzkow","MV-75436051","An der Lewitzmühle 82, 19079 Banzkow","www.schule-banzkow.de","Regionale Schule",,,"03861/302604","03861/7101",
-"Regionale Schule ""Walter Husemann"", Goldberg","MV-75436055","J.-Brinckman-Straße 39, 19399 Goldberg","www.whs-goldberg.de","Regionale Schule",,,"038736/42640","038736/41805",
-"Gymnasium ""Elbe-Gymnasium"", Boizenburg","MV-75535455","Ludwig-Reinhard-Straße 21, 19258 Boizenburg/Elbe","www.elbe-gymnasium.de","Gymnasium",,,"038847/8111","038847/8110",
-"Robert-Stock-Gymnasium, Hagenow","MV-75535458","Möllner Straße 14, 19230 Hagenow","www.rsg-hgn.de","Gymnasium",,,"03883/66106","03883/66105",
-"Goethe-Gymnasium, Ludwigslust","MV-75535459","Christian-Ludwig-Straße 3, 19288 Ludwigslust","www.gymnasium-ludwigslust.de","Gymnasium",,,"03874/428020","03874/42800",
-"Gymnasium Am Sonnenberg, Crivitz","MV-75536059","Am Sonnenberg 1, 19089 Crivitz","www.gymcrivitz.de","Gymnasium",,,"03863/5424111","03863/54240",
-"Gymnasium ""Eldenburg"", Lübz","MV-75536060","Blücher Straße 22a, 19386 Lübz","www.eldenburg-gymnasium.de","Gymnasium",,,"038731/20016","038731/22686",
-"Friedrich-Franz-Gymnasium, Parchim","MV-75536061","Ziegendorfer Chaussee 71/74, 19370 Parchim","www.gymnasium-parchim.de","Gymnasium",,,"03871/444159","03871/441010",
-"Grundschule  Mitte ""Uns Hüsung"", Neubrandenburg","MV-75130201","Katharinenstraße 1, 17033 Neubrandenburg","www.gs-mitte-nb.de ","Grundschule",,,"0395/5551151","0395/5551101",
-"Grundschule Süd, Neubrandenburg","MV-75130203","Werner-Seelenbinder-Straße 1, 17033 Neubrandenburg",,"Grundschule",,,"0395/5551770","0395/5551765",
-"Grundschule  Ost ""H. Ch. Andersen"" Europaschule, Neubrandenburg","MV-75130205","Robert-Koch-Straße 52, 17036 Neubrandenburg",,"Grundschule",,,"0395/5551197","0395/5551188",
-"Grundschule Datzeberg, Neubrandenburg","MV-75130210","Rasgrader Straße 4, 17034 Neubrandenburg","www.gs-datzeberg.de ","Grundschule",,,"0395/5551709","0395/5551701",
-"Grundschule Nord ""Am Reitbahnsee"", Neubrandenburg","MV-75130211","Traberallee 18, 17034 Neubrandenburg",,"Grundschule",,,"0395/5551951","0395/5551941",
-"Grundschule West ""Am See"", Neubrandenburg","MV-75130213","Dükerweg 2, 17033 Neubrandenburg","www.gs-west-am-see.de ","Grundschule",,,"0395/5551175","0395/5551141",
-"Grundschule Altentreptow","MV-75135201","Karlsplatz 7, 17087 Altentreptow",,"Grundschule",,,"03964/212937","03961/212936",
-"Grundschule Dargun","MV-75135202","Am Sportplatz 18, 17159 Dargun","www.schulen-dargun.de","Grundschule",,,"039959/27960","039959/20353",
-"Grundschule ""Heinrich Zille"", Demmin","MV-75135203","Am Klinkenberg 2, 17109 Demmin","www.gsheinrichzille.homepage.t-online.de","Grundschule",,,"03998/2585855","03998/222055",
-"Grundschule Mölln","MV-75135210","Schulstraße 1, 17091 Mölln",,"Grundschule",,,"039602/20615","039602/20615",
-"Grundschule ""Pestalozzi"", Malchin","MV-75135211","Schulplatz 3-4, 17139 Malchin",,"Grundschule",,,"03994/299016","03994/299015",
-"Grundschule Sarow","MV-75135213","Dorfstraße 77, 17111 Sarow",,"Grundschule",,,"039996/70310","039996/70310",
-"Fritz-Reuter-Grundschule, Stavenhagen","MV-75135214","Goethestraße 14, 17153 Stavenhagen",,"Grundschule",,,"039954/276817","039954/276812",
-"Grundschule Schönfeld","MV-75135226","Dorfstraße 23, 17111 Schönfeld",,"Grundschule",,,"039994/10249","039994/10249",
-"Grundschule Burow ","MV-75135233","Schulstraße 4, 17089 Burow",,"Grundschule",,,"03965/210369","03965/210369",
-"Grundschule Gielow","MV-75135234","Straße der Einheit 58, 17139 Gielow",,"Grundschule",,,"039957/20442","039957/20442",
-"Grundschule Jürgenstorf","MV-75135236","Birkenweg 2, 17153 Jürgenstorf",,"Grundschule",,,"039955/20231","039955/20231",
-"Grundschule ""Kletterrose"", Burg Stargard","MV-75135503","Klüschenberg 17, 17094 Burg Stargard","www.grundschule-kletterrose.de","Grundschule",,,"039603/27923","039603/27924",
-"Grundschule Friedland","MV-75135507","Wollweberstraße 59, 17098 Friedland",,"Grundschule",,,"039601/369809","039601/21103",
-"Grundschule Regenbogen, Mirow ","MV-75135510","Leussower Weg 9a, 17252 Mirow","www.grundschule-mirow.de","Grundschule",,,"039833/27576","039833/20271",
-"Grundschule Kiefernheide, Neustrelitz","MV-75135513","Pestalozzistraße 6, 17235 Neustrelitz",,"Grundschule",,,"03981/441827","03981/442906",
-"Grundschule ""Zum Wasserturm"", Neverin","MV-75135514","Dorfstraße 30, 17039 Neverin","www.gsneverin.de","Grundschule",,,"039608/20098","039608/20503",
-"Grundschule Am Sandberg, Neustrelitz","MV-75135524","Sandberg 48, 17235 Neustrelitz",,"Grundschule",,,"03981/238156","03981/238155",
-"Grundschule Pappelhain, Groß Miltzow","MV-75135533","Schulstraße 10, 17349 Groß Miltzow",,"Grundschule",,,"03967/410299","03967/410293",
-"Grundschule  ""Daniel Sanders"", Neustrelitz","MV-75135547","Bachstraße 9, 17235 Neustrelitz",,"Grundschule",,,"03981/441896","03981/441896",
-"Grundschule ""Uns lütt Schaul"", Kargow","MV-75135602","Federower Straße 12, 17192 Kargow",,"Grundschule",,,"03991/670040","03991/670040",
-"Grundschule Moltzow","MV-75135603","Schulstraße 22, 17194 Moltzow",,"Grundschule",,,"039933/73584","039933/73588",
-"Grundschule Röbel","MV-75135607","Schulstraße 20, 17207 Röbel/Müritz",,"Grundschule",,,"039931/54285","039931/52234",
-"Grundschule Rechlin","MV-75135608","Schulstraße, 17248 Rechlin","www.grundschule-rechlin.de","Grundschule",,,"039823/21829","039823/21204",
-"Grundschule ""Käthe Kollwitz"", Waren","MV-75135610","Geschwister-Scholl-Straße 31, 17192 Waren (Müritz)",,"Grundschule",,,"03991/182866","03991/125645",
-"Grundschule ""Am Papenberg"", Waren","MV-75135611","Bgm.-Schlaaff-Straße 26, 17192 Waren (Müritz)","www.grundschule-am-papenberg.de","Grundschule",,,"03991/667717","03991/665740",
-"Grundschule Altenhof","MV-75135618","Schulstraße 13, 17209 Altenhof",,"Grundschule",,,"039924/2443","039924/2443",
-"Grundschule Groß Plasten","MV-75135621","Neue Straße 32, 17192 Groß Plasten","www.grundschule-plasten.de","Grundschule",,,"039934/87324","039934/87605",
-"Grundschule ""Goethe"", Malchow","MV-75135625","Kirchstraße 23-25, 17213 Malchow","www.goetheschule-malchow-mecklenburg.de","Grundschule",,,"039932/47958","039932/18523",
-"Grundschule Wredenhagen","MV-75135631","Am Burgberg 1, 17209 Wredenhagen","www.grundschule-wredenhagen.de","Grundschule",,,"039925/2246","039925/2234",
-"Schule mit dem Förderschwerpunkt Lernen sowie emotionale und soziale Entwicklung Neubrandenburg ""Pestalozzischule"" \n- Förderzentrum -","MV-75230235","Ziegelbergstraße 27, 17033 Neubrandenburg",,"Förderschule",,,"0395/599991309","0395/599991302",
-"Schule mit dem Förderschwerpunkt Sprache Neubrandenburg - Sprachheilpädagogisches Förderzentrum","MV-75230236","Baumhaselstraße 10-12, 17033 Neubrandenburg","www.sprachheilschule-nb.de","Förderschule",,,"0395/3797479","0395/3699203",
-"Überregionales Förderzentrum mit dem Förderschwerpunkt körperliche-motorische Entwicklung, Neubrandenburg","MV-75230237","Robert-Blum-Straße 36, 17033 Neubrandenburg","www.uefz-neubrandenburg.de","Förderschule",,,"0395/5639515","0395/5639511",
-"Schule mit dem Förderschwerpunkt geistige Entwicklung Neubrandenburg ""Kranichschule""","MV-75230238","B.-Brecht-Straße 1a, 17034 Neubrandenburg","www.kranichschule.com","Förderschule",,,"0395/4308040","0395/4308016",
-"Lea-Toll-Schule - Schule mit dem Förderschwerpunkt Lernen, Altentreptow","MV-75235248","Poststraße 1, 17087 Altentreptow",,"Förderschule",,,"03961/216441","03961/214417",
-"Schule mit dem Förderschwerpunkt Lernen, Demmin","MV-75235249","Saarstraße 23, 17109 Demmin",,"Förderschule",,,"03998/258006","03998/222010",
-"""Sonderpädagogisches Förderzentrum - Lindenschule"" - Schule mit dem Förderschwerpunkt Lernen, Malchin","MV-75235250","Lindenstraße 6, 17139 Malchin","www.foerderzentrum-lindenschule-malchin.de","Förderschule",,,"03994/239853","03994/222209",
-"Schule mit dem Förderschwerpunkt geistige Entwicklung, Altentreptow","MV-75235251","Westphalstraße 3, 17087 Altentreptow",,"Förderschule",,,"03961/262555","03961/214664",
-"Schule Sonnenhof - Schule mit dem Förderschwerpunkt geistige Entwicklung, Demmin","MV-75235252","Quitzerower Weg 31, 17109 Demmin",,"Förderschule",,,"03998/259964","03998/222004",
-"Schule ""Am Wedenhof""- Schule mit dem Förderschwerpunkt geistige Entwicklung, Malchin","MV-75235253","Am Wedenhof 6, 17139 Malchin",,"Förderschule",,,"03994/239426","03994/222365",
-"Sonderpädagogisches Förderzentrum - Schule mit Förderschwerpunkt Lernen, Friedland","MV-75235544","A.-Bebel-Platz 17, 17098 Friedland",,"Förderschule",,,"039601/20574","039601/20573",
-"Sonderpädagogisches Förderzentrum - Schule mit Förderschwerpunkt Lernen, Neustrelitz","MV-75235545","Hittenkofer Straße 28, 17235 Neustrelitz",,"Förderschule",,,"03981/205446","03981/205449",
-"Tom-Mutters-Schule - Schule mit Förderschwerpunkt geistige Entwicklung, Neustrelitz","MV-75235546","Höhenstraße 51, 17235 Neustrelitz",,"Förderschule",,,"03981/443494","03981/443492",
-"Mosaik-Schule - Schule mit Förderschwerpunkt geistige Entwicklung","MV-75235548","Schulstraße 11, 17349 Holzendorf",,"Förderschule",,,"03967/461856","03967/461855",
-"Förderschule Röbel - Schule mit dem Förderschwerpunkt Lernen","MV-75235637","Warener Chaussee 4, 17207 Röbel/Müritz",,"Förderschule",,,"039931/52262","039931/52262",
-"Förderzentrum ""Pestalozzi"" Waren - Schule mit dem Förderschwerpunkt Lernen","MV-75235638","Karl-Liebknecht-Straße 8, 17192 Waren (Müritz)","www.blog-foerderzentrum-waren.de","Förderschule",,,"03991/187074","03991/125433",
-"Müritz-Schule Sietow - Schule mit dem Förderschwerpunkt geistige Entwicklung","MV-75235639","Neubaustraße 14, 17209 Sietow",,"Förderschule",,,"039931/84523","039931/8450",
-"Gesamtschule ""Vier Tore"", Integrierte Gesamtschule, Neubrandenburg","MV-75330233","Geschwister-Scholl-Straße 14, 17033 Neubrandenburg",,"Integrierte Gesamtschule",,,"0395/599991109","0395/599991100",
-"Kooperative Gesamtschule mit gymnasialer Oberstufe, Altentreptow","MV-75335243","Pestalozzistraße 1, 17087 Altentreptow","www.kgs-altentreptow.de","Kooperative Gesamtschule",,,"03961/215513","03961/215512",
-"Reuterstädter Gesamtschule - Europaschule -\nKooperative Gesamtschule, Stavenhagen","MV-75335247","Straße am Wasserturm 1, 17153 Stavenhagen","www.kgs-stavenhagen.de","Kooperative Gesamtschule",,,"039954/27181","039954/22043",
-"Kooperative Gesamtschule mit gymnasialer Oberstufe, Friedland","MV-75335537","Dr. Karl-Bayer-Straße 4, 17098 Friedland","www.nfg24.de","Kooperative Gesamtschule",,,"039601/29124","039601/2910",
-"Integrierte Gesamtschule ""Walter Karbe""","MV-75335541","Lessingstraße 27, 17235 Neustrelitz","www.gesamtschule-neustrelitz.de","Integrierte Gesamtschule",,,"03981/455999","03981/455991",
-"Fleesenseeschule Malchow - Verbundene Regionale Schule und Gymnasium","MV-75335614","Schulstraße 3, 17213 Malchow","www.fleesenseeschule.de","Kooperative Gesamtschule",,,"039932/16633","039932/1660",
-"Schulcampus Röbel, Verbundene Regionale Schule und Gymnasium","MV-75335616","Gotthunskamp 13, 17207 Röbel/Müritz","www.schulcampus-roebel.de","Kooperative Gesamtschule",,,"039931/52206  ","039931/52202",
-"Regionale Schule Mitte  ""Fritz Reuter"", Neubrandenburg","MV-75430216","Katharinenstraße 1, 17033 Neubrandenburg","www.myfritz-reuter-schule.de","Regionale Schule",,,"0395/5551173","0395/5551201",
-"Regionale Schule ""Am Lindetal"", Neubrandenburg","MV-75430219","Kopernikusstraße 4, 17036 Neubrandenburg",,"Regionale Schule",,,"0395/5551641","0395/5551632",
-"Regionale Schule Nord, Neubrandenburg","MV-75430225","Dükerweg 2, 17033 Neubrandenburg",,"Regionale Schule",,,"0395/5551175","0395/5551141",
-"Regionale Schule Siegfried Marcus, Malchin","MV-75435221","Rudolf-Fritz-Straße 8a, 17139 Malchin",,"Regionale Schule",,,"03994/222219","03994/222277",
-"Regionale Schule mit Grundschule Pestalozzi, Demmin","MV-75435222","Schützenstraße 1, 17109 Demmin","www.pestalozzi-schule-demmin.de","Regionale Schule mit Grundschule",,,"03998/271115","03998/271111",
-"Regionale Schule Dargun","MV-75435227","Am Sportplatz 18, 17159 Dargun","www.schulen-dargun.de","Regionale Schule",,,"039959/27960","039959/20278",
-"Regionale Schule ""Fritz Reuter"", Demmin","MV-75435229","Frauenstraße 18, 17109 Demmin",,"Regionale Schule",,,"03998/222072","03998/222072",
-"Regionale Schule mit Grundschule Tützpatz","MV-75435242","Waldstraße 6, 17091 Tützpatz",,"Regionale Schule mit Grundschule",,,"039600/20518","039600/21272",
-"Regionale Schule ""J. Nehru"", Neustrelitz","MV-75435523","Tiergartenstraße 32, 17235 Neustrelitz","www.nehru-schule.de","Regionale Schule",,,"03981/238620","03981/23860",
-"Regionale Schule mit Grundschule Woldegk","MV-75435529","Wollweberstraße 27, 17348 Woldegk","www.schulewoldegk.de","Regionale Schule mit Grundschule",,,"03963/210505","03963/210302",
-"Regionale Schule mit Grundschule ""Am Kirschgarten"", Blankensee","MV-75435531","Schulstraße 12, 17237 Blankensee",,"Regionale Schule mit Grundschule",,,"039826/12406","039826/12405",
-"Regionale Schule mit Grundschule Wesenberg","MV-75435536","In den Wällen 9a, 17255 Wesenberg","www.wesenberg-schule.de","Regionale Schule mit Grundschule",,,"039832/20510","039832/20345",
-"Regionale Schule Burg Stargard","MV-75435542","Klüschenbergstraße 13, 17094 Burg Stargard","www.regs-burg-stargard.de","Regionale Schule",,,"039603/22915","039603/20312",
-"Regionale Schule mit Grundschule ""Hans Fallada"", Feldberg","MV-75435543","Bahnhofstraße 5, 17258 Feldberg","www.schule-feldberg.de","Regionale Schule mit Grundschule",,,"039831/22149","039831/21619",
-"Regionale Schule mit Grundschule Penzlin","MV-75435615","Hirtenstraße 12, 17217 Penzlin","www.voss-schule-penzlin.de","Regionale Schule mit Grundschule",,,"03962/210233","03962/210232",
-"Regionale Schule Rechlin","MV-75435617","Neuer Markt 28, 17248 Rechlin","www.schule-rechlin.de","Regionale Schule",,,"039823/21470","039823/21216",
-"Regionale Schule ""Heinrich Schliemann"", Möllenhagen","MV-75435624","Am Markt 10, 17219 Möllenhagen","www.schule-moellenhagen.de","Regionale Schule",,,"039928/80220","039928/80212",
-"Regionale Schule ""Friedrich Dethloff"", Waren","MV-75435630","Kirschenweg 2, 17192 Waren (Müritz)","www.fds-waren.de","Regionale Schule",,,"03991/640219","03991/64020",
-"Regionale Schule Waren","MV-75435636","Friedrich-Engels-Platz 10, 17192 Waren (Müritz)",,"Regionale Schule",,,"03991/168960","03991/168918",
-"Albert-Einstein-Gymnasium, Neubrandenburg","MV-75530227","Demminer Straße 42, 17034 Neubrandenburg","www.aeg-nb.de","Gymnasium",,,"0395/599991616","0395/599991600",
-"Sportgymnasium Neubrandenburg","MV-75530232","Schwedenstraße 22, 17033 Neubrandenburg","www.sgnb.de","Gymnasium",,,"0395/599991816","0395/599991800",
-"Abendgymnasium Neubrandenburg","MV-75530240","Demminer Straße 42, 17034 Neubrandenburg","www.abendgymnasium-nb.de","Abendgymnasium",,,"0395/599991623","0395/599991621",
-"Goethe-Gymnasium - Musikgymnasium - Demmin","MV-75535244","An der Mühle 7, 17109 Demmin","www.musikgymnasium-demmin.de","Gymnasium",,,,"03998/222067",
-"Fritz-Greve-Gymnasium Malchin","MV-75535246","Am Zachow 39, 17139 Malchin","www.gymnasium-malchin.de","Gymnasium",,,"03994/2999886","03994/227205",
-"Gymnasium Carolinum, Neustrelitz","MV-75535539","Louisenstraße 30, 17235 Neustrelitz","www.carolinum.de","Gymnasium",,,"03981/286730","03981/286710",
-"Richard-Wossidlo-Gymnasium","MV-75535635","Güstrower Straße 11, 17192 Waren (Müritz)",,"Gymnasium",,,"03991/747727","03991/74770",
-"Grundschule ""Seeblick"", Wismar","MV-75130601","Anton-Saefkow-Straße 9, 23968 Wismar","www.seeblick-grundschule-wismar.de","Grundschule",,,"03841/6189789","03841/636695",
-"Grundschule ""Rudolf Tarnow"", Wismar","MV-75130602","Tallinner Straße 01, 23970 Wismar","www.rudolf-tarnow-grundschule.de","Grundschule",,,"03841/224188","03841/282022",
-"Grundschule ""Fritz Reuter"", Wismar","MV-75130603","Dahlmannstraße 14, 23966 Wismar","www.fritz-reuter-schule-wismar.de","Grundschule",,,"03841/395359","03841/283064",
-"Grundschule ""Friedenshof"", Wismar","MV-75130604","H.-Rothbarth-Straße 1 a, 23966 Wismar","www.grundschule-am-friedenshof.de","Grundschule",,,"03841/326261","03841/707527",
-"Grundschule Carlow","MV-75135802","Schulstraße 08, 19217 Carlow",,"Grundschule",,,"038873/33475","038873/20264",
-"Grundschule Dorf Mecklenburg","MV-75135804","Karl-Marx-Straße 13, 23972 Dorf Mecklenburg",,"Grundschule",,,"03841/333989","03841/795924",
-"Grundschule ""Fritz Reuter"", Grevesmühlen","MV-75135806","Kleine Allee 44, 23936 Grevesmühlen","www.gs-fritz-reuter.de","Grundschule",,,"03881/711173","03881/2511",
-"Grundschule ""Ploggensee"", Grevesmühlen","MV-75135807","Ploggenseering 64, 23936 Grevesmühlen","www.gs-ploggensee.de","Grundschule",,,"03881/710039","03881/712206",
-"Grundschule Neukloster","MV-75135818","Alte Gärtnerei 1, 23992 Neukloster","www.grundschule-neukloster.de","Grundschule",,,"038422/20427","038422/20357",
-"Grundschule Selmsdorf","MV-75135819","Neue Reihe 11, 23923 Selmsdorf","www.grundschule-selmsdorf.de","Grundschule",,,"038823/2302","038823/2301",
-"Grundschule ""Fritz Reuter"", Warin","MV-75135823","Geschwister-Scholl-Straße 5, 19417 Warin","www.grundschule-warin.de","Grundschule",,,"038482/22346","038482/60409",
-"Grundschule Bobitz","MV-75135825","Schulstraße 27, 23996 Bobitz","www.grundschule-bobitz.de","Grundschule",,,"038424/41123","038424/4110",
-"Grundschule Brüsewitz","MV-75135826","Zum Rehm 3, 19071 Brüsewitz",,"Grundschule",,,"038874/41424","038874/41424",
-"Grundschule Dreveskirchen","MV-75135828","Schulstraße 12, 23974 Dreveskirchen",,"Grundschule",,,"038427/40839","038427/40839",
-"Grundschule ""Adolf Diesterweg"", Kalkhorst","MV-75135833","Am Sportplatz, 23942 Kalkhorst",,"Grundschule",,,"038827/88858","038827/205",
-"Grundschule Lübow","MV-75135835","Dorfstraße 22, 23972 Lübow",,"Grundschule",,,"03841/780408","03841/785822",
-"Grundschule Ostseebad Boltenhagen","MV-75135841","Klützer Straße 11 - 15, 23946 Boltenhagen",,"Grundschule",,,"038825/23656","038825/22259",
-"Grundschule Roggendorf","MV-75135844","Gadebuscher Straße 6, 19205 Roggendorf",,"Grundschule",,,"038876/31603","038876/20237",
-"Claus-Jesup-Schule Wismar - Schule mit dem Förderschwerpunkt Lernen","MV-75230619","Liselotte-Herrmann-Straße 5, 23968 Wismar",,"Förderschule",,,"03841/629179","03841/636660",
-"Schule mit dem Förderschwerpunkt Lernen ""Johann-Heinrich-Pestalozzi"" Gadebusch","MV-75235854","Agnes-Karll-Straße 6 - 8, 19205 Gadebusch",,"Förderschule",,,"03886/3662043","03886/3662040",
-"Schule mit dem Förderschwerpunkt Lernen ""Anne Frank"" Schönberg","MV-75235855","R.-Hartmann-Straße 13, 23923 Schönberg",,"Förderschule",,,"038828/23578","038828/21241",
-"Schule mit dem Förderschwerpunkt Lernen ""An den Linden"" Grevesmühlen","MV-75235856","Wismarsche Straße 124, 23936 Grevesmühlen",,"Förderschule",,,"03881/712716","03881/2349",
-"Schule mit dem Förderschwerpunkt Lernen ""Fritz D. v. d.  Schulenburg"" Neukloster","MV-75235858","Alte Gärtnerei 1, 23992 Neukloster",,"Förderschule",,,"038422/400215","038422/400211",
-"Landesschule für Blinde und Sehbehinderte","MV-75235859","August-Bebel-Allee 7, 23992 Neukloster","www.blindenschule-mv.de","Förderschule",,,"038422/45212","038422/4520",
-"Schule mit dem Förderschwerpunkt geistige Entwicklung ""Am Wallberg"" Neuburg","MV-75235861","Neuendorfer Weg 5, 23974 Neuburg",,"Förderschule",,,"038426/22140","038426/20215",
-"Integrierte Gesamtschule ""J .Wolfgang v. Goethe"" Wismar","MV-75330618","Bei der Klosterkirche 8, 23966 Wismar","www.igs-wismar.de","Integrierte Gesamtschule",,,"03841/223756","03841/282822",
-"Verbundene Regionale Schule und  Gymnasium ""Tisa v.d. Schulenburg"", Dorf Mecklenburg","MV-75335849","Ernst-Thälmann-Straße 14, 23972 Dorf Mecklenburg","www.vrs-gym-dm.de","Kooperative Gesamtschule",,,"03841/797091","03841/795923",
-"Ostsee-Schule Wismar, Regionale Schule","MV-75430610","B.-Tesch-Straße 31, 23968 Wismar","www.ostsee-schule.de","Regionale Schule",,,"03841/632775","03841/636675",
-"Regionale Schule ""B. Brecht"", Wismar","MV-75430612","Kapitänspromenade 25, 23966 Wismar","www.rsbb-wismar.de","Regionale Schule",,,"03841/3266863","03841/707291",
-"Regionale Schule mit Grundschule Dassow","MV-75435815","R.-Breitscheid-Straße 50, 23942 Dassow",,"Regionale Schule mit Grundschule",,,"038826/88963","038826/80436",
-"Regionale Schule Klütz","MV-75435816","Straße des Friedens 2, 23948 Klütz","www.schule-kluetz.de","Regionale Schule",,,"038825/23886","038825/22597",
-"Regionale Schule mit Grundschule ""Werner Lindemann"", Lübstorf","MV-75435817","Bahnhofstraße 18, 19069 Lübstorf","www.schule-luebstorf.de","Regionale Schule mit Grundschule",,,"03867/9601070","03867/269",
-"Regionale Schule mit Grundschule  ""Am Schweriner See"", Bad Kleinen","MV-75435824","Schulstraße 11, 23996 Bad Kleinen",,"Regionale Schule mit Grundschule",,,"038423/50988","038423/228",
-"Regionale Schule mit Grundschule Gadebusch","MV-75435830","Heinrich-Heine-Straße 40, 19205 Gadebusch","www.heinrich-heine-schule-gadebusch.de","Regionale Schule mit Grundschule",,,"03886/712626","03886/35233",
-"Regionale Schule ""Wasserturm"", Grevesmühlen","MV-75435832","Ploggenseering 68, 23936 Grevesmühlen","www.wasserturmschule-gvm.de","Regionale Schule",,,"03881/2348","03881/78790",
-"Regionale Schule mit Grundschule Kirchdorf","MV-75435834","Straße der Jugend 5, 23999 Kirchdorf","www.schule-insel-poel.de","Regionale Schule mit Grundschule",,,"038425/42153","038425/20219",
-"Regionale Schule mit Grundschule Lüdersdorf","MV-75435836","Hauptstraße 21, 23923 Wahrsow","www.schule-luedersdorf.de","Regionale Schule mit Grundschule",,,"038828/3302119","038821/60736",
-"Regionale Schule mit Grundschule Lützow","MV-75435837","Pokrenter Straße 4, 19209 Lützow",,"Regionale Schule mit Grundschule",,,"038874/21396","038874/22230",
-"Regionale Schule mit Grundschule Mühlen-Eichsen","MV-75435838","Schulstraße 8, 19205 Mühlen Eichsen","www.schule-muehlen-eichsen.de","Regionale Schule mit Grundschule",,,"038871/21883","038871/22216",
-"Regionale Schule mit Grundschule ""Am Rietberg"", Neuburg","MV-75435839","Hauptstraße 41, 23974 Neuburg","www.regionaleschule-neuburg.de","Regionale Schule mit Grundschule",,,"038426/229801","038426/20233",
-"Regionale Schule Neukloster","MV-75435840","August-Bebel-Allee 6, 23992 Neukloster","www.regionale-schule-neukloster.de","Regionale Schule",,,"038422/29974","038422/20233",
-"Regionale Schule mit Grundschule Proseken","MV-75435842","Hauptstraße 18, 23968 Proseken","www.schule-proseken.de","Regionale Schule mit Grundschule",,,"038428/63544","038428/60232",
-"Regionale Schule mit Grundschule ""Käthe Kollwitz"", Rehna","MV-75435843","Benziner Weg 3, 19217 Rehna","www.schule-rehna.de","Regionale Schule mit Grundschule",,,"038872/65320","038872/6530",
-"Regionale Schule mit Grundschule Schönberg","MV-75435845","Dassower Straße 10, 23923 Schönberg","www.grundschule-schoenberg.de","Regionale Schule mit Grundschule",,,"038828/25322","038828/25320",
-"Regionale Schule mit Grundschule Schlagsdorf","MV-75435846","Hauptstraße 18a, 19217 Schlagsdorf","www.schule.schlagsdorf.de","Regionale Schule mit Grundschule",,,"038875/20211","038875/20211",
-"Große Stadtschule\nGeschwister-Scholl-Gymnasium, Wismar","MV-75530615","Schulstraße 9/11, 23966 Wismar","www.scholl-Wismar.de","Gymnasium",,,"03841/205263","03841/282732",
-"Gerhart-Hauptmann-Gymnasium, Wismar","MV-75530617","Dahlmannstraße 40, 23966 Wismar","www.ghg-wismar.com","Gymnasium",,,"03841/205261","03841/283358",
-"Gymnasium Gadebusch","MV-75535850","Agnes-Karll-Straße 20, 19205 Gadebusch","www.gymnasiumgadebusch.de","Gymnasium",,,"03886/35152","03886/35149",
-"Gymnasium am Tannenberg, Grevesmühlen","MV-75535851","Rehnaer Straße 51, 23936 Grevesmühlen","www.gymnasium-am-tannenberg.de","Gymnasium",,,"03881/788227","03881/78820",
-"Gymnasium Am Sonnenkamp, Neukloster","MV-75535852","August-Bebel-Allee 9, 23992 Neukloster","www.gymnasium-neukloster.de","Gymnasium",,,"038422/25467","038422/25349",
-"Ernst-Barlach-Gymnasium, Schönberg","MV-75535853","Goetheplatz 5, 23923 Schönberg","www.ebg-Schoenberg.de","Gymnasium",,,"038828/23633","038828/24433",
-"Grundschule ""Fritz Reuter"", Schwerin","MV-75130403","v.-Thünen-Straße 9, 19053 Schwerin","www.fritzreuterschule.de","Grundschule",,,"0385/7588679","0385/732514",
-"Grundschule am Mueßer Berg, Schwerin","MV-75130405","Eulerstraße 2, 19063 Schwerin","www.grundschule-am-muesser-berg.de","Grundschule",,,"0385/2010129","0385/2012107",
-"Grundschule ""John Brinckman"", Schwerin","MV-75130406","Willi-Bredel-Straße 17, 19059 Schwerin","www.europa-brinckman.de","Grundschule",,,"0385/7589519","0385/785886",
-"Grundschule ""Nils Holgersson"", Schwerin","MV-75130408","Friedrich-Engels-Straße 35, 19061 Schwerin","www.nils-holgersson-grundschule-schwerin.de","Grundschule",,,"0385/3921816","0385/3921815",
-"Grundschule ""Heinrich Heine"", Schwerin","MV-75130410","Amtstraße 3, 19055 Schwerin","www.heinrich-heine-schulverein.de","Grundschule",,,"0385/5557863","0385/562758",
-"Grundschule ""Lankow"", Schwerin","MV-75130411","Rahlstedter Straße 3b, 19057 Schwerin","www.grundschule-lankow.de","Grundschule",,,"0385/4807575","0385/4842028",
-"Grundschule ""Friedensschule"", Schwerin","MV-75130414","Friedensstraße 14, 19053 Schwerin","www.friedensschule-schwerin.de","Grundschule",,,"0385/7589200","0385/7851853",
-"Sonderpädagogisches Förderzentrum ""Am Fernsehturm"" Schwerin,  Schule mit dem Förderschwerpunkt Lernen","MV-75230437","Hamburger Allee 126, 19063 Schwerin","www.schule-am-fernsehturm.de","Förderschule",,,"0385/2182855","0385/2071125",
-"Sprachheilpädagogisches Förderzentrum Schwerin","MV-75230439","A.-Sacharow-Straße 75, 19061 Schwerin","www.sprachheilschule-schwerin.de","Förderschule",,,"0385/39929904","0385/3260011",
-"Mecklenburgisches Förderzentrum Schwerin, Schule mit dem Schwerpunkt körperliche und motorische Entwicklung","MV-75230440","Ratzeburger Straße 31, 19057 Schwerin","www.MFZK-schwerin.de","Förderschule",,,"0385/4855111","0385/485510",
-"Albert-Schweitzer-Schule Schwerin, Schule mit dem Förderschwerpunkt geistige Entwicklung","MV-75230441","Liese-Meitner-Straße 1, 19063 Schwerin","www.foerderschule-albert-schweitzer.de","Förderschule",,,"0385/5585724","0385/558570",
-"Integrierte Gesamtschule  ""Bertolt Brecht""  Schwerin","MV-75330436","Von-Stauffenberg-Straße 68, 19061 Schwerin","www.brechtschule-schwerin.de","Integrierte Gesamtschule",,,"0385/3992960","0385/3921184",
-"Regionale Schule  ""Erich Weinert"", Schwerin","MV-75430421","R.-Breitscheid-Straße 23, 19053 Schwerin",,"Regionale Schule",,,"0385/7610723","0385/732524",
-"Regionale Schule ""Werner von Siemens"", Schwerin","MV-75430423","Rahlstedter Straße 3A, 19057 Schwerin","www.siemensschule-schwerin.de","Regionale Schule",,,"0385/4867987","0385/4842037",
-"Regionale Schule mit Grundschule ""Astrid Lindgren"", Schwerin","MV-75430425","Tallinner Straße 4 - 6, 19063 Schwerin","www.astrid-lindgren-schule-schwerin.de","Regionale Schule mit Grundschule",,,"0385/3979193","0385/3921143",
-"Gymnasium Fridericianum, Schwerin","MV-75530428","Goethestraße 74, 19053 Schwerin","www.Fridericianum.de","Gymnasium",,,"0385/3021333","0385/302130",
-"Goethe-Gymnasium, Schwerin","MV-75530429","J.-R.-Becher-Straße 10, 19059 Schwerin","www.goethegymnasium-schwerin.de","Gymnasium",,,"0385/75820520","0385/7582050",
-"Sportgymnasium, Schwerin","MV-75530434","Von-Flotow-Straße 20, 19059 Schwerin","www.sportgymnasium-schwerin.de","Gymnasium",,,"0385/7605820","0385/760580",
-"Abendgymnasium Schwerin","MV-75530444","Goethestraße 74, 19053 Schwerin","www.abendgymnasium-schwerin.de","Abendgymnasium",,,"0385/2079844","0385/2079836",
-"Käthe-Kollwitz-Grundschule","MV-75130102","Knopfstraße 25, 17489 Greifswald","www.kollwitz-gs.de ","Grundschule",,,"03834/8850401","03834/8850400",
-"Grundschule  ""Karl Krull"" Greifswald","MV-75130104","Bleichstraße 36, 17489 Greifswald","www.karl-krull-grundschule.de ","Grundschule",,,"03834/540598","03834/540590",
-"Grundschule ""Greif"" Greifswald","MV-75130109","Max-Planck-Straße 9, 17491 Greifswald","www.grundschule-greif.de ","Grundschule",,,"03834/884737","03834/812063",
-"Grundschule ""Erich Weinert"" Greifswald","MV-75130111","Makarenkostraße 53, 17491 Greifswald","www.weinert-gs.de ","Grundschule",,,"03834/883668","03834/812022",
-"Grundschule ""Martin-Andersen-Nexö"" Greifswald","MV-75130113","Warschauer Straße 16, 17493 Greifswald","www.nexoe-grundschule.de ","Grundschule",,,"03834/518263","03834/840189",
-"Grundschule Jarmen","MV-75135208","Rosenstraße 4, 17126 Jarmen",,"Grundschule",,,"039997/10344","039997/10335",
-"Diesterweg-Grundschule Loitz","MV-75135209","Wilhelm-Irrgang-Weg 1, 17121 Loitz",,"Grundschule",,,"039998/31361","039998/10467",
-"Grundschule ""Peenetal"" Görmin","MV-75135223","Schulstraße 1, 17121 Görmin",,"Grundschule",,,"039992/70269","039992/70223",
-"Grundschule Tutow","MV-75135254","Pommernring 21, 17129 Tutow","www.grundschuletutow.de","Grundschule",,,"039999/70213","039999/70208",
-"Grundschule ""Gebrüder Grimm"" Anklam","MV-75135902","Eichenweg 6, 17389 Anklam",,"Grundschule",,,"03971/258870","03971/245607",
-"Grundschule ""Villa Kunterbunt"" Anklam","MV-75135904","Adolf-Damaschke-Straße 7, 17389 Anklam",,"Grundschule",,,"03971/293679","03971/210169",
-"Grundschule ""An der alten Feuerwehr"" Heringsdorf","MV-75135907","August-Bebel-Straße 3, 17424 Heringsdorf","www.grundschule-heringsdorf.de","Grundschule",,,"038378/22403","038378/22351",
-"Grundschule Züssow","MV-75135909","Schulweg 2, 17495 Züssow","www.grundschule-zuessow.de","Grundschule",,,"038355/61330","038355/61387",
-"Grundschule Karlshagen","MV-75135910","Schulstraße 4, 17449 Karlshagen","www.grundschule-karlshagen.de","Grundschule",,,"038371/55447","038371/20633",
-"Grundschule Lassan","MV-75135912","Schulstraße 5, 17440 Lassan",,"Grundschule",,,"038374/80461","038374/80461",
-"Grundschule Wolgast","MV-75135918","Baustraße 16, 17438 Wolgast",,"Grundschule",,,"03836/234700","03836/202054",
-"Grundschule ""Lütt Matten"" Wusterhusen","MV-75135921","Greifswalder Straße 7, 17509 Wusterhusen",,"Grundschule",,,"038354/22808","038354/22808",
-"Grundschule Zinnowitz","MV-75135923","Dannweg 13, 17454 Zinnowitz",,"Grundschule",,,"038377/36881","038377/42266",
-"Grundschule ""Fritz Reuter"" Kemnitz","MV-75135936","Schulstraße 2, 17509 Kemnitz",,"Grundschule",,,"03852/233","038352/231",
-"Grundschule ""Lütte Nordlichter"" Dersekow","MV-75135943","Straße der Freundschaft 14a, 17498 Dersekow",,"Grundschule",,,"03834/510134","03834/5618",
-"Grundschule ""Fritz Reuter"" Kröslin","MV-75135945","Schulstraße 1, 17440 Kröslin","www.grundschule-kröslin.de","Grundschule",,,"038370/20318","038370/20318",
-"Grundschule ""Schwalbennest"" Krien","MV-75135946","Bauernstraße 3, 17391 Krien",,"Grundschule",,,"039723/20127","039723/20244",
-"Grundschule Schlatkow","MV-75135951","Dorfstraße 11a, 17390 Schlatkow",,"Grundschule",,,"039724/26860","039724/22385",
-"Grundschule  Stadt Usedom","MV-75135955","Bäderstraße 48, 17406 Usedom",,"Grundschule",,,"038372/76620","038372/70277",
-"Vineta-Grundschule Koserow","MV-75135968","Fischerstraße 18, 17459 Koserow",,"Grundschule",,,"038375/22571","038375/22570",
-"Grundschule Ahlbeck","MV-75136201","Dorfstraße 9, 17375 Ahlbeck","www.gs-ahlbeck.de","Grundschule",,,"039775/20202","039775/20202",
-"Grundschule Eggesin","MV-75136204","Waldstraße 20, 17367 Eggesin","www.grundschule-eggesin.de","Grundschule",,,"039779/27619","039779/20341",
-"Grundschule Ferdinandshof","MV-75136206","Friedrichstraße 33a, 17379 Ferdinandshof","www.gs.ferdinandshof.de","Grundschule",,,"039778/20693","039778/20693",
-"Grundschule ""Am See"" Löcknitz","MV-75136209","Am See 10, 17321 Löcknitz",,"Grundschule",,,"039754/20629","039754/20612",
-"Grundschule Leopoldshagen","MV-75136210","Hinterreihe 161, 17375 Leopoldshagen",,"Grundschule",,,"039774/299849","039774/20218",
-"Grundschule Mewegen","MV-75136211","Ahornstraße 17, 17322 Mewegen","www.kleinegrundschulemewegen.blogspot.de","Grundschule",,,"039744/50274","039744/50274",
-"Grundschule Ueckertal, Pasewalk","MV-75136214","Pestalozzistraße 26, 17309 Pasewalk","www.grundschule-ueckertal.de","Grundschule",,,"03973/210451","03973/210451",
-"Grundschule Penkun","MV-75136215","Am Deputantenbruch 6, 17328 Penkun",,"Grundschule",,,"039751/60120","039751/60168",
-"Grundschule Strasburg","MV-75136216","Baustraße 26, 17335 Strasburg",,"Grundschule",,,"039753/24486","039753/24485",
-"Pestalozzi-Grundschule Torgelow","MV-75136217","Goethestraße 2, 17358 Torgelow","www.pestalozzigrundschule-torgelow.de","Grundschule",,,"03976/202580","03976/202559",
-"Haff-Grundschule Ueckermünde","MV-75136221","Geschw.-Scholl-Straße 40, 17373 Ueckermünde",,"Grundschule",,,"039771/59037","039771/27205",
-"Grundschule Jatznick","MV-75136249","Ackerstraße 5, 17309 Jatznick",,"Grundschule",,,"039741/86095","039741/80234",
-"Schule ""Johann Heinrich Pestalozzi"" Greifswald - Schule mit Förderschwerpunkt Lernen","MV-75230137","Wolgaster Straße 62, 17489 Greifswald","www.pestalozzischule-greifswald.de","Förderschule",,,"03834/830346","03834/3909",
-"Sonderpädagogisches Förderzentrum ""Biberburg"" Anklam - Schule mit den Förderschwerpunkten Lernen, emotionale und soziale Entwicklung und Sprache","MV-75235962","Mühlenstraße 8 c, 17389 Anklam",,"Förderschule",,,"03971/211952","03971/210552",
-"Schule ""Am Park"" Behrenhoff - Schule mit den Förderschwerpunkten Lernen und emotionale und soziale Entwicklung","MV-75235963","Dorfstraße 21, 17498 Behrenhoff",,"Förderschule",,,"038356/51849","038356/251",
-"Janusz-Korczak-Schule Wolgast - Schule mit dem Förderschwerpunkt Lernen","MV-75235965","Schulstraße 5, 17438 Wolgast",,"Förderschule",,,"03836/2324465","03836/202459",
-"""Kleeblattschule""  Anklam - Förderschule mit dem Förderschwerpunkt geistige Entwicklung","MV-75235966","Baustraße 59, 17389 Anklam",,"Förderschule",,,"03971/242284","03971/211520",
-"Schule Am Stettiner Haff Zirchow - Schule mit dem Förderschwerpunkt geistige Entwicklung","MV-75235967","Am Haff 12, 17419 Zirchow",,"Förderschule",,,"038376/29163","038376/20313",
-"Schlossbergschule - Sonderpädagogisches Förderzentrum Pasewalk - Schule mit dem Förderschwerpunkt Lernen","MV-75236244","Schützenstraße 13, 17309 Pasewalk","www.schlossbergschule.com","Förderschule",,,"03973/2049787","03973/441024",
-"Sonderpädagogisches Förderzentrum Eggesin - Schule mit dem Förderschwerpunkt Lernen","MV-75236246","Lindenstraße 35, 17367 Eggesin",,"Förderschule",,,"03834/87609401","03976/87604501",
-"Randow-Schule Löcknitz\nSchule mit dem Förderschwerpunkt geistige Entwicklung ","MV-75236247","Am See 11, 17321 Löcknitz",,"Förderschule",,,"039754/51733","039754/51733",
-"Schule mit dem Förderschwerpunkt geistige Entwicklung Ferdinandshof","MV-75236248","Gartenstraße 1, 17379 Ferdinandshof",,"Förderschule",,,"039778/28727","039778/28718",
-"Integrierte Gesamtschule ""Erwin Fischer"" Greifswald","MV-75330122","Einsteinstraße 6, 17491 Greifswald",,"Integrierte Gesamtschule",,,"03834/889214","03834/500775",
-"Europäische Gesamtschule Insel Usedom, Kooperative Gesamtschule","MV-75335952","Lindenstraße 112, 17419 Ahlbeck","www.kgs-ahlbeck.de","Kooperative Gesamtschule",,,"038378/336560","038378/28107",
-"Regionale Schule ""Ernst Moritz Arndt"" Greifswald","MV-75430120","Arndtstraße 37, 17489 Greifswald","www.arndtschule.de","Regionale Schule",,,"03834/518449","03834/500062",
-"Regionale Schule ""Caspar David Friedrich"" Greifswald","MV-75430128","Usedomer Weg 1, 17493 Greifswald","www.caspar-david-friedrich-schule-greifswald.de","Regionale Schule",,,"03834/830101","03834/840196",
-"Regionale Schule Jarmen","MV-75435230","Demminer Straße 11, 17126 Jarmen","www.reg-schule-jarmen.de","Regionale Schule",,,"039997/12776","039997/10202",
-"Regionale Schule Loitz","MV-75435231","Goethestraße 64, 17121 Loitz",,"Regionale Schule",,,"039998/10374","039998/10376",
-"Regionale Schule ""Friedrich Schiller"" Anklam","MV-75435926","Eichenweg 6, 17389 Anklam",,"Regionale Schule",,,"03971/245608","03971/245649",
-"Regionale Schule ""Käthe Kollwitz"" Anklam","MV-75435927","Baustraße 56/58, 17389 Anklam","www.kollwitzschule-anklam.de","Regionale Schule",,,"03971/213526","03971/210574",
-"Regionale Schule ""G. L. Th. Kosegarten"" Wolgast","MV-75435929","Baustraße 16, 17438 Wolgast","www.regionalschule-kosegarten-wolgast.de","Regionale Schule",,,"03836/202219","03836/202168",
-"Regionale Schule mit Grundschule Wolgast","MV-75435930","Heberleinstraße 32, 17438 Wolgast",,"Regionale Schule mit Grundschule",,,"03836/234019","03836/202172",
-"Regionale Schule mit Grundschule ""Peenetal"" Gützkow","MV-75435931","Mascowstraße 12a, 17506 Gützkow",,"Regionale Schule mit Grundschule",,,"038353/50621","038353/201",
-"Ostseeschule  Ückeritz","MV-75435933","Strandstraße 3, 17459 Ückeritz",,"Regionale Schule",,,"038375/20647","038375/20935",
-"Regionale Schule ""Heinrich Heine"" Karlshagen","MV-75435935","Schulstraße 4, 17449 Karlshagen","www.Heinrich-Heine-Schule-Karlshagen.de","Regionale Schule",,,"038371/20293","038371/20239",
-"Regionale Schule ""Am Teufelsstein"" Lubmin","MV-75435939","Seestraße 11, 17509 Lubmin",,"Regionale Schule",,,"038354/22840","038354/22836",
-"Lindenschule Ducherow - Regionale Schule mit Grundschule","MV-75435944","Thomas-Müntzer-Straße 10, 17398 Ducherow","www.regionaleschule-durcherow.de","Regionale Schule mit Grundschule",,,"039726/25548","039726/25549",
-"Regionale Schule mit Grundschule  ""Schule am Bodden"" Neuenkirchen","MV-75435948","Wampener Straße 19, 17498 Neuenkirchen","www.schuleambodden.de","Regionale Schule mit Grundschule",,,"03834/773972","03834/2478",
-"Regionale Schule mit Grundschule Spantekow","MV-75435954","Schulstraße 8, 17392 Spantekow","www.schule-spantekow.de","Regionale Schule mit Grundschule",,,"039727/26770","039727/20358",
-"Regionale Schule ""Arnold Zweig"" Pasewalk","MV-75436226","Pestalozzistraße 25, 17309 Pasewalk",,"Regionale Schule",,,"03973/216635","03973/216631",
-"Regionale Schule ""Albert Einstein"" Torgelow","MV-75436228","A.-Einstein-Straße 3, 17358 Torgelow","www.einsteinschule.de","Regionale Schule",,,"03976/250745","03976/201320",
-"Regionale Schule ""Ernst Thälmann"" Eggesin","MV-75436229","Luckower Straße 6a, 17367 Eggesin",,"Regionale Schule",,,"039779/60324","039779/20539",
-"Regionale Schule ""Hanno Günther"" Ferdinandshof","MV-75436230","Friedrichstraße 33a, 17379 Ferdinandshof","www.schule.ferdinandshof.de","Regionale Schule",,,"039778/28155","039778/20233",
-"Regionale Schule Löcknitz","MV-75436231","Am See 9, 17321 Löcknitz","www.regs-loecknitz.de","Regionale Schule",,,"039754/51564","039754/20611",
-"Regionale Schule Penkun","MV-75436232","Stettiner Tor 4, 17328 Penkun",,"Regionale Schule",,,"039751/60266","039751/60265",
-"Regionale Schule Ueckermünde","MV-75436234","Ueckerstraße 59, 17373 Ueckermünde","www.regionaleschule-ueckermuende.de","Regionale Schule",,,"039771/549919","039771/54990",
-"Regionale Schule ""Am Wasserturm"" Strasburg","MV-75436236","Lindenstraße 3c, 17335 Strasburg","www.regionale-schule-strasburg.de","Regionale Schule",,,"039753/22514","039753/20493",
-"Gymnasium ""Alexander von Humboldt"" Greifswald","MV-75530135","Makarenkostraße 54, 17491 Greifswald","www.humboldt-greifswald.de","Gymnasium",,,"03834/805666","03834/80560",
-"Gymnasium ""Friedrich Ludwig Jahn"" Greifswald","MV-75530136","Dietrich-Bonhoeffer-Platz 1, 17489 Greifswald","www.jahngymnasium.de","Gymnasium",,,"03834/792222","03834/7920",
-"Abendgymnasium ""Wolfgang Koeppen"" Greifswald","MV-75530138","Dietrich-Bonhoeffer-Platz 1, 17489 Greifswald","www.abendgym-greifswald.de","Abendgymnasium",,,"03834/885244","03834/885198",
-"""Lilienthal-Gymnasium"" Anklam","MV-75535957","Leipziger Allee 22-25, 17389 Anklam",,"Gymnasium",,,"03971/243188","03971/243187",
-"""Schloss-Gymnasium"" Gützkow","MV-75535958","Baron-von-Lepel-Platz 2, 17506 Gützkow","www.schlossgym-guetzkow.de","Gymnasium",,,"038353/50889","038353/257",
-"Runge-Gymnasium Wolgast","MV-75535960","Schulstraße 1, 17438 Wolgast","www.runge-gymnasium-wolgast.de","Gymnasium",,,"03836/2363201","03836/2363200",
-"Deutsch-Polnisches Gymnasium Löcknitz","MV-75536238","F.-Engels-Straße 5-6, 17321 Löcknitz","www.dpg-loecknitz.de","Gymnasium",,,"039754/21179","039754/21179",
-"Gymnasium ""Oskar Picht"" Pasewalk","MV-75536239","Grünstraße 63, 17309 Pasewalk","www.gymnasium-pasewalk.de","Gymnasium",,,"03973/210220","03973/210203",
-"Greifen-Gymnasium Ueckermünde","MV-75536242","Apfelallee 2, 17373 Ueckermünde","www.gymnasium-ueckermuende.de","Gymnasium",,,"039771/22597","039771/22596",
-"Montessori-Grundschule ""Lambert Steinwich"" Stralsund","MV-75130501","An den Bleichen 27, 18435 Stralsund","www.montessori-grundschule-stralsund.de","Grundschule",,,"03831/308737","03831/308717",
-"Grundschule""Karsten Sarnow"" Stralsund","MV-75130504","Arnold-Zweig-Straße 159, 18435 Stralsund",,"Grundschule",,,"03831/382814","03831/391082",
-"Grundschule ""Ferdinand von Schill"" Stralsund","MV-75130506","Mühlgrabenstraße 6, 18437 Stralsund",,"Grundschule",,,"03831/481743","03831/498483",
-"Grundschule ""Hermann Burmeister"" Stralsund","MV-75130508","Jaromarstraße 10, 18437 Stralsund","www.burmeister-grundschule-stralsund.de","Grundschule",,,"03831/443142","03831/495080",
-"Grundschule ""Gerhart Hauptmann"" Stralsund","MV-75130509","Frankenwall  25, 18439 Stralsund","www.gs-hauptmann-stralsund.de","Grundschule",,,"03831/306072","03831/306073",
-"Grundschule ""Juri Gagarin"" Stralsund","MV-75130510","Wallensteinstraße 8, 18435 Stralsund","www.gagarin-grundschule.de","Grundschule",,,"03831/302615","03831/391103",
-"Grundschule Andershof","MV-75130515","Greifswalder Chaussee 65a, 18439 Stralsund","www.schule-andershof.de.vu","Grundschule",,,"03831/278058","03831/270574",
-"Grundschule Bad Sülze","MV-75135701","Kastanienallee 7, 18334 Bad Sülze","www.grundschule-badsuelze.de","Grundschule",,,"038229/799956","038229/259",
-"Grundschule Brandshagen","MV-75135706","Neuhöfer Straße 1, 18519 Brandshagen",,"Grundschule",,,"038328/650047","038328/80403",
-"Grundschule Dierhagen","MV-75135707","Strandstraße 4, 18347 Dändorf",,"Grundschule",,,"038226/267","038226/267",
-"Grundschule ""Friedrich Wilhelm Wander"" Grimmen","MV-75135711","Norderhinterstraße 12, 18507 Grimmen",,"Grundschule",,,"038326/66621","038326/66620",
-"Grundschule ""Dr. Theodor Neubauer"" Grimmen","MV-75135712","Zum Rodelberg 2, 18507 Grimmen",,"Grundschule",,,"038326/46578","038326/46567",
-"Grundschule Horst","MV-75135713","Dorfstraße, 18519 Horst",,"Grundschule",,,"038333/213","038333/213",
-"Grundschule Süderholz","MV-75135715","Schulstraße 6, 18516 Süderholz",,"Grundschule",,,"038332/384","038332/314",
-"Grundschule ""Thomas Müntzer"" Lüdershagen","MV-75135717","Dorfstrasse 4, 18314 Lüdershagen","www.grundschule-thomas-müntzer-lüdershagen.de","Grundschule",,,"038227/599953","038227/331",
-"Kranich - Grundschule Altenpleen","MV-75135719","Stralsunder Straße 27, 18445 Altenpleen",,"Grundschule",,,"038323/268702","038323/824",
-"Grundschule "" Heinrich Bandlow"" Tribsees","MV-75135722","Karl-Worm-Straße 1, 18465 Tribsees","www.grundschule-tribsees.de","Grundschule",,,"038320/183180","038320/342",
-"Grundschule Velgast","MV-75135723","E.-Thälmann-Straße 44, 18469 Velgast","www.grundschule-velgast.de","Grundschule",,,"038324/89206","038324/89205",
-"Grundschule ""Theodor Bauermeister"" Ribnitz-Damgarten","MV-75135731","Bauermeisterplatz 1, 18311 Ribnitz-Damgarten","www.bauermeisterschule.de","Grundschule",,,"03821/390158","03821/810226",
-"Grundschule ""Karl Krull"" Steinhagen","MV-75135733","Schulstraße 2, 18442 Steinhagen","www.grundschule-karl-krull-steinhagen.de","Grundschule",,,"038327/61455","038327/60649",
-"Grundschule Abtshagen","MV-75135743","Wittenhäger Straße 14, 18510 Abtshagen",,"Grundschule",,,"038327/40704","038327/703",
-"Zentrale Grundschule ""F.-A.-Nobert"" Barth","MV-75135754","Chausseestraße 21, 18356 Barth","www.norbert-schule.de","Grundschule",,,"038231/82274","038231/2554",
-"Grundschule Grammendorf","MV-75135756","Dorfstraße 65, 18513 Grammendorf","www.schule-grammendorf.de","Grundschule",,,"038334/69306","038334/69303",
-"Grundschule Marlow","MV-75135757","An der Schule 2, 18337 Marlow","www.grundschule-gresenhorst.de","Grundschule",,,"038224/44520","038224/234",
-"Recknitz-Grundschule Ahrenshagen","MV-75135774","Hauptstraße 34, 18320 Ahrenshagen","www.recknitz-gs.de","Grundschule",,,"038225/515715","038225/515711",
-"Grundschule ""Altstadt"" Bergen","MV-75136104","Breitsprecherstraße 18, 18528 Bergen auf Rügen","www.grundschule-altstadt-bergen.de","Grundschule",,,"03838/822475","03838/22139",
-"Grundschule ""Am Rugard"" Bergen","MV-75136105","Königstraße 23c, 18528 Bergen auf Rügen",,"Grundschule",,,"03838/8227953","03838/253399",
-"Grundschule Binz","MV-75136106","Dollahner Straße 77, 18609 Binz","www.grundschule-binz.de","Grundschule",,,"038393/14534","038393/2327",
-"Grundschule Garz","MV-75136111","Lindenstraße 27, 18574 Garz/Rügen",,"Grundschule",,,"038304/320","038304/320",
-"Grundschule  Putbus","MV-75136116","Lauterbacher Straße 6, 18581 Putbus",,"Grundschule",,,"038301/61180","038301/547",
-"Grundschule Sagard","MV-75136117","Schulstraße 15, 18551 Sagard",,"Grundschule",,,"038302/51408","038302/2001",
-"Grundschule Samtens","MV-75136118","Neubaustraße 32, 18573 Samtens",,"Grundschule",,,"038306/21121","038306/1300",
-"Grundschule ""Ostseeblick"" Sassnitz","MV-75136120","Schulstraße 5, 18546 Sassnitz","www.nationalparkschule-ostseeblick.de","Grundschule",,,"038392/649759","038392/32360",
-"Grundschule Sellin","MV-75136123","Granitzer Straße 1b, 18586 Sellin","www.grundschule-sellin.de","Grundschule",,,"038303/85472","038303/87320",
-"Grundschule Wiek","MV-75136124","Hauptstraße 35, 18556 Wiek","www.grundschule-wiek.de","Grundschule",,,"038391/70302","038391/70302",
-"Grundschule ""Mönchgut"" Gager","MV-75136126","Boddenstraße 1a, 18586 Gager","www.Grundschule-Moenchgut.de","Grundschule",,,"038308/30236","038308/8235",
-"Sonderpädagogisches Förderzentrum der Hansestadt Stralsund - Schule mit dem Förderschwerpunkt Lernen und Grundschulteil mit Förderschwerpunkt Sprache","MV-75230523","Kleine Parower Straße 39, 18435 Stralsund","www.foerderzentrum-stralsund.de","Förderschule",,,"03831/307191","03831/391084",
-"Förderschule ""Astrid Lindgren"" Stralsund - Schule mit Förderschwerpunkt geistige Entwicklung","MV-75230524","L.-Feuchtwanger-Straße 34, 18435 Stralsund","www.stralsund.de/schulen/lindgren","Förderschule",,,"03831/374830","03831/390525",
-"Förderschule ""Ernst von Haselberg"" Stralsund - Schule mit Förderschwerpunkt Unterricht kranker Schülerinnen und Schüler sowie mit Förderschwerpunkt emotionale und soziale Entwicklung","MV-75230525","Rostocker Chaussee 70 , 18437 Stralsund",,"Förderschule",,,"03831/452675","03831/452665",
-"Förderschule ""Jan-Amos-Komensky"" Barth - Schule mit dem Förderschwerpunkt Lernen","MV-75235767","Uhlenflucht 5, 18356 Barth",,"Förderschule",,,"038231/66371","038231/2275",
-"Sonderpädagogisches Förderzentrum Grimmen - Schule mit dem Förderschwerpunkt Lernen","MV-75235769","Dr.-Kurt-Fischer-Straße 13, 18507 Grimmen","www.foerderzentrum-grimmen.de","Förderschule",,,"038326/53735","038326/2423",
-"Förderzentrum ""Johann Heinrich Pestalozzi"" Ribnitz-Damgarten - Schule mit dem Förderschwerpunkt Lernen","MV-75235770","Minsker Straße 11, 18311 Ribnitz-Damgarten",,"Förderschule",,,"03821/894816","03821/2784",
-"""Sonnenblumenschule"" Franzburg - Schule mit dem Förderschwerpunkt geistige Entwicklung","MV-75235771","Karl-Marx-Straße 25, 18461 Franzburg","www.sonnenblumenschule-franzburg.de","Förderschule",,,"038322/589948","038322/50209",
-"""Rosenhofschule"" Ribnitz-Damgarten  - Schule mit dem Förderschwerpunkt geistige Entwicklung","MV-75235773","G.-A.-Demmler-Straße, 18311 Ribnitz-Damgarten","www.rosenhofschule.de","Förderschule",,,"03821/811235","03821/2740",
-"Sonderpädagogisches Förderzentrum ""Klaus Störtebeker"" Bergen - Schule mit dem Förderschwerpunkt Lernen","MV-75236154","Störtebekerstraße 8a, 18528 Bergen auf Rügen",,"Förderschule",,,"03838/828102","03838/23012",
-"Schulzentrum am Sund Stralsund - Verbundene Regionale Schule und Gymnasium","MV-75330519","Frankenhof 8, 18439 Stralsund","www.schulzentrum-am-sund.de","Kooperative Gesamtschule",,,"03831/303977","03831/292438",
-"Integrierte Gesamtschule ""Grünthal"" -mit gymnasialer Oberstufe Stralsund","MV-75330522","Grünthal 12, 18437 Stralsund","www.igs-gruenthal.de","Integrierte Gesamtschule",,,"03831/444476","03831/498520",
-"Gymnasiales Schulzentrum Barth,\nKooperative Gesamtschule","MV-75335762","Uhlenflucht 5, 18356 Barth",,"Kooperative Gesamtschule",,,"038231/673222","038231/6730",
-"Regionale Schule ""Hermann Burmeister"" Stralsund","MV-75430511","Jaromarstraße 10, 18437 Stralsund","www.burmeisterschule-stralsund.de","Regionale Schule",,,"03831/445805","03831/494891",
-"Regionale Schule ""Adolph Diesterweg"" Stralsund","MV-75430513","Rudolf-Virchow-Straße 23, 18435 Stralsund","www.diesterweg-stralsund.de","Regionale Schule",,,"03831/308381","03831/380088",
-"Regionale Schule ""Marie Curie"" Stralsund","MV-75430514","L. Feuchtwanger-Straße 35, 18435 Stralsund","www.curie-schule.de","Regionale Schule",,,"03831/383023","03831/382575",
-"Regionale Schule ""Robert Koch"" Grimmen","MV-75435736","Str. der Befreiung 73, 18507 Grimmen","www.kochschule-grimmen.de","Regionale Schule",,,"038326/455453","038326/2351",
-"Regionale Schule  ""An der Prohner Wiek"" Prohn","MV-75435739","Ringstraße 10, 18445 Prohn","www.rs-prohn.de","Regionale Schule",,,"038323/71138","038323/216",
-"Regionale Schule ""Rudolf Harbig"" Ribnitz-Damgarten","MV-75435740","Schulstraße 13, 18311 Ribnitz-Damgarten","www.rudolf-harbig-schule.de","Regionale Schule",,,"03821/720441","03821/62019",
-"Regionale Schule mit Grundschule ""bernsteinSchule"" Ribnitz-Damgarten","MV-75435741","G.-Adolf-Demmlerstraße 4, 18311 Ribnitz-Damgarten","www.bernsteinschule.de","Regionale Schule mit Grundschule",,,"03821/810703","03821/810425",
-"Martha-Müller-Grählert-Schule Franzburg","MV-75435744","Platz des Friedens 15a, 18461 Franzburg","www.schule-franzburg.de","Regionale Schule mit Grundschule",,,"038322/58541","038322/736",
-"Regionale Schule  Reinberg","MV-75435746","Schulweg 1, 18519 Reinberg","www.schule-reinberg.de","Regionale Schule",,,"038328/80825","038328/80825",
-"Regionale Schule Recknitz-Trebeltal","MV-75435750","Karl-Worm-Straße 2, 18465 Tribsees","www.regionale-schule-tribsees.com","Regionale Schule",,,"038320/47946","038320/47941",
-"Regionale Schule mit Grundschule Zingst","MV-75435753","Schulstraße 1, 18374 Zingst","www.regionale-schule-zingst.de","Regionale Schule mit Grundschule",,,"038232/169620","038232/16960",
-"Regionale Schule mit Grundschule ""Prof. Pflugradt"" Niepars","MV-75435758","Gartenstraße 86, 18442 Niepars","www.schule-niepars.de","Regionale Schule mit Grundschule",,,"038321/310","038321/310",
-"Regionale Schule ""Am Rugard"" Bergen","MV-75436131","Sassnitzer Chaussee 7A, 18528 Bergen auf Rügen",,"Regionale Schule",,,"03838/2010451","03838/2010450",
-"Regionale Schule Binz","MV-75436132","Ringstraße 5, 18609 Binz","www.regionale-schule-binz.de","Regionale Schule",,,"038393/32627","038393/2842",
-"Regionale Schule am Burgwall Garz","MV-75436134","Am Burgwall 7, 18574 Garz/Rügen","www.burgwallschule-garz.de","Regionale Schule",,,"038304/12559","038304/329",
-"Regionale Schule ""Am Grünen Berg"" Bergen","MV-75436142","Störtebekerstraße 8c, 18528 Bergen auf Rügen","www.regs-am-gruenen-berg.de","Regionale Schule",,,"03838/404647","03838/23249",
-"Regionale Schule mit Grundschule Gingst","MV-75436143","H.-Matern-Straße 1, 18569 Gingst","www.schulegingst.de","Regionale Schule mit Grundschule",,,"038305/55187","038305/55184",
-"Regionale Schule Sassnitz","MV-75436145","Geschw.-Scholl-Straße 8, 18546 Sassnitz","www.regionale-schule-sassnitz.de","Regionale Schule",,,"038392/63109","038392/32176",
-"Regionale Schule ""Windland"" Altenkirchen","MV-75436146","Schulstraße 1, 18556 Altenkirchen",,"Regionale Schule",,,"038391/439854","038391/216",
-"Regionale Schule ""Tom Beyer"" Göhren","MV-75436147","G.-Hauptmann-Straße 1, 18586 Göhren","www.regs-goehren.de","Regionale Schule",,,"038308/669867","038308/2163",
-"Regionale Schule mit Grundschule Vitte","MV-75436150","Schulweg 4, 18565 Vitte","www.schule-insel-hiddensee.de","Regionale Schule mit Grundschule",,,"038300/608957","038300/608955",
-"""Hansa -Gymnasium"" Stralsund","MV-75530520","Fährwall 19, 18439 Stralsund","www.hansagymnasium-stralsund.de","Gymnasium",,,"03831/289625","03831/28960",
-"Gymnasium Grimmen","MV-75535764","Anemonenweg 2, 18507 Grimmen","www.gymnasiumgrimmen.de","Gymnasium",,,"038326/67149","038326/6710",
-"Gymnasium ""Richard Wossidlo"" Ribnitz-Damgarten","MV-75535766","Schulstraße 15, 18311 Ribnitz-Damgarten","www.wossidlogymnasium.de","Gymnasium",,,"03821/708924","03821/708911",
-"Gymnasium ""Ernst Moritz Arndt"" Bergen","MV-75536151","Arndtstraße 7, 18528 Bergen auf Rügen","www.emagymn-bergen.de","Gymnasium",,,"03838/255436","03838/3150280",
+address,fax,full_time_school,id,lat,lon,name,official_id,phone,school_type,school_type_entity,state
+"Heinrich-Heine-Straße 3, 18119 Rostock",0381/3755641,false,MV-75130301,54.178813,12.083263,"Grundschule ""Heinrich Heine"", Rostock",75130301,0381/52607,Grundschule,Grundschule,MV
+"Turkuer Straße 59 a, 18107 Rostock",0381/1284843,false,MV-75130302,54.145159,12.051724,"Grundschule ""Lütt Matten"", Rostock",75130302,0381/713030,Grundschule,Grundschule,MV
+"Kopenhagener Straße 3, 18107 Rostock",0381/7787404,false,MV-75130303,54.133566,12.050251,"Grundschule ""Kleine Birke"", Rostock",75130303,0381/711123,Grundschule,Grundschule,MV
+"M.-Gorki-Straße 69, 18106 Rostock",0381/1284968,false,MV-75130305,54.128791,12.045536,"Grundschule ""Am Mühlenteich"", Rostock",75130305,0381/7998603,Grundschule,Grundschule,MV
+"St.-Jantzen-Ring 5, 18106 Rostock",0381/1217142,false,MV-75130306,54.133017,12.069678,"Grundschule Schmarl, Rostock",75130306,0381/1200917,Grundschule,Grundschule,MV
+"Taklerring 44, 18109 Rostock",0381/1215518,false,MV-75130308,54.1509,12.079674,"Grundschule ""Am Taklerring"", Rostock",75130308,0381/1201063,Grundschule,Grundschule,MV
+"St.-Georg-Straße 63c, 18055 Rostock",0381/38141263,false,MV-75130311,54.083334,12.128663,"St. Georg-Grundschule, Rostock",75130311,0381/38141260,Grundschule,Grundschule,MV
+"Barnstorfer Weg 21a, 18057 Rostock",0381/2032809,false,MV-75130312,54.087608,12.116583,"Grundschule am Margaretenplatz, Rostock",75130312,0381/4923583,Grundschule,Grundschule,MV
+"Elisabethstraße 27, 18057 Rostock",0381/38141083,false,MV-75130313,54.090887,12.108601,"""Werner-Lindemann-Grundschule"", Rostock",75130313,0381/38141081,Grundschule,Grundschule,MV
+"Joseph-Herzfeld-Straße  19, 18059 Rostock",0381/4010034,false,MV-75130314,54.074436,12.11422,"Grundschule ""Juri-Gagarin"", Rostock",75130314,0381/4010033,Grundschule,Grundschule,MV
+"W.-Butzek-Straße 23, 18146 Rostock",0381/6864879,false,MV-75130318,54.08333,12.13333,"Grundschule ""Ostseekinder"", Rostock",75130318,0381/6864982,Grundschule,Grundschule,MV
+"P.-Picasso-Straße 44, 18147 Rostock",0381/6668062,false,MV-75130326,54.141544,12.11541,"""Grundschule an den Weiden"",  Rostock-Toitenwinkel",75130326,0381/697093,Grundschule,Grundschule,MV
+"Ratzeburger Straße 9, 18109 Rostock",0381/4405810,false,MV-75130327,54.147203,12.059031,"Grundschule ""Rudolf Tarnow"", Rostock",75130327,0381/715101,Grundschule,Grundschule,MV
+"V.-Grip-Weg 10a, 18055 Rostock",0381/3643332,false,MV-75130342,54.08333,12.13333,"Grundschule ""John Brinckman"", Rostock",75130342,0381/695425,Grundschule,Grundschule,MV
+"Pressentinstraße 82, 18147 Rostock",0381/6664522,false,MV-75130343,54.10671,12.113741,"Gehlsdorfer Grundschule, Rostock",75130343,0381/699276,Grundschule,Grundschule,MV
+"J.-Schehr-Straße 10, 18069 Rostock",0381/1288834,false,MV-75130357,54.12529465,12.079351500000001,"""Türmchenschule""  Reutershagen, Grundschule",75130357,0381/82013,Grundschule,Grundschule,MV
+"Mathias-Thesen-Straße 17, 18069 Rostock",0381/8087464,false,MV-75130358,54.101534,12.067086,"Grundschule Reutershagen ""Nordwindkinner""",75130358,0381/8087463,Grundschule,Grundschule,MV
+"Pablo-Picasso-Straße 45, 18147 Rostock",0381/6664967,false,MV-75230378,54.116157,12.140338,"""Schule am Schäferteich"" - Schule mit dem Förderschwerpunkt Lernen - Regionales Förderzentrum Toitenwinkel",75230378,0381/690283,Förderschule,Förderschule,MV
+"Kuphalstraße 78, 18069 Rostock",0381/8087337,false,MV-75230379,54.095658,12.087374,Förderzentrum am Schwanenteich - Schule mit dem Förderschwerpunkt Lernen,75230379,0381/82370,Förderschule,Förderschule,MV
+"Gehlsheimer Straße 20, 18147 Rostock",0381/6707152,false,MV-75230380,54.102535,12.131545,"""Heinrich-Hoffmann-Schule"" - Schule mit dem Förderschwerpunkt Unterricht kranker Schülerinnen und Schüler",75230380,0381/6707150,Förderschule,Förderschule,MV
+"Danziger Straße 45, 18107 Rostock",0381/7787239,false,MV-75230381,54.143905,12.053075,Förderzentrum an der Danziger Straße - Schule mit dem Förderschwerpunkt Lernen,75230381,0381/713045,Förderschule,Förderschule,MV
+"Alter Markt 1, 18055 Rostock",0381/38141033,false,MV-75230383,54.089663,12.147415,"""Schule am Alten Markt"" - Schule mit dem Förderschwerpunkt Sprache",75230383,0381/4008350,Förderschule,Förderschule,MV
+"Semmelweisstraße 3, 18059 Rostock",0381/4403422,false,MV-75230384,54.063669,12.12413,Schulzentrum Paul-Friedrich-Scheel-Schule - Schule mit dem Förderschwerpunkt körperliche und motorische Entwicklung und Grundschulteil,75230384,0381/440340,Förderschule,Förderschule,MV
+"Helsinkier Straße 20, 18107 Rostock",0381/2074940,false,MV-75230385,54.135852,12.055087,"""Warnowschule Rostock"" Schule mit dem Förderschwerpunkt geistige Entwicklung
+Schule zur individuellen Lebensbewältigung Rostock",75230385,0381/711429,Förderschule,Förderschule,MV
+"Blücherstraße 42, 18055 Rostock",0381/2079727,false,MV-75230388,54.077974,12.142998,Förderzentrum am Wasserturm - Schule mit dem Förderschwerpunkt emotionale und soziale Entwicklung,75230388,0381/712288,Förderschule,Förderschule,MV
+"Thomas-Morus-Straße 1-3, 18106 Rostock",0381/7998862,false,MV-75330361,54.1245684,12.0539307,"Schulcampus Evershagen, Kooperative Gesamtschule",75330361,0381/7998861,Kooperative Gesamtschule,Kooperative Gesamtschule,MV
+"Am Kabutzenhof 8, 18057 Rostock",0381/38141041,false,MV-75330372,54.090722,12.110788,"Integrierte Gesamtschule ""Borwinschule""",75330372,0381/2003553,Integrierte Gesamtschule,Integrierte Gesamtschule,MV
+"Sternberger Straße 10, 18109 Rostock",0381/7691122,false,MV-75330374,54.156198,12.058898,"Hundertwasser-Gesamtschule Rostock, Integrierte Gesamtschule",75330374,0381/711173,Integrierte Gesamtschule,Integrierte Gesamtschule,MV
+"P.-Picasso-Straße 43, 18147 Rostock",0381/6664536,false,MV-75330391,54.141544,12.11541,"""Baltic-Schule"" Toitenwinkel
+Integrierte Gesamtschule mit Regionaler Schule im Aufbau",75330391,0381/697092,Integrierte Gesamtschule mit Regionaler Schule im Aufbau,Integrierte Gesamtschule,MV
+"Mendelejewstraße 12a, 18059 Rostock",0381/40480014,false,MV-75330392,54.073195,12.127455,"Gesamtschule Südstadt, Kooperative Gesamtschule",75330392,0381/4048000,Kooperative Gesamtschule,Kooperative Gesamtschule,MV
+"Lindenstraße 3a, 18055 Rostock",0381/38141091,false,MV-75330393,54.084472,12.14282,"Jenaplanschule Rostock, Integrierte Gesamtschule mit Grundschule",75330393,0381/2007523,Integrierte Gesamtschule mit Grundschule,Integrierte Gesamtschule,MV
+"H.-Schütz-Straße 10a, 18069 Rostock",0381/8002374,false,MV-75430337,54.092933,12.08909,"Regionale Schule ""Heinrich-Schütz"", Rostock",75430337,0381/83910,Regionale Schule,Regionale Schule,MV
+"Taklerring 43, 18109 Rostock",0381/1215933,false,MV-75430348,54.150888,12.078643,"Regionale Schule ""Störtebeker-Schule"", Rostock",75430348,0381/1200928,Regionale Schule,Regionale Schule,MV
+"Ratzeburger Straße 9, 18109 Rostock",0381/2074355,false,MV-75430353,54.147203,12.059031,"Regionale Schule ""Nordlicht-Schule"", Rostock",75430353,0381/711066,Regionale Schule,Regionale Schule,MV
+"B.-von-Suttner-Ring 1 a, 18147 Rostock",0381/6095040,false,MV-75430355,54.110939,12.140801,"Regionale Schule ""Otto-Lilienthal-Schule"", Rostock",75430355,0381/609500,Regionale Schule,Regionale Schule,MV
+"St.-Jantzen-Ring 6, 18106 Rostock",0381/1214286,false,MV-75430376,54.132623,12.070225,"Krusensternschule Rostock, Regionale Schule",75430376,0381/1214284,Regionale Schule,Regionale Schule,MV
+"Kopenhagener Straße 3, 18107 Rostock",0381/7998754,false,MV-75530359,54.133566,12.050251,Erasmus-Gymnasium Rostock,75530359,0381/7998821,Gymnasium,Gymnasium,MV
+"Mathias-Thesen-Straße 17, 18069 Rostock",0381/8087473,false,MV-75530363,54.101534,12.067086,Gymnasium Reutershagen,75530363,0381/82060,Gymnasium,Gymnasium,MV
+"Goetheplatz 5, 18055 Rostock",0381/38141013,false,MV-75530365,54.081372,12.128044,Innerstädtisches Gymnasium Rostock,75530365,0381/38141010,Gymnasium,Gymnasium,MV
+"Heinrich-Tessenow-Straße 47, 18146 Rostock",0381/6095139,false,MV-75530369,54.103579,12.162926,Käthe-Kollwitz-Gymnasium Rostock,75530369,0381/609510,Gymnasium,Gymnasium,MV
+"Goetheplatz 5, 18055 Rostock",0381/38141023,false,MV-75530390,54.081372,12.128044,Abendgymnasium Rostock,75530390,0381/38141020,Abendgymnasium,Abend-Gymnasium,MV
+"Beethovenstraße 3, 18209 Bad Doberan",038203/742299,false,MV-75135101,54.107066,11.903678,Lessing-Grundschule Bad Doberan,75135101,038203/742290,Grundschule,Grundschule,MV
+"Stralsunder Straße 58, 18182 Bentwisch",0381/66673884,false,MV-75135102,54.114136,12.202387,Grundschule Bentwisch,75135102,0381/66673855,Grundschule,Grundschule,MV
+"Am Feldrain 16, 18196 Dummerstorf",038208/82548,false,MV-75135105,54.014684,12.232728,Grundschule Dummerstorf,75135105,038208/280,Grundschule,Grundschule,MV
+"Ostseering 24, 18181 Graal-Müritz",038206/78192,false,MV-75135107,54.25094,12.246359,"""Ostsee-Grundschule""  Graal-Müritz",75135107,038206/77288,Grundschule,Grundschule,MV
+"Schulstraße 1, 18236 Kröpelin",038292/79847,false,MV-75135109,54.067727,11.798977,"Grundschule ""Am Mühlenberg"" Kröpelin",75135109,038292/79846,Grundschule,Grundschule,MV
+"Hermannstraße 9, 18225 Kühlungsborn",038293/877295,false,MV-75135111,54.14874,11.732012,"Grundschule ""Fritz Reuter"" Kühlungsborn",75135111,038293/7767,Grundschule,Grundschule,MV
+"Panzower Weg 23a, 18233 Neubukow",038294/16559,false,MV-75135113,54.027075,11.670037,"Grundschule ""Am Hellbach"", Neubukow",75135113,038294/78422,Grundschule,Grundschule,MV
+"Schulstraße 6, 18182 Rövershagen",038202/44577,false,MV-75135114,54.175945,12.243587,"Grundschule "" De Likedeeler"", Rövershagen",75135114,038202/2096,Grundschule,Grundschule,MV
+"Dorfstraße 40, 18107 Lichtenhagen",0381/7955281,false,MV-75135116,54.141924,12.032374,Grundschule Lichtenhagen-Dorf,75135116,0381/717125,Grundschule,Grundschule,MV
+"Groß Lüsewitzer Weg 5, 18190 Sanitz",038209/875028,false,MV-75135117,54.07182,12.369378,Grundschule Sanitz,75135117,038209/290,Grundschule,Grundschule,MV
+"Lange Straße 44, 18195 Tessin",038205/13204,false,MV-75135119,54.028442,12.468008,"Grundschule an der Recknitz, Tessin",75135119,038205/13204,Grundschule,Grundschule,MV
+"Schulweg 5, 18182 Blankenhagen",038201/60649,false,MV-75135121,54.170586,12.343432,Grundschule Blankenhagen,75135121,038201/847,Grundschule,Grundschule,MV
+"Rostocker Straße 22, 18209 Parkentin",038203/735257,false,MV-75135125,54.103668,11.908879,Grundschule Parkentin,75135125,038203/63763,Grundschule,Grundschule,MV
+"An der Schule 32, 18184 Broderstorf",038204/15235,false,MV-75135137,54.078392,12.297171,"Grundschule an der Carbäk, Broderstorf",75135137,038204/15235,Grundschule,Grundschule,MV
+"Schulweg 1d, 18198 Kritzmow",038207/769851,false,MV-75135138,54.05683,12.051058,Regenbogenkinder Grundschule Kritzmow,75135138,038207/769850,Grundschule,Grundschule,MV
+"Kröpeliner Straße 5, 18230 Rerik",038296/78235,false,MV-75135140,54.105555,11.616466,Grundschule Rerik,75135140,038296/78237,Grundschule,Grundschule,MV
+"Schlossplatz 3, 18246 Bützow",038461/911280,false,MV-75135304,53.85,11.98333,"Grundschule und Freizeithaus am Schlossplatz, Bützow",75135304,038461/52006,Grundschule,Grundschule,MV
+"Teterower Straße 11 b, 17179 Gnoien",039971/30610,false,MV-75135306,53.969108,12.707836,"Grundschule ""Johann Wolfgang von Goethe"", Gnoien",75135306,039971/12239,Grundschule,Grundschule,MV
+"Wendenstraße 14, 18273 Güstrow",03843/218666,false,MV-75135309,53.804596,12.190816,"2. GS ""Fritz Reuter"", Güstrow",75135309,03843/213015,Grundschule,Grundschule,MV
+"Heiligengeisthof 4, 18273 Güstrow",03843/680627,false,MV-75135310,53.791647,12.178182,"1. GS ""G. F. Kersting"", Güstrow",75135310,03843/682304,Grundschule,Grundschule,MV
+"Schulkamp 5, 17166 Teterow",03996/152853,false,MV-75135317,53.773957,12.570114,Grundschule Teterow,75135317,03996/120640,Grundschule,Grundschule,MV
+"Karl-Hawermann-Straße 12b, 18299 Diekhof",038455/20664,false,MV-75135331,53.861196,12.361754,"Grundschule am Schmooksberg, Diekhof",75135331,038455/20654,Grundschule,Grundschule,MV
+"Hafenstraße 13, 18273 Güstrow",03843/683074,false,MV-75135335,53.7991,12.168858,"3. GS ""Schule am Hasenwald"", Güstrow",75135335,03843/684046,Grundschule,Grundschule,MV
+"Schwaaner Straße 38, 18276 Lüssow",03843/219639,false,MV-75135343,53.843999,12.139861,Grundschule Lüssow,75135343,03843/214195,Grundschule,Grundschule,MV
+"Mühlenstraße 84, 18249 Warnow",038462/28244,false,MV-75135347,53.786851,11.87828,Grundschule Warnow,75135347,038462/24248,Grundschule,Grundschule,MV
+"Bollhäger Weg 2, 18209 Bad Doberan",038203/14606,false,MV-75235147,54.109583,11.888785,Schule mit dem Förderschwerpunkt Lernen Bad Doberan,75235147,038203/62575,Förderschule,Förderschule,MV
+"Dr.-Leber-Straße 14, 18181 Graal-Müritz",038206/77813,false,MV-75235148,54.250903,12.238556,Schule mit den Förderschwerpunkten Lernen und geistige Entwicklung Graal-Müritz,75235148,038206/772 12,Förderschule,Förderschule,MV
+"Ehm-Welk-Straße 26, 18209 Bad Doberan",038203/735254,false,MV-75235151,54.104373,11.91678,Schule mit dem Förderschwerpunkt geistige Entwicklung Bad Doberan,75235151,038203/65202,Förderschule,Förderschule,MV
+"Dr.-Winckler-Straße, 18246 Bützow",038461/69015,false,MV-75235355,53.8455828,11.9590493,Förderzentrum Bützow - Schule mit dem Förderschwerpunkt Lernen,75235355,038461/69013,Förderschule,Förderschule,MV
+"Ahornpromenade 1, 18273 Güstrow",03843/245443,false,MV-75235357,53.807427,12.192265,Schule mit dem Förderschwerpunkt Lernen,75235357,03843/331044,Förderschule,Förderschule,MV
+"Niels-Stensen-Straße 4, 17166 Teterow",03996/140729,false,MV-75235358,53.769047,12.573763,Schule mit den Förderschwerpunkten Lernen und geistige Entwicklung,75235358,03996/172065,Förderschule,Förderschule,MV
+"Plauer Chaussee 6, 18273 Güstrow",03843/831326,false,MV-75235359,53.786446,12.20838,"Landesförderzentrum für den Förderschwerpunkt ""Hören"" M-V",75235359,03843/83130,Förderschule,Förderschule,MV
+"Neue Reihe 73a, 18225 Kühlungsborn",038293/14844,false,MV-75335143,54.14734,11.73311,"""Schulzentrum Kühlungsborn""
+Verb. Regionale Schule und Gymnasium",75335143,038293/7292,Kooperative Gesamtschule,Kooperative Gesamtschule,MV
+"Köhlerstrat 9, 18182 Rövershagen",038202/36117,false,MV-75335145,54.177689,12.239023,Verb. Regionalschule und Gymnasium Rövershagen - Europaschule,75335145,038202/36116,Kooperative Gesamtschule,Kooperative Gesamtschule,MV
+"Schulstraße 13, 18299 Laage",038459/667829,false,MV-75335321,53.922044,12.348554,"RecknitzCampus Laage, Kooperative Gesamtschule mit Grundschule ",75335321,038459/66780,Kooperative Gesamtschule mit Grundschule,Kooperative Gesamtschule,MV
+"Am Feldrain 16, 18196 Dummerstorf",038208/60207,false,MV-75435123,54.014684,12.232728,Regionale Schule Dummerstorf,75435123,038208/594,Regionale Schule,Regionale Schule,MV
+"Schulstraße 5, 18211 Rethwisch",038203/81130,false,MV-75435126,54.139187,11.938368,Regionale Schule mit Grundschule Rethwisch,75435126,038203/81130,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Panzower Weg 38, 18233 Neubukow",038294/78870,false,MV-75435130,54.028927,11.671853,"Regionale Schule ""Heinrich Schliemann""",75435130,038294/78257,Regionale Schule,Regionale Schule,MV
+"John-Brinckman-Straße 16, 18190 Sanitz",038209/49868,false,MV-75435131,54.073549,12.374049,Regionale Schule Sanitz,75435131,038209/241,Regionale Schule,Regionale Schule,MV
+"Rudolf-Breitscheid-Straße 16, 18258 Schwaan",03844/813736,false,MV-75435132,53.93841,12.105254,Regionale Schule mit Grundschulteil Schwaan,75435132,03844/813695,Regionale Schule mit Grundschule,Regionale Schule,MV
+"St. Jürgen-Straße 61, 18195 Tessin",038205/78702,false,MV-75435133,54.024085,12.459365,"Regionale Schule ""Anne Frank"", Tessin",75435133,038205/13323,Regionale Schule,Regionale Schule,MV
+"Beethovenstraße 1, 18209 Bad Doberan",038203/736683,false,MV-75435135,54.107125,11.903733,"Regionale Schule ""Am Kamp"", Bad Doberan",75435135,038203/62062,Regionale Schule,Regionale Schule,MV
+"Ehm-Welk-Straße 24, 18209 Bad Doberan",038203/734593,false,MV-75435136,54.10371,11.918346,"Regionale Schule mit Grundschule  Buchenberg, Bad Doberan",75435136,038203/65206,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Schulstraße 5, 18059 Papendorf",0381/4003902,false,MV-75435139,54.03376,12.132217,"Regionale Schule mit Grundschule ""Warnowschule"", Papendorf",75435139,0381/4000355,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Seestraße 9, 18239 Satow",038295/777914,false,MV-75435141,53.993953,11.892047,"Regionale Schule mit Grundschule ""Schule am See"", Satow",75435141,038295/77790,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Dr.-Winkler-Straße 1, 18246 Bützow",038461/52295,false,MV-75435320,53.85,11.98333,"Käthe-Kollwitz-Schule, Regionale Schule, Bützow",75435320,038461/2396,Regionale Schule,Regionale Schule,MV
+"Trotschestraße 8, 18273 Güstrow",03843/680633,false,MV-75435322,53.798979,12.169734,"2. Regionale Schule ""Richard Wossidlo"", Güstrow",75435322,03843/681093,Regionale Schule,Regionale Schule,MV
+"Schützenplatz 10, 17179 Gnoien",039971/30611,false,MV-75435328,53.972388,12.702682,"Warbel-Schule Gnoien, Regionale Schule",75435328,039971/12117,Regionale Schule,Regionale Schule,MV
+"Schulstraße 7, 18249 Bernitt",038464/22858,false,MV-75435330,53.903285,11.894342,Regionale Schule mit Grundschule Bernitt,75435330,038464/20250,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Werner-Seelenbinder-Straße 1, 18273 Güstrow",03843/344567,false,MV-75435333,53.774185,12.18103,"5. Regionale Schule ""Schule am Inselsee"", Güstrow",75435333,03843/331142,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Wendenstraße 13, 18273 Güstrow",03843/211123,false,MV-75435334,53.803909,12.190593,"3. Regionalschule ""Thomas Müntzer"", Güstrow",75435334,03843/214075,Regionale Schule,Regionale Schule,MV
+"Klenzer Weg 6, 17168 Jördenstorf",039977/30314,false,MV-75435338,53.87674,12.619305,"Johann-Heinrich-von-Thünen-Schule 
+Regionale Schule mit Grundschule, Jördenstorf",75435338,039977/30224,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Dobbiner Chaussee 7, 18292 Krakow am See",038457/22242,false,MV-75435339,53.6478,12.273376,Regionale Schule Krakow am See mit Grundschule,75435339,038457/22241,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Schulstraße 15, 18279 Lalendorf",038452/22347,false,MV-75435341,53.75716,12.389669,"Johann-Pogge-Schule, Regionale Schule mit Grundschule, Lalendorf",75435341,038452/20241,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Straße der Freundschaft 5, 17166 Teterow",03996/158618,false,MV-75435346,53.773102,12.583507,Regionale Schule Teterow,75435346,03996/158600,Regionale Schule,Regionale Schule,MV
+"Dorfstraße 49, 18276 Zehna",038458/20234,false,MV-75435348,53.716356,12.133358,Regionale Schule mit Grundschule Zehna,75435348,038458/20214,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Alexandrinenplatz 11, 18209 Bad Doberan",038203/17149,false,MV-75535142,54.104877,11.903134,"Friderico-Francisceum, Gymnasium Bad Doberan",75535142,038203/62395,Gymnasium,Gymnasium,MV
+"Groß Lüsewitzer Weg 4, 18190 Sanitz",038209/80493,false,MV-75535146,54.072436,12.371758,Gymnasium Sanitz,75535146,038209/80492,Gymnasium,Gymnasium,MV
+"Dr.-Winckler-Straße, 18246 Bützow",038461/52295,false,MV-75535349,53.8455828,11.9590493,Geschwister-Scholl-Gymnasium Bützow,75535349,038461/4301,Gymnasium,Gymnasium,MV
+"Am Wall 6, 18273 Güstrow",03843/686697,false,MV-75535351,53.791308,12.171831,"Gymnasium ""John Brinckman"", Güstrow",75535351,03843/686693,Gymnasium,Gymnasium,MV
+"Constantin-Kirchhoff-Straße 6, 17166 Teterow",03996/120685,false,MV-75535354,53.775935,12.562349,Europaschule Gymnasium Teterow,75535354,03996/120683,Gymnasium,Gymnasium,MV
+"Am Wirtschaftshof 10, 19300 Balow",038752/80713,false,MV-75135402,53.265782,11.718834,Grundschule Balow,75135402,038752/80713,Grundschule,Grundschule,MV
+"R.-Breitscheid-Straße 32, 19258 Boizenburg/Elbe",038847/62168,false,MV-75135403,53.381549,10.723633,"Grundschule ""An den Eichen"", Boizenburg",75135403,038847/54310,Grundschule,Grundschule,MV
+"An der Quöbbe 10, 19258 Boizenburg/Elbe",038847/37880,false,MV-75135404,53.376823,10.723415,"Grundschule Ludwig Reinhard, Boizenburg",75135404,038847/54322,Grundschule,Grundschule,MV
+"Ludwigsluster Straße 16, 19294 Eldena",038755 33533,false,MV-75135407,53.234134,11.419849,Grundschule Eldena,75135407,038755/20257,Grundschule,Grundschule,MV
+"Schulstraße 5, 19230 Gammelin",038850/443,false,MV-75135408,53.512483,11.239752,Grundschule Gammelin,75135408,038850/427,Grundschule,Grundschule,MV
+"Hufenweg 2a, 19300 Grabow",038756/28968,false,MV-75135410,53.274479,11.570074,"Grundschule ""Eldekinder"", Grabow",75135410,038756/28961,Grundschule,Grundschule,MV
+"Schulstraße 5a, 19288 Kummer",038751/339800,false,MV-75135412,54.296797,12.882846,Grundschule Kummer,75135412,038751/20712,Grundschule,Grundschule,MV
+"Kanalstraße 26, 19288 Ludwigslust",03874/6637941,false,MV-75135415,53.327557,11.495879,"Grundschule ""Fritz Reuter"", Ludwigslust",75135415,03874/23101,Grundschule,Grundschule,MV
+"Schulstraße 1, 19294 Malliß",038750/22490,false,MV-75135418,53.210046,11.327451,Grundschule Malliß,75135418,038750/20021,Grundschule,Grundschule,MV
+"Schulstraße 29, 19294 Neu Kaliß",038758/36632,false,MV-75135419,53.167714,11.294562,"Grundschule ""Viktor Bausch"", Neu Kaliß",75135419,038758/26270,Grundschule,Grundschule,MV
+"Ernst-Thälmann-Straße 22, 19306 Neustadt-Glewe",038757/22825,false,MV-75135420,53.37944,11.58833,"Grundschule J. W. v. Goethe"", Neustadt-Glewe",75135420,038757/55430,Grundschule,Grundschule,MV
+"Fährweg 8, 19075 Pampow",03865/787912,false,MV-75135422,53.56874,11.366877,Grundschule Pampow,75135422,03865/787910,Grundschule,Grundschule,MV
+"Schulstraße 5, 19288 Ludwigslust",03874/444060,false,MV-75135424,53.308475,11.489706,Grundschule Ludwigslust,75135424,03874/22405,Grundschule,Grundschule,MV
+"Zarrentiner Straße 14, 19258 Gresse",038842/21281,false,MV-75135439,53.429275,10.745666,"Grundschule ""Boizetal"" Gresse",75135439,038842/21204,Grundschule,Grundschule,MV
+"Schulstraße 5, 19230 Hagenow",03883/614525,false,MV-75135442,53.433095,11.190905,"GS ""Mühlenteich"", Hagenow",75135442,03883/61450,Grundschule,Grundschule,MV
+"Neue Straße 18, 19288 Wöbbelin",038753/80791,false,MV-75135450,53.40078,11.50744,Grundschule Wöbbelin,75135450,038753/80791,Grundschule,Grundschule,MV
+"Friedensring 70, 19243 Wittenburg",038852/53541,false,MV-75135452,53.505905,11.068273,"Grundschule ""Am Friedensring"", Wittenburg",75135452,038852/52220,Grundschule,Grundschule,MV
+"Schulstraße 4, 19073 Wittenförden",0385/6470742,false,MV-75135453,53.631995,11.328727,"Grundschule ""Dr. Otto Steinfatt"", Wittenförden",75135453,0385/6470226,Grundschule,Grundschule,MV
+"Vogelstangenberg 6, 19412 Brüel",038483/293013,false,MV-75136001,53.731436,11.715866,Grundschule Brüel,75136001,038483/293010,Grundschule,Grundschule,MV
+"Retgendorfer Weg 26, 19067 Cambs",03866/839369,false,MV-75136002,53.700084,11.526111,"Grundschule ""Wilhelm Busch"", Cambs",75136002,03866/369,Grundschule,Grundschule,MV
+"Schulstraße 1, 19089 Crivitz",03863/502097,false,MV-75136003,53.580031,11.651254,"Grundschule ""Fritz Reuter"", Crivitz",75136003,03863/333540,Grundschule,Grundschule,MV
+"Am Mattenstieg 1K, 19406 Dabel",038458/50402,false,MV-75136005,53.659919,11.900078,Grundschule Dabel,75136005,038485/20242,Grundschule,Grundschule,MV
+"Parchimer Straße 39, 19374 Domsühl",038728/22565,false,MV-75136007,53.486769,11.776532,Grundschule Domsühl,75136007,038728/22547,Grundschule,Grundschule,MV
+"Lange Straße 15, 19372 Groß Godems",038725/55443,false,MV-75136008,53.363301,11.795459,Grundschule Groß Godems,75136008,038725/20282,Grundschule,Grundschule,MV
+"Lindenallee 10, 19067 Leezen",03866/470247,false,MV-75136009,53.662738,11.49432,ORI-Grundschule Leezen,75136009,03866/284,Grundschule,Grundschule,MV
+"Schützenstraße 35, 19386 Lübz",038731/22725,false,MV-75136010,53.459519,12.044154,Grundschule Lübz,75136010,038731/22725,Grundschule,Grundschule,MV
+"Parchimer Straße 9, 19372 Matzlow",038726/22874,false,MV-75136012,53.411624,11.725231,Grundschule Matzlow,75136012,038726/80101,Grundschule,Grundschule,MV
+"Marx-Engels-Platz 2, 19374 Mestlin",038727/81337,false,MV-75136013,53.579263,11.925483,Grundschule Mestlin,75136013,038727/81337,Grundschule,Grundschule,MV
+"Mönchhof 7, 19370 Parchim",03871/602854,false,MV-75136014,53.426809,11.84389,"Grundschule ""Adolf Diesterweg"", Parchim",75136014,03871/212709,Grundschule,Grundschule,MV
+"Hans-Beimler-Straße 24b, 19370 Parchim",03871/421288,false,MV-75136015,53.423995,11.82271,"Grundschule ""West"", Parchim",75136015,03871/441006,Grundschule,Grundschule,MV
+"Wallallee 1, 19370 Parchim",03871/6069729,false,MV-75136016,53.428588,11.854738,"Grundschule ""Goethe"", Parchim",75136016,03871/602756,Grundschule,Grundschule,MV
+"Lange Straße 25, 19395 Plau am See",038735/49608,false,MV-75136018,53.460881,12.263359,"Grundschule ""Kantor Carl Ehrich"", Plau am See",75136018,038735/44320,Grundschule,Grundschule,MV
+"Finkenkamp 17, 19406 Sternberg",03847/311951,false,MV-75136021,53.715604,11.822383,"Grundschule ""Alexander Behm"", Sternberg",75136021,03847/2622,Grundschule,Grundschule,MV
+"Hauptstraße 16, 19079 Sukow",03861/302026,false,MV-75136023,53.547693,11.562664,Grundschule Sukow,75136023,03861/2701,Grundschule,Grundschule,MV
+"Charlottenhofer Weg 57A, 19386 Passow",038731/20987,false,MV-75136033,53.506567,12.054412,Grundschule Passow,75136033,038731/24036,Grundschule,Grundschule,MV
+"Fr.-Wehmer-Straße 52, 19086 Plate",03861/300891,false,MV-75136034,53.552158,11.49878,Grundschule Plate,75136034,03861/2024,Grundschule,Grundschule,MV
+"Schützenplatz 2, 19399 Goldberg",038736/40834,false,MV-75136054,53.589823,12.091198,"Grundschule ""John Brinckman"", Goldberg",75136054,038736/40756,Grundschule,Grundschule,MV
+"Theodor-Körner-Straße 5, 19258 Boizenburg/Elbe",038847/297927,false,MV-75235463,53.382019,10.729852,Förderschule mit den Förderschwerpunkten Lernen und geistige Entwicklung Boizenburg,75235463,038847/297920,Förderschule,Förderschule,MV
+"Bahnhofstraße 130, 19230 Hagenow",03883/727042,false,MV-75235465,53.417908,11.209809,Diesterwegschule Hagenow; Schule mit dem Förderschwerpunkt Lernen,75235465,03883/727042,Förderschule,Förderschule,MV
+"J.-Gillhoff-Straße 17, 19288 Ludwigslust",03874/666801,false,MV-75235466,53.31667,11.48333,"Förderschule ""Johann-Heinrich-Pestalozzi"" Ludwigslust; Schule mit dem Förderschwerpunkt Lernen",75235466,03874/22029,Förderschule,Förderschule,MV
+"Bahnhofstraße 132, 19230 Hagenow",03883/641456,false,MV-75235469,53.417753,11.210059,Förderschule mit dem Förderschwerpunkt geistige Entwicklung Hagenow,75235469,03883/724101,Förderschule,Förderschule,MV
+"Fr.-Naumann-Allee 37, 19288 Ludwigslust",03874/3206669,false,MV-75235470,53.326263,11.492971,Schule an der Bleiche Ludwigslust; Schule mit dem Förderschwerpunkt geistige Entwicklung,75235470,03874/21922,Förderschule,Förderschule,MV
+"Neuer Teich 1, 19386 Lübz",038731/21192,false,MV-75236063,53.457429,12.051068,Schule am Neuen Teich Lübz - Schule mit dem Förderschwerpunkt Lernen,75236063,038731/22838,Förderschule,Förderschule,MV
+"Brunnenstraße 21, 19370 Parchim",03871/451414,false,MV-75236064,53.41334,11.841877,"Pestalozzischule - Schule mit dem Förderschwerpunkt Lernen, Parchim",75236064,03871/212796,Förderschule,Förderschule,MV
+"Ziegendorfer Chaussee 11, 19370 Parchim",03871/4689873,false,MV-75236065,53.426129,11.833654,Schule am Alten Hafen Parchim - Schule mit dem Förderschwerpunkt geistige Entwicklung,75236065,03871/443132,Förderschule,Förderschule,MV
+"Am Berge 3a, 19406 Sternberg",03847/435333,false,MV-75236067,53.713818,11.826379,Schule mit den Förderschwerpunkten Lernen und geistige Entwicklung Sternberg,75236067,03847/435330,Förderschule,Förderschule,MV
+"Schulstraße 4, 19073 Stralendorf",03869/7809809,false,MV-75335447,53.573458,11.302369,"Gymnasiales Schulzentrum ""Felix Stillfried"", Stralendorf",75335447,03869/7437,Kooperative Gesamtschule mit Grundschule,Kooperative Gesamtschule,MV
+"Roggenfelder Straße 30A, 19303 Dömitz",038758/3554100,false,MV-75335456,53.135179,11.268326,"Gymnasiales Schulzentrum ""Fritz Reuter"" Dömitz",75335456,038758/35540,Kooperative Gesamtschule mit Grundschule und Förderschule,Kooperative Gesamtschule,MV
+"Lindenstraße 13, 19243 Wittenburg",038852/52500,false,MV-75335462,53.513542,11.076058,Gymnasiales Schulzentrum Wittenburg,75335462,038852/8080,Kooperative Gesamtschule,Kooperative Gesamtschule,MV
+"Seestraße 1a, 19406 Sternberg",03847/4353443,false,MV-75336062,53.714485,11.829947,Verbundene Regionale Schule und Gymnasium Sternberg,75336062,03847/435340,Kooperative Gesamtschule,Kooperative Gesamtschule,MV
+"Prislicher Straße 23, 19300 Grabow",038756/22353,false,MV-75435431,53.275816,11.568075,"Regionale Schule Friedrich Rohr, Grabow",75435431,038756/22352,Regionale Schule,Regionale Schule,MV
+"Rennbahnweg 1, 19288 Ludwigslust",03874/665230,false,MV-75435433,53.333345,11.484433,"Regionale Schule ""P. J. Lenné"", Ludwigslust",75435433,03874/29162,Regionale Schule,Regionale Schule,MV
+"Rudolf-Breitscheid-Straße 30, 19249 Lübtheen",038855/785189,false,MV-75435434,53.308191,11.079654,"Regionale Schule mit Grundschule ""Lindenschule"", Lübtheen",75435434,038855/785180,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Schulstraße 1, 19294 Malliß",038750/22490,false,MV-75435435,53.210046,11.327451,Regionale Schule Malliß,75435435,038750/20292,Regionale Schule,Regionale Schule,MV
+"Laascher Straße 57, 19306 Neustadt-Glewe",038757/33114,false,MV-75435437,53.373292,11.594843,"Regionale Schule ""Karl-Scharfenberg-Schule"", 
+Neustadt-Glewe",75435437,038757/33113,Regionale Schule,Regionale Schule,MV
+"R.-Markmann-Straße 59, 19258 Boizenburg/Elbe",038847/624870,false,MV-75435438,53.384284,10.731344,"Regionale Schule ""Rudolf Tarnow"", Boizenburg",75435438,038847/54312,Regionale Schule,Regionale Schule,MV
+"Möllner Straße 12, 19230 Hagenow",03883/618555,false,MV-75435441,53.431747,11.202827,"Regionale Schule ""Prof. Dr. Friedrich Heincke"", Hagenow",75435441,03883/723012,Regionale Schule,Regionale Schule,MV
+"Kießender Ring 6, 19230 Hagenow",03883/724943,false,MV-75435443,53.438174,11.180933,"Regionale Schule mit Grundschule ""Europaschule"", Hagenow",75435443,03883/721029,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Hagenower Straße 7a, 19230 Picher",038751/21203,false,MV-75435445,53.347146,11.341744,"Regionale Schule mit Grundschule ""Theodor Körner"", Picher",75435445,038751/20234,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Schulstraße 5, 19077 Rastow",03868/292,false,MV-75435446,53.4582,11.427724,"Regionale Schule mit Grundschule ""Dr. Ernst Alban"", Rastow",75435446,03868/300683,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Schulstraße 2, 19260 Vellahn",038848/22418,false,MV-75435449,53.396891,10.968702,"Regionale Schule mit Grundschule, Vellahn",75435449,038848/20209,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Rosenstraße 27, 19246 Zarrentin",038851/81131,false,MV-75435454,53.549371,10.913322,"Regionale Schule mit Grundschule ""Fritz Reuter"", Zarrentin",75435454,038851/81130,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Wallallee 1, 19370 Parchim",03871/212424,false,MV-75436031,53.428588,11.854738,"Regionale Schule ""J. W. v. Goethe"", Parchim",75436031,03871/4226590,Regionale Schule,Regionale Schule,MV
+"Vogelstangenberg 6, 19412 Brüel",038483/293013,false,MV-75436035,53.731436,11.715866,Regionale Schule Brüel,75436035,038483/293030,Regionale Schule,Regionale Schule,MV
+"Retgendorfer Weg 24, 19067 Cambs",03866/80719,false,MV-75436036,53.700674,11.525846,"Regionale Schule ""Am Mühlenberg"", Cambs",75436036,03866/326,Regionale Schule,Regionale Schule,MV
+"Straße der Freundschaft 19 a, 19089 Crivitz",03863/502422,false,MV-75436037,53.573915,11.662697,Regionale Schule Crivitz,75436037,03863/50240,Regionale Schule,Regionale Schule,MV
+"Parchimer Straße 39, 19374 Domsühl",038728/22565,false,MV-75436040,53.486769,11.776532,"Regionale Schule ""Eldetalschule"", Domsühl",75436040,038728/20236,Regionale Schule,Regionale Schule,MV
+"Schützenstraße 35, 19386 Lübz",038731/36606,false,MV-75436041,53.459519,12.044154,Regionale Schule Lübz,75436041,038731/22602,Regionale Schule,Regionale Schule,MV
+"Mooster Straße 10, 19376 Marnitz",038729/29099,false,MV-75436042,53.324742,11.934042,Regionale Schule mit Grundschule Marnitz,75436042,038729/29097,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Mönchhof 6, 19370 Parchim",03871/450320,false,MV-75436045,53.427328,11.843967,"Regionale Schule ""Fritz Reuter"", Parchim",75436045,03871/212818,Regionale Schule,Regionale Schule,MV
+"Wittstocker Weg 10c, 19395 Plau am See",038735/41153,false,MV-75436047,53.454437,12.261133,"Regionale Schule Schule ""Am Klüschenberg"", Plau am See",75436047,038735/40884,Regionale Schule,Regionale Schule,MV
+"An der Lewitzmühle 82, 19079 Banzkow",03861/302604,false,MV-75436051,53.524863,11.501753,Regionale Schule Banzkow,75436051,03861/7101,Regionale Schule,Regionale Schule,MV
+"J.-Brinckman-Straße 39, 19399 Goldberg",038736/42640,false,MV-75436055,53.56667,12.06667,"Regionale Schule ""Walter Husemann"", Goldberg",75436055,038736/41805,Regionale Schule,Regionale Schule,MV
+"Ludwig-Reinhard-Straße 21, 19258 Boizenburg/Elbe",038847/8111,false,MV-75535455,53.384284,10.731344,"Gymnasium ""Elbe-Gymnasium"", Boizenburg",75535455,038847/8110,Gymnasium,Gymnasium,MV
+"Möllner Straße 14, 19230 Hagenow",03883/66106,false,MV-75535458,53.43155,11.202173,"Robert-Stock-Gymnasium, Hagenow",75535458,03883/66105,Gymnasium,Gymnasium,MV
+"Christian-Ludwig-Straße 3, 19288 Ludwigslust",03874/428020,false,MV-75535459,53.32241,11.50239,"Goethe-Gymnasium, Ludwigslust",75535459,03874/42800,Gymnasium,Gymnasium,MV
+"Am Sonnenberg 1, 19089 Crivitz",03863/5424111,false,MV-75536059,53.581691,11.644612,"Gymnasium Am Sonnenberg, Crivitz",75536059,03863/54240,Gymnasium,Gymnasium,MV
+"Blücher Straße 22a, 19386 Lübz",038731/20016,false,MV-75536060,53.464546,12.037991,"Gymnasium ""Eldenburg"", Lübz",75536060,038731/22686,Gymnasium,Gymnasium,MV
+"Ziegendorfer Chaussee 71/74, 19370 Parchim",03871/444159,false,MV-75536061,53.422109,11.827457,"Friedrich-Franz-Gymnasium, Parchim",75536061,03871/441010,Gymnasium,Gymnasium,MV
+"Katharinenstraße 1, 17033 Neubrandenburg",0395/5551151,false,MV-75130201,53.556431,13.269182,"Grundschule  Mitte ""Uns Hüsung"", Neubrandenburg",75130201,0395/5551101,Grundschule,Grundschule,MV
+"Werner-Seelenbinder-Straße 1, 17033 Neubrandenburg",0395/5551770,false,MV-75130203,53.55694,13.26083,"Grundschule Süd, Neubrandenburg",75130203,0395/5551765,Grundschule,Grundschule,MV
+"Robert-Koch-Straße 52, 17036 Neubrandenburg",0395/5551197,false,MV-75130205,53.549882,13.300334,"Grundschule  Ost ""H. Ch. Andersen"" Europaschule, Neubrandenburg",75130205,0395/5551188,Grundschule,Grundschule,MV
+"Rasgrader Straße 4, 17034 Neubrandenburg",0395/5551709,false,MV-75130210,53.577636,13.283115,"Grundschule Datzeberg, Neubrandenburg",75130210,0395/5551701,Grundschule,Grundschule,MV
+"Traberallee 18, 17034 Neubrandenburg",0395/5551951,false,MV-75130211,53.569695,13.26066,"Grundschule Nord ""Am Reitbahnsee"", Neubrandenburg",75130211,0395/5551941,Grundschule,Grundschule,MV
+"Dükerweg 2, 17033 Neubrandenburg",0395/5551175,false,MV-75130213,53.555874,13.244095,"Grundschule West ""Am See"", Neubrandenburg",75130213,0395/5551141,Grundschule,Grundschule,MV
+"Karlsplatz 7, 17087 Altentreptow",03964/212937,false,MV-75135201,53.696548,13.250196,Grundschule Altentreptow,75135201,03961/212936,Grundschule,Grundschule,MV
+"Am Sportplatz 18, 17159 Dargun",039959/27960,false,MV-75135202,53.90257,12.853109,Grundschule Dargun,75135202,039959/20353,Grundschule,Grundschule,MV
+"Am Klinkenberg 2, 17109 Demmin",03998/2585855,false,MV-75135203,53.905,13.04389,"Grundschule ""Heinrich Zille"", Demmin",75135203,03998/222055,Grundschule,Grundschule,MV
+"Schulstraße 1, 17091 Mölln",039602/20615,false,MV-75135210,53.589338,13.086655,Grundschule Mölln,75135210,039602/20615,Grundschule,Grundschule,MV
+"Schulplatz 3-4, 17139 Malchin",03994/299016,false,MV-75135211,53.73333,12.78333,"Grundschule ""Pestalozzi"", Malchin",75135211,03994/299015,Grundschule,Grundschule,MV
+"Dorfstraße 77, 17111 Sarow",039996/70310,false,MV-75135213,53.796567,13.103663,Grundschule Sarow,75135213,039996/70310,Grundschule,Grundschule,MV
+"Goethestraße 14, 17153 Stavenhagen",039954/276817,false,MV-75135214,53.698971,12.906081,"Fritz-Reuter-Grundschule, Stavenhagen",75135214,039954/276812,Grundschule,Grundschule,MV
+"Dorfstraße 23, 17111 Schönfeld",039994/10249,false,MV-75135226,53.853326,12.958466,Grundschule Schönfeld,75135226,039994/10249,Grundschule,Grundschule,MV
+"Schulstraße 4, 17089 Burow",03965/210369,false,MV-75135233,53.772924,13.273554,Grundschule Burow ,75135233,03965/210369,Grundschule,Grundschule,MV
+"Straße der Einheit 58, 17139 Gielow",039957/20442,false,MV-75135234,53.696036,12.748835,Grundschule Gielow,75135234,039957/20442,Grundschule,Grundschule,MV
+"Birkenweg 2, 17153 Jürgenstorf",039955/20231,false,MV-75135236,53.662478,12.903071,Grundschule Jürgenstorf,75135236,039955/20231,Grundschule,Grundschule,MV
+"Klüschenberg 17, 17094 Burg Stargard",039603/27923,false,MV-75135503,53.492584,13.319381,"Grundschule ""Kletterrose"", Burg Stargard",75135503,039603/27924,Grundschule,Grundschule,MV
+"Wollweberstraße 59, 17098 Friedland",039601/369809,false,MV-75135507,53.667554,13.552137,Grundschule Friedland,75135507,039601/21103,Grundschule,Grundschule,MV
+"Leussower Weg 9a, 17252 Mirow",039833/27576,false,MV-75135510,53.276851,12.821294,"Grundschule Regenbogen, Mirow ",75135510,039833/20271,Grundschule,Grundschule,MV
+"Pestalozzistraße 6, 17235 Neustrelitz",03981/441827,false,MV-75135513,53.356634,13.09251,"Grundschule Kiefernheide, Neustrelitz",75135513,03981/442906,Grundschule,Grundschule,MV
+"Dorfstraße 30, 17039 Neverin",039608/20098,false,MV-75135514,53.621443,13.332757,"Grundschule ""Zum Wasserturm"", Neverin",75135514,039608/20503,Grundschule,Grundschule,MV
+"Sandberg 48, 17235 Neustrelitz",03981/238156,false,MV-75135524,53.368796,13.061441,"Grundschule Am Sandberg, Neustrelitz",75135524,03981/238155,Grundschule,Grundschule,MV
+"Schulstraße 10, 17349 Groß Miltzow",03967/410299,false,MV-75135533,53.534251,13.572539,"Grundschule Pappelhain, Groß Miltzow",75135533,03967/410293,Grundschule,Grundschule,MV
+"Bachstraße 9, 17235 Neustrelitz",03981/441896,false,MV-75135547,53.332293,13.095552,"Grundschule  ""Daniel Sanders"", Neustrelitz",75135547,03981/441896,Grundschule,Grundschule,MV
+"Federower Straße 12, 17192 Kargow",03991/670040,false,MV-75135602,53.506169,12.783468,"Grundschule ""Uns lütt Schaul"", Kargow",75135602,03991/670040,Grundschule,Grundschule,MV
+"Schulstraße 22, 17194 Moltzow",039933/73584,false,MV-75135603,53.628875,12.576869,Grundschule Moltzow,75135603,039933/73588,Grundschule,Grundschule,MV
+"Schulstraße 20, 17207 Röbel/Müritz",039931/54285,false,MV-75135607,53.3819,12.600936,Grundschule Röbel,75135607,039931/52234,Grundschule,Grundschule,MV
+"Schulstraße, 17248 Rechlin",039823/21829,false,MV-75135608,53.333427,12.720279,Grundschule Rechlin,75135608,039823/21204,Grundschule,Grundschule,MV
+"Geschwister-Scholl-Straße 31, 17192 Waren (Müritz)",03991/182866,false,MV-75135610,53.521616,12.664597,"Grundschule ""Käthe Kollwitz"", Waren",75135610,03991/125645,Grundschule,Grundschule,MV
+"Bgm.-Schlaaff-Straße 26, 17192 Waren (Müritz)",03991/667717,false,MV-75135611,53.51667,12.68333,"Grundschule ""Am Papenberg"", Waren",75135611,03991/665740,Grundschule,Grundschule,MV
+"Schulstraße 13, 17209 Altenhof",039924/2443,false,MV-75135618,53.353815,12.36001,Grundschule Altenhof,75135618,039924/2443,Grundschule,Grundschule,MV
+"Neue Straße 32, 17192 Groß Plasten",039934/87324,false,MV-75135621,53.546348,12.848115,Grundschule Groß Plasten,75135621,039934/87605,Grundschule,Grundschule,MV
+"Kirchstraße 23-25, 17213 Malchow",039932/47958,false,MV-75135625,53.46667,12.41667,"Grundschule ""Goethe"", Malchow",75135625,039932/18523,Grundschule,Grundschule,MV
+"Am Burgberg 1, 17209 Wredenhagen",039925/2246,false,MV-75135631,53.289358,12.519863,Grundschule Wredenhagen,75135631,039925/2234,Grundschule,Grundschule,MV
+"Ziegelbergstraße 27, 17033 Neubrandenburg",0395/599991309,false,MV-75230235,53.555427,13.269483,"Schule mit dem Förderschwerpunkt Lernen sowie emotionale und soziale Entwicklung Neubrandenburg ""Pestalozzischule"" 
+- Förderzentrum -",75230235,0395/599991302,Förderschule,Förderschule,MV
+"Baumhaselstraße 10-12, 17033 Neubrandenburg",0395/3797479,false,MV-75230236,53.535349,13.259111,Schule mit dem Förderschwerpunkt Sprache Neubrandenburg - Sprachheilpädagogisches Förderzentrum,75230236,0395/3699203,Förderschule,Förderschule,MV
+"Robert-Blum-Straße 36, 17033 Neubrandenburg",0395/5639515,false,MV-75230237,53.56119,13.249187,"Überregionales Förderzentrum mit dem Förderschwerpunkt körperliche-motorische Entwicklung, Neubrandenburg",75230237,0395/5639511,Förderschule,Förderschule,MV
+"B.-Brecht-Straße 1a, 17034 Neubrandenburg",0395/4308040,false,MV-75230238,53.57764,13.285376,"Schule mit dem Förderschwerpunkt geistige Entwicklung Neubrandenburg ""Kranichschule""",75230238,0395/4308016,Förderschule,Förderschule,MV
+"Poststraße 1, 17087 Altentreptow",03961/216441,false,MV-75235248,53.692556,13.247123,"Lea-Toll-Schule - Schule mit dem Förderschwerpunkt Lernen, Altentreptow",75235248,03961/214417,Förderschule,Förderschule,MV
+"Saarstraße 23, 17109 Demmin",03998/258006,false,MV-75235249,53.904247,13.065286,"Schule mit dem Förderschwerpunkt Lernen, Demmin",75235249,03998/222010,Förderschule,Förderschule,MV
+"Lindenstraße 6, 17139 Malchin",03994/239853,false,MV-75235250,53.736803,12.762383,"""Sonderpädagogisches Förderzentrum - Lindenschule"" - Schule mit dem Förderschwerpunkt Lernen, Malchin",75235250,03994/222209,Förderschule,Förderschule,MV
+"Westphalstraße 3, 17087 Altentreptow",03961/262555,false,MV-75235251,53.691168,13.24835,"Schule mit dem Förderschwerpunkt geistige Entwicklung, Altentreptow",75235251,03961/214664,Förderschule,Förderschule,MV
+"Quitzerower Weg 31, 17109 Demmin",03998/259964,false,MV-75235252,53.907258,13.060822,"Schule Sonnenhof - Schule mit dem Förderschwerpunkt geistige Entwicklung, Demmin",75235252,03998/222004,Förderschule,Förderschule,MV
+"Am Wedenhof 6, 17139 Malchin",03994/239426,false,MV-75235253,53.740129,12.759323,"Schule ""Am Wedenhof""- Schule mit dem Förderschwerpunkt geistige Entwicklung, Malchin",75235253,03994/222365,Förderschule,Förderschule,MV
+"A.-Bebel-Platz 17, 17098 Friedland",039601/20574,false,MV-75235544,53.672408,13.553669,"Sonderpädagogisches Förderzentrum - Schule mit Förderschwerpunkt Lernen, Friedland",75235544,039601/20573,Förderschule,Förderschule,MV
+"Hittenkofer Straße 28, 17235 Neustrelitz",03981/205446,false,MV-75235545,53.334873,13.096222,"Sonderpädagogisches Förderzentrum - Schule mit Förderschwerpunkt Lernen, Neustrelitz",75235545,03981/205449,Förderschule,Förderschule,MV
+"Höhenstraße 51, 17235 Neustrelitz",03981/443494,false,MV-75235546,53.357005,13.085988,"Tom-Mutters-Schule - Schule mit Förderschwerpunkt geistige Entwicklung, Neustrelitz",75235546,03981/443492,Förderschule,Förderschule,MV
+"Schulstraße 11, 17349 Holzendorf",03967/461856,false,MV-75235548,53.534197,13.571858,Mosaik-Schule - Schule mit Förderschwerpunkt geistige Entwicklung,75235548,03967/461855,Förderschule,Förderschule,MV
+"Warener Chaussee 4, 17207 Röbel/Müritz",039931/52262,false,MV-75235637,53.384569,12.606165,Förderschule Röbel - Schule mit dem Förderschwerpunkt Lernen,75235637,039931/52262,Förderschule,Förderschule,MV
+"Karl-Liebknecht-Straße 8, 17192 Waren (Müritz)",03991/187074,false,MV-75235638,53.517319,12.675093,"Förderzentrum ""Pestalozzi"" Waren - Schule mit dem Förderschwerpunkt Lernen",75235638,03991/125433,Förderschule,Förderschule,MV
+"Neubaustraße 14, 17209 Sietow",039931/84523,false,MV-75235639,53.44431,12.560033,Müritz-Schule Sietow - Schule mit dem Förderschwerpunkt geistige Entwicklung,75235639,039931/8450,Förderschule,Förderschule,MV
+"Geschwister-Scholl-Straße 14, 17033 Neubrandenburg",0395/599991109,false,MV-75330233,53.547446,13.268417,"Gesamtschule ""Vier Tore"", Integrierte Gesamtschule, Neubrandenburg",75330233,0395/599991100,Integrierte Gesamtschule,Integrierte Gesamtschule,MV
+"Pestalozzistraße 1, 17087 Altentreptow",03961/215513,false,MV-75335243,53.685204,13.245719,"Kooperative Gesamtschule mit gymnasialer Oberstufe, Altentreptow",75335243,03961/215512,Kooperative Gesamtschule,Kooperative Gesamtschule,MV
+"Straße am Wasserturm 1, 17153 Stavenhagen",039954/27181,false,MV-75335247,53.696903,12.898265,"Reuterstädter Gesamtschule - Europaschule -
+Kooperative Gesamtschule, Stavenhagen",75335247,039954/22043,Kooperative Gesamtschule,Kooperative Gesamtschule,MV
+"Dr. Karl-Bayer-Straße 4, 17098 Friedland",039601/29124,false,MV-75335537,53.65,13.53333,"Kooperative Gesamtschule mit gymnasialer Oberstufe, Friedland",75335537,039601/2910,Kooperative Gesamtschule,Kooperative Gesamtschule,MV
+"Lessingstraße 27, 17235 Neustrelitz",03981/455999,false,MV-75335541,53.354544,13.083454,"Integrierte Gesamtschule ""Walter Karbe""",75335541,03981/455991,Integrierte Gesamtschule,Integrierte Gesamtschule,MV
+"Schulstraße 3, 17213 Malchow",039932/16633,false,MV-75335614,53.470829,12.408447,Fleesenseeschule Malchow - Verbundene Regionale Schule und Gymnasium,75335614,039932/1660,Kooperative Gesamtschule,Kooperative Gesamtschule,MV
+"Gotthunskamp 13, 17207 Röbel/Müritz",039931/52206  ,false,MV-75335616,53.374741,12.603148,"Schulcampus Röbel, Verbundene Regionale Schule und Gymnasium",75335616,039931/52202,Kooperative Gesamtschule,Kooperative Gesamtschule,MV
+"Katharinenstraße 1, 17033 Neubrandenburg",0395/5551173,false,MV-75430216,53.556431,13.269182,"Regionale Schule Mitte  ""Fritz Reuter"", Neubrandenburg",75430216,0395/5551201,Regionale Schule,Regionale Schule,MV
+"Kopernikusstraße 4, 17036 Neubrandenburg",0395/5551641,false,MV-75430219,53.55121,13.295207,"Regionale Schule ""Am Lindetal"", Neubrandenburg",75430219,0395/5551632,Regionale Schule,Regionale Schule,MV
+"Dükerweg 2, 17033 Neubrandenburg",0395/5551175,false,MV-75430225,53.555874,13.244095,"Regionale Schule Nord, Neubrandenburg",75430225,0395/5551141,Regionale Schule,Regionale Schule,MV
+"Rudolf-Fritz-Straße 8a, 17139 Malchin",03994/222219,false,MV-75435221,53.739756,12.753981,"Regionale Schule Siegfried Marcus, Malchin",75435221,03994/222277,Regionale Schule,Regionale Schule,MV
+"Schützenstraße 1, 17109 Demmin",03998/271115,false,MV-75435222,53.903922,13.050822,"Regionale Schule mit Grundschule Pestalozzi, Demmin",75435222,03998/271111,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Am Sportplatz 18, 17159 Dargun",039959/27960,false,MV-75435227,53.90257,12.853109,Regionale Schule Dargun,75435227,039959/20278,Regionale Schule,Regionale Schule,MV
+"Frauenstraße 18, 17109 Demmin",03998/222072,false,MV-75435229,53.905696,13.038354,"Regionale Schule ""Fritz Reuter"", Demmin",75435229,03998/222072,Regionale Schule,Regionale Schule,MV
+"Waldstraße 6, 17091 Tützpatz",039600/20518,false,MV-75435242,53.725203,13.14229,Regionale Schule mit Grundschule Tützpatz,75435242,039600/21272,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Tiergartenstraße 32, 17235 Neustrelitz",03981/238620,false,MV-75435523,53.358936,13.067469,"Regionale Schule ""J. Nehru"", Neustrelitz",75435523,03981/23860,Regionale Schule,Regionale Schule,MV
+"Wollweberstraße 27, 17348 Woldegk",03963/210505,false,MV-75435529,53.458247,13.581347,Regionale Schule mit Grundschule Woldegk,75435529,03963/210302,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Schulstraße 12, 17237 Blankensee",039826/12406,false,MV-75435531,53.406485,13.267367,"Regionale Schule mit Grundschule ""Am Kirschgarten"", Blankensee",75435531,039826/12405,Regionale Schule mit Grundschule,Regionale Schule,MV
+"In den Wällen 9a, 17255 Wesenberg",039832/20510,false,MV-75435536,53.286209,12.967809,Regionale Schule mit Grundschule Wesenberg,75435536,039832/20345,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Klüschenbergstraße 13, 17094 Burg Stargard",039603/22915,false,MV-75435542,53.492774,13.31789,Regionale Schule Burg Stargard,75435542,039603/20312,Regionale Schule,Regionale Schule,MV
+"Bahnhofstraße 5, 17258 Feldberg",039831/22149,false,MV-75435543,53.331889,13.435601,"Regionale Schule mit Grundschule ""Hans Fallada"", Feldberg",75435543,039831/21619,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Hirtenstraße 12, 17217 Penzlin",03962/210233,false,MV-75435615,53.505939,13.08641,Regionale Schule mit Grundschule Penzlin,75435615,03962/210232,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Neuer Markt 28, 17248 Rechlin",039823/21470,false,MV-75435617,53.330282,12.723002,Regionale Schule Rechlin,75435617,039823/21216,Regionale Schule,Regionale Schule,MV
+"Am Markt 10, 17219 Möllenhagen",039928/80220,false,MV-75435624,53.528443,12.931414,"Regionale Schule ""Heinrich Schliemann"", Möllenhagen",75435624,039928/80212,Regionale Schule,Regionale Schule,MV
+"Kirschenweg 2, 17192 Waren (Müritz)",03991/640219,false,MV-75435630,53.509904,12.696208,"Regionale Schule ""Friedrich Dethloff"", Waren",75435630,03991/64020,Regionale Schule,Regionale Schule,MV
+"Friedrich-Engels-Platz 10, 17192 Waren (Müritz)",03991/168960,false,MV-75435636,53.521773,12.669369,Regionale Schule Waren,75435636,03991/168918,Regionale Schule,Regionale Schule,MV
+"Demminer Straße 42, 17034 Neubrandenburg",0395/599991616,false,MV-75530227,53.56602,13.268815,"Albert-Einstein-Gymnasium, Neubrandenburg",75530227,0395/599991600,Gymnasium,Gymnasium,MV
+"Schwedenstraße 22, 17033 Neubrandenburg",0395/599991816,false,MV-75530232,53.550659,13.25765,Sportgymnasium Neubrandenburg,75530232,0395/599991800,Gymnasium,Gymnasium,MV
+"Demminer Straße 42, 17034 Neubrandenburg",0395/599991623,false,MV-75530240,53.56602,13.268815,Abendgymnasium Neubrandenburg,75530240,0395/599991621,Abendgymnasium,Abend-Gymnasium,MV
+"An der Mühle 7, 17109 Demmin",,false,MV-75535244,53.907227,13.05325,Goethe-Gymnasium - Musikgymnasium - Demmin,75535244,03998/222067,Gymnasium,Gymnasium,MV
+"Am Zachow 39, 17139 Malchin",03994/2999886,false,MV-75535246,53.737109,12.750816,Fritz-Greve-Gymnasium Malchin,75535246,03994/227205,Gymnasium,Gymnasium,MV
+"Louisenstraße 30, 17235 Neustrelitz",03981/286730,false,MV-75535539,53.365843,13.068172,"Gymnasium Carolinum, Neustrelitz",75535539,03981/286710,Gymnasium,Gymnasium,MV
+"Güstrower Straße 11, 17192 Waren (Müritz)",03991/747727,false,MV-75535635,53.517309,12.686899,Richard-Wossidlo-Gymnasium,75535635,03991/74770,Gymnasium,Gymnasium,MV
+"Anton-Saefkow-Straße 9, 23968 Wismar",03841/6189789,false,MV-75130601,53.904487,11.425419,"Grundschule ""Seeblick"", Wismar",75130601,03841/636695,Grundschule,Grundschule,MV
+"Tallinner Straße 01, 23970 Wismar",03841/224188,false,MV-75130602,53.901584,11.476431,"Grundschule ""Rudolf Tarnow"", Wismar",75130602,03841/282022,Grundschule,Grundschule,MV
+"Dahlmannstraße 14, 23966 Wismar",03841/395359,false,MV-75130603,53.888612,11.459216,"Grundschule ""Fritz Reuter"", Wismar",75130603,03841/283064,Grundschule,Grundschule,MV
+"H.-Rothbarth-Straße 1 a, 23966 Wismar",03841/326261,false,MV-75130604,53.8925,11.465,"Grundschule ""Friedenshof"", Wismar",75130604,03841/707527,Grundschule,Grundschule,MV
+"Schulstraße 08, 19217 Carlow",038873/33475,false,MV-75135802,53.758402,10.936093,Grundschule Carlow,75135802,038873/20264,Grundschule,Grundschule,MV
+"Karl-Marx-Straße 13, 23972 Dorf Mecklenburg",03841/333989,false,MV-75135804,53.845404,11.464122,Grundschule Dorf Mecklenburg,75135804,03841/795924,Grundschule,Grundschule,MV
+"Kleine Allee 44, 23936 Grevesmühlen",03881/711173,false,MV-75135806,53.86282,11.187386,"Grundschule ""Fritz Reuter"", Grevesmühlen",75135806,03881/2511,Grundschule,Grundschule,MV
+"Ploggenseering 64, 23936 Grevesmühlen",03881/710039,false,MV-75135807,53.864941,11.195576,"Grundschule ""Ploggensee"", Grevesmühlen",75135807,03881/712206,Grundschule,Grundschule,MV
+"Alte Gärtnerei 1, 23992 Neukloster",038422/20427,false,MV-75135818,53.862243,11.692042,Grundschule Neukloster,75135818,038422/20357,Grundschule,Grundschule,MV
+"Neue Reihe 11, 23923 Selmsdorf",038823/2302,false,MV-75135819,53.881132,10.857693,Grundschule Selmsdorf,75135819,038823/2301,Grundschule,Grundschule,MV
+"Geschwister-Scholl-Straße 5, 19417 Warin",038482/22346,false,MV-75135823,53.803166,11.705034,"Grundschule ""Fritz Reuter"", Warin",75135823,038482/60409,Grundschule,Grundschule,MV
+"Schulstraße 27, 23996 Bobitz",038424/41123,false,MV-75135825,53.801437,11.359256,Grundschule Bobitz,75135825,038424/4110,Grundschule,Grundschule,MV
+"Zum Rehm 3, 19071 Brüsewitz",038874/41424,false,MV-75135826,53.675603,11.249388,Grundschule Brüsewitz,75135826,038874/41424,Grundschule,Grundschule,MV
+"Schulstraße 12, 23974 Dreveskirchen",038427/40839,false,MV-75135828,53.994778,11.538917,Grundschule Dreveskirchen,75135828,038427/40839,Grundschule,Grundschule,MV
+"Am Sportplatz, 23942 Kalkhorst",038827/88858,false,MV-75135833,53.967383,11.042218,"Grundschule ""Adolf Diesterweg"", Kalkhorst",75135833,038827/205,Grundschule,Grundschule,MV
+"Dorfstraße 22, 23972 Lübow",03841/780408,false,MV-75135835,53.851075,11.526578,Grundschule Lübow,75135835,03841/785822,Grundschule,Grundschule,MV
+"Klützer Straße 11 - 15, 23946 Boltenhagen",038825/23656,false,MV-75135841,53.987159,11.197995,Grundschule Ostseebad Boltenhagen,75135841,038825/22259,Grundschule,Grundschule,MV
+"Gadebuscher Straße 6, 19205 Roggendorf",038876/31603,false,MV-75135844,53.694665,11.018386,Grundschule Roggendorf,75135844,038876/20237,Grundschule,Grundschule,MV
+"Liselotte-Herrmann-Straße 5, 23968 Wismar",03841/629179,false,MV-75230619,53.89905,11.423407,Claus-Jesup-Schule Wismar - Schule mit dem Förderschwerpunkt Lernen,75230619,03841/636660,Förderschule,Förderschule,MV
+"Agnes-Karll-Straße 6 - 8, 19205 Gadebusch",03886/3662043,false,MV-75235854,53.695565,11.107346,"Schule mit dem Förderschwerpunkt Lernen ""Johann-Heinrich-Pestalozzi"" Gadebusch",75235854,03886/3662040,Förderschule,Förderschule,MV
+"R.-Hartmann-Straße 13, 23923 Schönberg",038828/23578,false,MV-75235855,53.85,10.91667,"Schule mit dem Förderschwerpunkt Lernen ""Anne Frank"" Schönberg",75235855,038828/21241,Förderschule,Förderschule,MV
+"Wismarsche Straße 124, 23936 Grevesmühlen",03881/712716,false,MV-75235856,53.863662,11.194977,"Schule mit dem Förderschwerpunkt Lernen ""An den Linden"" Grevesmühlen",75235856,03881/2349,Förderschule,Förderschule,MV
+"Alte Gärtnerei 1, 23992 Neukloster",038422/400215,false,MV-75235858,53.862243,11.692042,"Schule mit dem Förderschwerpunkt Lernen ""Fritz D. v. d.  Schulenburg"" Neukloster",75235858,038422/400211,Förderschule,Förderschule,MV
+"August-Bebel-Allee 7, 23992 Neukloster",038422/45212,false,MV-75235859,53.862203,11.69529,Landesschule für Blinde und Sehbehinderte,75235859,038422/4520,Förderschule,Förderschule,MV
+"Neuendorfer Weg 5, 23974 Neuburg",038426/22140,false,MV-75235861,53.944388,11.588931,"Schule mit dem Förderschwerpunkt geistige Entwicklung ""Am Wallberg"" Neuburg",75235861,038426/20215,Förderschule,Förderschule,MV
+"Bei der Klosterkirche 8, 23966 Wismar",03841/223756,false,MV-75330618,53.889192,11.465997,"Integrierte Gesamtschule ""J .Wolfgang v. Goethe"" Wismar",75330618,03841/282822,Integrierte Gesamtschule,Integrierte Gesamtschule,MV
+"Ernst-Thälmann-Straße 14, 23972 Dorf Mecklenburg",03841/797091,false,MV-75335849,53.843999,11.464414,"Verbundene Regionale Schule und  Gymnasium ""Tisa v.d. Schulenburg"", Dorf Mecklenburg",75335849,03841/795923,Kooperative Gesamtschule,Kooperative Gesamtschule,MV
+"B.-Tesch-Straße 31, 23968 Wismar",03841/632775,false,MV-75430610,53.900349,11.331744,"Ostsee-Schule Wismar, Regionale Schule",75430610,03841/636675,Regionale Schule,Regionale Schule,MV
+"Kapitänspromenade 25, 23966 Wismar",03841/3266863,false,MV-75430612,53.881388,11.440249,"Regionale Schule ""B. Brecht"", Wismar",75430612,03841/707291,Regionale Schule,Regionale Schule,MV
+"R.-Breitscheid-Straße 50, 23942 Dassow",038826/88963,false,MV-75435815,53.9,10.96667,Regionale Schule mit Grundschule Dassow,75435815,038826/80436,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Straße des Friedens 2, 23948 Klütz",038825/23886,false,MV-75435816,53.963501,11.166254,Regionale Schule Klütz,75435816,038825/22597,Regionale Schule,Regionale Schule,MV
+"Bahnhofstraße 18, 19069 Lübstorf",03867/9601070,false,MV-75435817,53.729246,11.408384,"Regionale Schule mit Grundschule ""Werner Lindemann"", Lübstorf",75435817,03867/269,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Schulstraße 11, 23996 Bad Kleinen",038423/50988,false,MV-75435824,53.772921,11.473039,"Regionale Schule mit Grundschule  ""Am Schweriner See"", Bad Kleinen",75435824,038423/228,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Heinrich-Heine-Straße 40, 19205 Gadebusch",03886/712626,false,MV-75435830,53.700351,11.104618,Regionale Schule mit Grundschule Gadebusch,75435830,03886/35233,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Ploggenseering 68, 23936 Grevesmühlen",03881/2348,false,MV-75435832,53.86462,11.197162,"Regionale Schule ""Wasserturm"", Grevesmühlen",75435832,03881/78790,Regionale Schule,Regionale Schule,MV
+"Straße der Jugend 5, 23999 Kirchdorf",038425/42153,false,MV-75435834,54.001347,11.438535,Regionale Schule mit Grundschule Kirchdorf,75435834,038425/20219,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Hauptstraße 21, 23923 Wahrsow",038828/3302119,false,MV-75435836,53.820407,10.983742,Regionale Schule mit Grundschule Lüdersdorf,75435836,038821/60736,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Pokrenter Straße 4, 19209 Lützow",038874/21396,false,MV-75435837,53.652925,11.170421,Regionale Schule mit Grundschule Lützow,75435837,038874/22230,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Schulstraße 8, 19205 Mühlen Eichsen",038871/21883,false,MV-75435838,53.758522,11.247293,Regionale Schule mit Grundschule Mühlen-Eichsen,75435838,038871/22216,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Hauptstraße 41, 23974 Neuburg",038426/229801,false,MV-75435839,53.944342,11.593463,"Regionale Schule mit Grundschule ""Am Rietberg"", Neuburg",75435839,038426/20233,Regionale Schule mit Grundschule,Regionale Schule,MV
+"August-Bebel-Allee 6, 23992 Neukloster",038422/29974,false,MV-75435840,53.863136,11.693341,Regionale Schule Neukloster,75435840,038422/20233,Regionale Schule,Regionale Schule,MV
+"Hauptstraße 18, 23968 Proseken",038428/63544,false,MV-75435842,53.906424,11.366479,Regionale Schule mit Grundschule Proseken,75435842,038428/60232,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Benziner Weg 3, 19217 Rehna",038872/65320,false,MV-75435843,53.777105,11.058043,"Regionale Schule mit Grundschule ""Käthe Kollwitz"", Rehna",75435843,038872/6530,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Dassower Straße 10, 23923 Schönberg",038828/25322,false,MV-75435845,53.855885,10.928892,Regionale Schule mit Grundschule Schönberg,75435845,038828/25320,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Hauptstraße 18a, 19217 Schlagsdorf",038875/20211,false,MV-75435846,53.73189,10.823368,Regionale Schule mit Grundschule Schlagsdorf,75435846,038875/20211,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Schulstraße 9/11, 23966 Wismar",03841/205263,false,MV-75530615,53.894068,11.466329,"Große Stadtschule
+Geschwister-Scholl-Gymnasium, Wismar",75530615,03841/282732,Gymnasium,Gymnasium,MV
+"Dahlmannstraße 40, 23966 Wismar",03841/205261,false,MV-75530617,53.891284,11.455904,"Gerhart-Hauptmann-Gymnasium, Wismar",75530617,03841/283358,Gymnasium,Gymnasium,MV
+"Agnes-Karll-Straße 20, 19205 Gadebusch",03886/35152,false,MV-75535850,53.695184,11.105355,Gymnasium Gadebusch,75535850,03886/35149,Gymnasium,Gymnasium,MV
+"Rehnaer Straße 51, 23936 Grevesmühlen",03881/788227,false,MV-75535851,53.852217,11.183098,"Gymnasium am Tannenberg, Grevesmühlen",75535851,03881/78820,Gymnasium,Gymnasium,MV
+"August-Bebel-Allee 9, 23992 Neukloster",038422/25467,false,MV-75535852,53.862502,11.692851,"Gymnasium Am Sonnenkamp, Neukloster",75535852,038422/25349,Gymnasium,Gymnasium,MV
+"Goetheplatz 5, 23923 Schönberg",038828/23633,false,MV-75535853,53.844778,10.925177,"Ernst-Barlach-Gymnasium, Schönberg",75535853,038828/24433,Gymnasium,Gymnasium,MV
+"v.-Thünen-Straße 9, 19053 Schwerin",0385/7588679,false,MV-75130403,53.627339,11.403277,"Grundschule ""Fritz Reuter"", Schwerin",75130403,0385/732514,Grundschule,Grundschule,MV
+"Eulerstraße 2, 19063 Schwerin",0385/2010129,false,MV-75130405,53.59637,11.465596,"Grundschule am Mueßer Berg, Schwerin",75130405,0385/2012107,Grundschule,Grundschule,MV
+"Willi-Bredel-Straße 17, 19059 Schwerin",0385/7589519,false,MV-75130406,53.636166,11.391211,"Grundschule ""John Brinckman"", Schwerin",75130406,0385/785886,Grundschule,Grundschule,MV
+"Friedrich-Engels-Straße 35, 19061 Schwerin",0385/3921816,false,MV-75130408,53.601895,11.431058,"Grundschule ""Nils Holgersson"", Schwerin",75130408,0385/3921815,Grundschule,Grundschule,MV
+"Amtstraße 3, 19055 Schwerin",0385/5557863,false,MV-75130410,53.632003,11.421199,"Grundschule ""Heinrich Heine"", Schwerin",75130410,0385/562758,Grundschule,Grundschule,MV
+"Rahlstedter Straße 3b, 19057 Schwerin",0385/4807575,false,MV-75130411,53.650324,11.363845,"Grundschule ""Lankow"", Schwerin",75130411,0385/4842028,Grundschule,Grundschule,MV
+"Friedensstraße 14, 19053 Schwerin",0385/7589200,false,MV-75130414,53.631147,11.403862,"Grundschule ""Friedensschule"", Schwerin",75130414,0385/7851853,Grundschule,Grundschule,MV
+"Hamburger Allee 126, 19063 Schwerin",0385/2182855,false,MV-75230437,53.592387,11.464187,"Sonderpädagogisches Förderzentrum ""Am Fernsehturm"" Schwerin,  Schule mit dem Förderschwerpunkt Lernen",75230437,0385/2071125,Förderschule,Förderschule,MV
+"A.-Sacharow-Straße 75, 19061 Schwerin",0385/39929904,false,MV-75230439,53.590353,11.395873,Sprachheilpädagogisches Förderzentrum Schwerin,75230439,0385/3260011,Förderschule,Förderschule,MV
+"Ratzeburger Straße 31, 19057 Schwerin",0385/4855111,false,MV-75230440,53.650445,11.361105,"Mecklenburgisches Förderzentrum Schwerin, Schule mit dem Schwerpunkt körperliche und motorische Entwicklung",75230440,0385/485510,Förderschule,Förderschule,MV
+"Liese-Meitner-Straße 1, 19063 Schwerin",0385/5585724,false,MV-75230441,51.942164,7.010528,"Albert-Schweitzer-Schule Schwerin, Schule mit dem Förderschwerpunkt geistige Entwicklung",75230441,0385/558570,Förderschule,Förderschule,MV
+"Von-Stauffenberg-Straße 68, 19061 Schwerin",0385/3992960,false,MV-75330436,53.605295,11.431426,"Integrierte Gesamtschule  ""Bertolt Brecht""  Schwerin",75330436,0385/3921184,Integrierte Gesamtschule,Integrierte Gesamtschule,MV
+"R.-Breitscheid-Straße 23, 19053 Schwerin",0385/7610723,false,MV-75430421,53.626464,11.407058,"Regionale Schule  ""Erich Weinert"", Schwerin",75430421,0385/732524,Regionale Schule,Regionale Schule,MV
+"Rahlstedter Straße 3A, 19057 Schwerin",0385/4867987,false,MV-75430423,53.649844,11.364412,"Regionale Schule ""Werner von Siemens"", Schwerin",75430423,0385/4842037,Regionale Schule,Regionale Schule,MV
+"Tallinner Straße 4 - 6, 19063 Schwerin",0385/3979193,false,MV-75430425,53.598887,11.447413,"Regionale Schule mit Grundschule ""Astrid Lindgren"", Schwerin",75430425,0385/3921143,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Goethestraße 74, 19053 Schwerin",0385/3021333,false,MV-75530428,53.626986,11.408977,"Gymnasium Fridericianum, Schwerin",75530428,0385/302130,Gymnasium,Gymnasium,MV
+"J.-R.-Becher-Straße 10, 19059 Schwerin",0385/75820520,false,MV-75530429,52.14972,13.63306,"Goethe-Gymnasium, Schwerin",75530429,0385/7582050,Gymnasium,Gymnasium,MV
+"Von-Flotow-Straße 20, 19059 Schwerin",0385/7605820,false,MV-75530434,53.625735,11.390565,"Sportgymnasium, Schwerin",75530434,0385/760580,Gymnasium,Gymnasium,MV
+"Goethestraße 74, 19053 Schwerin",0385/2079844,false,MV-75530444,53.626986,11.408977,Abendgymnasium Schwerin,75530444,0385/2079836,Abendgymnasium,Abend-Gymnasium,MV
+"Knopfstraße 25, 17489 Greifswald",03834/8850401,false,MV-75130102,54.097501,13.382465,Käthe-Kollwitz-Grundschule,75130102,03834/8850400,Grundschule,Grundschule,MV
+"Bleichstraße 36, 17489 Greifswald",03834/540598,false,MV-75130104,54.088362,13.384947,"Grundschule  ""Karl Krull"" Greifswald",75130104,03834/540590,Grundschule,Grundschule,MV
+"Max-Planck-Straße 9, 17491 Greifswald",03834/884737,false,MV-75130109,54.080116,13.408076,"Grundschule ""Greif"" Greifswald",75130109,03834/812063,Grundschule,Grundschule,MV
+"Makarenkostraße 53, 17491 Greifswald",03834/883668,false,MV-75130111,54.082994,13.419367,"Grundschule ""Erich Weinert"" Greifswald",75130111,03834/812022,Grundschule,Grundschule,MV
+"Warschauer Straße 16, 17493 Greifswald",03834/518263,false,MV-75130113,54.090028,13.420153,"Grundschule ""Martin-Andersen-Nexö"" Greifswald",75130113,03834/840189,Grundschule,Grundschule,MV
+"Rosenstraße 4, 17126 Jarmen",039997/10344,false,MV-75135208,53.924671,13.33724,Grundschule Jarmen,75135208,039997/10335,Grundschule,Grundschule,MV
+"Wilhelm-Irrgang-Weg 1, 17121 Loitz",039998/31361,false,MV-75135209,53.970213,13.125531,Diesterweg-Grundschule Loitz,75135209,039998/10467,Grundschule,Grundschule,MV
+"Schulstraße 1, 17121 Görmin",039992/70269,false,MV-75135223,53.994128,13.272953,"Grundschule ""Peenetal"" Görmin",75135223,039992/70223,Grundschule,Grundschule,MV
+"Pommernring 21, 17129 Tutow",039999/70213,false,MV-75135254,53.919825,13.230924,Grundschule Tutow,75135254,039999/70208,Grundschule,Grundschule,MV
+"Eichenweg 6, 17389 Anklam",03971/258870,false,MV-75135902,53.845548,13.700046,"Grundschule ""Gebrüder Grimm"" Anklam",75135902,03971/245607,Grundschule,Grundschule,MV
+"Adolf-Damaschke-Straße 7, 17389 Anklam",03971/293679,false,MV-75135904,53.849513,13.684421,"Grundschule ""Villa Kunterbunt"" Anklam",75135904,03971/210169,Grundschule,Grundschule,MV
+"August-Bebel-Straße 3, 17424 Heringsdorf",038378/22403,false,MV-75135907,53.955578,14.162456,"Grundschule ""An der alten Feuerwehr"" Heringsdorf",75135907,038378/22351,Grundschule,Grundschule,MV
+"Schulweg 2, 17495 Züssow",038355/61330,false,MV-75135909,53.977708,13.547306,Grundschule Züssow,75135909,038355/61387,Grundschule,Grundschule,MV
+"Schulstraße 4, 17449 Karlshagen",038371/55447,false,MV-75135910,54.115531,13.838916,Grundschule Karlshagen,75135910,038371/20633,Grundschule,Grundschule,MV
+"Schulstraße 5, 17440 Lassan",038374/80461,false,MV-75135912,53.947043,13.852204,Grundschule Lassan,75135912,038374/80461,Grundschule,Grundschule,MV
+"Baustraße 16, 17438 Wolgast",03836/234700,false,MV-75135918,54.057239,13.762397,Grundschule Wolgast,75135918,03836/202054,Grundschule,Grundschule,MV
+"Greifswalder Straße 7, 17509 Wusterhusen",038354/22808,false,MV-75135921,54.114046,13.61427,"Grundschule ""Lütt Matten"" Wusterhusen",75135921,038354/22808,Grundschule,Grundschule,MV
+"Dannweg 13, 17454 Zinnowitz",038377/36881,false,MV-75135923,54.080998,13.90798,Grundschule Zinnowitz,75135923,038377/42266,Grundschule,Grundschule,MV
+"Schulstraße 2, 17509 Kemnitz",03852/233,false,MV-75135936,54.073976,13.529775,"Grundschule ""Fritz Reuter"" Kemnitz",75135936,038352/231,Grundschule,Grundschule,MV
+"Straße der Freundschaft 14a, 17498 Dersekow",03834/510134,false,MV-75135943,54.044333,13.302629,"Grundschule ""Lütte Nordlichter"" Dersekow",75135943,03834/5618,Grundschule,Grundschule,MV
+"Schulstraße 1, 17440 Kröslin",038370/20318,false,MV-75135945,54.117835,13.747986,"Grundschule ""Fritz Reuter"" Kröslin",75135945,038370/20318,Grundschule,Grundschule,MV
+"Bauernstraße 3, 17391 Krien",039723/20127,false,MV-75135946,53.827744,13.452669,"Grundschule ""Schwalbennest"" Krien",75135946,039723/20244,Grundschule,Grundschule,MV
+"Dorfstraße 11a, 17390 Schlatkow",039724/26860,false,MV-75135951,53.886729,13.675032,Grundschule Schlatkow,75135951,039724/22385,Grundschule,Grundschule,MV
+"Bäderstraße 48, 17406 Usedom",038372/76620,false,MV-75135955,53.877964,13.927273,Grundschule  Stadt Usedom,75135955,038372/70277,Grundschule,Grundschule,MV
+"Fischerstraße 18, 17459 Koserow",038375/22571,false,MV-75135968,54.047157,13.998373,Vineta-Grundschule Koserow,75135968,038375/22570,Grundschule,Grundschule,MV
+"Dorfstraße 9, 17375 Ahlbeck",039775/20202,false,MV-75136201,53.644949,14.197823,Grundschule Ahlbeck,75136201,039775/20202,Grundschule,Grundschule,MV
+"Waldstraße 20, 17367 Eggesin",039779/27619,false,MV-75136204,53.67327,14.088508,Grundschule Eggesin,75136204,039779/20341,Grundschule,Grundschule,MV
+"Friedrichstraße 33a, 17379 Ferdinandshof",039778/20693,false,MV-75136206,53.662592,13.891347,Grundschule Ferdinandshof,75136206,039778/20693,Grundschule,Grundschule,MV
+"Am See 10, 17321 Löcknitz",039754/20629,false,MV-75136209,53.450437,14.21652,"Grundschule ""Am See"" Löcknitz",75136209,039754/20612,Grundschule,Grundschule,MV
+"Hinterreihe 161, 17375 Leopoldshagen",039774/299849,false,MV-75136210,53.77291,13.899607,Grundschule Leopoldshagen,75136210,039774/20218,Grundschule,Grundschule,MV
+"Ahornstraße 17, 17322 Mewegen",039744/50274,false,MV-75136211,53.51151,14.247898,Grundschule Mewegen,75136211,039744/50274,Grundschule,Grundschule,MV
+"Pestalozzistraße 26, 17309 Pasewalk",03973/210451,false,MV-75136214,53.506129,14.010913,"Grundschule Ueckertal, Pasewalk",75136214,03973/210451,Grundschule,Grundschule,MV
+"Am Deputantenbruch 6, 17328 Penkun",039751/60120,false,MV-75136215,53.30317,14.24081,Grundschule Penkun,75136215,039751/60168,Grundschule,Grundschule,MV
+"Baustraße 26, 17335 Strasburg",039753/24486,false,MV-75136216,53.508039,13.740277,Grundschule Strasburg,75136216,039753/24485,Grundschule,Grundschule,MV
+"Goethestraße 2, 17358 Torgelow",03976/202580,false,MV-75136217,53.630506,14.009329,Pestalozzi-Grundschule Torgelow,75136217,03976/202559,Grundschule,Grundschule,MV
+"Geschw.-Scholl-Straße 40, 17373 Ueckermünde",039771/59037,false,MV-75136221,53.73333,14.03333,Haff-Grundschule Ueckermünde,75136221,039771/27205,Grundschule,Grundschule,MV
+"Ackerstraße 5, 17309 Jatznick",039741/86095,false,MV-75136249,53.57669,13.938738,Grundschule Jatznick,75136249,039741/80234,Grundschule,Grundschule,MV
+"Wolgaster Straße 62, 17489 Greifswald",03834/830346,false,MV-75230137,54.091361,13.417918,"Schule ""Johann Heinrich Pestalozzi"" Greifswald - Schule mit Förderschwerpunkt Lernen",75230137,03834/3909,Förderschule,Förderschule,MV
+"Mühlenstraße 8 c, 17389 Anklam",03971/211952,false,MV-75235962,53.846397,13.697261,"Sonderpädagogisches Förderzentrum ""Biberburg"" Anklam - Schule mit den Förderschwerpunkten Lernen, emotionale und soziale Entwicklung und Sprache",75235962,03971/210552,Förderschule,Förderschule,MV
+"Dorfstraße 21, 17498 Behrenhoff",038356/51849,false,MV-75235963,54.005566,13.385582,"Schule ""Am Park"" Behrenhoff - Schule mit den Förderschwerpunkten Lernen und emotionale und soziale Entwicklung",75235963,038356/251,Förderschule,Förderschule,MV
+"Schulstraße 5, 17438 Wolgast",03836/2324465,false,MV-75235965,54.058144,13.764568,Janusz-Korczak-Schule Wolgast - Schule mit dem Förderschwerpunkt Lernen,75235965,03836/202459,Förderschule,Förderschule,MV
+"Baustraße 59, 17389 Anklam",03971/242284,false,MV-75235966,53.854544,13.690237,"""Kleeblattschule""  Anklam - Förderschule mit dem Förderschwerpunkt geistige Entwicklung",75235966,03971/211520,Förderschule,Förderschule,MV
+"Am Haff 12, 17419 Zirchow",038376/29163,false,MV-75235967,53.875332,14.147891,Schule Am Stettiner Haff Zirchow - Schule mit dem Förderschwerpunkt geistige Entwicklung,75235967,038376/20313,Förderschule,Förderschule,MV
+"Schützenstraße 13, 17309 Pasewalk",03973/2049787,false,MV-75236244,53.502286,13.998984,Schlossbergschule - Sonderpädagogisches Förderzentrum Pasewalk - Schule mit dem Förderschwerpunkt Lernen,75236244,03973/441024,Förderschule,Förderschule,MV
+"Lindenstraße 35, 17367 Eggesin",03834/87609401,false,MV-75236246,53.677645,14.077492,Sonderpädagogisches Förderzentrum Eggesin - Schule mit dem Förderschwerpunkt Lernen,75236246,03976/87604501,Förderschule,Förderschule,MV
+"Am See 11, 17321 Löcknitz",039754/51733,false,MV-75236247,53.450562,14.217478,"Randow-Schule Löcknitz
+Schule mit dem Förderschwerpunkt geistige Entwicklung ",75236247,039754/51733,Förderschule,Förderschule,MV
+"Gartenstraße 1, 17379 Ferdinandshof",039778/28727,false,MV-75236248,53.661941,13.892468,Schule mit dem Förderschwerpunkt geistige Entwicklung Ferdinandshof,75236248,039778/28718,Förderschule,Förderschule,MV
+"Einsteinstraße 6, 17491 Greifswald",03834/889214,false,MV-75330122,54.081046,13.403687,"Integrierte Gesamtschule ""Erwin Fischer"" Greifswald",75330122,03834/500775,Integrierte Gesamtschule,Integrierte Gesamtschule,MV
+"Lindenstraße 112, 17419 Ahlbeck",038378/336560,false,MV-75335952,53.936918,14.189606,"Europäische Gesamtschule Insel Usedom, Kooperative Gesamtschule",75335952,038378/28107,Kooperative Gesamtschule,Kooperative Gesamtschule,MV
+"Arndtstraße 37, 17489 Greifswald",03834/518449,false,MV-75430120,54.091701,13.381846,"Regionale Schule ""Ernst Moritz Arndt"" Greifswald",75430120,03834/500062,Regionale Schule,Regionale Schule,MV
+"Usedomer Weg 1, 17493 Greifswald",03834/830101,false,MV-75430128,54.091452,13.430965,"Regionale Schule ""Caspar David Friedrich"" Greifswald",75430128,03834/840196,Regionale Schule,Regionale Schule,MV
+"Demminer Straße 11, 17126 Jarmen",039997/12776,false,MV-75435230,53.924042,13.337648,Regionale Schule Jarmen,75435230,039997/10202,Regionale Schule,Regionale Schule,MV
+"Goethestraße 64, 17121 Loitz",039998/10374,false,MV-75435231,53.977633,13.144302,Regionale Schule Loitz,75435231,039998/10376,Regionale Schule,Regionale Schule,MV
+"Eichenweg 6, 17389 Anklam",03971/245608,false,MV-75435926,53.845548,13.700046,"Regionale Schule ""Friedrich Schiller"" Anklam",75435926,03971/245649,Regionale Schule,Regionale Schule,MV
+"Baustraße 56/58, 17389 Anklam",03971/213526,false,MV-75435927,53.854556,13.689537,"Regionale Schule ""Käthe Kollwitz"" Anklam",75435927,03971/210574,Regionale Schule,Regionale Schule,MV
+"Baustraße 16, 17438 Wolgast",03836/202219,false,MV-75435929,54.057239,13.762397,"Regionale Schule ""G. L. Th. Kosegarten"" Wolgast",75435929,03836/202168,Regionale Schule,Regionale Schule,MV
+"Heberleinstraße 32, 17438 Wolgast",03836/234019,false,MV-75435930,54.044582,13.761003,Regionale Schule mit Grundschule Wolgast,75435930,03836/202172,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Mascowstraße 12a, 17506 Gützkow",038353/50621,false,MV-75435931,53.932772,13.41497,"Regionale Schule mit Grundschule ""Peenetal"" Gützkow",75435931,038353/201,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Strandstraße 3, 17459 Ückeritz",038375/20647,false,MV-75435933,54.012716,14.050679,Ostseeschule  Ückeritz,75435933,038375/20935,Regionale Schule,Regionale Schule,MV
+"Schulstraße 4, 17449 Karlshagen",038371/20293,false,MV-75435935,54.115531,13.838916,"Regionale Schule ""Heinrich Heine"" Karlshagen",75435935,038371/20239,Regionale Schule,Regionale Schule,MV
+"Seestraße 11, 17509 Lubmin",038354/22840,false,MV-75435939,54.13455,13.620606,"Regionale Schule ""Am Teufelsstein"" Lubmin",75435939,038354/22836,Regionale Schule,Regionale Schule,MV
+"Thomas-Müntzer-Straße 10, 17398 Ducherow",039726/25548,false,MV-75435944,53.766353,13.781534,Lindenschule Ducherow - Regionale Schule mit Grundschule,75435944,039726/25549,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Wampener Straße 19, 17498 Neuenkirchen",03834/773972,false,MV-75435948,54.119333,13.381266,"Regionale Schule mit Grundschule  ""Schule am Bodden"" Neuenkirchen",75435948,03834/2478,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Schulstraße 8, 17392 Spantekow",039727/26770,false,MV-75435954,53.778392,13.522458,Regionale Schule mit Grundschule Spantekow,75435954,039727/20358,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Pestalozzistraße 25, 17309 Pasewalk",03973/216635,false,MV-75436226,53.506245,14.00944,"Regionale Schule ""Arnold Zweig"" Pasewalk",75436226,03973/216631,Regionale Schule,Regionale Schule,MV
+"A.-Einstein-Straße 3, 17358 Torgelow",03976/250745,false,MV-75436228,53.61667,14,"Regionale Schule ""Albert Einstein"" Torgelow",75436228,03976/201320,Regionale Schule,Regionale Schule,MV
+"Luckower Straße 6a, 17367 Eggesin",039779/60324,false,MV-75436229,53.683814,14.08398,"Regionale Schule ""Ernst Thälmann"" Eggesin",75436229,039779/20539,Regionale Schule,Regionale Schule,MV
+"Friedrichstraße 33a, 17379 Ferdinandshof",039778/28155,false,MV-75436230,53.662592,13.891347,"Regionale Schule ""Hanno Günther"" Ferdinandshof",75436230,039778/20233,Regionale Schule,Regionale Schule,MV
+"Am See 9, 17321 Löcknitz",039754/51564,false,MV-75436231,53.449975,14.217284,Regionale Schule Löcknitz,75436231,039754/20611,Regionale Schule,Regionale Schule,MV
+"Stettiner Tor 4, 17328 Penkun",039751/60266,false,MV-75436232,53.297867,14.243863,Regionale Schule Penkun,75436232,039751/60265,Regionale Schule,Regionale Schule,MV
+"Ueckerstraße 59, 17373 Ueckermünde",039771/549919,false,MV-75436234,53.737619,14.044226,Regionale Schule Ueckermünde,75436234,039771/54990,Regionale Schule,Regionale Schule,MV
+"Lindenstraße 3c, 17335 Strasburg",039753/22514,false,MV-75436236,53.509342,13.750096,"Regionale Schule ""Am Wasserturm"" Strasburg",75436236,039753/20493,Regionale Schule,Regionale Schule,MV
+"Makarenkostraße 54, 17491 Greifswald",03834/805666,false,MV-75530135,54.082378,13.419677,"Gymnasium ""Alexander von Humboldt"" Greifswald",75530135,03834/80560,Gymnasium,Gymnasium,MV
+"Dietrich-Bonhoeffer-Platz 1, 17489 Greifswald",03834/792222,false,MV-75530136,54.09312,13.381366,"Gymnasium ""Friedrich Ludwig Jahn"" Greifswald",75530136,03834/7920,Gymnasium,Gymnasium,MV
+"Dietrich-Bonhoeffer-Platz 1, 17489 Greifswald",03834/885244,false,MV-75530138,54.09312,13.381366,"Abendgymnasium ""Wolfgang Koeppen"" Greifswald",75530138,03834/885198,Abendgymnasium,Abend-Gymnasium,MV
+"Leipziger Allee 22-25, 17389 Anklam",03971/243188,false,MV-75535957,53.85148,13.683403,"""Lilienthal-Gymnasium"" Anklam",75535957,03971/243187,Gymnasium,Gymnasium,MV
+"Baron-von-Lepel-Platz 2, 17506 Gützkow",038353/50889,false,MV-75535958,53.941376,13.403736,"""Schloss-Gymnasium"" Gützkow",75535958,038353/257,Gymnasium,Gymnasium,MV
+"Schulstraße 1, 17438 Wolgast",03836/2363201,false,MV-75535960,54.057719,13.766417,Runge-Gymnasium Wolgast,75535960,03836/2363200,Gymnasium,Gymnasium,MV
+"F.-Engels-Straße 5-6, 17321 Löcknitz",039754/21179,false,MV-75536238,53.455,14.2125,Deutsch-Polnisches Gymnasium Löcknitz,75536238,039754/21179,Gymnasium,Gymnasium,MV
+"Grünstraße 63, 17309 Pasewalk",03973/210220,false,MV-75536239,53.506732,13.987453,"Gymnasium ""Oskar Picht"" Pasewalk",75536239,03973/210203,Gymnasium,Gymnasium,MV
+"Apfelallee 2, 17373 Ueckermünde",039771/22597,false,MV-75536242,53.743544,14.030143,Greifen-Gymnasium Ueckermünde,75536242,039771/22596,Gymnasium,Gymnasium,MV
+"An den Bleichen 27, 18435 Stralsund",03831/308737,false,MV-75130501,54.318982,13.078056,"Montessori-Grundschule ""Lambert Steinwich"" Stralsund",75130501,03831/308717,Grundschule,Grundschule,MV
+"Arnold-Zweig-Straße 159, 18435 Stralsund",03831/382814,false,MV-75130504,54.323315,13.054129,"Grundschule""Karsten Sarnow"" Stralsund",75130504,03831/391082,Grundschule,Grundschule,MV
+"Mühlgrabenstraße 6, 18437 Stralsund",03831/481743,false,MV-75130506,54.311209,13.03553,"Grundschule ""Ferdinand von Schill"" Stralsund",75130506,03831/498483,Grundschule,Grundschule,MV
+"Jaromarstraße 10, 18437 Stralsund",03831/443142,false,MV-75130508,54.303813,13.066871,"Grundschule ""Hermann Burmeister"" Stralsund",75130508,03831/495080,Grundschule,Grundschule,MV
+"Frankenwall  25, 18439 Stralsund",03831/306072,false,MV-75130509,54.311083,13.092471,"Grundschule ""Gerhart Hauptmann"" Stralsund",75130509,03831/306073,Grundschule,Grundschule,MV
+"Wallensteinstraße 8, 18435 Stralsund",03831/302615,false,MV-75130510,54.324818,13.067957,"Grundschule ""Juri Gagarin"" Stralsund",75130510,03831/391103,Grundschule,Grundschule,MV
+"Greifswalder Chaussee 65a, 18439 Stralsund",03831/278058,false,MV-75130515,54.280729,13.102934,Grundschule Andershof,75130515,03831/270574,Grundschule,Grundschule,MV
+"Kastanienallee 7, 18334 Bad Sülze",038229/799956,false,MV-75135701,54.113356,12.649256,Grundschule Bad Sülze,75135701,038229/259,Grundschule,Grundschule,MV
+"Neuhöfer Straße 1, 18519 Brandshagen",038328/650047,false,MV-75135706,54.239453,13.173632,Grundschule Brandshagen,75135706,038328/80403,Grundschule,Grundschule,MV
+"Strandstraße 4, 18347 Dändorf",038226/267,false,MV-75135707,54.292584,12.357402,Grundschule Dierhagen,75135707,038226/267,Grundschule,Grundschule,MV
+"Norderhinterstraße 12, 18507 Grimmen",038326/66621,false,MV-75135711,54.113959,13.045415,"Grundschule ""Friedrich Wilhelm Wander"" Grimmen",75135711,038326/66620,Grundschule,Grundschule,MV
+"Zum Rodelberg 2, 18507 Grimmen",038326/46578,false,MV-75135712,54.102801,13.043112,"Grundschule ""Dr. Theodor Neubauer"" Grimmen",75135712,038326/46567,Grundschule,Grundschule,MV
+"Dorfstraße, 18519 Horst",038333/213,false,MV-75135713,53.634145,10.764318,Grundschule Horst,75135713,038333/213,Grundschule,Grundschule,MV
+"Schulstraße 6, 18516 Süderholz",038332/384,false,MV-75135715,54.060598,13.163471,Grundschule Süderholz,75135715,038332/314,Grundschule,Grundschule,MV
+"Dorfstrasse 4, 18314 Lüdershagen",038227/599953,false,MV-75135717,54.302673,12.607802,"Grundschule ""Thomas Müntzer"" Lüdershagen",75135717,038227/331,Grundschule,Grundschule,MV
+"Stralsunder Straße 27, 18445 Altenpleen",038323/268702,false,MV-75135719,54.354481,12.953803,Kranich - Grundschule Altenpleen,75135719,038323/824,Grundschule,Grundschule,MV
+"Karl-Worm-Straße 1, 18465 Tribsees",038320/183180,false,MV-75135722,54.088989,12.762324,"Grundschule "" Heinrich Bandlow"" Tribsees",75135722,038320/342,Grundschule,Grundschule,MV
+"E.-Thälmann-Straße 44, 18469 Velgast",038324/89206,false,MV-75135723,54.459149,13.261004,Grundschule Velgast,75135723,038324/89205,Grundschule,Grundschule,MV
+"Bauermeisterplatz 1, 18311 Ribnitz-Damgarten",03821/390158,false,MV-75135731,54.240712,12.435303,"Grundschule ""Theodor Bauermeister"" Ribnitz-Damgarten",75135731,03821/810226,Grundschule,Grundschule,MV
+"Schulstraße 2, 18442 Steinhagen",038327/61455,false,MV-75135733,54.224206,12.989013,"Grundschule ""Karl Krull"" Steinhagen",75135733,038327/60649,Grundschule,Grundschule,MV
+"Wittenhäger Straße 14, 18510 Abtshagen",038327/40704,false,MV-75135743,54.208409,13.067947,Grundschule Abtshagen,75135743,038327/703,Grundschule,Grundschule,MV
+"Chausseestraße 21, 18356 Barth",038231/82274,false,MV-75135754,54.360437,12.723806,"Zentrale Grundschule ""F.-A.-Nobert"" Barth",75135754,038231/2554,Grundschule,Grundschule,MV
+"Dorfstraße 65, 18513 Grammendorf",038334/69306,false,MV-75135756,54.031609,12.875557,Grundschule Grammendorf,75135756,038334/69303,Grundschule,Grundschule,MV
+"An der Schule 2, 18337 Marlow",038224/44520,false,MV-75135757,54.149556,12.425506,Grundschule Marlow,75135757,038224/234,Grundschule,Grundschule,MV
+"Hauptstraße 34, 18320 Ahrenshagen",038225/515715,false,MV-75135774,54.226882,12.588718,Recknitz-Grundschule Ahrenshagen,75135774,038225/515711,Grundschule,Grundschule,MV
+"Breitsprecherstraße 18, 18528 Bergen auf Rügen",03838/822475,false,MV-75136104,54.416422,13.423448,"Grundschule ""Altstadt"" Bergen",75136104,03838/22139,Grundschule,Grundschule,MV
+"Königstraße 23c, 18528 Bergen auf Rügen",03838/8227953,false,MV-75136105,54.41667,13.43333,"Grundschule ""Am Rugard"" Bergen",75136105,03838/253399,Grundschule,Grundschule,MV
+"Dollahner Straße 77, 18609 Binz",038393/14534,false,MV-75136106,54.415762,13.592005,Grundschule Binz,75136106,038393/2327,Grundschule,Grundschule,MV
+"Lindenstraße 27, 18574 Garz/Rügen",038304/320,false,MV-75136111,54.318035,13.351652,Grundschule Garz,75136111,038304/320,Grundschule,Grundschule,MV
+"Lauterbacher Straße 6, 18581 Putbus",038301/61180,false,MV-75136116,54.348937,13.484579,Grundschule  Putbus,75136116,038301/547,Grundschule,Grundschule,MV
+"Schulstraße 15, 18551 Sagard",038302/51408,false,MV-75136117,54.528499,13.548827,Grundschule Sagard,75136117,038302/2001,Grundschule,Grundschule,MV
+"Neubaustraße 32, 18573 Samtens",038306/21121,false,MV-75136118,54.358712,13.288387,Grundschule Samtens,75136118,038306/1300,Grundschule,Grundschule,MV
+"Schulstraße 5, 18546 Sassnitz",038392/649759,false,MV-75136120,54.514273,13.636029,"Grundschule ""Ostseeblick"" Sassnitz",75136120,038392/32360,Grundschule,Grundschule,MV
+"Granitzer Straße 1b, 18586 Sellin",038303/85472,false,MV-75136123,54.377905,13.68675,Grundschule Sellin,75136123,038303/87320,Grundschule,Grundschule,MV
+"Hauptstraße 35, 18556 Wiek",038391/70302,false,MV-75136124,54.62269,13.294283,Grundschule Wiek,75136124,038391/70302,Grundschule,Grundschule,MV
+"Boddenstraße 1a, 18586 Gager",038308/30236,false,MV-75136126,54.303724,13.711889,"Grundschule ""Mönchgut"" Gager",75136126,038308/8235,Grundschule,Grundschule,MV
+"Kleine Parower Straße 39, 18435 Stralsund",03831/307191,false,MV-75230523,54.329227,13.076029,Sonderpädagogisches Förderzentrum der Hansestadt Stralsund - Schule mit dem Förderschwerpunkt Lernen und Grundschulteil mit Förderschwerpunkt Sprache,75230523,03831/391084,Förderschule,Förderschule,MV
+"L.-Feuchtwanger-Straße 34, 18435 Stralsund",03831/374830,false,MV-75230524,54.330388,13.065512,"Förderschule ""Astrid Lindgren"" Stralsund - Schule mit Förderschwerpunkt geistige Entwicklung",75230524,03831/390525,Förderschule,Förderschule,MV
+"Rostocker Chaussee 70 , 18437 Stralsund",03831/452675,false,MV-75230525,54.302657,13.04105,"Förderschule ""Ernst von Haselberg"" Stralsund - Schule mit Förderschwerpunkt Unterricht kranker Schülerinnen und Schüler sowie mit Förderschwerpunkt emotionale und soziale Entwicklung",75230525,03831/452665,Förderschule,Förderschule,MV
+"Uhlenflucht 5, 18356 Barth",038231/66371,false,MV-75235767,54.370217,12.694358,"Förderschule ""Jan-Amos-Komensky"" Barth - Schule mit dem Förderschwerpunkt Lernen",75235767,038231/2275,Förderschule,Förderschule,MV
+"Dr.-Kurt-Fischer-Straße 13, 18507 Grimmen",038326/53735,false,MV-75235769,54.106619,13.037835,Sonderpädagogisches Förderzentrum Grimmen - Schule mit dem Förderschwerpunkt Lernen,75235769,038326/2423,Förderschule,Förderschule,MV
+"Minsker Straße 11, 18311 Ribnitz-Damgarten",03821/894816,false,MV-75235770,54.245552,12.411744,"Förderzentrum ""Johann Heinrich Pestalozzi"" Ribnitz-Damgarten - Schule mit dem Förderschwerpunkt Lernen",75235770,03821/2784,Förderschule,Förderschule,MV
+"Karl-Marx-Straße 25, 18461 Franzburg",038322/589948,false,MV-75235771,54.18701,12.885856,"""Sonnenblumenschule"" Franzburg - Schule mit dem Förderschwerpunkt geistige Entwicklung",75235771,038322/50209,Förderschule,Förderschule,MV
+"G.-A.-Demmler-Straße, 18311 Ribnitz-Damgarten",03821/811235,false,MV-75235773,54.25,12.46667,"""Rosenhofschule"" Ribnitz-Damgarten  - Schule mit dem Förderschwerpunkt geistige Entwicklung",75235773,03821/2740,Förderschule,Förderschule,MV
+"Störtebekerstraße 8a, 18528 Bergen auf Rügen",03838/828102,false,MV-75236154,54.412497,13.421256,"Sonderpädagogisches Förderzentrum ""Klaus Störtebeker"" Bergen - Schule mit dem Förderschwerpunkt Lernen",75236154,03838/23012,Förderschule,Förderschule,MV
+"Frankenhof 8, 18439 Stralsund",03831/303977,false,MV-75330519,54.311499,13.099161,Schulzentrum am Sund Stralsund - Verbundene Regionale Schule und Gymnasium,75330519,03831/292438,Kooperative Gesamtschule,Kooperative Gesamtschule,MV
+"Grünthal 12, 18437 Stralsund",03831/444476,false,MV-75330522,54.307485,13.041044,"Integrierte Gesamtschule ""Grünthal"" -mit gymnasialer Oberstufe Stralsund",75330522,03831/498520,Integrierte Gesamtschule,Integrierte Gesamtschule,MV
+"Uhlenflucht 5, 18356 Barth",038231/673222,false,MV-75335762,54.370217,12.694358,"Gymnasiales Schulzentrum Barth,
+Kooperative Gesamtschule",75335762,038231/6730,Kooperative Gesamtschule,Kooperative Gesamtschule,MV
+"Jaromarstraße 10, 18437 Stralsund",03831/445805,false,MV-75430511,54.303813,13.066871,"Regionale Schule ""Hermann Burmeister"" Stralsund",75430511,03831/494891,Regionale Schule,Regionale Schule,MV
+"Rudolf-Virchow-Straße 23, 18435 Stralsund",03831/308381,false,MV-75430513,54.329718,13.076451,"Regionale Schule ""Adolph Diesterweg"" Stralsund",75430513,03831/380088,Regionale Schule,Regionale Schule,MV
+"L. Feuchtwanger-Straße 35, 18435 Stralsund",03831/383023,false,MV-75430514,54.330388,13.065512,"Regionale Schule ""Marie Curie"" Stralsund",75430514,03831/382575,Regionale Schule,Regionale Schule,MV
+"Str. der Befreiung 73, 18507 Grimmen",038326/455453,false,MV-75435736,54.113812,13.028118,"Regionale Schule ""Robert Koch"" Grimmen",75435736,038326/2351,Regionale Schule,Regionale Schule,MV
+"Ringstraße 10, 18445 Prohn",038323/71138,false,MV-75435739,54.375842,13.021066,"Regionale Schule  ""An der Prohner Wiek"" Prohn",75435739,038323/216,Regionale Schule,Regionale Schule,MV
+"Schulstraße 13, 18311 Ribnitz-Damgarten",03821/720441,false,MV-75435740,54.25353,12.476101,"Regionale Schule ""Rudolf Harbig"" Ribnitz-Damgarten",75435740,03821/62019,Regionale Schule,Regionale Schule,MV
+"G.-Adolf-Demmlerstraße 4, 18311 Ribnitz-Damgarten",03821/810703,false,MV-75435741,54.243025,12.416463,"Regionale Schule mit Grundschule ""bernsteinSchule"" Ribnitz-Damgarten",75435741,03821/810425,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Platz des Friedens 15a, 18461 Franzburg",038322/58541,false,MV-75435744,54.186917,12.888865,Martha-Müller-Grählert-Schule Franzburg,75435744,038322/736,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Schulweg 1, 18519 Reinberg",038328/80825,false,MV-75435746,54.215589,13.253105,Regionale Schule  Reinberg,75435746,038328/80825,Regionale Schule,Regionale Schule,MV
+"Karl-Worm-Straße 2, 18465 Tribsees",038320/47946,false,MV-75435750,54.088953,12.762884,Regionale Schule Recknitz-Trebeltal,75435750,038320/47941,Regionale Schule,Regionale Schule,MV
+"Schulstraße 1, 18374 Zingst",038232/169620,false,MV-75435753,54.434178,12.686124,Regionale Schule mit Grundschule Zingst,75435753,038232/16960,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Gartenstraße 86, 18442 Niepars",038321/310,false,MV-75435758,54.303305,12.926855,"Regionale Schule mit Grundschule ""Prof. Pflugradt"" Niepars",75435758,038321/310,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Sassnitzer Chaussee 7A, 18528 Bergen auf Rügen",03838/2010451,false,MV-75436131,54.424906,13.432004,"Regionale Schule ""Am Rugard"" Bergen",75436131,03838/2010450,Regionale Schule,Regionale Schule,MV
+"Ringstraße 5, 18609 Binz",038393/32627,false,MV-75436132,54.407213,13.600742,Regionale Schule Binz,75436132,038393/2842,Regionale Schule,Regionale Schule,MV
+"Am Burgwall 7, 18574 Garz/Rügen",038304/12559,false,MV-75436134,54.313855,13.351251,Regionale Schule am Burgwall Garz,75436134,038304/329,Regionale Schule,Regionale Schule,MV
+"Störtebekerstraße 8c, 18528 Bergen auf Rügen",03838/404647,false,MV-75436142,54.413923,13.420891,"Regionale Schule ""Am Grünen Berg"" Bergen",75436142,03838/23249,Regionale Schule,Regionale Schule,MV
+"H.-Matern-Straße 1, 18569 Gingst",038305/55187,false,MV-75436143,54.454062,13.254448,Regionale Schule mit Grundschule Gingst,75436143,038305/55184,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Geschw.-Scholl-Straße 8, 18546 Sassnitz",038392/63109,false,MV-75436145,54.51639,13.64111,Regionale Schule Sassnitz,75436145,038392/32176,Regionale Schule,Regionale Schule,MV
+"Schulstraße 1, 18556 Altenkirchen",038391/439854,false,MV-75436146,54.635588,13.346356,"Regionale Schule ""Windland"" Altenkirchen",75436146,038391/216,Regionale Schule,Regionale Schule,MV
+"G.-Hauptmann-Straße 1, 18586 Göhren",038308/669867,false,MV-75436147,54.33333,13.73333,"Regionale Schule ""Tom Beyer"" Göhren",75436147,038308/2163,Regionale Schule,Regionale Schule,MV
+"Schulweg 4, 18565 Vitte",038300/608957,false,MV-75436150,54.566962,13.105185,Regionale Schule mit Grundschule Vitte,75436150,038300/608955,Regionale Schule mit Grundschule,Regionale Schule,MV
+"Fährwall 19, 18439 Stralsund",03831/289625,false,MV-75530520,54.318149,13.090391,"""Hansa -Gymnasium"" Stralsund",75530520,03831/28960,Gymnasium,Gymnasium,MV
+"Anemonenweg 2, 18507 Grimmen",038326/67149,false,MV-75535764,54.105795,13.027053,Gymnasium Grimmen,75535764,038326/6710,Gymnasium,Gymnasium,MV
+"Schulstraße 15, 18311 Ribnitz-Damgarten",03821/708924,false,MV-75535766,54.254052,12.475903,"Gymnasium ""Richard Wossidlo"" Ribnitz-Damgarten",75535766,03821/708911,Gymnasium,Gymnasium,MV
+"Arndtstraße 7, 18528 Bergen auf Rügen",03838/255436,false,MV-75536151,54.420701,13.42687,"Gymnasium ""Ernst Moritz Arndt"" Bergen",75536151,03838/3150280,Gymnasium,Gymnasium,MV

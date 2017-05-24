@@ -1,408 +1,408 @@
-"name","id","address","website","school_type","school_type_entity","legal_status","fax","phone",""
-"Katholische Schule Hammer Kirche","HH-3201","Bei der Hammer Kirche 10, 20535 Hamburg","http://www.schule-hammer-kirche.de","Grundschule",,0,"+49 40 87 88 902-29","+49 40 87 88 902-10",
-"Domschule St. Marien (Stadtteilschule)","HH-3202","Schmilinskystraße 70, 20099 Hamburg","http://www.domschule-hamburg.de","Stadtteilschule",,0,"+49 40 87 88 901-29","+49 40 87 88 901-10",
-"Katholische Schule St. Paulus","HH-3203","Öjendorfer Weg 14, 22111 Hamburg","http://www.kath-schule-st-paulus.de","Stadtteilschule",,0,"+49 40 87 88 904-29","+49 40 87 88 904-10",
-"Katholische Schule Altona","HH-3204","Dohrnweg 6, 22767 Hamburg","http://www.katholische-schule-altona.de","Stadtteilschule",,0,"+49 40 70 70 783-29","+49 40 70 70 783-10",
-"Katholische Schule St. Marien - Eulenstraße","HH-3205","Eulenstraße 68, 22763 Hamburg",,"Grundschule",,0,"+49 40 70 70 782-29","+49 40 70 70 782-10",
-"Katholische Schule Blankenese","HH-3206","Mörikestraße 16, 22587 Hamburg","http://kath-schule-blankenese.kshh.de","Grundschule",,0,"+49 40 70 70 781-29","+49 40 70 70 781-10",
-"Katholische Schule Am Weiher - St. Bonifatius","HH-3207","Am Weiher 29, 20255 Hamburg",,"Grundschule",,0,"+49 40 70 70 784-29","+49 40 70 70 784-10",
-"Katholische Schule Hochallee","HH-3208","Hochallee 9, 20149 Hamburg",,"Grundschule",,0,"+49 40 87 87 915-29","+49 40 87 87 915-10",
-"Katholische Sophienschule","HH-3209","Elsastraße 46, 22083 Hamburg","http://www.katholische-sophienschule.de","Grundschule",,0,"+49 40 87 87 918-29","+49 40 87 87 918-10",
-"Franz-von-Assisi-Schule","HH-3210","Lämmersieth 38, 22305 Hamburg","http://www.franz-von-assisi-schule.kshh.de","Stadtteilschule",,0,"+49 40 80 79 25589","+49 40 80 79 25560",
-"Katholische Schule St. Antonius","HH-3211","Alsterdorfer Straße 71, 22299 Hamburg",,"Grundschule",,0,"+49 40 87 87 916-29","+49 40 87 87 916-10",
-"Katharina-von-Siena-Schule","HH-3212","Eberhofweg 75, 22415 Hamburg","http://www.katharina-von-siena-schule.de","Grundschule",,0,"+49 40 87 87 917-29","+49 40 87 87 917-10",
-"Katholische Schule Farmsen","HH-3213","Rahlstedter Weg 15, 22159 Hamburg","http://www.ksfhh.de","Grundschule",,0,"+49 40 53 30 43-29","+49 40 53 30 43-10",
-"Katholische Schule St. Joseph - Wandsbek","HH-3214","Böhmestraße 3, 22041 Hamburg","http://www.kath-schule-wandsbek.de","Grundschule",,0,"+49 40 87 88 903-29","+49 40 87 88 903-10",
-"Katholische Schule Bergedorf","HH-3215","Chrysanderstraße 40, 21029 Hamburg","http://www.katholische-schule-bergedorf.de","Grundschule",,0,"+49 40 88 14 107-29","+49 40 88 14 107-10",
-"Katholische Schule Harburg","HH-3216","Reeseberg 8, 21073 Hamburg",,"Stadtteilschule",,0,"+49 40 881 41 08-29","+49 40 881 41 08-10",
-"Katholische Bonifatiusschule","HH-3217","Bonifatiusstraße 2, 21107 Hamburg","http://www.bonifatiusschule.de/","Stadtteilschule",,0,"+49 40 730 87 77-29","+49 40 730 87 77-10",
-"Bugenhagen-Schule Alsterdorf, Schule für Kinder mit besonderem Förderbedarf","HH-3218","Alsterdorfer Straße 506, 22337 Hamburg","http://www.bugi.de","Sonderschule",,0,"+49 40 5 07 73-198","+49 40 5 07 73-520",
-"Sankt-Ansgar-Schule","HH-3219","Bürgerweide 33, 20535 Hamburg","http://www.sankt-ansgar-schule.de","Gymnasium",,0,"+49 40 2 51 734-30","+49 40 2 51 734-0",
-"Sophie-Barat-Schule","HH-3220","Warburgstraße 39, 20354 Hamburg","http://www.sophie-barat-schule.de/","Gymnasium",,0,"+49 40 450 229-29","+49 40 450 229-10",
-"Katholische Schule Neugraben","HH-3222","Cuxhavener Straße 379, 21149 Hamburg",,"Stadtteilschule",,0,"+49 40 702 92 39-29","+49 40 702 92 39-10",
-"Bugenhagen-Schule Alsterdorf (Stadtteilschule)","HH-3223","Alsterdorfer Straße 506, 22337 Hamburg","http://www.bugi.de","Stadtteilschule",,0,"+49 40 5 07 73-198","5 07 73 - 520",
-"Niels-Stensen-Gymnasium","HH-3224","Barlachstraße 16, 21073 Hamburg","http://www.niels-stensen-gymnasium.de","Gymnasium",,0,"+49 40 87 88 907-29","+49 40 87 88 907-10",
-"Bugenhagen-Schule im Hessepark (Grundschule)","HH-3225","Oesterleystraße 22, 22587 Hamburg",,"Grundschule",,0,,"+49 40 866 235-34",
-"Bugenhagen-Schule Alsterdorf (Grundschule)","HH-3229","Alsterdorfer Straße 506, 22337 Hamburg",,"Grundschule",,0,"+49 40 5 07 73-198","+49 40 5 07 73-328",
-"Domschule St. Marien (Grundschule)","HH-3230","Schmilinskystraße 70, 20099 Hamburg",,"Grundschule",,0,,"+49 40 28 01 71-4",
-"Bugenhagen-Schule Groß Flottbek","HH-3231","Bei der Flottbeker Mühle 28, 22607 Hamburg","http://www.bugenhagenschulen.de","Grundschule",,0,"+49 40 81 99 44-85","+49 40 81 99 42-89",
-"Bugenhagen-Schule Hamm, Evangelische Grundschule Paulus","HH-3232","Quellenweg 10, 20535 Hamburg","http://www.bugenhagen-schulen.de","Grundschule",,0,"+49 40 21 11 14-03","+49 40 21 11 10-92",
-"Bugenhagen-Schule im Hessepark (Stadtteilschule)","HH-3233","Oesterleystraße 22, 22587 Hamburg",,"Stadtteilschule",,0,,"+49 40 86 62 35-34",
-"Stadtteilschule Helmuth Hübener","HH-5043","Langenfort 68, 22307 Hamburg","http://www.helmuthhuebener.de","Stadtteilschule",,1,"+49 40 428 88 15 22","+49 40 428 88 15 0",
-"Gyula Trebitsch Schule Tonndorf","HH-5046","Barenkrug 16, 22159 Hamburg","http://www.gyula-trebitsch-schule-tonndorf.de","Stadtteilschule",,1,"+49 40 428 93 25-22","+49 40 428 93 25-0",
-"Stadtteilschule Bergstedt","HH-5048","Volksdorfer Damm 218, 22395 Hamburg","http://www.sts-bergstedt.de","Stadtteilschule",,1,"+49 40 428 93 82-22","+49 40 428 93 82-0",
-"Stadtteilschule Am Heidberg","HH-5049","Tangstedter Landstraße 300, 22417 Hamburg","http://www.amheidberg.de","Stadtteilschule",,1,"+49 40 428 89 21 20","+49 40 428 89 21 01",
-"Ilse-Löwenstein-Schule","HH-5052","Humboldtstraße 89, 22083 Hamburg","http://ilse-loewenstein-schule.hamburg.de/","Stadtteilschule",,1,"+49 40 428 86 91 22","+49 40 428 86 91 0",
-"Albert-Schweitzer-Schule","HH-5053","Schluchtweg 1, 22337 Hamburg","http://www.albert-schweitzer-schule.hamburg.de","Stadtteilschule",,1,"+49 40 428 93 05-22","+49 40 428 93 05-0",
-"Max-Schmeling-Stadtteilschule","HH-5054","Oktaviostraße 143, 22043 Hamburg","http://www.max-schmeling-stadtteilschule.de","Stadtteilschule",,1,"+49 40 428 86 41-22","+49 40 428 86 41-20",
-"Stadtteilschule Alter Teichweg","HH-5056","Alter Teichweg 200, 22049 Hamburg","http://www.gs-atw.de","Stadtteilschule",,1,"+49 40 428 97 72 11","+49 40 428 97 70",
-"Stadtteilschule Mümmelmannsberg","HH-5057","Mümmelmannsberg 75, 22115 Hamburg","http://www.stadtteilschule-muemmelmannsberg.de","Stadtteilschule",,1,"+49 40 428 979-22","+49 40 428 979-0",
-"Grundschule Mümmelmannsberg","HH-5058","Mümmelmannsberg 54, 22115 Hamburg","http://www.grundschule-muemmelsmannsberg.hamburg.de","Grundschule",,1,"+49 40 428 93 62-22","+49 40 428 93 62-0",
-"Grundschule Rahewinkel","HH-5059","Rahewinkel 9, 22115 Hamburg","http://www.grundschule-rahewinkel.hamburg.de","Grundschule",,1,"+49 40 428 93 06-22","+49 40 428 93 06-0",
-"Stadtteilschule Bergedorf","HH-5061","Ladenbeker Weg 13, 21033 Hamburg","http://www.sts-bergedorf.de/","Stadtteilschule",,1,"+49 40 428 925-200","+49 40 428 925-01",
-"Heinrich-Hertz-Schule","HH-5062","Grasweg 72, 22303 Hamburg","http://www.heinrich-hertz-schule-hamburg.de","Stadtteilschule",,1,"+49 40 428 891-199","+49 40 428 891-132",
-"Stadtteilschule Horn","HH-5063","Horner Weg 89, 22111 Hamburg","http://www.stshorn.hamburg.de","Stadtteilschule",,1,"+49 40 428 87-2146","+49 40 428 87-20",
-"Erich Kästner Schule","HH-5064","An der Berner Au 12, 22159 Hamburg","http://www.erich-kaestner-hamburg-schule.de","Stadtteilschule",,1,"+49 40 428 928-305","+49 40 428 928-0",
-"Fritz-Schumacher-Schule","HH-5065","Foorthkamp 42, 22417 Hamburg","http://www.fss-hh.de/","Stadtteilschule",,1,"+49 40 428 797-210","+49 40 428 797-0",
-"Geschwister-Scholl-Stadtteilschule","HH-5066","Böttcherkamp 181, 22549 Hamburg","http://www.gsst.hamburg.de","Stadtteilschule",,1,"+49 40 428 85-6225","+49 40 428 85-602",
-"Julius-Leber-Schule","HH-5067","Halstenbeker Straße 41, 22457 Hamburg","http://www.hh.schule.de/julius-leber-schule/","Stadtteilschule",,1,"+49 40 428 93 26-12","+49 40 428 93 26-0",
-"Irena-Sendler-Schule","HH-5069","Am Pfeilshof 20, 22393 Hamburg","http://www.irena-sendler-schule.hamburg.de","Stadtteilschule",,1,"+49 40 428 86 93-10","+49 40 428 86 93-0",
-"Goethe-Schule-Harburg","HH-5070","Bunatwiete 20, 21073 Hamburg","http://www.goethe-schule-harburg.de","Stadtteilschule",,1,"+49 40 428 871-272","+49 40 428 871-0",
-"Ida Ehre Schule","HH-5071","Lehmweg 14, 20144 Hamburg","http://www.idaehreschule.de","Stadtteilschule",,1,"+49 40 428 97-8157","+49 40 428 97-80",
-"Nelson-Mandela-Schule im Stadtteil Kirchdorf","HH-5072","Neuenfelder Straße 106, 21109 Hamburg","http://www.nms-kirchdorf.de","Stadtteilschule",,1,"+49 40 428 852-254","+49 40 428 852-0",
-"Grundschule Edwin-Scharff-Ring","HH-5074","Edwin-Scharff-Ring 56, 22309 Hamburg","http://www.grundschule-edwin-scharff-ring.hamburg.de","Grundschule",,1,"+49 40 428 96 38-22","+49 40 428 96 38-0",
-"Schule am See","HH-5075","Gropiusring 43, 22309 Hamburg","http://www.schuleamsee-hamburg.de","Stadtteilschule",,1,"+49 40 428 96 39-22","+49 40 428 96 39-50",
-"Max-Brauer-Schule","HH-5076","Daimlerstraße 40, 22761 Hamburg","http://www.max-brauer-schule.de","Stadtteilschule",,1,"+49 40 428 98 21 30","+49 40 428 98 20",
-"Stadtteilschule Blankenese","HH-5077","Frahmstraße 15, 22587 Hamburg","http://www.stadtteilschule-blankenese.de","Stadtteilschule",,1,"+49 40 428 828 245","+49 40 428 828 0",
-"Stadtteilschule Poppenbüttel","HH-5079","Poppenbüttler Stieg 7, 22399 Hamburg","http://www.stadtteilschule-poppenbuettel.hamburg.de","Stadtteilschule",,1,"+49 40 428 829-210","+49 40 428 829-211",
-"Stadtteilschule Finkenwerder","HH-5080","Norderschulweg 14, 21129 Hamburg","http://www.sts-finkenwerder.de","Stadtteilschule",,1,"+49 40 428 85-9210","+49 40 428 85-901",
-"Stadtteilschule Bahrenfeld","HH-5081","Regerstraße 21, 22761 Hamburg","http://www.stadtteilschule-bahrenfeld.de","Stadtteilschule",,1,"+49 40 428 88-7230","+49 40 428 88-720",
-"Stadtteilschule Eidelstedt","HH-5083","Niekampsweg 25, 22523 Hamburg","http://www.stadtteilschule-eidelstedt.de","Stadtteilschule",,1,"+49 40 428 79 6-230","+49 40 428 79 6-0",
-"Gretel-Bergmann-Schule","HH-5084","Von-Moltke-Bogen 40, 21035 Hamburg","http://www.gretel-bergmann-schule.de","Stadtteilschule",,1,"+49 40 428 76 47-10","+49 40 428 76 47-0",
-"Stadtteilschule Walddörfer","HH-5085","Vörn Barkholt 6, 22359 Hamburg","http://www.stadtteilschule-walddoerfer.de/","Stadtteilschule",,1,"+49 40 428 96 92-22","+49 40 428 96 92-0",
-"Stadtteilschule Kirchwerder","HH-5087","Kirchwerder Hausdeich 341, 21037 Hamburg","http://www.schule-kirchwerder.hamburg.de","Stadtteilschule",,1,"+49 40 723 77 14 4","+49 40 428 96 74-0",
-"Stadtteilschule Winterhude","HH-5088","Meerweinstraße 26, 22303 Hamburg","http://www.sts-winterhude.de","Stadtteilschule",,1,"+49 40 428 98 42-45","+49 40 428 98 42-0",
-"Stadtteilschule Öjendorf","HH-5089","Pergamentweg 1, 22117 Hamburg","http://www.stadtteilschule-oejendorf.de","Stadtteilschule",,1,"+49 40 428 9318-50","+49 40 428 9318-0",
-"Stadtteilschule Eppendorf","HH-5090","Löwenstraße 58, 20251 Hamburg","http://www.gseppendorf.de","Stadtteilschule",,1,"+49 40 428 82-2199","+49 40 428 82-20",
-"Stadtteilschule Süderelbe","HH-5093","Neumoorstück 1, 21147 Hamburg","http://www.stadtteilschule-suederelbe.de","Stadtteilschule",,1,"+49 40 428 893-270","+49 40 428 89 3-02",
-"Stadtteilschule Lohbrügge","HH-5094","Binnenfeldredder 7, 21031 Hamburg","http://www.stadtteilschule-lohbruegge.hamburg.de","Stadtteilschule",,1,"+49 40 428 876-522","+49 40 428 876-05",
-"Stadtteilschule Wilhelmsburg","HH-5095","Perlstieg 1, 21107 Hamburg","http://www.stadtteilschule-wilhelmsburg.hamburg.de","Stadtteilschule",,1,"+49 40 428 825-143","+49 40 428 825-0",
-"Brüder-Grimm-Schule","HH-5097","Steinadlerweg 26, 22119 Hamburg","http://brueder-grimm.schulhomepages.hamburg.de/","Stadtteilschule",,1,"+49 40 428 48 4-153","+49 40 428 48 4-0",
-"Stadtteilschule Meiendorf","HH-5098","Deepenhorn 1, 22145 Hamburg","http://www.sts-meiendorf.hamburg.de","Stadtteilschule",,1,"+49 40 679 69-022","+49 40 428 93 08-0",
-"Schule auf der Veddel","HH-5099","Slomanstieg 1, 20539 Hamburg","http://www.schule-auf-der-veddel.hamburg.de","Stadtteilschule",,1,"+49 40 7 80 78 5-22","+49 40 428 96 42-0",
-"Aueschule Finkenwerder","HH-5100","Ostfrieslandstraße 91, 21129 Hamburg","http://www.aueschule-finkenwerder.hamburg.de","Grundschule",,1,"+49 40 428 7615-22","+49 40 428 7615-0",
-"Katharinenschule in der Hafencity","HH-5101","Am Dalmannkai 18, 20457 Hamburg","http://www.katharinenschule-hafencity.de","Grundschule",,1,"+49 40 428 88-4622","+49 40 428 88-460",
-"Grundschule Eckerkoppel","HH-5102","Berner Heerweg 99, 22159 Hamburg","http://www.grundschule.eckerkoppel.hamburg.de","Grundschule",,1,"+49 40 428 93 83-22","+49 40 428 93 83-0",
-"Grundschule St.Pauli","HH-5103","Friedrichstraße 55, 20359 Hamburg","http://ganztagsschule-stpauli.schulhomepages.hamburg.de/","Grundschule",,1,"+49 40 428 967-558","+49 40 428 967-550",
-"Grundschule Lohkampstraße","HH-5104","Lohkampstraße 145, 22523 Hamburg","http://www.grundschule-lohkampstrasse.de","Grundschule",,1,"+49 40 571 47-3222","+49 40 428 96 41-0",
-"Heinrich-Wolgast-Schule","HH-5105","Greifswalder Straße 40, 20099 Hamburg","http://www.heinrich-wolgast-schule.de","Grundschule",,1,"+49 40 428 88-2722","+49 40 428 88-270",
-"Schule Hohe Landwehr","HH-5106","Hohe Landwehr 19, 20535 Hamburg","http://www.schule-hohe-landwehr.hamburg.de","Grundschule",,1,"+49 40 428 8876-77","+49 40 428 8876-0",
-"Grundschule Am Heidberg","HH-5111","Tangstedter Landstraße 300, 22417 Hamburg","http://www.grundschule-am-heidberg.de","Grundschule",,1,"+49 40 428 933-219","+49 40 428 933-20",
-"Grundschule Kirchdorf","HH-5117","Prassekstraße 5, 21109 Hamburg","http://www.gskirchdorf.hamburg.de","Grundschule",,1,"+49 40 428 85-2256","+49 40 428 85-2249",
-"Grundschule Archenholzstraße","HH-5118","Archenholzstraße 55, 22117 Hamburg","http://www.arche-gsoe.de","Grundschule",,1,"+49 40 428 93 27-20","+49 40 428 93 27-0",
-"Westerschule Finkenwerder","HH-5119","Finkenwerder Landscheideweg 180, 21129 Hamburg","http://www.westerschule.hamburg.de","Grundschule",,1,"+49 40 428 8837-22","+49 40 428 8837-0",
-"Schule Marckmannstraße","HH-5121","Marckmannstraße 60, 20539 Hamburg","http://www.schule-marckmannstrasse.de/","Sonderschule",,1,"+49 40 428 88 82-32","+49 40 428 88 82-0",
-"Grundschule St. Nikolai","HH-5124","Robert-Koch-Straße 15, 20249 Hamburg","http://www.stnikolaischule.de","Grundschule",,1,"+49 40 428 88-7422","+49 40 428 88-740",
-"Goldbek-Schule","HH-5127","Imstedt 18, 22083 Hamburg","http://www.goldbek-schule.hamburg.de","Grundschule",,1,"+49 40 428 9302-22","+49 40 428 9302-30",
-"Schule Beim Pachthof","HH-5130","Beim Pachthof 15, 22111 Hamburg","http://www.schule-beim-pachthof.de","Grundschule",,1,"+49 40 428 98-250","+49 40 428 98-30",
-"Fritz-Köhne-Schule","HH-5134","Marckmannstraße 61, 20539 Hamburg","http://www.fritz-koehne-schule.de","Grundschule",,1,"+49 40 24 83 56-22","+49 40 24 83 56-0",
-"Grundschule Hasenweg","HH-5136","Hasenweg 40, 22393 Hamburg","http://www.grundschule-hasenweg.de","Grundschule",,1,"+49 40 8 70 85-3222","+49 40 428 96 44-0",
-"Grundschule Arnkielstraße","HH-5137","Arnkielstraße 2, 22769 Hamburg","http://www.schule-arnkielstrasse.de","Grundschule",,1,"+49 40 432 163-55","+49 40 428 93 57-0",
-"Grundschule Osterbrook","HH-5139","Osterbrook 17, 20537 Hamburg","http://www.schule-osterbrook.de","Grundschule",,1,"+49 40 2 19 09 8-22","+49 40 428 96 45-0",
-"Grundschule Poppenbüttel","HH-5143","Schulbergredder 21, 22399 Hamburg","http://www.grundschule-poppenbuettel.hamburg.de","Grundschule",,1,"+49 40 428 93 1755","+49 40 428 93 1722",
-"Elbschule Bildungszentrum Hören und Kommunikation","HH-5145","Holmbrook 20, 22605 Hamburg","http://www.elbschule.hamburg.de","Sonderschule",,1,"+49 40 428 48 52 22","+49 40 428 48 50",
-"Elbkinder Grundschule","HH-5158","Grotefendweg 20, 22589 Hamburg","http://www.elbkinder-grundschule.de","Grundschule",,1,"+49 40 428 7633-22","+49 40 428 7633-0",
-"Schule An der Glinder Au","HH-5160","Sonnenland 27, 22115 Hamburg","http://www.schule-an-der-glinder-au.hamburg.de","Grundschule",,1,"+49 40 428 93 63-52","+49 40 428 93 63-0",
-"Ganztagsgrundschule Sternschanze","HH-5167","Ludwigstraße 7, 20357 Hamburg","http://www.schule-sternschanze.de","Grundschule",,1,"+49 40 428 86-8310","+49 40 428 86-830",
-"Schule Speckenreye","HH-5169","Speckenreye 11, 22119 Hamburg","http://www.schule-speckenreye.hamburg.de","Grundschule",,1,"+49 40 428 93 64-22","+49 40 428 93 64-0",
-"Schule Stengelestraße","HH-5171","Hermannstal 82, 22111 Hamburg","http://www.schule-stengelestrasse.de","Grundschule",,1,"+49 40 428 86-4922","+49 40 428 86-4910",
-"Schule am Schleemer Park","HH-5172","Oberschleems 9, 22117 Hamburg","http://www.schuleamschleemerpark.hamburg.de","Grundschule",,1,"+49 40 714 87-472","+49 40 428 93 19-0",
-"Schule Sterntalerstraße","HH-5173","Sterntalerstraße 42, 22119 Hamburg","http://schule-sterntalerstrasse.hamburg.de","Grundschule",,1,"+49 40 428 86 73-22","+49 40 428 86 73-0",
-"Schule Bonhoefferstraße","HH-5174","Bonhoefferstraße 13, 22117 Hamburg","http://www.schulebonhoefferstrasse.de","Grundschule",,1,"+49 40 428 93 65-52","+49 40 428 93 65-0",
-"Schule Fuchsbergredder","HH-5175","Dringsheide 10, 22119 Hamburg","http://www.fuchsbergredder.de","Grundschule",,1,"+49 40 428 93 66-14","+49 40 428 93 66-0",
-"Schule Bahrenfelder Straße","HH-5202","Gaußstraße 171, 22765 Hamburg","http://www.schule-bahrenfelder-strasse.hamburg.de","Grundschule",,1,"+49 40 428 88-9122","+49 40 428 88-910",
-"Grundschule Bramfeld","HH-5205","Bramfelder Dorfplatz 5, 22179 Hamburg","http://www.grundschule-bramfeld.de","Grundschule",,1,"+49 40 428 8619-62","+49 40 428 8619-60",
-"Louise Schroeder Schule","HH-5206","Thedestraße 100, 22767 Hamburg","http://www.louise-schroeder-schule.hamburg.de","Grundschule",,1,"+49 40 428 88-6910","+49 40 428 88-690",
-"Grundschule Karlshöhe mit Zweigstellen","HH-5208","Lienaustraße 32, 22175 Hamburg","http://www.grundschule-karlshoehe.hamburg.de","Grundschule",,1,"+49 40 428 93 21-44","+49 40 428 93 21-30",
-"Schule Klein Flottbeker Weg","HH-5209","Klein Flottbeker Weg 64, 22605 Hamburg","http://www.klein-flottbeker-weg.hamburg.de","Grundschule",,1,"+49 40 428 93 28-31","+49 40 428 93 28-0",
-"Loki-Schmidt-Schule","HH-5210","Othmarscher Kirchenweg 145, 22763 Hamburg","http://www.loki.hamburg.de","Grundschule",,1,"+49 40 428 88-4550","+49 40 428 88-450",
-"Schule Rothestraße","HH-5211","Rothestraße 22, 22765 Hamburg","http://www.schule-rothestrasse.hamburg.de","Grundschule",,1,"+49 40 428 987-210","+49 40 428 987-211",
-"Ganztagsschule an der Elbe","HH-5212","Struenseestraße 32, 22767 Hamburg","http://www.gtselbe.hamburg.de","Grundschule",,1,"+49 40 428 9677-19","+49 40 428 9677-20",
-"Grundschule Thadenstraße","HH-5214","Thadenstraße 147, 22767 Hamburg","http://www.grundschule-thadenstrasse.de","Grundschule",,1,"+49 40 428 84-1210","+49 40 428 84-101",
-"Theodor-Haubach-Schule","HH-5216","Haubachstraße 55, 22765 Hamburg","http://www.theodor-haubach-schule.hamburg.de","Grundschule",,1,"+49 40 428 8849-40","+49 40 428 8849-0",
-"Schule Trenknerweg","HH-5217","Trenknerweg 136, 22605 Hamburg","http://www.schuletrenknerweg.de","Grundschule",,1,"+49 40 897 20-7722","+49 40 428 93 84-0",
-"Schule Hirtenweg","HH-5219","Holmbrook 10, 22605 Hamburg","http://www.schule-hirtenweg.hamburg.de","Sonderschule",,1,"+49 40 428 88-2124","+49 40 428 88-210",
-"Grundschule Schimmelmannstraße","HH-5220","Schimmelmannstraße 70, 22043 Hamburg","http://www.schule-schimmelmannstrasse.hamburg.de","Grundschule",,1,"+49 40 656 8956-22","+49 40 656 8956-0",
-"Grundschule Goosacker","HH-5231","Goosacker 41, 22549 Hamburg","http://www.grundschulegoosacker.de","Grundschule",,1,"+49 40 428 93 85-22","+49 40 428 93 85-0",
-"Gorch-Fock-Schule","HH-5232","Karstenstraße 22, 22587 Hamburg","http://www.gorch-fock-schule.de","Grundschule",,1,"+49 40 870 89-155","+49 40 428 93 86-0",
-"Schule Iserbarg","HH-5234","Iserbarg 2, 22559 Hamburg","http://www.schule-iserbarg.de","Grundschule",,1,"+49 40 428 93 87-22","+49 40 428 93 87-0",
-"Schule Lehmkuhlenweg","HH-5235","Lehmkuhlenweg 19, 22589 Hamburg","http://www.schule-lehmkuhlenweg.de","Grundschule",,1,"+49 40 41 36 59-22","+49 40 428 93 88-0",
-"Schule Marschweg","HH-5236","Marschweg 10, 22559 Hamburg","http://www.grundschule-marschweg.de","Grundschule",,1,"+49 40 428 93 89-22","+49 40 428 93 89-0",
-"Schule Mendelssohnstraße","HH-5237","Mendelssohnstraße 86, 22761 Hamburg","http://www.grundschule-mendelssohnstrasse.de","Grundschule",,1,"+49 40 428 93 91-22","+49 40 428 93 91-0",
-"Schule Iserbrook","HH-5238","Musäusstraße 29, 22589 Hamburg","http://www.schule-iserbrook.de","Grundschule",,1,"+49 40 428 897-522","+49 40 428 897-0",
-"Grundschule Groß Flottbek","HH-5239","Osdorfer Weg 24, 22607 Hamburg","http://www.grundschule-grossflottbek.hamburg.de","Grundschule",,1,"+49 40 428 8875-22","+49 40 428 8875-0",
-"Schule Schenefelder Landstraße","HH-5240","Schenefelder Landstraße 206, 22589 Hamburg","http://www.schela.de","Grundschule",,1,"+49 40 4 14 59-852","+49 40 428 93 92-0",
-"Schule Schulkamp","HH-5243","Schulkamp 1, 22609 Hamburg","http://www.schule-schulkamp.hamburg.de","Grundschule",,1,"+49 40 8 19 57-6222","+49 40 428 93 94-0",
-"Schule Windmühlenweg","HH-5244","Windmühlenweg 17, 22607 Hamburg","http://www.schule-windmuehlenweg.de","Grundschule",,1,"+49 40 428 93 95-22","+49 40 428 93 95-0",
-"Schule Kielkamp","HH-5245","Kielkamp 16, 22761 Hamburg","http://www.schule-kielkamp.Hamburg.de","Sonderschule",,1,"+49 40 428 93 96-56","+49 40 428 93 96-0",
-"Rudolf-Roß-Grundschule","HH-5248","Kurze Straße 30, 20355 Hamburg","http://www.rudolf-ross-grundschule.de","Grundschule",,1,"+49 40 428 967-358","+49 40 428 967-30",
-"Grundschule Horn","HH-5250","Rhiemsweg 61, 22111 Hamburg","http://www.grundschulehorn.de","Grundschule",,1,"+49 40 428 8698-22","+49 40 428 8698-0",
-"Grundschule Nydamer Weg","HH-5252","Nydamer Weg 44, 22145 Hamburg","http://www.schule-nydamer-weg.hamburg.de","Grundschule",,1,"+49 40 428 86-4622","+49 40 428 86-460",
-"Grundschule Franzosenkoppel","HH-5263","Franzosenkoppel 118, 22547 Hamburg","http://www.schule-franzosenkoppel.de","Grundschule",,1,"+49 40 428 93 97-44","+49 40 428 93 97-12",
-"Fridtjof-Nansen-Schule","HH-5264","Swatten Weg 10, 22547 Hamburg","http://www.fns.hamburg.de/","Grundschule",,1,"+49 40 428 7646-22","+49 40 428 7646-0",
-"Schule Furtweg","HH-5265","Furtweg 56, 22523 Hamburg","http://www.schule-furtweg.de","Grundschule",,1,"+49 40 428 88-3822","+49 40 428 88-380",
-"Schule Langbargheide","HH-5267","Langbargheide 40, 22547 Hamburg","http://www.schule-langbargheide.de/","Grundschule",,1,"+49 40 428 88-9322","+49 40 428 88-930",
-"Grundschule Luruper Hauptstraße","HH-5270","Luruper Hauptstraße 131, 22547 Hamburg","http://www.luruperhauptstrasse.hamburg.de","Grundschule",,1,"+49 40 428 88-2432","+49 40 428 88-2425",
-"Max-Traeger-Schule","HH-5271","Baumacker 10, 22523 Hamburg","http://www.max-traeger-schule.hamburg.de","Grundschule",,1,"+49 40 428 88-2325","+49 40 428 88-230",
-"Schule Rungwisch","HH-5274","Rungwisch 23, 22523 Hamburg","http://www.schule-rungwisch.de","Grundschule",,1,"+49 40 428 96 19-22","+49 40 428 96 19-0",
-"Schule Wesperloh","HH-5277","Wesperloh 19, 22549 Hamburg","http://www.wesperloh.de","Grundschule",,1,"+49 40 241 98-522","+49 40 428 93 98-0",
-"Schule Kroonhorst","HH-5278","Kroonhorst 25, 22549 Hamburg","http://www.schule-kroonhorst.de","Grundschule",,1,"+49 40 428 93 99-22","+49 40 428 93 99-0",
-"Schule Barlsheide","HH-5280","Bornheide 2, 22549 Hamburg","http://www.schule-barlsheide.hamburg.de","Grundschule",,1,"+49 40 428 8868-22","+49 40 428 8868-0",
-"Schule An der Isebek","HH-5301","Bismarckstraße 83, 20253 Hamburg","http://www.schule-an-der-isebek.hamburg.de","Grundschule",,1,"+49 40 428 88-3422","+49 40 428 88-340",
-"Grundschule Hoheluft","HH-5304","Wrangelstraße 80, 20253 Hamburg","http://www.grundschule-hoheluft.hamburg.de","Grundschule",,1,"+49 40 428 93 01-22","+49 40 428 93 01-0",
-"Schule Eduardstraße","HH-5305","Eduardstraße 28, 20257 Hamburg","http://www.schule-eduardstrasse.hamburg.de","Grundschule",,1,"+49 40 428 86-8522","+49 40 428 86-850",
-"Schule Kielortallee","HH-5308","Bundesstraße 94, 20144 Hamburg","http://www.schule-kielortallee.hamburg.de","Grundschule",,1,"+49 40 4 13 30-5912","+49 40 428 93 03-0",
-"Schule Brehmweg","HH-5309","Brehmweg 62, 22527 Hamburg","http://www.grundschule-brehmweg.hamburg.de","Grundschule",,1,"+49 40 428 88-6720","+49 40 428 88-670",
-"Schule Lutterothstraße","HH-5310","Lutterothstraße 34, 20255 Hamburg","http://www.lutterothschule.de/","Grundschule",,1,"+49 40 428 88-3622","+49 40 428 88-360",
-"Schule Rellinger Straße","HH-5312","Rellinger Straße 13, 20257 Hamburg","http://www.schule-rellinger-strasse.de","Grundschule",,1,"+49 40 428 76 27 -22","+49 40 428 76 27 - 0",
-"Schule Tornquiststraße","HH-5315","Tornquiststraße 60, 20259 Hamburg","http://www.die-tornis.de","Grundschule",,1,"+49 40 4 44 65-22","+49 40 428 96 71-0",
-"Schule Turmweg","HH-5316","Turmweg 33, 20148 Hamburg","http://www.schule-turmweg.hamburg.de","Grundschule",,1,"+49 40 428 86-2522","+49 40 428 86-250",
-"Schule Rönnkamp","HH-5328","Rönnkamp 3, 22457 Hamburg","http://www.roennkamp.de","Grundschule",,1,"+49 40 5 58 00-629","+49 40 428 96 21-0",
-"Schule Anna-Susanna-Stieg","HH-5330","Anna-Susanna-Stieg 3, 22457 Hamburg","http://www.schule-anna-susanna-stieg.hamburg.de","Grundschule",,1,"+49 40 526 77-622","+49 40 428 96 22-0",
-"Grundschule Bindfeldweg","HH-5331","Bindfeldweg 37, 22459 Hamburg","http://www.bindfeldweg.de","Grundschule",,1,"+49 40 428 88-1612","+49 40 428 88-1610",
-"Schule Burgunderweg","HH-5332","Burgunderweg 2, 22453 Hamburg","http://www.schule-burgunderweg.hamburg.de","Grundschule",,1,"+49 40 5 55 90-5722","+49 40 428 96 23-0",
-"Schule Heidacker","HH-5333","Heidacker 13, 22523 Hamburg","http://www.schule-heidacker.hamburg.de","Grundschule",,1,"+49 40 428 96 24-88","+49 40 428 96 24-0",
-"Schule Döhrnstraße","HH-5334","Döhrnstraße 42, 22529 Hamburg","http://schule-doehrnstrasse.schulhomepages.hamburg.de","Grundschule",,1,"+49 40 4279 69737","+49 40 428 96 25-0",
-"Schule Frohmestraße","HH-5335","Frohmestraße 42, 22457 Hamburg","http://www.schule-frohmestrasse.hamburg.de","Grundschule",,1,"+49 40 428 96 26-22","+49 40 428 96 26-0",
-"Schule Hinter der Lieth","HH-5336","Hinter der Lieth 61, 22529 Hamburg","http://www.schule-hinter-der-lieth.hamburg.de","Grundschule",,1,"+49 40 428 845-222","+49 40 428 845-0",
-"Schule Molkenbuhrstraße","HH-5339","Molkenbuhrstraße 2, 22525 Hamburg","http://www.schule-molkenbuhrstrasse.hamburg.de","Grundschule",,1,"+49 40 428 88 89 22","+49 40 428 88 89 0",
-"Schule Sethweg","HH-5342","Sethweg 56, 22455 Hamburg","http://www.schule-sethweg.hamburg.de","Grundschule",,1,"+49 40 555 05-377","+49 40 428 96 47-0",
-"Schule Vizelinstraße","HH-5344","Vizelinstraße 50, 22529 Hamburg","http://www.schule-vizelinstrasse.hamburg.de","Grundschule",,1,"+49 40 428 7634-22","+49 40 428 7634-0",
-"Schule Wegenkamp","HH-5345","Wegenkamp 9, 22527 Hamburg","http://www.wegenkamp.de","Grundschule",,1,"+49 40 428 96 27-22","+49 40 428 96 27-0",
-"Schule Lokstedter Damm","HH-5346","Lokstedter Damm 38, 22453 Hamburg",,"Sonderschule",,1,"+49 40 5 57 78-321","+49 40 428 93 29-0",
-"Schule Moorflagen","HH-5347","Wagrierweg 18, 22455 Hamburg","http://www.schule-moorflagen.hamburg.de","Grundschule",,1,"+49 40 5 70 01-577","+49 40 428 96 48-0",
-"Grundschule Sachsenweg","HH-5348","Sachsenweg 74, 22455 Hamburg","http://www.grundschule-sachsenweg.de","Grundschule",,1,"+49 40 593 54-7722","+49 40 428 96 49-0",
-"Schule Röthmoorweg","HH-5349","Röthmoorweg 9, 22459 Hamburg","http://www.roethmoorweg.de","Grundschule",,1,"+49 40 428 96 76-22","+49 40 428 96 76-0",
-"ReBBZ Altona","HH-5350","Sommerhuder Straße 18, 22767 Hamburg",,"Sonderschule",,1,"040 428 88 08-58","040 428 88 08-50",
-"ReBBZ Altona-West","HH-5351","Böttcherkamp 144, 22549 Hamburg",,"Sonderschule",,1,"040 428 96 85-29","040 428 96 85-0",
-"ReBBZ Bergedorf","HH-5352","Billwerder Billdeich 648 a, 21031 Hamburg",,"Sonderschule",,1,"+49 40 428 76 42 22","+49 40 428 76 42 0",
-"ReBBZ Eimsbüttel","HH-5353","Bindfeldweg 37, 22459 Hamburg",,"Sonderschule",,1,"040 428 88 - 1622","040 428 88 - 1620",
-"ReBBZ Süderelbe","HH-5354","Neumoorstück 2, 21147 Hamburg","http://www.frieda-stoppenbrink-schule.de","Sonderschule",,1,"040 79014646","040 79014630",
-"ReBBZ Harburg","HH-5355","Kapellenweg 63, 21073 Hamburg",,"Sonderschule",,1,"+49 40 428 885972","+49 40 428 885960",
-"ReBBZ Billstedt","HH-5356","Steinfeldtstraße 1, 22119 Hamburg",,"Sonderschule",,1,"040 4288674-33","040 4288674-0",
-"ReBBZ Wilhelmsburg","HH-5357","Krieterstraße 2 a, 21109 Hamburg",,"Sonderschule",,1,"040 428885322","040 42888530",
-"ReBBZ Mitte","HH-5358","Laeiszstraße 12, 20537 Hamburg",,"Sonderschule",,1,"040 209025322","040 21902530",
-"ReBBZ Winterhude","HH-5359","Winterhuder Weg 11, 22335 Hamburg","http://www.hamburg.de/rebbz-winterhude","Sonderschule",,1,"040 42886-5722","040 42886-570",
-"ReBBZ Nord","HH-5360","Sengelmannstraße 50, 22297 Hamburg",,"Sonderschule",,1,"040 428884122","040 42888410",
-"ReBBZ Wandsbek-Nord","HH-5361","Wildschwanbrook 9, 22175 Hamburg",,"Sonderschule",,1,"+49 40 428 8648-53","+49 40 428 8648-40",
-"ReBBZ Wandsbek-Süd","HH-5362","Hammer Straße 124, 22043 Hamburg",,"Sonderschule",,1,"040 428 96 82-22","040 428 96 82-12",
-"Schule Alsterdorfer Straße","HH-5400","Alsterdorfer Straße 39, 22299 Hamburg","http://www.grundschule-alsterdorferstrasse.hamburg.de","Grundschule",,1,"+49 40 428 88-0422","+49 40 428 88-040",
-"Schule Forsmannstraße","HH-5404","Forsmannstraße 32, 22303 Hamburg","http://www.forsmannstrasse.hamburg.de","Grundschule",,1,"+49 40 2 70 98-1822","+49 40 428 93 67-0",
-"Schule Humboldtstraße","HH-5405","Humboldtstraße 30, 22083 Hamburg","http://www.hu30.de/","Grundschule",,1,"+49 40 428 76 39 22","+49 40 428 76 39 10",
-"Schule Knauerstraße","HH-5409","Knauerstraße 22, 20249 Hamburg","http://www.schuleknauerstrasse.hamburg.de","Grundschule",,1,"+49 40 428 88-1122","+49 40 428 88-110",
-"Marie-Beschütz-Schule","HH-5413","Schottmüllerstraße 23, 20251 Hamburg","http://www.marie-beschuetz-schule.de/","Grundschule",,1,"+49 40 428 04-2493","+49 40 428 04-2518",
-"Schule auf der Uhlenhorst","HH-5416","Winterhuder Weg 126, 22085 Hamburg","http://www.schule-uhlenhorst.de","Grundschule",,1,"+49 40 428 76 38 22","+49 40 428 76 38 0",
-"Kurt-Juster-Schule","HH-5417","Alsterdorfer Straße 420, 22297 Hamburg","http://www.kurt-juster-schule.hamburg.de/","Sonderschule",,1,"+49 40 428 86 6821","+49 40 428 86 68 0",
-"Bildungszentrum für Blinde und Sehbehinderte","HH-5418","Carl-Cohn-Straße 2, 22303 Hamburg","http://www.bzbs-hamburg.de","Sonderschule",,1,"+49 40 428 88 61 44","+49 40 428 88 61 0",
-"Schule Tegelweg","HH-5419","Turnierstieg 16, 22159 Hamburg","http://www.schule-tegelweg.de/","Sonderschule",,1,"+49 40 645 57 84 7","+49 40 428 96 96-0",
-"Adolph-Schönfelder-Schule","HH-5430","Zeisigstraße 3, 22081 Hamburg","http://www.adolph-schoenfelder-schule.hamburg.de","Grundschule",,1,"+49 40 428 795-245","+49 40 428 795-0",
-"Schule Genslerstraße","HH-5437","Ballerstaedtweg 1, 22307 Hamburg","http://www.schule-genslerstrasse.hamburg.de","Grundschule",,1,"+49 40 428 86 56-22","+49 40 428 86 56-0",
-"Schule Lämmersieth","HH-5439","Lämmersieth 72, 22305 Hamburg","http://www.schule-laemmersieth.hamburg.de","Grundschule",,1,"+49 40 428 95-7210","+49 40 428 95-70",
-"Schule Paracelsusstraße","HH-5447","Paracelsusstraße 30, 22147 Hamburg","http://www.para.schule-hamburg.de/","Sonderschule",,1,"+49 40 428 85-710","+49 40 428 85-70",
-"Carl-Cohn-Schule","HH-5462","Carl-Cohn-Straße 2, 22297 Hamburg","http://www.schule-carl-cohn-strasse.hamburg.de","Grundschule",,1,"+49 40 428 88-0761","+49 40 428 88-0702",
-"Carl-Götze-Schule","HH-5463","Brödermannsweg 2, 22453 Hamburg","http://www.carl-goetze-schule.hamburg.de","Grundschule",,1,"+49 40 428 88-4222","+49 40 428 88-4210",
-"Schule Eberhofweg","HH-5464","Eberhofweg 63, 22415 Hamburg","http://www.schule-eberhofweg.de","Grundschule",,1,"+49 40 5 07 97-622","+49 40 428 96 59-0",
-"Schule Krohnstieg","HH-5469","Krohnstieg 107, 22415 Hamburg","http://www.schule-krohnstieg.hamburg.de","Grundschule",,1,"+40 40 527 39 03 22","+49 40 428 96 62-0",
-"Schule Neubergerweg","HH-5472","Neubergerweg 2, 22419 Hamburg","http://www.schule-neubergerweg.de","Grundschule",,1,"+49 40 5 39 08-6622","+49 40 428 96 63-0",
-"Schule Ohkamp","HH-5473","Ohkampring 13, 22339 Hamburg","http://www.ohkampschule.de","Grundschule",,1,"+49 40 5 00 91-622","+49 40 5 00 91-60",
-"Schule Stockflethweg","HH-5476","Stockflethweg 160, 22417 Hamburg","http://www.schule-stockflethweg.de","Grundschule",,1,"+49 40 5 37 59-6322","+49 40 428 96 55-0",
-"Schule Ratsmühlendamm","HH-5480","Ratsmühlendamm 39, 22335 Hamburg","http://www.schule-ratsmuehlendamm.hamburg.de","Grundschule",,1,"+49 40 428 88-0122","+49 40 428 88-010",
-"Grundschule Altrahlstedt","HH-5501","Brockdorffstraße 64, 22149 Hamburg","http://www.grundschule-altrahlstedt.hamburg.de","Grundschule",,1,"+49 40 428 86-9622","+49 40 428 86-960",
-"Schule Am Sooren","HH-5502","Brunskamp 17, 22149 Hamburg","http://www.schuleamsooren.de","Grundschule",,1,"+49 40 428 93 69-22","+49 40 428 93 69-0",
-"Schule Bekassinenau","HH-5503","Bekassinenau 32, 22147 Hamburg","http://bekassinenau.schulhomepages.hamburg.de","Grundschule",,1,"+49 40 428 76 26 22","+49 40 428 76 26 0",
-"Schule Brockdorffstraße","HH-5504","Brockdorffstraße 64, 22149 Hamburg","http://www.schule-brockdorffstrasse.de","Grundschule",,1,"+49 40 428 93 71-22","+49 40 428 93 71-40",
-"Schule Charlottenburger Straße","HH-5505","Charlottenburger Straße 84, 22045 Hamburg","http://www.schulecharlottenburgerstrasse.de","Grundschule",,1,"+49 40 428 88 44 82","+49 40 428 88 44 70",
-"Grundschule Großlohering","HH-5506","Großlohering 11, 22143 Hamburg","http://www.schule-grosslohering.hamburg.de","Grundschule",,1,"+49 40 428 93 72-22","+49 40 428 93 72-0",
-"Schule Kamminer Straße","HH-5507","Kamminer Straße 4, 22147 Hamburg","http://www.schule-kamminerstrasse.hamburg.de","Grundschule",,1,"+49 40 428 86-8222","+49 40 428 86-820",
-"Grundschule Neurahlstedt","HH-5508","Stapelfelder Straße 7, 22143 Hamburg","http://www.grundschule-neurahlstedt.de","Grundschule",,1,"+49 40 428 8647-22","+49 40 428 8647-0",
-"Schule Potsdamer Straße","HH-5510","Potsdamer Straße 6, 22149 Hamburg","http://www.schule-potsdamer-strasse.hamburg.de","Grundschule",,1,"+49 40 428 93 73-28","+49 40 428 93 73-30",
-"Grundschule Tonndorf","HH-5514","Rahlaukamp 1, 22045 Hamburg","http://www.schule-tonndorf.hamburg.de","Grundschule",,1,"+49 40 4279 699 69","+49 40 428 93 11-0",
-"Schule Bekkamp","HH-5515","Bekkamp 52, 22045 Hamburg","http://www.schule-bekkamp.de","Sonderschule",,1,"+49 40 428 865-117","+49 40 428 86-510",
-"Schule Alsterredder","HH-5520","Alsterredder 28, 22395 Hamburg","http://www.schule-alsterredder.hamburg.de","Grundschule",,1,"+49 40 428 96 51-22","+49 40 428 96 51-12",
-"Schule Am Walde","HH-5522","Kupferredder 12, 22397 Hamburg","http://www.schule-aw.de","Grundschule",,1,"+49 40 605 80-222","+49 40 428 96 01-0",
-"Schule Duvenstedter Markt","HH-5523","Duvenstedter Markt 12, 22397 Hamburg","http://www.schule-duvenstedter-markt.hamburg.de","Grundschule",,1,"+49 40 897 27 81-22","+49 40 897 27 81-0",
-"Schule An den Teichwiesen","HH-5525","Saseler Weg 30, 22359 Hamburg","http://www.teichwiesenschule.de","Grundschule",,1,"+49 40 6 44 13-150","+49 40 428 96 03-0",
-"Schule Bergstedt","HH-5526","Bergstedter Alte Landstraße 12, 22395 Hamburg","http://www.hh.shuttle.de/gs-bergstedt","Grundschule",,1,"+49 40 6 44 21-0622","+49 40 428 93 59-0",
-"Schule Buckhorn","HH-5529","Volksdorfer Damm 74, 22359 Hamburg","http://grundschule-buckhorn.de","Grundschule",,1,"+49 40 6 44 21-0710","+49 40 428 96 04-0",
-"Schule Hinsbleek","HH-5530","Hinsbleek 14, 22391 Hamburg","http://www.grundschule-hinsbleek.de","Grundschule",,1,"+49 40 428 93 12-22","+49 40 428 93 12-0",
-"Schule Ahrensburger Weg","HH-5532","Ahrensburger Weg 12, 22359 Hamburg","http://www.ahrensburgerweg.hamburg.de","Grundschule",,1,"+49 40 428 9694-22","+49 40 428 9694-20",
-"Schule Eulenkrugstraße","HH-5533","Eulenkrugstraße 166, 22359 Hamburg","http://www.schule-eulenkrugstrasse.hamburg.de","Grundschule",,1,"+49 40 644 21-022","+49 40 428 96 05-0",
-"Schule Redder","HH-5534","Redder 4, 22393 Hamburg","http://www.schule-redder.de","Grundschule",,1,"+49 40 63 64 61-52","+49 40 428 96 54-0",
-"Schule Lemsahl-Mellingstedt","HH-5535","Redderbarg 46, 22397 Hamburg","http://www.schule-lemsahl-mellingstedt.hamburg.de","Grundschule",,1,"+49 40 608 20-322","+49 40 428 96 06-0",
-"Schule Müssenredder","HH-5537","Müssenredder 61, 22399 Hamburg","http://www.grundschule-muessenredder.de","Grundschule",,1,"+49 40 5 33 06-8322","+49 40 428 96 53-0",
-"Grundschule Islandstraße","HH-5538","Islandstraße 25, 22145 Hamburg","http://www.grundschule-islandstrasse.de","Grundschule",,1,"+49 40 675 98-122","+49 40 428 93 74-0",
-"Schule Grützmühlenweg","HH-5540","Grützmühlenweg 38, 22339 Hamburg","http://www.schulegruetzmuehlenweg.de","Grundschule",,1,"+49 40 5 20 19-644","+49 40 428 96 52-0",
-"Schule Strenge","HH-5541","Strenge 5, 22391 Hamburg","http://www.schule-strenge.de/","Grundschule",,1,"+49 40 428 86-7622","+49 40 428 86-760",
-"Schule Wildschwanbrook","HH-5542","Wildschwanbrook 9, 22145 Hamburg","http://www.schule-wildschwanbrook.hamburg.de","Grundschule",,1,"+49 40 428 93 58-22","+49 40 428 93 58-0",
-"Schule Rahlstedter Höhe","HH-5544","Ahrenshooper Straße 1, 22147 Hamburg","http://www.schule-rahlstedterhoehe.hamburg.de","Grundschule",,1,"+49 40 428 76 25 22","+49 40 428 76 25 0",
-"Schule Traberweg","HH-5550","Eckerkoppel 125, 22159 Hamburg","http://www.schule-traberweg.de","Grundschule",,1,"+49 40 428 96 28-22","+49 40 428 96 28-0",
-"Schule Eenstock","HH-5551","Eenstock 15, 22179 Hamburg","http://www.eenstock.hamburg.de","Grundschule",,1,"+49 40 428 96 07-22","+49 40 428 96 07-0",
-"Schule An der Seebek","HH-5557","Fabriciusstraße 150, 22177 Hamburg","http://www.schule-anderseebek.de","Grundschule",,1,"+49 40 428 93 22-63","+49 40 428 93 22-50",
-"Schule Fahrenkrön","HH-5558","Fahrenkrön 115, 22179 Hamburg","http://www.schule-fahrenkroen.de/","Grundschule",,1,"+49 40 428 96 29-70","+49 40 428 96 29-0",
-"Schule Appelhoff","HH-5564","Appelhoff 2, 22309 Hamburg","http://www.schule-appelhoff.hamburg.de","Grundschule",,1,"+49 40 428 93 61-16","+49 40 428 93 61-0",
-"Schule Surenland","HH-5565","Bramfelder Weg 121, 22159 Hamburg","http://www.surenland.de","Grundschule",,1,"+49 40 533 04-422","+49 40 428 96 72-0",
-"Schule An der Gartenstadt","HH-5575","Stephanstraße 103, 22047 Hamburg","http://www.schule-gartenstadt.hamburg.de","Grundschule",,1,"+49 40 2 80 58-022","+49 40 428 96 57-0",
-"Schule Bandwirkerstraße","HH-5577","Bandwirkerstraße 56, 22041 Hamburg","http://www.gsbandwirkerstr.de","Grundschule",,1,"+49 40 689 46-3322","+49 40 428 96 56-0",
-"Schule Bovestraße","HH-5578","Bovestraße 10, 22041 Hamburg","http://www.schule-bovestrasse-hamburg.de","Grundschule",,1,"+49 40 428 820-645","+49 40 428 820-654",
-"Schule Hasselbrook","HH-5581","Ritterstraße 44, 22089 Hamburg","http://www.schule-hasselbrook.hamburg.de","Grundschule",,1,"+49 40 428 86 11 22","+49 40 428 86 11 0",
-"Schule Öjendorfer Damm","HH-5586","Öjendorfer Damm 8, 22043 Hamburg","http://www.schule-oejendorfer-damm.de/","Grundschule",,1,"+49 40 670 48-552","+49 40 428 93 75-0",
-"Schule am Eichtalpark","HH-5587","Walddörferstraße 243, 22047 Hamburg","http://www.schule-am-eichtalpark.de","Grundschule",,1,"+49 40 428 86-3922","+49 40 428 86-390",
-"Schule Richardstraße","HH-5588","Richardstraße 85, 22089 Hamburg","http://www.hh.schule.de/richard","Grundschule",,1,"+49 40 428 93 76-77","+49 40 428 93 76-0",
-"Schule Wielandstraße","HH-5591","Wielandstraße 9, 22089 Hamburg","http://www.schule-wielandstrasse.de","Grundschule",,1,"+49 40 428 86-1822","+49 40 428 86-180",
-"Schule Oppelner Straße","HH-5592","Oppelner Straße 45, 22045 Hamburg","http://www.schule-oppelner-strasse.hamburg.de","Grundschule",,1,"+49 40 284 17-352","+49 40 428 93 77-0",
-"Schule Jenfelder Straße","HH-5594","Jenfelder Straße 252, 22045 Hamburg","http://www.schule-jenfelder-strasse.hamburg.de","Grundschule",,1,"+49 40 428 93 31-22","+49 40 428 93 31-0",
-"Schule Sander Straße","HH-5602","Sander Straße 11, 21029 Hamburg","http://www.schule-sander-strasse.hamburg.de","Grundschule",,1,"+49 40 428 93 13-51","+49 40 428 93 13-0",
-"Anton-Rée-Schule Allermöhe","HH-5603","Von-Haeften-Straße 1, 21035 Hamburg","http://www.anton-ree-schule-allermoehe.hamburg.de","Grundschule",,1,"+49 40 428 93 23-40","+49 40 428 93 23-0",
-"Schule Ernst-Henning-Straße","HH-5604","Ernst-Henning-Straße 20, 21029 Hamburg","http://www.schule-ernst-henning-strasse.hamburg.de","Grundschule",,1,"+49 40 428 86 59 22","+49 40 428 86 59 0",
-"Schule Leuschnerstraße","HH-5605","Leuschnerstraße 13, 21031 Hamburg","http://www.schule-leuschnerstrasse.de","Grundschule",,1,"+49 40 239 59 7222","+49 40 428 93 78-0",
-"Schule Max-Eichholz-Ring","HH-5607","Max-Eichholz-Ring 25, 21031 Hamburg","http://www.schule-mer.de","Grundschule",,1,"+49 40 428 9379-22","+49 40 428 9379-0",
-"Schule Nettelnburg","HH-5610","Fiddigshagen 11, 21035 Hamburg","http://schule-nettelnburg.de","Grundschule",,1,"+49 40 428 8881 22","+49 40 428 8881 0",
-"Grundschule Mendelstraße","HH-5611","Mendelstraße 6, 21031 Hamburg","http://www.schule-mendelstrasse.de","Grundschule",,1,"+49 40 428 86-5822","+49 40 428 86-580",
-"Grundschule Heidhorst","HH-5612","Heidhorst 16, 21031 Hamburg","http://www.grundschule.heidhorst.hamburg.de","Grundschule",,1,"+49 40 428 86 28 27","+49 40 428 86 28 0",
-"Schule Weidemoor","HH-5613","Weidemoor 1, 21033 Hamburg","http://www.weidemoor.hamburg.de","Sonderschule",,1,"+49 40 428 93 81-37","+49 40 428 93 81-0",
-"Schule Friedrich-Frank-Bogen","HH-5614","Friedrich-Frank-Bogen 25, 21033 Hamburg","http://www.schule-friedrich-frank-bogen.de","Grundschule",,1,"+49 40 428 76 44-22","+49 40 428 76 44-10",
-"Clara-Grunwald-Schule","HH-5615","Walter-Rothenburg-Weg 37, 21035 Hamburg","http://www.clara-grunwald-schule.de","Grundschule",,1,"+49 40 735 94 61 0","+49 40 428 93 93-0",
-"Adolph-Diesterweg-Schule","HH-5616","Felix-Jud-Ring 29, 21035 Hamburg","http://www.adolph-diesterweg-schule.de/","Grundschule",,1,"+49 40 428 93 33-40","+49 40 428 93 33-0",
-"Schule Mittlerer Landweg","HH-5630","Mittlerer Landweg 48, 21033 Hamburg","http://schule-mittlerer-landweg.hamburg.de","Grundschule",,1,"+49 40 731 13 63 22","+49 40 428 96 67-0",
-"Schule Altengamme-Deich","HH-5631","Kirchenstegel 12, 21039 Hamburg","http://www.schule-altengamme-deich.hamburg.de","Grundschule",,1,"+49 40 428 96 31-22","+49 40 428 96 31-0",
-"Schule Curslack-Neuengamme","HH-5634","Gramkowweg 5, 21039 Hamburg","http://www.grundschule-curslack-neuengamme.de","Grundschule",,1,"+49 40 7 23 74-022","+49 40 428 96 32-0",
-"Schule Fünfhausen-Warwisch","HH-5635","Durchdeich 108, 21037 Hamburg","https://schule-fuenfhausen-warwisch.de","Grundschule",,1,"+49 40 730 90 63 22","+49 40 730 90 63 0",
-"Schule Ochsenwerder","HH-5644","Elversweg 44, 21037 Hamburg","http://www.schule-ochsenwerder.de","Grundschule",,1,"+49 40 737 11 62 2","+49 40 428 96 34-0",
-"Schule Zollenspieker","HH-5648","Kirchenheerweg 223, 21037 Hamburg","http://www.schule-zollenspieker.de","Grundschule",,1,"+49 40 797 55 69 22","+49 40 428 96 35-0",
-"Stadtteilschule Rissen","HH-5649","Voßhagen 15, 22559 Hamburg","http://www.stadtteilschule-rissen.de","Stadtteilschule",,1,"+49 40 428 93 44-22","+49 40 428 93 44-0",
-"Stadtteilschule Altrahlstedt","HH-5650","Kielkoppelstraße 16 d, 22149 Hamburg","http://www.stadtteilschule-altrahlstedt-hamburg.de","Stadtteilschule",,1,"+49 40 428 86 45 22","+49 40 428 86 45 0",
-"Stadtteilschule Ehestorfer Weg","HH-5651","Ehestorfer Weg 14, 21075 Hamburg","http://www.schule-ehestorferweg.de","Stadtteilschule",,1,"+49 40 428 88 18 73","+49 40 428 88 18 06",
-"Kurt-Tucholsky-Schule","HH-5654","Eckernförder Straße 70, 22769 Hamburg","http://www.tucholsky-schule.de","Stadtteilschule",,1,"+49 40 428 88 58 10","+49 40 428 88 58 27",
-"Stadtteilschule Stellingen","HH-5655","Sportplatzring 73, 22527 Hamburg","http://www.stadtteilschule-stellingen.de","Stadtteilschule",,1,"+49 40 428 89 82 36","+49 40 428 89 80 1",
-"Stadtteilschule Bramfeld","HH-5656","Hegholt 44, 22179 Hamburg","http://www.stadtteilschule-bramfeld.de","Stadtteilschule",,1,"+49 40 428 86 19 22","+49 40 428 86 19 0",
-"Stadtteilschule Richard-Linde-Weg","HH-5657","Richard-Linde-Weg 49, 21033 Hamburg","http://www.richard-linde-weg.de","Stadtteilschule",,1,"+49 40 428 86 14 22","+49 40 428 86 14 0",
-"Stadtteilschule Stübenhofer Weg","HH-5658","Stübenhofer Weg 20, 21109 Hamburg","http://www.stuebenhofer-weg.de/","Stadtteilschule",,1,"+49 40 428 76 19 22","+49 40 428 76 19 10",
-"Stadtteilschule Flottbek","HH-5659","Goosacker 41, 22549 Hamburg","http://stadtteilschule-goosacker.de","Stadtteilschule",,1,"+49 40 428 9304 - 23","+49 40 428 9304 - 20",
-"Stadtteilschule Oldenfelde","HH-5660","Delingsdorfer Weg 6, 22143 Hamburg","http://www.sts-oldenfelde.de","Stadtteilschule",,1,"+49 40 428 86 63 69","+49 40 428 86 63 50",
-"Stadtteilschule Lurup","HH-5661","Veermoor 4, 22547 Hamburg","http://www.stadtteilschule-lurup.de","Stadtteilschule",,1,"+49 40 428 926-222","+49 40 428 926-210",
-"Stadtteilschule Barmbek","HH-5662","Tieloh 28, 22049 Hamburg","http://www.stadtteilschule-barmbek.hamburg.de","Stadtteilschule",,1,"+49 40 428 486-210","+49 40 428 486-200",
-"Stadtteilschule Hamburg-Mitte","HH-5663","Griesstraße 101, 20099 Hamburg","http://www.stadtteilschule-hamburg-mitte.de","Stadtteilschule",,1,"+49 40 428 97 44 15","+49 40 428 97 40",
-"Lessing-Stadtteilschule","HH-5664","Am Soldatenfriedhof 21, 21073 Hamburg","http://www.lessing-stadtteilschule-hamburg.de","Stadtteilschule",,1,"+49 40 428 93 24-20","+49 40 428 93 24-0",
-"Stadtteilschule Niendorf","HH-5665","Sachsenweg 74, 22455 Hamburg","http://www.stadtteilschule-niendorf.de","Stadtteilschule",,1,"+49 40 428 88 56 44","+49 40 428 88 56 0",
-"Stadtteilschule Am Hafen","HH-5667","Struenseestraße 20, 20355 Hamburg","http://www.schule-am-hafen.eu","Stadtteilschule",,1,"+49 40 428 84 32 08","+49 40 428 84 32 00",
-"Stadtteilschule Fischbek/Falkenberg","HH-5669","Heidrand 5, 21149 Hamburg","http://www.stadtteilschule-fischbek-falkenberg.de","Stadtteilschule",,1,"+49 40 428 88 64 10","+49 40 428 88 64 0",
-"Otto-Hahn-Schule","HH-5670","Jenfelder Allee 53, 22043 Hamburg","http://www.otto-hahn-schule.hamburg.de","Stadtteilschule",,1,"+49 40 428 87 33 10","+49 40 428 87 30 3",
-"Schule Dempwolffstraße","HH-5701","Dempwolffstraße 7, 21073 Hamburg","http://www.schule-dempwolffstrasse.hamburg.de","Grundschule",,1,"+49 40 414 59 65 2","+49 40 428 96 08-0",
-"Schule Maretstraße","HH-5703","Maretstraße 50, 21073 Hamburg","http://www.maretstrasse.de","Stadtteilschule",,1,"+49 40 428 97-5212","+49 40 428 97-502",
-"Schule Grumbrechtstraße","HH-5704","Grumbrechtstraße 63, 21075 Hamburg","http://www.schule-grumbrechtstrasse.de","Grundschule",,1,"+49 40 79 18 81-22","+49 40 428 96 09-0",
-"Schule In der Alten Forst","HH-5706","In der Alten Forst 1, 21077 Hamburg","http://www.schuleinderaltenforst.de","Grundschule",,1,"+49 40 70 38 57 575","+49 40 428 96 69-0",
-"Schule Rönneburg","HH-5707","Kanzlerstraße 25, 21079 Hamburg","http://www.schule-roenneburg.hamburg.de","Grundschule",,1,"+49 40 701 06 57 5","+49 40 428 96 11-0",
-"Schule Kapellenweg","HH-5708","Kapellenweg 63, 21077 Hamburg","http://www.schule-kapellenweg.hamburg.de","Grundschule",,1,"+49 40 428 86 94 22","+49 40 428 86 94 0",
-"Schule Kerschensteinerstraße","HH-5710","Kerschensteinerstraße 16, 21073 Hamburg","http://www.schule-kersche.hamburg.de","Grundschule",,1,"+49 40 428 88 39 22","+49 40 428 88-390",
-"Schule Marmstorf","HH-5713","Ernst-Bergeest-Weg 54, 21077 Hamburg","http://www.schule-marmstorf.hamburg.de","Grundschule",,1,"+49 40 7 90 14-677","+49 40 428 96 12-0",
-"Schule Neuland","HH-5714","Neuländer Elbdeich 241, 21079 Hamburg","http://www.schule-neuland.de","Grundschule",,1,"+49 40 428 96 13-22","+49 40 428 96 13-0",
-"Schule Scheeßeler Kehre","HH-5718","Scheeßeler Kehre 2, 21079 Hamburg","http://www.schulescheesselerkehre.de/","Grundschule",,1,"+49 40 428 96 14-22","+49 40 428 96 14-0",
-"Grundschule am Kiefernberg","HH-5719","Weusthoffstraße 95, 21075 Hamburg","http://www.grundschule-am-kiefernberg.hamburg.de","Grundschule",,1,"+49 40 428 88 18 26","+49 40 428 88 18 01",
-"Schule Elfenwiese","HH-5722","Elfenwiese 3, 21077 Hamburg","http://www.schule-elfenwiese.hamburg.de","Sonderschule",,1,"+49 40 428 98-8210","+49 40 428 98-801",
-"Schule Nymphenweg","HH-5723","Hausbrucher Bahnhofstraße 19, 21077 Hamburg","http://www.schule-nymphenweg.hamburg.de","Sonderschule",,1,"+49 40 428 98-8510","4 28 98 - 805",
-"Elbinselschule","HH-5742","Rahmwerder Straße 3, 21109 Hamburg","http://www.elbinselschule.de","Grundschule",,1,"+49 40 428 76 21 1","+49 40 428 76 21 0",
-"Schule Cranz","HH-5743","Estebogen 3, 21129 Hamburg","http://www.schule-cranz.hamburg.de","Grundschule",,1,"+49 40 75602022","+49 40 7560200",
-"Ganztagsschule Fährstraße","HH-5744","Fährstraße 90, 21107 Hamburg","http://schule365.schul-cms.eu","Grundschule",,1,"+49 40 428 76 29-22","+49 40 428 76 29-0",
-"Ganztagsgrundschule Am Johannisland","HH-5747","Am Johannisland 4, 21147 Hamburg","http://www.ganztagsgrundschule-am-johannisland.hamburg.de","Grundschule",,1,"+49 40 428 88 43 22","+49 40 428 88 43 0",
-"Grundschule An der Haake","HH-5749","Lange Striepen 51, 21147 Hamburg","https://www.grundschule-an-der-haake.de","Grundschule",,1,"+49 40 428 9334-48","+49 40 428 9334-0",
-"Schule Arp-Schnitger-Stieg","HH-5753","Arp-Schnitger-Stieg 19, 21129 Hamburg","http://www.schule-arp-schnitger-stieg.hamburg.de","Grundschule",,1,"+49 40 317 98 47 0","+49 40 428 96 58-0",
-"Grundschule Neugraben - Offene Ganztagsgrundschule (GBS)","HH-5755","Francoper Straße 32, 21147 Hamburg","http://www.grundschule-neugraben.de","Grundschule",,1,"+49 40 790 14 22 2","+49 40 428 96 15-0",
-"Schule Rotenhäuser Damm","HH-5761","Rotenhäuser Damm 45, 21107 Hamburg","http://www.schule-rhd45.hamburg.de","Grundschule",,1,"+49 40 485 09 75 2","+49 40 428 96 65-0",
-"Schule Schnuckendrift","HH-5762","Schnuckendrift 21, 21149 Hamburg","http://www.schule-schnuckendrift.de","Grundschule",,1,"+49 40 428 96 16-61","+49 40 428 96 16-0",
-"Grundschule Stübenhofer Weg","HH-5763","Stübenhofer Weg 20, 21109 Hamburg","https://grundschule-stuebenhofer-weg.hamburg.de","Grundschule",,1,"+49 40 750 60 22 2","+49 40 428 96 66-0",
-"Schule Ohrnsweg","HH-5768","Ohrnsweg 52, 21149 Hamburg","http://www.ohrnsweg.de","Grundschule",,1,"+49 40 428 96 17-29","+49 40 428 96 17-0",
-"Schule an der Burgweide","HH-5773","Karl-Arnold-Ring 13, 21109 Hamburg","http://www.burgweide.de","Grundschule",,1,"+49 40 333 99 46 22","+49 40 428 96 61-0",
-"Kurt-Körber-Gymnasium","HH-5800","Pergamentweg 1, 22117 Hamburg","http://www.kurt-koerber-gymnasium.de","Gymnasium",,1,"+4940 428 7648–40","+4940 428 7648–30",
-"Friedrich-Ebert-Gymnasium","HH-5801","Alter Postweg 30, 21075 Hamburg","http://www.ebert-gymnasium.de","Gymnasium",,1,"+49 40 428 76 31 22","+49 40 428 76 31 0",
-"Matthias-Claudius-Gymnasium","HH-5802","Witthöfftstraße 8, 22041 Hamburg","http://www.matthias-claudius-gymnasium.de","Gymnasium",,1,"+49 40 428 76 22 22","+49 40 428 76 22 10",
-"Gymnasium Süderelbe","HH-5803","Falkenbergsweg 5, 21149 Hamburg","http://www.gymnasium-suederelbe.de","Gymnasium",,1,"+49 40 428 93 35-50","+49 40 428 93 35-0",
-"Helmut-Schmidt-Gymnasium","HH-5807","Krieterstraße 5, 21109 Hamburg","http://www.helmut-schmidt-gymnasium.de","Gymnasium",,1,"+49 40 428 87 72 27","+49 40 428 87 70 1",
-"Gymnasium Rissen","HH-5809","Voßhagen 15, 22559 Hamburg","http://www.gyri.de","Gymnasium",,1,"+49 40 428 93 14-28","+49 40 428 93 14-0",
-"Albert-Schweitzer-Gymnasium","HH-5810","Struckholt 27, 22337 Hamburg","http://www.asg-hh.de","Gymnasium",,1,"+49 40 428 93 36-17","+49 40 428 93 36-0",
-"Gymnasium Alstertal","HH-5811","Erdkampsweg 89, 22335 Hamburg","http://www.gymnasium-alstertal.hamburg.de","Gymnasium",,1,"+49 40 428 95 53 1","+49 40 428 95 50",
-"Gymnasium Buckhorn","HH-5812","Im Regestall 25, 22359 Hamburg","http://www.buckhorn.de/","Gymnasium",,1,"+49 40 428 93 37-38","+49 40 428 93 37-0",
-"Christianeum","HH-5813","Otto-Ernst-Straße 34, 22605 Hamburg","http://www.christianeum.org","Gymnasium",,1,"+49 40 428 88 28 31","+49 40 428 88-280",
-"Heisenberg-Gymnasium","HH-5814","Triftstraße 43, 21075 Hamburg","http://www.heisenberg-gymnasium-hamburg.de","Gymnasium",,1,"+49 40 428 88-7110","+49 40 428 88-710",
-"Walddörfer-Gymnasium","HH-5816","Im Allhorn 45, 22359 Hamburg","http://www.wdg-hamburg.de","Gymnasium",,1,"+49 40 428 969 322","+49 40 428 969 30",
-"Abendschule St. Georg","HH-5818","Rostocker Straße 41, 20099 Hamburg","http://www.hh.schule.de/abg-stgeorg, www.agstgeorg.de","Abendgymnasiuym",,1,"+49 40 428 974-525","+49 40 428 974-21",
-"Abendschule Vor dem Holstentor","HH-5819","Holstenglacis 6, 20355 Hamburg","http://www.as-holstentor.de","Abendgymnasiuym",,1,"+49 40 428 986-210","+49 40 428 986-01",
-"Johannes-Brahms-Gymnasium","HH-5822","Höhnkoppelort 24, 22179 Hamburg","http://www.johannes-brahms-gymnasium.de","Gymnasium",,1,"+49 40 428 8629-30","+49 40 428 8629-0",
-"Gymnasium Corveystraße","HH-5823","Corveystraße 6, 22529 Hamburg","http://www.corvey.hamburg.de","Gymnasium",,1,"+49 40 428 86 79 31","+49 40 428 86 79 0",
-"Goethe-Gymnasium","HH-5824","Rispenweg 28, 22547 Hamburg","http://www.goethe-hamburg.de","Gymnasium",,1,"+49 40 428 93 38-40","+49 40 428 93 38-0",
-"Lise-Meitner-Gymnasium","HH-5825","Knabeweg 3, 22549 Hamburg","http://www.hh.schule.de/lmg","Gymnasium",,1,"+49 40 428 88 52 33","+49 40 428 88 52 0",
-"Gymnasium Ohmoor","HH-5829","Sachsenweg 76, 22455 Hamburg","http://www.gymnasium-ohmoor.de","Gymnasium",,1,"+49 40 5 55 89-110","+49 40 428 96 68-0",
-"Gymnasium Altona","HH-5830","Bleickenallee 5, 22763 Hamburg","http://www.gymaltona.de","Gymnasium",,1,"+49 40 428 970-233","+49 40 428 970-0",
-"Gymnasium Blankenese","HH-5831","Oesterleystraße 27, 22587 Hamburg","http://www.gymnasium-blankenese.de","Gymnasium",,1,"+49 40 428 971-244","+49 40 428 971-0",
-"Gymnasium Allermöhe","HH-5832","Walter-Rothenburg-Weg 41, 21035 Hamburg","http://www.gymnasium-allermoehe.de","Gymnasium",,1,"+49 40 428 93 39-10","+49 40 428 93 39-0",
-"Margaretha-Rothe-Gymnasium","HH-5834","Langenfort 5, 22307 Hamburg","http://www.mrg-online.de","Gymnasium",,1,"+49 40 428 86 86 19","+49 40 428 86 86 0",
-"Gymnasium Heidberg","HH-5835","Fritz-Schumacher-Allee 200, 22417 Hamburg","http://www.gymnasium-heidberg.de/","Gymnasium",,1,"+49 40 428 9309-25","+49 40 428 9309-0",
-"Gymnasium Oldenfelde","HH-5837","Birrenkovenallee 12, 22143 Hamburg","http://www.gym-old.de","Gymnasium",,1,"+49 40 428 86 63-30","+49 40 428 86 63-01",
-"Gymnasium Bornbrook","HH-5838","Schulenburgring 4, 21031 Hamburg","http://www.gymnasium-bornbrook.de","Gymnasium",,1,"+49 40 428 95 41 9","+49 40 428 95 40",
-"Immanuel-Kant-Gymnasium","HH-5839","Am Pavillon 15, 21077 Hamburg","http://www.immanuel-kant-gymnasium.de","Gymnasium",,1,"+49 40 428 9341-44","+49 40 428 9341-0",
-"Alexander-von-Humboldt-Gymnasium","HH-5840","Rönneburger Straße 50, 21079 Hamburg","http://www.avh.hamburg.de","Gymnasium",,1,"+49 40 645 39 13 6","+49 40 428 96 18-0",
-"Marion Dönhoff Gymnasium","HH-5841","Willhöden 74, 22587 Hamburg","http://www.marion-doenhoff-gymnasium.de","Gymnasium",,1,"+49 40 428 93 42-15","+49 40 428 93 42-0",
-"Gymnasium Hoheluft","HH-5842","Christian-Förster-Straße 19, 20253 Hamburg","http://www.gymnasium-hoheluft.de","Gymnasium",,1,"+49 40 428 88 48 10","+49 40 428 88 48 0",
-"Gymnasium Eppendorf","HH-5844","Hegestraße 35, 20249 Hamburg","http://www.gymnasium-eppendorf.de","Gymnasium",,1,"+49 40 428 972 - 231","+49 40 428 972 - 0",
-"Hansa-Gymnasium Bergedorf","HH-5845","Hermann-Distel-Straße 25, 21029 Hamburg","http://www.hansa-gymnasium.de","Gymnasium",,1,"+49 40 428 93 43-50","+49 40 428 93 43-0",
-"Gymnasium Kaiser-Friedrich-Ufer","HH-5846","Kaiser-Friedrich-Ufer 6, 20259 Hamburg","http://www.kaifu-gymnasium.de","Gymnasium",,1,"+49 40 428 01 19 56","+49 40 428 01 23 33",
-"Gymnasium Lohbrügge","HH-5847","An der Twiete 23, 21031 Hamburg","http://www.gyloh.de","Gymnasium",,1,"+49 40 428 87-6230","+49 40 428 87-601",
-"Luisen-Gymnasium Bergedorf","HH-5848","Reinbeker Weg 76, 21029 Hamburg","http://www.halloluise.de","Gymnasium",,1,"+49 40 7 24 16-210","+49 40 428 93 45-0",
-"Carl-von-Ossietzky-Gymnasium","HH-5849","Müssenredder 59, 22399 Hamburg","http://www.cvo-hamburg.de","Gymnasium",,1,"+49 40 427 96 79 16","+49 40 428 93 15-0",
-"Gymnasium Oberalster","HH-5850","Alsterredder 26, 22395 Hamburg","http://www.gymnasium-oberalster.de","Gymnasium",,1,"+49 40 428 93 46-22","+49 40 428 93 46-0",
-"Gymnasium Hamm","HH-5853","Ebelingplatz 8, 20537 Hamburg","http://www.gyha.de","Gymnasium",,1,"+49 40 428 85 14 00","+49 40 428 85 10 4",
-"Gymnasium Finkenwerder","HH-5856","Norderschulweg 18, 21129 Hamburg","http://www.gymfi.de","Gymnasium",,1,"+49 40 428 85 93 10","+49 40 428 859 03",
-"Gymnasium Dörpsweg","HH-5859","Dörpsweg 10, 22527 Hamburg","http://www.doerpsweg.de","Gymnasium",,1,"+49 40 571 94  23 7","+49 40 428 96 36-0",
-"Albrecht-Thaer-Gymnasium","HH-5860","Wegenkamp 3, 22527 Hamburg","http://www.hh.schule.de/ath","Gymnasium",,1,"+49 40 428 93 47-30","+49 40 428 93 47-0",
-"Charlotte-Paulsen-Gymnasium","HH-5862","Neumann-Reichardt-Straße 20, 22041 Hamburg","http://www.cpg-hamburg.de","Gymnasium",,1,"+49 40 428 820-210","+49 40 428 820-01",
-"Emilie-Wüstenfeld-Gymnasium","HH-5863","Bundesstraße 78, 20144 Hamburg","http://www.ewg-hamburg.de","Gymnasium",,1,"+49 40 428 88 05-42","+49 40 428 88 05-0",
-"Helene Lange Gymnasium","HH-5864","Bogenstraße 32, 20144 Hamburg","http://www.hlg-hamburg.de","Gymnasium",,1,"+49 40 428 981-210","+49 40 428 981-0",
-"Gymnasium Klosterschule","HH-5866","Westphalensweg 7, 20099 Hamburg","http://www.klosterschule-hamburg.de","Gymnasium",,1,"+49 40 428 821 210","+49 40 428 821 0",
-"Gymnasium Lerchenfeld","HH-5868","Finkenau 42, 22081 Hamburg","http://www.gyle.de","Gymnasium",,1,"+49 40 428 88 47 40","+49 40 428 88 47 0",
-"Gymnasium Rahlstedt","HH-5869","Scharbeutzer Straße 36, 22147 Hamburg","http://www.gymnasium-rahlstedt.de","Gymnasium",,1,"+49 40 428 86-6540","+49 40 428 86-650",
-"Wilhelm-Gymnasium","HH-5872","Klosterstieg 17, 20149 Hamburg","http://www.wilhelm-gymnasium.de","Gymnasium",,1,"+49 40 428 93 16-20","+49 40 428 93 16-0",
-"Gymnasium Allee","HH-5881","Max-Brauer-Allee 83, 22765 Hamburg","http://www.gymnasium-allee.de/","Gymnasium",,1,"+49 40 428 88 06 19","+49 40 428 88 06 0",
-"Gymnasium Bondenwald","HH-5882","Bondenwald 14, 22453 Hamburg","http://www.gymnasium-bondenwald.de","Gymnasium",,1,"+49 40 428 88-2549","+49 40 428 88-250",
-"Gymnasium Farmsen","HH-5885","Swebenhöhe 50, 22159 Hamburg","http://www.gymnasium-farmsen.de","Gymnasium",,1,"+49 40 428 93 48-22","+49 40 428 93 48-0",
-"Gelehrtenschule des Johanneums","HH-5886","Maria-Louisen-Straße 114, 22301 Hamburg","http://www.johanneum-hamburg.de","Gymnasium",,1,"+49 40 428 827 210","+49 40 428 827 0",
-"Gymnasium Hochrad","HH-5887","Hochrad 2, 22605 Hamburg","http://www.hochrad.de","Gymnasium",,1,"+49 40 428 93 49-50","+49 40 428 93 49-0",
-"Heilwig-Gymnasium","HH-5888","Wilhelm-Metzger-Straße 4, 22297 Hamburg","http://www.heilwig.de","Gymnasium",,1,"+49 40 428 86-8910","+49 40 428 86-890",
-"Gymnasium Meiendorf","HH-5890","Schierenberg 60, 22145 Hamburg","http://www.gymei.de","Gymnasium",,1,"+49 40 428 86 38 47","+49 40 428 86 38 0",
-"Gymnasium Othmarschen","HH-5891","Walderseestraße 99, 22605 Hamburg","http://www.gymnasium-othmarschen.de","Gymnasium",,1,"+49 40 428 93 51-42","+49 40 428 93 51-0",
-"Heinrich-Heine-Gymnasium","HH-5894","Harksheider Straße 70, 22399 Hamburg","http://www.heinegym.de","Gymnasium",,1,"+49 40 428 86 81 10","+49 40 428 86 81 0",
-"Gymnasium Grootmoor","HH-5895","Am Damm 47, 22175 Hamburg","http://www.grootmoor.de","Gymnasium",,1,"+49 40 428 93 52-99","+49 40 428 93 52-0",
-"Gymnasium Ohlstedt","HH-5896","Sthamerstraße 55, 22397 Hamburg","http://www.gymnasium-ohlstedt.de/","Gymnasium",,1,"+49 40 605 80 31 0","+49 40 428 93 53-0",
-"Gymnasium Osterbek","HH-5897","Turnierstieg 24, 22179 Hamburg","http://www.osterbek.de","Gymnasium",,1,"+49 40 428 9354-55","+49 40 428 9354-0",
-"Gymnasium Marienthal","HH-5898","Holstenhofweg 86, 22043 Hamburg","http://www.Gymnasium-Marienthal.de","Gymnasium",,1,"+49 40 428 86-3131","4 28 86 - 310",
-"Gymnasium Hummelsbüttel","HH-5899","Hummelsbüttler Hauptstraße 107, 22339 Hamburg","http://www.gymnasium-hummelsbuettel.de","Gymnasium",,1,"+49 40 5 38 90 6-44","+49 40 428 93 55-0",
-"Privates Gymnasium Brecht","HH-7703","Norderstraße 163, 20097 Hamburg","http://www.brecht-schulen.de","Gymnasium",,0,"+49 40 21 11 12-0","+49 40 21 11 12-0",
-"Christophorus-Schule","HH-7706","Bergstedter Chaussee 205, 22395 Hamburg","http://www.christophorus-hamburg.de","Sonderschule",,0,"+49 40 60 4428-25","+49 40 60 4428-0",
-"Raphael-Schule","HH-7707","Quellental 25, 22609 Hamburg","http://www.raphael-schule-hamburg.de","Sonderschule",,0,"+49 40 8 19 92-643","+49 40 8 19 92-640",
-"Montessorischule Hamburg-Bergedorf","HH-7708","August-Bebel-Straße 196, 21029 Hamburg",,"Grundschule",,0,"+49 40 7210 6427","72 10 64 22",
-"Private Stadtteilschule Brecht","HH-7714","Norderstraße 163, 20097 Hamburg","http://www.brecht-schulen.de","Stadtteilschule",,0,"+49 40 21 11 12-20","+49 40 21 11 12-0",
-"Private Grundschule Brecht","HH-7715","Norderstraße 163, 20097 Hamburg","http://www.brecht-schulen.de","Grundschule",,0,"+49 40 21 11 12-20","+49 40 21 11 12-0",
-"Stadtteilschule St. Georg","HH-7801","Rostocker Straße 62, 20099 Hamburg","http://www.st-georg-schulen.de","Stadtteilschule",,0,"+49 40 24 68 69","+49 40 24 70 87",
-"Christian-Morgenstern-Schule (Grundschule)","HH-7909","Heinrichstraße 14, 22769 Hamburg","http://www.christianmorgensternschule.de","Grundschule",,0,,"+49 40 41 35 94 44",
-"Neue Schule Hamburg","HH-7910","Schimmelreiterweg 11, 22149 Hamburg","http://www.infoneue-Schule-Hamburg.org","Stadtteilschule",,0,,"+49 40 6690 99-45",
-"Bugenhagen-Schule Ottensen, Evangelische Grundschule an der Osterkirche","HH-7911","Bei der Osterkirche 17, 22765 Hamburg",,"Grundschule",,0,,"2 88 02 - 933",
-"Alsterring Gymnasium","HH-7915","Wittenkamp 15, 22307 Hamburg","http://www.alsterring-gymnasium.de","Gymnasium",,0,"+49 40 226 223 531","+49 40 226 223 530",
-"Monaddrei-Schule Hamburg","HH-7916","Schäferkampsallee 27, 20357 Hamburg",,"Grundschule",,0,,"+49 40 533 08 37-0",
-"Zukunftsschule Alsterpalais (Grundschule)","HH-7917","Alsterdorfer Straße 523, 22337 Hamburg","http://www.flachsland-hamburg.de","Grundschule",,0,"+49 40 529 85 167","+49 40 529 85 157",
-"Bilinguale Grundschule PHORMS Hamburg","HH-7918","Wendenstraße 35, 20097 Hamburg","http://www.hamburg.phorms.de","Grundschule",,0,"+40 40 325 370-55","32537050",
-"Moderne Schule Hamburg (Grundschule)","HH-7920","Brödermannsweg 17, 22453 Hamburg",,"Grundschule",,0,,"67381670",
-"Moderne Schule Hamburg (Gymnasium)","HH-7921","Brödermannsweg 17, 22453 Hamburg",,"Gymnasium",,0,,"67381670",
-"OKO Private School Talent-Schule Hamburg","HH-7924","Saarlandstraße 30, 22303 Hamburg","http://www.talent-schule.com","Gymnasium",,0,,"+49 40 53283260",
-"Lycée Français de Hambourg 'Antoine de St. Exupéry' (Gymnasium)","HH-8003","Hartsprung 23, 22529 Hamburg","http://www.lfh.de","Gymnasium",,0,"+49 40 79 01 47-56","+49 40 79 01 47-0",
-"Joseph-Carlebach-Schule (Grundschule)","HH-8004","Grindelhof 30, 20146 Hamburg","http://www.jcsh.de","Grundschule",,0,"+49 40 44 09 44 12","+49 40 44 09 44 11",
-"Joseph-Carlebach-Schule (Stadtteilschule)","HH-8007","Grindelhof 30, 20146 Hamburg","http://www.jcsh.de","Stadtteilschule",,0,"+49 40 44 09 44 12","+49 40 44 09 44 11",
-"August-Hermann-Francke-Schule Farmsen","HH-8008","August-Krogmann-Straße 115, 22159 Hamburg","http://www.ahfs-hamburg.de","Grundschule",,0,"+49 40 64 55 22-87","+49 40 64 55 22 82",
-"August-Hermann-Francke-Schule Uhlenhorst","HH-8012","Bachstraße 13, 22083 Hamburg",,"Stadtteilschule",,0,,"+49 40 28 00 27-81",
-"Lycée Français de Hambourg 'Antoine de St. Exupéry' (Grundschule)","HH-8013","Hartsprung 23, 22529 Hamburg",,"Grundschule",,0,,"+49 40 79 01 47-0",
-"August-Hermann-Francke-Schule Bahrenfeld","HH-8014","Händelstraße 11, 22761 Hamburg",,"Grundschule",,0,,"+49 40 88 16 81-85",
-"August-Hermann-Francke-Schule Berne","HH-8015","Berner Allee 20, 22159 Hamburg",,"Grundschule",,0,,"+49 40 64 42 82-42",
-"August-Hermann-Francke-Schule Bergedorf","HH-8016","Glasbläserhöfe 2, 21035 Hamburg","http://ahfs-hamburg.de/cms/bergedorf/","Grundschule",,0,,"+49 40 64664802",
-"Rudolf-Steiner-Schule Wandsbek","HH-8101","Rahlstedter Weg 60, 22159 Hamburg","http://www.waldorfschule-wandsbek.de/","Stadtteilschule",,0,"+49 40 64 58 95-20","+49 40 64 58 95-0",
-"Rudolf-Steiner-Schule Nienstedten","HH-8102","Elbchaussee 366, 22609 Hamburg","http://www.waldorfschule-nienstedten.de","Stadtteilschule",,0,"+49 40 8 22 40-024","+49 40 8 22 40-00",
-"Friedrich-Robbe-Institut","HH-8106","Bärenallee 15, 22041 Hamburg","http://www.friedrich-robbe-institut.de","Sonderschule",,0,"+49 40 6 52 87 62","+49 40 68 44 55",
-"Rudolf-Steiner-Schule Bergstedt","HH-8112","Bergstedter Chaussee 207, 22395 Hamburg","http://www.steinerschule-bergstedt.de","Stadtteilschule",,0,,"645 08 20",
-"Rudolf-Steiner-Schule Altona","HH-8113","Bleickenallee 1, 22763 Hamburg","http://www.waldorfschule-altona.de/","Stadtteilschule",,0,"+49 40 4 10 09-950","+49 40 4 10 09-93",
-"Rudolf-Steiner-Schule Harburg","HH-8114","Ehestorfer Heuweg 82, 21149 Hamburg",,"Stadtteilschule",,0,"+49 40 797 18 20","+49 40 797 18 10",
-"Rudolf-Steiner-Schule Bergedorf","HH-8115","Am Brink 7, 21029 Hamburg",,"Stadtteilschule",,0,"+49 40 721 22-41","7 21 22 22",
-"Michael Schule","HH-8117","Woellmerstraße 1, 21075 Hamburg",,"Sonderschule",,0,"+49 40 70973778-19","+49 40 70973778-0",
-"Haus des Lernens","HH-8118","Lienaustraße 14, 22159 Hamburg",,"Stadtteilschule",,0,"6 38 56 - 9929","6 38 56 - 990",
-"Wichern-Schule (Stadtteilschule)","HH-8201","Horner Weg 164, 22111 Hamburg","http://www.wichern-schule.de","Stadtteilschule",,0,"+49 40 6 55 91-256","+49 40 6 55 91-191",
-"Wichern-Schule (Gymnasium)","HH-8202","Horner Weg 164, 22111 Hamburg","http://www.wichern-schule.de","Gymnasium",,0,"+49 40 6 55 91-256","+49 40 6 55 91-190",
-"Wichern-Schule (Grundschule)","HH-8204","Horner Weg 164, 22111 Hamburg",,"Grundschule",,0,"+49 40 655 91-256","+49 40 655 91-191",
-"Jenisch-Gymnasium","HH-8301","Jenischstraße 48, 22609 Hamburg","http://www.jenisch-gymnasium.de/","Gymnasium",,0,"+49 40 8 23 33-7","+49 40 8 26 00-2",
-"Bilinguales Gymnasium Phorms Hamburg","HH-8302","Wendenstraße 35, 20097 Hamburg","http://www.hamburg.phorms.de","Gymnasium",,0,"+49 40 325 370-55","+49 40 32537050",
-"Christian- Morgenstern- Schule (Stadtteilschule)","HH-8501","Heinrichstraße 14, 22769 Hamburg",,"Stadtteilschule",,0,,,
-"Zukunftsschule Alsterpalais (Stadtteilschule)","HH-8502","Alsterdorfer Straße 523, 22337 Hamburg","http://www.flachsland-hamburg.de","Stadtteilschule",,0,"+49 40 529 85-184","+40 40 529 85-157",
+address,fax,full_time_school,id,lat,lon,name,official_id,phone,school_type,school_type_entity,state
+"Bei der Hammer Kirche 10, 20535 Hamburg",+49 40 87 88 902-29,false,HH-3201,53.556728,10.054931,Katholische Schule Hammer Kirche,3201,+49 40 87 88 902-10,Grundschule,Grundschule,HH
+"Schmilinskystraße 70, 20099 Hamburg",+49 40 87 88 901-29,true,HH-3202,53.557881,10.014614,Domschule St. Marien (Stadtteilschule),3202,+49 40 87 88 901-10,Stadtteilschule,Stadtteilschule,HH
+"Öjendorfer Weg 14, 22111 Hamburg",+49 40 87 88 904-29,true,HH-3203,53.540571,10.107749,Katholische Schule St. Paulus,3203,+49 40 87 88 904-10,Stadtteilschule,Stadtteilschule,HH
+"Dohrnweg 6, 22767 Hamburg",+49 40 70 70 783-29,true,HH-3204,53.559409,9.956165,Katholische Schule Altona,3204,+49 40 70 70 783-10,Stadtteilschule,Stadtteilschule,HH
+"Eulenstraße 68, 22763 Hamburg",+49 40 70 70 782-29,true,HH-3205,53.551142,9.924064,Katholische Schule St. Marien - Eulenstraße,3205,+49 40 70 70 782-10,Grundschule,Grundschule,HH
+"Mörikestraße 16, 22587 Hamburg",+49 40 70 70 781-29,false,HH-3206,53.561828,9.822509,Katholische Schule Blankenese,3206,+49 40 70 70 781-10,Grundschule,Grundschule,HH
+"Am Weiher 29, 20255 Hamburg",+49 40 70 70 784-29,true,HH-3207,53.577956,9.957578,Katholische Schule Am Weiher - St. Bonifatius,3207,+49 40 70 70 784-10,Grundschule,Grundschule,HH
+"Hochallee 9, 20149 Hamburg",+49 40 87 87 915-29,true,HH-3208,53.573465,9.985793,Katholische Schule Hochallee,3208,+49 40 87 87 915-10,Grundschule,Grundschule,HH
+"Elsastraße 46, 22083 Hamburg",+49 40 87 87 918-29,true,HH-3209,53.579224,10.034378,Katholische Sophienschule,3209,+49 40 87 87 918-10,Grundschule,Grundschule,HH
+"Lämmersieth 38, 22305 Hamburg",+49 40 80 79 25589,true,HH-3210,53.585269,10.054826,Franz-von-Assisi-Schule,3210,+49 40 80 79 25560,Stadtteilschule,Stadtteilschule,HH
+"Alsterdorfer Straße 71, 22299 Hamburg",+49 40 87 87 916-29,false,HH-3211,53.59872,9.996569,Katholische Schule St. Antonius,3211,+49 40 87 87 916-10,Grundschule,Grundschule,HH
+"Eberhofweg 75, 22415 Hamburg",+49 40 87 87 917-29,true,HH-3212,53.651919,10.014873,Katharina-von-Siena-Schule,3212,+49 40 87 87 917-10,Grundschule,Grundschule,HH
+"Rahlstedter Weg 15, 22159 Hamburg",+49 40 53 30 43-29,false,HH-3213,53.606716,10.12183,Katholische Schule Farmsen,3213,+49 40 53 30 43-10,Grundschule,Grundschule,HH
+"Böhmestraße 3, 22041 Hamburg",+49 40 87 88 903-29,true,HH-3214,53.573872,10.076326,Katholische Schule St. Joseph - Wandsbek,3214,+49 40 87 88 903-10,Grundschule,Grundschule,HH
+"Chrysanderstraße 40, 21029 Hamburg",+49 40 88 14 107-29,true,HH-3215,53.49182,10.215631,Katholische Schule Bergedorf,3215,+49 40 88 14 107-10,Grundschule,Grundschule,HH
+"Reeseberg 8, 21073 Hamburg",+49 40 881 41 08-29,true,HH-3216,53.449812,9.988358,Katholische Schule Harburg,3216,+49 40 881 41 08-10,Stadtteilschule,Stadtteilschule,HH
+"Bonifatiusstraße 2, 21107 Hamburg",+49 40 730 87 77-29,true,HH-3217,53.504744,9.98662,Katholische Bonifatiusschule,3217,+49 40 730 87 77-10,Stadtteilschule,Stadtteilschule,HH
+"Alsterdorfer Straße 506, 22337 Hamburg",+49 40 5 07 73-198,true,HH-3218,53.616453,10.027866,"Bugenhagen-Schule Alsterdorf, Schule für Kinder mit besonderem Förderbedarf",3218,+49 40 5 07 73-520,Sonderschule,Sonderschule,HH
+"Bürgerweide 33, 20535 Hamburg",+49 40 2 51 734-30,true,HH-3219,53.557509,10.031605,Sankt-Ansgar-Schule,3219,+49 40 2 51 734-0,Gymnasium,Gymnasium,HH
+"Warburgstraße 39, 20354 Hamburg",+49 40 450 229-29,true,HH-3220,53.561991,9.995477,Sophie-Barat-Schule,3220,+49 40 450 229-10,Gymnasium,Gymnasium,HH
+"Cuxhavener Straße 379, 21149 Hamburg",+49 40 702 92 39-29,true,HH-3222,53.472025,9.8446,Katholische Schule Neugraben,3222,+49 40 702 92 39-10,Stadtteilschule,Stadtteilschule,HH
+"Alsterdorfer Straße 506, 22337 Hamburg",+49 40 5 07 73-198,true,HH-3223,53.616453,10.027866,Bugenhagen-Schule Alsterdorf (Stadtteilschule),3223,5 07 73 - 520,Stadtteilschule,Stadtteilschule,HH
+"Barlachstraße 16, 21073 Hamburg",+49 40 87 88 907-29,true,HH-3224,53.45789,9.971421,Niels-Stensen-Gymnasium,3224,+49 40 87 88 907-10,Gymnasium,Gymnasium,HH
+"Oesterleystraße 22, 22587 Hamburg",,true,HH-3225,53.562148,9.807543,Bugenhagen-Schule im Hessepark (Grundschule),3225,+49 40 866 235-34,Grundschule,Grundschule,HH
+"Alsterdorfer Straße 506, 22337 Hamburg",+49 40 5 07 73-198,true,HH-3229,53.616453,10.027866,Bugenhagen-Schule Alsterdorf (Grundschule),3229,+49 40 5 07 73-328,Grundschule,Grundschule,HH
+"Schmilinskystraße 70, 20099 Hamburg",,true,HH-3230,53.557881,10.014614,Domschule St. Marien (Grundschule),3230,+49 40 28 01 71-4,Grundschule,Grundschule,HH
+"Bei der Flottbeker Mühle 28, 22607 Hamburg",+49 40 81 99 44-85,true,HH-3231,53.573012,9.869074,Bugenhagen-Schule Groß Flottbek,3231,+49 40 81 99 42-89,Grundschule,Grundschule,HH
+"Quellenweg 10, 20535 Hamburg",+49 40 21 11 14-03,true,HH-3232,53.561475,10.059502,"Bugenhagen-Schule Hamm, Evangelische Grundschule Paulus",3232,+49 40 21 11 10-92,Grundschule,Grundschule,HH
+"Oesterleystraße 22, 22587 Hamburg",,true,HH-3233,53.562148,9.807543,Bugenhagen-Schule im Hessepark (Stadtteilschule),3233,+49 40 86 62 35-34,Stadtteilschule,Stadtteilschule,HH
+"Langenfort 68, 22307 Hamburg",+49 40 428 88 15 22,true,HH-5043,53.599413,10.048417,Stadtteilschule Helmuth Hübener,5043,+49 40 428 88 15 0,Stadtteilschule,Stadtteilschule,HH
+"Barenkrug 16, 22159 Hamburg",+49 40 428 93 25-22,true,HH-5046,53.59469,10.124487,Gyula Trebitsch Schule Tonndorf,5046,+49 40 428 93 25-0,Stadtteilschule,Stadtteilschule,HH
+"Volksdorfer Damm 218, 22395 Hamburg",+49 40 428 93 82-22,true,HH-5048,53.671707,10.137188,Stadtteilschule Bergstedt,5048,+49 40 428 93 82-0,Stadtteilschule,Stadtteilschule,HH
+"Tangstedter Landstraße 300, 22417 Hamburg",+49 40 428 89 21 20,true,HH-5049,53.670945,10.028731,Stadtteilschule Am Heidberg,5049,+49 40 428 89 21 01,Stadtteilschule,Stadtteilschule,HH
+"Humboldtstraße 89, 22083 Hamburg",+49 40 428 86 91 22,true,HH-5052,53.576682,10.022011,Ilse-Löwenstein-Schule,5052,+49 40 428 86 91 0,Stadtteilschule,Stadtteilschule,HH
+"Schluchtweg 1, 22337 Hamburg",+49 40 428 93 05-22,false,HH-5053,53.632579,10.047345,Albert-Schweitzer-Schule,5053,+49 40 428 93 05-0,Stadtteilschule,Stadtteilschule,HH
+"Oktaviostraße 143, 22043 Hamburg",+49 40 428 86 41-22,true,HH-5054,53.567124,10.1038,Max-Schmeling-Stadtteilschule,5054,+49 40 428 86 41-20,Stadtteilschule,Stadtteilschule,HH
+"Alter Teichweg 200, 22049 Hamburg",+49 40 428 97 72 11,true,HH-5056,53.587514,10.069987,Stadtteilschule Alter Teichweg,5056,+49 40 428 97 70,Stadtteilschule,Stadtteilschule,HH
+"Mümmelmannsberg 75, 22115 Hamburg",+49 40 428 979-22,true,HH-5057,53.52989,10.148621,Stadtteilschule Mümmelmannsberg,5057,+49 40 428 979-0,Stadtteilschule,Stadtteilschule,HH
+"Mümmelmannsberg 54, 22115 Hamburg",+49 40 428 93 62-22,true,HH-5058,53.529506,10.140067,Grundschule Mümmelmannsberg,5058,+49 40 428 93 62-0,Grundschule,Grundschule,HH
+"Rahewinkel 9, 22115 Hamburg",+49 40 428 93 06-22,true,HH-5059,53.526622,10.154793,Grundschule Rahewinkel,5059,+49 40 428 93 06-0,Grundschule,Grundschule,HH
+"Ladenbeker Weg 13, 21033 Hamburg",+49 40 428 925-200,true,HH-5061,53.492832,10.187098,Stadtteilschule Bergedorf,5061,+49 40 428 925-01,Stadtteilschule,Stadtteilschule,HH
+"Grasweg 72, 22303 Hamburg",+49 40 428 891-199,true,HH-5062,53.592979,10.010512,Heinrich-Hertz-Schule,5062,+49 40 428 891-132,Stadtteilschule,Stadtteilschule,HH
+"Horner Weg 89, 22111 Hamburg",+49 40 428 87-2146,true,HH-5063,53.555403,10.069951,Stadtteilschule Horn,5063,+49 40 428 87-20,Stadtteilschule,Stadtteilschule,HH
+"An der Berner Au 12, 22159 Hamburg",+49 40 428 928-305,true,HH-5064,53.619607,10.120114,Erich Kästner Schule,5064,+49 40 428 928-0,Stadtteilschule,Stadtteilschule,HH
+"Foorthkamp 42, 22417 Hamburg",+49 40 428 797-210,true,HH-5065,53.660023,10.012487,Fritz-Schumacher-Schule,5065,+49 40 428 797-0,Stadtteilschule,Stadtteilschule,HH
+"Böttcherkamp 181, 22549 Hamburg",+49 40 428 85-6225,true,HH-5066,53.591429,9.855568,Geschwister-Scholl-Stadtteilschule,5066,+49 40 428 85-602,Stadtteilschule,Stadtteilschule,HH
+"Halstenbeker Straße 41, 22457 Hamburg",+49 40 428 93 26-12,true,HH-5067,53.625006,9.903745,Julius-Leber-Schule,5067,+49 40 428 93 26-0,Stadtteilschule,Stadtteilschule,HH
+"Am Pfeilshof 20, 22393 Hamburg",+49 40 428 86 93-10,true,HH-5069,53.639928,10.103514,Irena-Sendler-Schule,5069,+49 40 428 86 93-0,Stadtteilschule,Stadtteilschule,HH
+"Bunatwiete 20, 21073 Hamburg",+49 40 428 871-272,true,HH-5070,53.45631,9.982271,Goethe-Schule-Harburg,5070,+49 40 428 871-0,Stadtteilschule,Stadtteilschule,HH
+"Lehmweg 14, 20144 Hamburg",+49 40 428 97-8157,true,HH-5071,53.574695,9.979121,Ida Ehre Schule,5071,+49 40 428 97-80,Stadtteilschule,Stadtteilschule,HH
+"Neuenfelder Straße 106, 21109 Hamburg",+49 40 428 852-254,true,HH-5072,53.493162,10.013895,Nelson-Mandela-Schule im Stadtteil Kirchdorf,5072,+49 40 428 852-0,Stadtteilschule,Stadtteilschule,HH
+"Edwin-Scharff-Ring 56, 22309 Hamburg",+49 40 428 96 38-22,true,HH-5074,53.615419,10.047782,Grundschule Edwin-Scharff-Ring,5074,+49 40 428 96 38-0,Grundschule,Grundschule,HH
+"Gropiusring 43, 22309 Hamburg",+49 40 428 96 39-22,true,HH-5075,53.61435,10.057353,Schule am See,5075,+49 40 428 96 39-50,Stadtteilschule,Stadtteilschule,HH
+"Daimlerstraße 40, 22761 Hamburg",+49 40 428 98 21 30,true,HH-5076,53.570314,9.912774,Max-Brauer-Schule,5076,+49 40 428 98 20,Stadtteilschule,Stadtteilschule,HH
+"Frahmstraße 15, 22587 Hamburg",+49 40 428 828 245,true,HH-5077,53.563791,9.822318,Stadtteilschule Blankenese,5077,+49 40 428 828 0,Stadtteilschule,Stadtteilschule,HH
+"Poppenbüttler Stieg 7, 22399 Hamburg",+49 40 428 829-210,true,HH-5079,53.64515,10.05067,Stadtteilschule Poppenbüttel,5079,+49 40 428 829-211,Stadtteilschule,Stadtteilschule,HH
+"Norderschulweg 14, 21129 Hamburg",+49 40 428 85-9210,true,HH-5080,53.532133,9.875982,Stadtteilschule Finkenwerder,5080,+49 40 428 85-901,Stadtteilschule,Stadtteilschule,HH
+"Regerstraße 21, 22761 Hamburg",+49 40 428 88-7230,true,HH-5081,53.568163,9.908377,Stadtteilschule Bahrenfeld,5081,+49 40 428 88-720,Stadtteilschule,Stadtteilschule,HH
+"Niekampsweg 25, 22523 Hamburg",+49 40 428 79 6-230,true,HH-5083,53.608656,9.896823,Stadtteilschule Eidelstedt,5083,+49 40 428 79 6-0,Stadtteilschule,Stadtteilschule,HH
+"Von-Moltke-Bogen 40, 21035 Hamburg",+49 40 428 76 47-10,true,HH-5084,53.486129,10.160935,Gretel-Bergmann-Schule,5084,+49 40 428 76 47-0,Stadtteilschule,Stadtteilschule,HH
+"Vörn Barkholt 6, 22359 Hamburg",+49 40 428 96 92-22,true,HH-5085,53.652119,10.166554,Stadtteilschule Walddörfer,5085,+49 40 428 96 92-0,Stadtteilschule,Stadtteilschule,HH
+"Kirchwerder Hausdeich 341, 21037 Hamburg",+49 40 723 77 14 4,true,HH-5087,53.419911,10.202118,Stadtteilschule Kirchwerder,5087,+49 40 428 96 74-0,Stadtteilschule,Stadtteilschule,HH
+"Meerweinstraße 26, 22303 Hamburg",+49 40 428 98 42-45,true,HH-5088,53.586985,10.026975,Stadtteilschule Winterhude,5088,+49 40 428 98 42-0,Stadtteilschule,Stadtteilschule,HH
+"Pergamentweg 1, 22117 Hamburg",+49 40 428 9318-50,true,HH-5089,53.541154,10.12098,Stadtteilschule Öjendorf,5089,+49 40 428 9318-0,Stadtteilschule,Stadtteilschule,HH
+"Löwenstraße 58, 20251 Hamburg",+49 40 428 82-2199,true,HH-5090,53.587233,9.973802,Stadtteilschule Eppendorf,5090,+49 40 428 82-20,Stadtteilschule,Stadtteilschule,HH
+"Neumoorstück 1, 21147 Hamburg",+49 40 428 893-270,true,HH-5093,53.477901,9.867307,Stadtteilschule Süderelbe,5093,+49 40 428 89 3-02,Stadtteilschule,Stadtteilschule,HH
+"Binnenfeldredder 7, 21031 Hamburg",+49 40 428 876-522,true,HH-5094,53.503794,10.207916,Stadtteilschule Lohbrügge,5094,+49 40 428 876-05,Stadtteilschule,Stadtteilschule,HH
+"Perlstieg 1, 21107 Hamburg",+49 40 428 825-143,true,HH-5095,53.50428,9.993633,Stadtteilschule Wilhelmsburg,5095,+49 40 428 825-0,Stadtteilschule,Stadtteilschule,HH
+"Steinadlerweg 26, 22119 Hamburg",+49 40 428 48 4-153,true,HH-5097,53.551606,10.106824,Brüder-Grimm-Schule,5097,+49 40 428 48 4-0,Stadtteilschule,Stadtteilschule,HH
+"Deepenhorn 1, 22145 Hamburg",+49 40 679 69-022,true,HH-5098,53.629096,10.164427,Stadtteilschule Meiendorf,5098,+49 40 428 93 08-0,Stadtteilschule,Stadtteilschule,HH
+"Slomanstieg 1, 20539 Hamburg",+49 40 7 80 78 5-22,true,HH-5099,53.526857,10.019837,Schule auf der Veddel,5099,+49 40 428 96 42-0,Stadtteilschule,Stadtteilschule,HH
+"Ostfrieslandstraße 91, 21129 Hamburg",+49 40 428 7615-22,true,HH-5100,53.526983,9.884702,Aueschule Finkenwerder,5100,+49 40 428 7615-0,Grundschule,Grundschule,HH
+"Am Dalmannkai 18, 20457 Hamburg",+49 40 428 88-4622,true,HH-5101,53.542065,9.994563,Katharinenschule in der Hafencity,5101,+49 40 428 88-460,Grundschule,Grundschule,HH
+"Berner Heerweg 99, 22159 Hamburg",+49 40 428 93 83-22,true,HH-5102,53.598866,10.115957,Grundschule Eckerkoppel,5102,+49 40 428 93 83-0,Grundschule,Grundschule,HH
+"Friedrichstraße 55, 20359 Hamburg",+49 40 428 967-558,true,HH-5103,53.547707,9.958599,Grundschule St.Pauli,5103,+49 40 428 967-550,Grundschule,Grundschule,HH
+"Lohkampstraße 145, 22523 Hamburg",+49 40 571 47-3222,true,HH-5104,53.613058,9.888585,Grundschule Lohkampstraße,5104,+49 40 428 96 41-0,Grundschule,Grundschule,HH
+"Greifswalder Straße 40, 20099 Hamburg",+49 40 428 88-2722,true,HH-5105,53.556448,10.010887,Heinrich-Wolgast-Schule,5105,+49 40 428 88-270,Grundschule,Grundschule,HH
+"Hohe Landwehr 19, 20535 Hamburg",+49 40 428 8876-77,true,HH-5106,53.557559,10.041138,Schule Hohe Landwehr,5106,+49 40 428 8876-0,Grundschule,Grundschule,HH
+"Tangstedter Landstraße 300, 22417 Hamburg",+49 40 428 933-219,true,HH-5111,53.670945,10.028731,Grundschule Am Heidberg,5111,+49 40 428 933-20,Grundschule,Grundschule,HH
+"Prassekstraße 5, 21109 Hamburg",+49 40 428 85-2256,true,HH-5117,53.492697,10.009719,Grundschule Kirchdorf,5117,+49 40 428 85-2249,Grundschule,Grundschule,HH
+"Archenholzstraße 55, 22117 Hamburg",+49 40 428 93 27-20,true,HH-5118,53.54374,10.119649,Grundschule Archenholzstraße,5118,+49 40 428 93 27-0,Grundschule,Grundschule,HH
+"Finkenwerder Landscheideweg 180, 21129 Hamburg",+49 40 428 8837-22,true,HH-5119,53.527914,9.863057,Westerschule Finkenwerder,5119,+49 40 428 8837-0,Grundschule,Grundschule,HH
+"Marckmannstraße 60, 20539 Hamburg",+49 40 428 88 82-32,true,HH-5121,53.535523,10.039775,Schule Marckmannstraße,5121,+49 40 428 88 82-0,Sonderschule,Sonderschule,HH
+"Robert-Koch-Straße 15, 20249 Hamburg",+49 40 428 88-7422,true,HH-5124,53.588932,9.983726,Grundschule St. Nikolai,5124,+49 40 428 88-740,Grundschule,Grundschule,HH
+"Imstedt 18, 22083 Hamburg",+49 40 428 9302-22,true,HH-5127,53.579475,10.02837,Goldbek-Schule,5127,+49 40 428 9302-30,Grundschule,Grundschule,HH
+"Beim Pachthof 15, 22111 Hamburg",+49 40 428 98-250,true,HH-5130,53.551564,10.082137,Schule Beim Pachthof,5130,+49 40 428 98-30,Grundschule,Grundschule,HH
+"Marckmannstraße 61, 20539 Hamburg",+49 40 24 83 56-22,true,HH-5134,53.535801,10.039874,Fritz-Köhne-Schule,5134,+49 40 24 83 56-0,Grundschule,Grundschule,HH
+"Hasenweg 40, 22393 Hamburg",+49 40 8 70 85-3222,true,HH-5136,53.638285,10.118698,Grundschule Hasenweg,5136,+49 40 428 96 44-0,Grundschule,Grundschule,HH
+"Arnkielstraße 2, 22769 Hamburg",+49 40 432 163-55,true,HH-5137,53.564073,9.952837,Grundschule Arnkielstraße,5137,+49 40 428 93 57-0,Grundschule,Grundschule,HH
+"Osterbrook 17, 20537 Hamburg",+49 40 2 19 09 8-22,true,HH-5139,53.549008,10.056307,Grundschule Osterbrook,5139,+49 40 428 96 45-0,Grundschule,Grundschule,HH
+"Schulbergredder 21, 22399 Hamburg",+49 40 428 93 1755,true,HH-5143,53.658997,10.080423,Grundschule Poppenbüttel,5143,+49 40 428 93 1722,Grundschule,Grundschule,HH
+"Holmbrook 20, 22605 Hamburg",+49 40 428 48 52 22,true,HH-5145,53.552854,9.899005,Elbschule Bildungszentrum Hören und Kommunikation,5145,+49 40 428 48 50,Sonderschule,Sonderschule,HH
+"Grotefendweg 20, 22589 Hamburg",+49 40 428 7633-22,true,HH-5158,53.56673,9.829594,Elbkinder Grundschule,5158,+49 40 428 7633-0,Grundschule,Grundschule,HH
+"Sonnenland 27, 22115 Hamburg",+49 40 428 93 63-52,true,HH-5160,53.534304,10.131631,Schule An der Glinder Au,5160,+49 40 428 93 63-0,Grundschule,Grundschule,HH
+"Ludwigstraße 7, 20357 Hamburg",+49 40 428 86-8310,true,HH-5167,53.559763,9.966051,Ganztagsgrundschule Sternschanze,5167,+49 40 428 86-830,Grundschule,Grundschule,HH
+"Speckenreye 11, 22119 Hamburg",+49 40 428 93 64-22,true,HH-5169,53.554455,10.095461,Schule Speckenreye,5169,+49 40 428 93 64-0,Grundschule,Grundschule,HH
+"Hermannstal 82, 22111 Hamburg",+49 40 428 86-4922,true,HH-5171,53.550884,10.094971,Schule Stengelestraße,5171,+49 40 428 86-4910,Grundschule,Grundschule,HH
+"Oberschleems 9, 22117 Hamburg",+49 40 714 87-472,true,HH-5172,53.537435,10.119312,Schule am Schleemer Park,5172,+49 40 428 93 19-0,Grundschule,Grundschule,HH
+"Sterntalerstraße 42, 22119 Hamburg",+49 40 428 86 73-22,true,HH-5173,53.560032,10.112743,Schule Sterntalerstraße,5173,+49 40 428 86 73-0,Grundschule,Grundschule,HH
+"Bonhoefferstraße 13, 22117 Hamburg",+49 40 428 93 65-52,true,HH-5174,53.54497,10.136732,Schule Bonhoefferstraße,5174,+49 40 428 93 65-0,Grundschule,Grundschule,HH
+"Dringsheide 10, 22119 Hamburg",+49 40 428 93 66-14,true,HH-5175,53.561538,10.121536,Schule Fuchsbergredder,5175,+49 40 428 93 66-0,Grundschule,Grundschule,HH
+"Gaußstraße 171, 22765 Hamburg",+49 40 428 88-9122,true,HH-5202,53.558542,9.926885,Schule Bahrenfelder Straße,5202,+49 40 428 88-910,Grundschule,Grundschule,HH
+"Bramfelder Dorfplatz 5, 22179 Hamburg",+49 40 428 8619-62,true,HH-5205,53.614126,10.077605,Grundschule Bramfeld,5205,+49 40 428 8619-60,Grundschule,Grundschule,HH
+"Thedestraße 100, 22767 Hamburg",+49 40 428 88-6910,true,HH-5206,53.553685,9.949814,Louise Schroeder Schule,5206,+49 40 428 88-690,Grundschule,Grundschule,HH
+"Lienaustraße 32, 22175 Hamburg",+49 40 428 93 21-44,true,HH-5208,53.629151,10.125543,Grundschule Karlshöhe mit Zweigstellen,5208,+49 40 428 93 21-30,Grundschule,Grundschule,HH
+"Klein Flottbeker Weg 64, 22605 Hamburg",+49 40 428 93 28-31,true,HH-5209,53.553344,9.883931,Schule Klein Flottbeker Weg,5209,+49 40 428 93 28-0,Grundschule,Grundschule,HH
+"Othmarscher Kirchenweg 145, 22763 Hamburg",+49 40 428 88-4550,true,HH-5210,53.553462,9.900346,Loki-Schmidt-Schule,5210,+49 40 428 88-450,Grundschule,Grundschule,HH
+"Rothestraße 22, 22765 Hamburg",+49 40 428 987-210,true,HH-5211,53.548568,9.928908,Schule Rothestraße,5211,+49 40 428 987-211,Grundschule,Grundschule,HH
+"Struenseestraße 32, 22767 Hamburg",+49 40 428 9677-19,true,HH-5212,53.547502,9.945191,Ganztagsschule an der Elbe,5212,+49 40 428 9677-20,Grundschule,Grundschule,HH
+"Thadenstraße 147, 22767 Hamburg",+49 40 428 84-1210,true,HH-5214,53.557082,9.954912,Grundschule Thadenstraße,5214,+49 40 428 84-101,Grundschule,Grundschule,HH
+"Haubachstraße 55, 22765 Hamburg",+49 40 428 8849-40,true,HH-5216,53.559364,9.941483,Theodor-Haubach-Schule,5216,+49 40 428 8849-0,Grundschule,Grundschule,HH
+"Trenknerweg 136, 22605 Hamburg",+49 40 897 20-7722,true,HH-5217,53.548381,9.910484,Schule Trenknerweg,5217,+49 40 428 93 84-0,Grundschule,Grundschule,HH
+"Holmbrook 10, 22605 Hamburg",+49 40 428 88-2124,true,HH-5219,53.55188,9.900276,Schule Hirtenweg,5219,+49 40 428 88-210,Sonderschule,Sonderschule,HH
+"Schimmelmannstraße 70, 22043 Hamburg",+49 40 656 8956-22,true,HH-5220,53.571551,10.102693,Grundschule Schimmelmannstraße,5220,+49 40 656 8956-0,Grundschule,Grundschule,HH
+"Goosacker 41, 22549 Hamburg",+49 40 428 93 85-22,true,HH-5231,53.570968,9.849501,Grundschule Goosacker,5231,+49 40 428 93 85-0,Grundschule,Grundschule,HH
+"Karstenstraße 22, 22587 Hamburg",+49 40 870 89-155,true,HH-5232,53.564438,9.801212,Gorch-Fock-Schule,5232,+49 40 428 93 86-0,Grundschule,Grundschule,HH
+"Iserbarg 2, 22559 Hamburg",+49 40 428 93 87-22,true,HH-5234,53.57503,9.760988,Schule Iserbarg,5234,+49 40 428 93 87-0,Grundschule,Grundschule,HH
+"Lehmkuhlenweg 19, 22589 Hamburg",+49 40 41 36 59-22,true,HH-5235,53.584986,9.790668,Schule Lehmkuhlenweg,5235,+49 40 428 93 88-0,Grundschule,Grundschule,HH
+"Marschweg 10, 22559 Hamburg",+49 40 428 93 89-22,true,HH-5236,53.584595,9.761606,Schule Marschweg,5236,+49 40 428 93 89-0,Grundschule,Grundschule,HH
+"Mendelssohnstraße 86, 22761 Hamburg",+49 40 428 93 91-22,true,HH-5237,53.563704,9.905849,Schule Mendelssohnstraße,5237,+49 40 428 93 91-0,Grundschule,Grundschule,HH
+"Musäusstraße 29, 22589 Hamburg",+49 40 428 897-522,true,HH-5238,53.580445,9.812345,Schule Iserbrook,5238,+49 40 428 897-0,Grundschule,Grundschule,HH
+"Osdorfer Weg 24, 22607 Hamburg",+49 40 428 8875-22,true,HH-5239,53.567321,9.894137,Grundschule Groß Flottbek,5239,+49 40 428 8875-0,Grundschule,Grundschule,HH
+"Schenefelder Landstraße 206, 22589 Hamburg",+49 40 4 14 59-852,true,HH-5240,53.577725,9.824234,Schule Schenefelder Landstraße,5240,+49 40 428 93 92-0,Grundschule,Grundschule,HH
+"Schulkamp 1, 22609 Hamburg",+49 40 8 19 57-6222,true,HH-5243,53.553106,9.847219,Schule Schulkamp,5243,+49 40 428 93 94-0,Grundschule,Grundschule,HH
+"Windmühlenweg 17, 22607 Hamburg",+49 40 428 93 95-22,true,HH-5244,53.566878,9.870938,Schule Windmühlenweg,5244,+49 40 428 93 95-0,Grundschule,Grundschule,HH
+"Kielkamp 16, 22761 Hamburg",+49 40 428 93 96-56,true,HH-5245,53.573351,9.899402,Schule Kielkamp,5245,+49 40 428 93 96-0,Sonderschule,Sonderschule,HH
+"Kurze Straße 30, 20355 Hamburg",+49 40 428 967-358,true,HH-5248,53.553031,9.978766,Rudolf-Roß-Grundschule,5248,+49 40 428 967-30,Grundschule,Grundschule,HH
+"Rhiemsweg 61, 22111 Hamburg",+49 40 428 8698-22,true,HH-5250,53.558812,10.075143,Grundschule Horn,5250,+49 40 428 8698-0,Grundschule,Grundschule,HH
+"Nydamer Weg 44, 22145 Hamburg",+49 40 428 86-4622,true,HH-5252,53.617305,10.154537,Grundschule Nydamer Weg,5252,+49 40 428 86-460,Grundschule,Grundschule,HH
+"Franzosenkoppel 118, 22547 Hamburg",+49 40 428 93 97-44,true,HH-5263,53.608217,9.871529,Grundschule Franzosenkoppel,5263,+49 40 428 93 97-12,Grundschule,Grundschule,HH
+"Swatten Weg 10, 22547 Hamburg",+49 40 428 7646-22,true,HH-5264,53.59945,9.858029,Fridtjof-Nansen-Schule,5264,+49 40 428 7646-0,Grundschule,Grundschule,HH
+"Furtweg 56, 22523 Hamburg",+49 40 428 88-3822,true,HH-5265,53.605139,9.899997,Schule Furtweg,5265,+49 40 428 88-380,Grundschule,Grundschule,HH
+"Langbargheide 40, 22547 Hamburg",+49 40 428 88-9322,true,HH-5267,53.59633,9.88961,Schule Langbargheide,5267,+49 40 428 88-930,Grundschule,Grundschule,HH
+"Luruper Hauptstraße 131, 22547 Hamburg",+49 40 428 88-2432,true,HH-5270,53.5983057,9.8542541,Grundschule Luruper Hauptstraße,5270,+49 40 428 88-2425,Grundschule,Grundschule,HH
+"Baumacker 10, 22523 Hamburg",+49 40 428 88-2325,true,HH-5271,53.616075,9.898091,Max-Traeger-Schule,5271,+49 40 428 88-230,Grundschule,Grundschule,HH
+"Rungwisch 23, 22523 Hamburg",+49 40 428 96 19-22,true,HH-5274,53.61131,9.911209,Schule Rungwisch,5274,+49 40 428 96 19-0,Grundschule,Grundschule,HH
+"Wesperloh 19, 22549 Hamburg",+49 40 241 98-522,true,HH-5277,53.575808,9.862337,Schule Wesperloh,5277,+49 40 428 93 98-0,Grundschule,Grundschule,HH
+"Kroonhorst 25, 22549 Hamburg",+49 40 428 93 99-22,true,HH-5278,53.588594,9.846499,Schule Kroonhorst,5278,+49 40 428 93 99-0,Grundschule,Grundschule,HH
+"Bornheide 2, 22549 Hamburg",+49 40 428 8868-22,true,HH-5280,53.583164,9.856698,Schule Barlsheide,5280,+49 40 428 8868-0,Grundschule,Grundschule,HH
+"Bismarckstraße 83, 20253 Hamburg",+49 40 428 88-3422,true,HH-5301,53.575539,9.967867,Schule An der Isebek,5301,+49 40 428 88-340,Grundschule,Grundschule,HH
+"Wrangelstraße 80, 20253 Hamburg",+49 40 428 93 01-22,true,HH-5304,53.581466,9.967513,Grundschule Hoheluft,5304,+49 40 428 93 01-0,Grundschule,Grundschule,HH
+"Eduardstraße 28, 20257 Hamburg",+49 40 428 86-8522,true,HH-5305,53.571975,9.947138,Schule Eduardstraße,5305,+49 40 428 86-850,Grundschule,Grundschule,HH
+"Bundesstraße 94, 20144 Hamburg",+49 40 4 13 30-5912,true,HH-5308,53.574695,9.979121,Schule Kielortallee,5308,+49 40 428 93 03-0,Grundschule,Grundschule,HH
+"Brehmweg 62, 22527 Hamburg",+49 40 428 88-6720,true,HH-5309,53.584798,9.941182,Schule Brehmweg,5309,+49 40 428 88-670,Grundschule,Grundschule,HH
+"Lutterothstraße 34, 20255 Hamburg",+49 40 428 88-3622,true,HH-5310,53.580956,9.953304,Schule Lutterothstraße,5310,+49 40 428 88-360,Grundschule,Grundschule,HH
+"Rellinger Straße 13, 20257 Hamburg",+49 40 428 76 27 -22,true,HH-5312,53.57414,9.942389,Schule Rellinger Straße,5312,+49 40 428 76 27 - 0,Grundschule,Grundschule,HH
+"Tornquiststraße 60, 20259 Hamburg",+49 40 4 44 65-22,true,HH-5315,53.573549,9.95349,Schule Tornquiststraße,5315,+49 40 428 96 71-0,Grundschule,Grundschule,HH
+"Turmweg 33, 20148 Hamburg",+49 40 428 86-2522,true,HH-5316,53.571372,9.991885,Schule Turmweg,5316,+49 40 428 86-250,Grundschule,Grundschule,HH
+"Rönnkamp 3, 22457 Hamburg",+49 40 5 58 00-629,true,HH-5328,53.646856,9.920023,Schule Rönnkamp,5328,+49 40 428 96 21-0,Grundschule,Grundschule,HH
+"Anna-Susanna-Stieg 3, 22457 Hamburg",+49 40 526 77-622,true,HH-5330,53.642336,9.918993,Schule Anna-Susanna-Stieg,5330,+49 40 428 96 22-0,Grundschule,Grundschule,HH
+"Bindfeldweg 37, 22459 Hamburg",+49 40 428 88-1612,true,HH-5331,53.622937,9.946712,Grundschule Bindfeldweg,5331,+49 40 428 88-1610,Grundschule,Grundschule,HH
+"Burgunderweg 2, 22453 Hamburg",+49 40 5 55 90-5722,true,HH-5332,53.628338,9.96395,Schule Burgunderweg,5332,+49 40 428 96 23-0,Grundschule,Grundschule,HH
+"Heidacker 13, 22523 Hamburg",+49 40 428 96 24-88,true,HH-5333,53.619831,9.890048,Schule Heidacker,5333,+49 40 428 96 24-0,Grundschule,Grundschule,HH
+"Döhrnstraße 42, 22529 Hamburg",+49 40 4279 69737,true,HH-5334,53.595995,9.956046,Schule Döhrnstraße,5334,+49 40 428 96 25-0,Grundschule,Grundschule,HH
+"Frohmestraße 42, 22457 Hamburg",+49 40 428 96 26-22,true,HH-5335,53.632555,9.920325,Schule Frohmestraße,5335,+49 40 428 96 26-0,Grundschule,Grundschule,HH
+"Hinter der Lieth 61, 22529 Hamburg",+49 40 428 845-222,true,HH-5336,53.60323,9.945369,Schule Hinter der Lieth,5336,+49 40 428 845-0,Grundschule,Grundschule,HH
+"Molkenbuhrstraße 2, 22525 Hamburg",+49 40 428 88 89 22,true,HH-5339,53.589222,9.925685,Schule Molkenbuhrstraße,5339,+49 40 428 88 89 0,Grundschule,Grundschule,HH
+"Sethweg 56, 22455 Hamburg",+49 40 555 05-377,true,HH-5342,53.633267,9.943231,Schule Sethweg,5342,+49 40 428 96 47-0,Grundschule,Grundschule,HH
+"Vizelinstraße 50, 22529 Hamburg",+49 40 428 7634-22,true,HH-5344,53.588628,9.950638,Schule Vizelinstraße,5344,+49 40 428 7634-0,Grundschule,Grundschule,HH
+"Wegenkamp 9, 22527 Hamburg",+49 40 428 96 27-22,true,HH-5345,53.602844,9.924162,Schule Wegenkamp,5345,+49 40 428 96 27-0,Grundschule,Grundschule,HH
+"Lokstedter Damm 38, 22453 Hamburg",+49 40 5 57 78-321,true,HH-5346,53.607202,9.971772,Schule Lokstedter Damm,5346,+49 40 428 93 29-0,Sonderschule,Sonderschule,HH
+"Wagrierweg 18, 22455 Hamburg",+49 40 5 70 01-577,true,HH-5347,53.641941,9.944246,Schule Moorflagen,5347,+49 40 428 96 48-0,Grundschule,Grundschule,HH
+"Sachsenweg 74, 22455 Hamburg",+49 40 593 54-7722,true,HH-5348,53.641946,9.96027,Grundschule Sachsenweg,5348,+49 40 428 96 49-0,Grundschule,Grundschule,HH
+"Röthmoorweg 9, 22459 Hamburg",+49 40 428 96 76-22,true,HH-5349,53.627136,9.924784,Schule Röthmoorweg,5349,+49 40 428 96 76-0,Grundschule,Grundschule,HH
+"Sommerhuder Straße 18, 22767 Hamburg",040 428 88 08-58,true,HH-5350,53.562862,9.954003,ReBBZ Altona,5350,040 428 88 08-50,Sonderschule,Sonderschule,HH
+"Böttcherkamp 144, 22549 Hamburg",040 428 96 85-29,true,HH-5351,53.592406,9.861976,ReBBZ Altona-West,5351,040 428 96 85-0,Sonderschule,Sonderschule,HH
+"Billwerder Billdeich 648 a, 21031 Hamburg",+49 40 428 76 42 22,true,HH-5352,53.492724,10.185275,ReBBZ Bergedorf,5352,+49 40 428 76 42 0,Sonderschule,Sonderschule,HH
+"Bindfeldweg 37, 22459 Hamburg",040 428 88 - 1622,true,HH-5353,53.622937,9.946712,ReBBZ Eimsbüttel,5353,040 428 88 - 1620,Sonderschule,Sonderschule,HH
+"Neumoorstück 2, 21147 Hamburg",040 79014646,true,HH-5354,53.478904,9.868113,ReBBZ Süderelbe,5354,040 79014630,Sonderschule,Sonderschule,HH
+"Kapellenweg 63, 21073 Hamburg",+49 40 428 885972,true,HH-5355,53.45816,9.972548,ReBBZ Harburg,5355,+49 40 428 885960,Sonderschule,Sonderschule,HH
+"Steinfeldtstraße 1, 22119 Hamburg",040 4288674-33,true,HH-5356,53.546881,10.101296,ReBBZ Billstedt,5356,040 4288674-0,Sonderschule,Sonderschule,HH
+"Krieterstraße 2 a, 21109 Hamburg",040 428885322,true,HH-5357,53.500272,10.013108,ReBBZ Wilhelmsburg,5357,040 42888530,Sonderschule,Sonderschule,HH
+"Laeiszstraße 12, 20537 Hamburg",040 209025322,true,HH-5358,53.547164,10.04937,ReBBZ Mitte,5358,040 21902530,Sonderschule,Sonderschule,HH
+"Winterhuder Weg 11, 22335 Hamburg",040 42886-5722,true,HH-5359,53.631369,10.004938,ReBBZ Winterhude,5359,040 42886-570,Sonderschule,Sonderschule,HH
+"Sengelmannstraße 50, 22297 Hamburg",040 428884122,true,HH-5360,53.614531,10.020026,ReBBZ Nord,5360,040 42888410,Sonderschule,Sonderschule,HH
+"Wildschwanbrook 9, 22175 Hamburg",+49 40 428 8648-53,true,HH-5361,53.627634,10.17108,ReBBZ Wandsbek-Nord,5361,+49 40 428 8648-40,Sonderschule,Sonderschule,HH
+"Hammer Straße 124, 22043 Hamburg",040 428 96 82-22,true,HH-5362,53.563018,10.066009,ReBBZ Wandsbek-Süd,5362,040 428 96 82-12,Sonderschule,Sonderschule,HH
+"Alsterdorfer Straße 39, 22299 Hamburg",+49 40 428 88-0422,true,HH-5400,53.596324,9.995858,Schule Alsterdorfer Straße,5400,+49 40 428 88-040,Grundschule,Grundschule,HH
+"Forsmannstraße 32, 22303 Hamburg",+49 40 2 70 98-1822,true,HH-5404,53.584468,10.013911,Schule Forsmannstraße,5404,+49 40 428 93 67-0,Grundschule,Grundschule,HH
+"Humboldtstraße 30, 22083 Hamburg",+49 40 428 76 39 22,true,HH-5405,53.57346,10.027026,Schule Humboldtstraße,5405,+49 40 428 76 39 10,Grundschule,Grundschule,HH
+"Knauerstraße 22, 20249 Hamburg",+49 40 428 88-1122,true,HH-5409,53.590139,9.990382,Schule Knauerstraße,5409,+49 40 428 88-110,Grundschule,Grundschule,HH
+"Schottmüllerstraße 23, 20251 Hamburg",+49 40 428 04-2493,true,HH-5413,53.591812,9.98564,Marie-Beschütz-Schule,5413,+49 40 428 04-2518,Grundschule,Grundschule,HH
+"Winterhuder Weg 126, 22085 Hamburg",+49 40 428 76 38 22,true,HH-5416,53.577806,10.017883,Schule auf der Uhlenhorst,5416,+49 40 428 76 38 0,Grundschule,Grundschule,HH
+"Alsterdorfer Straße 420, 22297 Hamburg",+49 40 428 86 6821,true,HH-5417,53.613954,10.020571,Kurt-Juster-Schule,5417,+49 40 428 86 68 0,Sonderschule,Sonderschule,HH
+"Carl-Cohn-Straße 2, 22303 Hamburg",+49 40 428 88 61 44,true,HH-5418,53.601392,10.01186,Bildungszentrum für Blinde und Sehbehinderte,5418,+49 40 428 88 61 0,Sonderschule,Sonderschule,HH
+"Turnierstieg 16, 22159 Hamburg",+49 40 645 57 84 7,true,HH-5419,53.600861,10.095317,Schule Tegelweg,5419,+49 40 428 96 96-0,Sonderschule,Sonderschule,HH
+"Zeisigstraße 3, 22081 Hamburg",+49 40 428 795-245,true,HH-5430,53.577639,10.047449,Adolph-Schönfelder-Schule,5430,+49 40 428 795-0,Grundschule,Grundschule,HH
+"Ballerstaedtweg 1, 22307 Hamburg",+49 40 428 86 56-22,true,HH-5437,53.611667,10.034489,Schule Genslerstraße,5437,+49 40 428 86 56-0,Grundschule,Grundschule,HH
+"Lämmersieth 72, 22305 Hamburg",+49 40 428 95-7210,true,HH-5439,53.588096,10.060373,Schule Lämmersieth,5439,+49 40 428 95-70,Grundschule,Grundschule,HH
+"Paracelsusstraße 30, 22147 Hamburg",+49 40 428 85-710,true,HH-5447,53.597654,10.136442,Schule Paracelsusstraße,5447,+49 40 428 85-70,Sonderschule,Sonderschule,HH
+"Carl-Cohn-Straße 2, 22297 Hamburg",+49 40 428 88-0761,true,HH-5462,53.601392,10.01186,Carl-Cohn-Schule,5462,+49 40 428 88-0702,Grundschule,Grundschule,HH
+"Brödermannsweg 2, 22453 Hamburg",+49 40 428 88-4222,true,HH-5463,53.606962,9.977931,Carl-Götze-Schule,5463,+49 40 428 88-4210,Grundschule,Grundschule,HH
+"Eberhofweg 63, 22415 Hamburg",+49 40 5 07 97-622,true,HH-5464,53.650781,10.013936,Schule Eberhofweg,5464,+49 40 428 96 59-0,Grundschule,Grundschule,HH
+"Krohnstieg 107, 22415 Hamburg",+40 40 527 39 03 22,true,HH-5469,53.647912,10.000299,Schule Krohnstieg,5469,+49 40 428 96 62-0,Grundschule,Grundschule,HH
+"Neubergerweg 2, 22419 Hamburg",+49 40 5 39 08-6622,true,HH-5472,53.667588,10.002786,Schule Neubergerweg,5472,+49 40 428 96 63-0,Grundschule,Grundschule,HH
+"Ohkampring 13, 22339 Hamburg",+49 40 5 00 91-622,true,HH-5473,53.637005,10.022017,Schule Ohkamp,5473,+49 40 5 00 91-60,Grundschule,Grundschule,HH
+"Stockflethweg 160, 22417 Hamburg",+49 40 5 37 59-6322,true,HH-5476,53.679417,10.018655,Schule Stockflethweg,5476,+49 40 428 96 55-0,Grundschule,Grundschule,HH
+"Ratsmühlendamm 39, 22335 Hamburg",+49 40 428 88-0122,true,HH-5480,53.626234,10.020957,Schule Ratsmühlendamm,5480,+49 40 428 88-010,Grundschule,Grundschule,HH
+"Brockdorffstraße 64, 22149 Hamburg",+49 40 428 86-9622,true,HH-5501,53.595968,10.163651,Grundschule Altrahlstedt,5501,+49 40 428 86-960,Grundschule,Grundschule,HH
+"Brunskamp 17, 22149 Hamburg",+49 40 428 93 69-22,true,HH-5502,53.592678,10.181092,Schule Am Sooren,5502,+49 40 428 93 69-0,Grundschule,Grundschule,HH
+"Bekassinenau 32, 22147 Hamburg",+49 40 428 76 26 22,true,HH-5503,53.611906,10.13694,Schule Bekassinenau,5503,+49 40 428 76 26 0,Grundschule,Grundschule,HH
+"Brockdorffstraße 64, 22149 Hamburg",+49 40 428 93 71-22,true,HH-5504,53.595968,10.163651,Schule Brockdorffstraße,5504,+49 40 428 93 71-40,Grundschule,Grundschule,HH
+"Charlottenburger Straße 84, 22045 Hamburg",+49 40 428 88 44 82,true,HH-5505,53.586844,10.141767,Schule Charlottenburger Straße,5505,+49 40 428 88 44 70,Grundschule,Grundschule,HH
+"Großlohering 11, 22143 Hamburg",+49 40 428 93 72-22,true,HH-5506,53.600624,10.178152,Grundschule Großlohering,5506,+49 40 428 93 72-0,Grundschule,Grundschule,HH
+"Kamminer Straße 4, 22147 Hamburg",+49 40 428 86-8222,true,HH-5507,53.61829,10.141331,Schule Kamminer Straße,5507,+49 40 428 86-820,Grundschule,Grundschule,HH
+"Stapelfelder Straße 7, 22143 Hamburg",+49 40 428 8647-22,true,HH-5508,53.605883,10.168621,Grundschule Neurahlstedt,5508,+49 40 428 8647-0,Grundschule,Grundschule,HH
+"Potsdamer Straße 6, 22149 Hamburg",+49 40 428 93 73-28,true,HH-5510,53.58408,10.150715,Schule Potsdamer Straße,5510,+49 40 428 93 73-30,Grundschule,Grundschule,HH
+"Rahlaukamp 1, 22045 Hamburg",+49 40 4279 699 69,true,HH-5514,53.58588,10.128393,Grundschule Tonndorf,5514,+49 40 428 93 11-0,Grundschule,Grundschule,HH
+"Bekkamp 52, 22045 Hamburg",+49 40 428 865-117,true,HH-5515,53.575188,10.142655,Schule Bekkamp,5515,+49 40 428 86-510,Sonderschule,Sonderschule,HH
+"Alsterredder 28, 22395 Hamburg",+49 40 428 96 51-22,true,HH-5520,53.658655,10.099555,Schule Alsterredder,5520,+49 40 428 96 51-12,Grundschule,Grundschule,HH
+"Kupferredder 12, 22397 Hamburg",+49 40 605 80-222,true,HH-5522,53.697582,10.136258,Schule Am Walde,5522,+49 40 428 96 01-0,Grundschule,Grundschule,HH
+"Duvenstedter Markt 12, 22397 Hamburg",+49 40 897 27 81-22,true,HH-5523,53.703318,10.108214,Schule Duvenstedter Markt,5523,+49 40 897 27 81-0,Grundschule,Grundschule,HH
+"Saseler Weg 30, 22359 Hamburg",+49 40 6 44 13-150,true,HH-5525,53.649383,10.148515,Schule An den Teichwiesen,5525,+49 40 428 96 03-0,Grundschule,Grundschule,HH
+"Bergstedter Alte Landstraße 12, 22395 Hamburg",+49 40 6 44 21-0622,true,HH-5526,53.671962,10.132439,Schule Bergstedt,5526,+49 40 428 93 59-0,Grundschule,Grundschule,HH
+"Volksdorfer Damm 74, 22359 Hamburg",+49 40 6 44 21-0710,true,HH-5529,53.664645,10.148661,Schule Buckhorn,5529,+49 40 428 96 04-0,Grundschule,Grundschule,HH
+"Hinsbleek 14, 22391 Hamburg",+49 40 428 93 12-22,true,HH-5530,53.650404,10.07398,Schule Hinsbleek,5530,+49 40 428 93 12-0,Grundschule,Grundschule,HH
+"Ahrensburger Weg 12, 22359 Hamburg",+49 40 428 9694-22,true,HH-5532,53.652032,10.170362,Schule Ahrensburger Weg,5532,+49 40 428 9694-20,Grundschule,Grundschule,HH
+"Eulenkrugstraße 166, 22359 Hamburg",+49 40 644 21-022,true,HH-5533,53.64436,10.183688,Schule Eulenkrugstraße,5533,+49 40 428 96 05-0,Grundschule,Grundschule,HH
+"Redder 4, 22393 Hamburg",+49 40 63 64 61-52,true,HH-5534,53.651331,10.109241,Schule Redder,5534,+49 40 428 96 54-0,Grundschule,Grundschule,HH
+"Redderbarg 46, 22397 Hamburg",+49 40 608 20-322,true,HH-5535,53.681422,10.103497,Schule Lemsahl-Mellingstedt,5535,+49 40 428 96 06-0,Grundschule,Grundschule,HH
+"Müssenredder 61, 22399 Hamburg",+49 40 5 33 06-8322,true,HH-5537,53.654962,10.066364,Schule Müssenredder,5537,+49 40 428 96 53-0,Grundschule,Grundschule,HH
+"Islandstraße 25, 22145 Hamburg",+49 40 675 98-122,true,HH-5538,53.629043,10.159966,Grundschule Islandstraße,5538,+49 40 428 93 74-0,Grundschule,Grundschule,HH
+"Grützmühlenweg 38, 22339 Hamburg",+49 40 5 20 19-644,true,HH-5540,53.64583,10.040549,Schule Grützmühlenweg,5540,+49 40 428 96 52-0,Grundschule,Grundschule,HH
+"Strenge 5, 22391 Hamburg",+49 40 428 86-7622,true,HH-5541,53.637098,10.078586,Schule Strenge,5541,+49 40 428 86-760,Grundschule,Grundschule,HH
+"Wildschwanbrook 9, 22145 Hamburg",+49 40 428 93 58-22,true,HH-5542,53.627634,10.17108,Schule Wildschwanbrook,5542,+49 40 428 93 58-0,Grundschule,Grundschule,HH
+"Ahrenshooper Straße 1, 22147 Hamburg",+49 40 428 76 25 22,true,HH-5544,53.600364,10.132015,Schule Rahlstedter Höhe,5544,+49 40 428 76 25 0,Grundschule,Grundschule,HH
+"Eckerkoppel 125, 22159 Hamburg",+49 40 428 96 28-22,true,HH-5550,53.597263,10.101421,Schule Traberweg,5550,+49 40 428 96 28-0,Grundschule,Grundschule,HH
+"Eenstock 15, 22179 Hamburg",+49 40 428 96 07-22,true,HH-5551,53.605332,10.094531,Schule Eenstock,5551,+49 40 428 96 07-0,Grundschule,Grundschule,HH
+"Fabriciusstraße 150, 22177 Hamburg",+49 40 428 93 22-63,true,HH-5557,53.605009,10.067146,Schule An der Seebek,5557,+49 40 428 93 22-50,Grundschule,Grundschule,HH
+"Fahrenkrön 115, 22179 Hamburg",+49 40 428 96 29-70,true,HH-5558,53.616266,10.097775,Schule Fahrenkrön,5558,+49 40 428 96 29-0,Grundschule,Grundschule,HH
+"Appelhoff 2, 22309 Hamburg",+49 40 428 93 61-16,true,HH-5564,53.607404,10.05896,Schule Appelhoff,5564,+49 40 428 93 61-0,Grundschule,Grundschule,HH
+"Bramfelder Weg 121, 22159 Hamburg",+49 40 533 04-422,true,HH-5565,53.614164,10.106627,Schule Surenland,5565,+49 40 428 96 72-0,Grundschule,Grundschule,HH
+"Stephanstraße 103, 22047 Hamburg",+49 40 2 80 58-022,true,HH-5575,53.589398,10.085903,Schule An der Gartenstadt,5575,+49 40 428 96 57-0,Grundschule,Grundschule,HH
+"Bandwirkerstraße 56, 22041 Hamburg",+49 40 689 46-3322,true,HH-5577,53.576671,10.067148,Schule Bandwirkerstraße,5577,+49 40 428 96 56-0,Grundschule,Grundschule,HH
+"Bovestraße 10, 22041 Hamburg",+49 40 428 820-645,true,HH-5578,53.571996,10.080291,Schule Bovestraße,5578,+49 40 428 820-654,Grundschule,Grundschule,HH
+"Ritterstraße 44, 22089 Hamburg",+49 40 428 86 11 22,true,HH-5581,53.564476,10.045177,Schule Hasselbrook,5581,+49 40 428 86 11 0,Grundschule,Grundschule,HH
+"Öjendorfer Damm 8, 22043 Hamburg",+49 40 670 48-552,true,HH-5586,53.568011,10.135676,Schule Öjendorfer Damm,5586,+49 40 428 93 75-0,Grundschule,Grundschule,HH
+"Walddörferstraße 243, 22047 Hamburg",+49 40 428 86-3922,true,HH-5587,53.58216,10.095787,Schule am Eichtalpark,5587,+49 40 428 86-390,Grundschule,Grundschule,HH
+"Richardstraße 85, 22089 Hamburg",+49 40 428 93 76-77,true,HH-5588,53.568004,10.039956,Schule Richardstraße,5588,+49 40 428 93 76-0,Grundschule,Grundschule,HH
+"Wielandstraße 9, 22089 Hamburg",+49 40 428 86-1822,true,HH-5591,53.569992,10.054226,Schule Wielandstraße,5591,+49 40 428 86-180,Grundschule,Grundschule,HH
+"Oppelner Straße 45, 22045 Hamburg",+49 40 284 17-352,true,HH-5592,53.573179,10.14442,Schule Oppelner Straße,5592,+49 40 428 93 77-0,Grundschule,Grundschule,HH
+"Jenfelder Straße 252, 22045 Hamburg",+49 40 428 93 31-22,true,HH-5594,53.576143,10.132927,Schule Jenfelder Straße,5594,+49 40 428 93 31-0,Grundschule,Grundschule,HH
+"Sander Straße 11, 21029 Hamburg",+49 40 428 93 13-51,true,HH-5602,53.49532,10.217435,Schule Sander Straße,5602,+49 40 428 93 13-0,Grundschule,Grundschule,HH
+"Von-Haeften-Straße 1, 21035 Hamburg",+49 40 428 93 23-40,true,HH-5603,53.487769,10.16727,Anton-Rée-Schule Allermöhe,5603,+49 40 428 93 23-0,Grundschule,Grundschule,HH
+"Ernst-Henning-Straße 20, 21029 Hamburg",+49 40 428 86 59 22,true,HH-5604,53.484161,10.226782,Schule Ernst-Henning-Straße,5604,+49 40 428 86 59 0,Grundschule,Grundschule,HH
+"Leuschnerstraße 13, 21031 Hamburg",+49 40 239 59 7222,true,HH-5605,53.49608,10.20698,Schule Leuschnerstraße,5605,+49 40 428 93 78-0,Grundschule,Grundschule,HH
+"Max-Eichholz-Ring 25, 21031 Hamburg",+49 40 428 9379-22,true,HH-5607,53.506608,10.216842,Schule Max-Eichholz-Ring,5607,+49 40 428 9379-0,Grundschule,Grundschule,HH
+"Fiddigshagen 11, 21035 Hamburg",+49 40 428 8881 22,true,HH-5610,53.480334,10.195053,Schule Nettelnburg,5610,+49 40 428 8881 0,Grundschule,Grundschule,HH
+"Mendelstraße 6, 21031 Hamburg",+49 40 428 86-5822,true,HH-5611,53.506356,10.192654,Grundschule Mendelstraße,5611,+49 40 428 86-580,Grundschule,Grundschule,HH
+"Heidhorst 16, 21031 Hamburg",+49 40 428 86 28 27,true,HH-5612,53.516513,10.168694,Grundschule Heidhorst,5612,+49 40 428 86 28 0,Grundschule,Grundschule,HH
+"Weidemoor 1, 21033 Hamburg",+49 40 428 93 81-37,true,HH-5613,53.512588,10.160052,Schule Weidemoor,5613,+49 40 428 93 81-0,Sonderschule,Sonderschule,HH
+"Friedrich-Frank-Bogen 25, 21033 Hamburg",+49 40 428 76 44-22,true,HH-5614,53.492058,10.178256,Schule Friedrich-Frank-Bogen,5614,+49 40 428 76 44-10,Grundschule,Grundschule,HH
+"Walter-Rothenburg-Weg 37, 21035 Hamburg",+49 40 735 94 61 0,true,HH-5615,53.485665,10.152028,Clara-Grunwald-Schule,5615,+49 40 428 93 93-0,Grundschule,Grundschule,HH
+"Felix-Jud-Ring 29, 21035 Hamburg",+49 40 428 93 33-40,true,HH-5616,53.48722,10.147817,Adolph-Diesterweg-Schule,5616,+49 40 428 93 33-0,Grundschule,Grundschule,HH
+"Mittlerer Landweg 48, 21033 Hamburg",+49 40 731 13 63 22,true,HH-5630,53.498522,10.132803,Schule Mittlerer Landweg,5630,+49 40 428 96 67-0,Grundschule,Grundschule,HH
+"Kirchenstegel 12, 21039 Hamburg",+49 40 428 96 31-22,true,HH-5631,53.428618,10.27047,Schule Altengamme-Deich,5631,+49 40 428 96 31-0,Grundschule,Grundschule,HH
+"Gramkowweg 5, 21039 Hamburg",+49 40 7 23 74-022,true,HH-5634,53.448569,10.219731,Schule Curslack-Neuengamme,5634,+49 40 428 96 32-0,Grundschule,Grundschule,HH
+"Durchdeich 108, 21037 Hamburg",+49 40 730 90 63 22,true,HH-5635,53.448519,10.133582,Schule Fünfhausen-Warwisch,5635,+49 40 730 90 63 0,Grundschule,Grundschule,HH
+"Elversweg 44, 21037 Hamburg",+49 40 737 11 62 2,true,HH-5644,53.471909,10.073588,Schule Ochsenwerder,5644,+49 40 428 96 34-0,Grundschule,Grundschule,HH
+"Kirchenheerweg 223, 21037 Hamburg",+49 40 797 55 69 22,true,HH-5648,53.400947,10.183876,Schule Zollenspieker,5648,+49 40 428 96 35-0,Grundschule,Grundschule,HH
+"Voßhagen 15, 22559 Hamburg",+49 40 428 93 44-22,true,HH-5649,53.580404,9.752433,Stadtteilschule Rissen,5649,+49 40 428 93 44-0,Stadtteilschule,Stadtteilschule,HH
+"Kielkoppelstraße 16 d, 22149 Hamburg",+49 40 428 86 45 22,true,HH-5650,53.587823,10.16932,Stadtteilschule Altrahlstedt,5650,+49 40 428 86 45 0,Stadtteilschule,Stadtteilschule,HH
+"Ehestorfer Weg 14, 21075 Hamburg",+49 40 428 88 18 73,true,HH-5651,53.455744,9.951632,Stadtteilschule Ehestorfer Weg,5651,+49 40 428 88 18 06,Stadtteilschule,Stadtteilschule,HH
+"Eckernförder Straße 70, 22769 Hamburg",+49 40 428 88 58 10,true,HH-5654,53.566655,9.946527,Kurt-Tucholsky-Schule,5654,+49 40 428 88 58 27,Stadtteilschule,Stadtteilschule,HH
+"Sportplatzring 73, 22527 Hamburg",+49 40 428 89 82 36,true,HH-5655,53.594201,9.930022,Stadtteilschule Stellingen,5655,+49 40 428 89 80 1,Stadtteilschule,Stadtteilschule,HH
+"Hegholt 44, 22179 Hamburg",+49 40 428 86 19 22,true,HH-5656,53.605936,10.081316,Stadtteilschule Bramfeld,5656,+49 40 428 86 19 0,Stadtteilschule,Stadtteilschule,HH
+"Richard-Linde-Weg 49, 21033 Hamburg",+49 40 428 86 14 22,true,HH-5657,53.500786,10.188463,Stadtteilschule Richard-Linde-Weg,5657,+49 40 428 86 14 0,Stadtteilschule,Stadtteilschule,HH
+"Stübenhofer Weg 20, 21109 Hamburg",+49 40 428 76 19 22,true,HH-5658,53.483074,10.014632,Stadtteilschule Stübenhofer Weg,5658,+49 40 428 76 19 10,Stadtteilschule,Stadtteilschule,HH
+"Goosacker 41, 22549 Hamburg",+49 40 428 9304 - 23,true,HH-5659,53.570968,9.849501,Stadtteilschule Flottbek,5659,+49 40 428 9304 - 20,Stadtteilschule,Stadtteilschule,HH
+"Delingsdorfer Weg 6, 22143 Hamburg",+49 40 428 86 63 69,true,HH-5660,53.612642,10.15806,Stadtteilschule Oldenfelde,5660,+49 40 428 86 63 50,Stadtteilschule,Stadtteilschule,HH
+"Veermoor 4, 22547 Hamburg",+49 40 428 926-222,true,HH-5661,53.606741,9.874372,Stadtteilschule Lurup,5661,+49 40 428 926-210,Stadtteilschule,Stadtteilschule,HH
+"Tieloh 28, 22049 Hamburg",+49 40 428 486-210,true,HH-5662,53.592879,10.051575,Stadtteilschule Barmbek,5662,+49 40 428 486-200,Stadtteilschule,Stadtteilschule,HH
+"Griesstraße 101, 20099 Hamburg",+49 40 428 97 44 15,true,HH-5663,53.564459,10.061234,Stadtteilschule Hamburg-Mitte,5663,+49 40 428 97 40,Stadtteilschule,Stadtteilschule,HH
+"Am Soldatenfriedhof 21, 21073 Hamburg",+49 40 428 93 24-20,true,HH-5664,53.462811,9.976362,Lessing-Stadtteilschule,5664,+49 40 428 93 24-0,Stadtteilschule,Stadtteilschule,HH
+"Sachsenweg 74, 22455 Hamburg",+49 40 428 88 56 44,true,HH-5665,53.641946,9.96027,Stadtteilschule Niendorf,5665,+49 40 428 88 56 0,Stadtteilschule,Stadtteilschule,HH
+"Struenseestraße 20, 20355 Hamburg",+49 40 428 84 32 08,true,HH-5667,53.54791,9.947586,Stadtteilschule Am Hafen,5667,+49 40 428 84 32 00,Stadtteilschule,Stadtteilschule,HH
+"Heidrand 5, 21149 Hamburg",+49 40 428 88 64 10,true,HH-5669,53.46497,9.862042,Stadtteilschule Fischbek/Falkenberg,5669,+49 40 428 88 64 0,Stadtteilschule,Stadtteilschule,HH
+"Jenfelder Allee 53, 22043 Hamburg",+49 40 428 87 33 10,true,HH-5670,53.580364,10.126154,Otto-Hahn-Schule,5670,+49 40 428 87 30 3,Stadtteilschule,Stadtteilschule,HH
+"Dempwolffstraße 7, 21073 Hamburg",+49 40 414 59 65 2,true,HH-5701,53.458836,9.965013,Schule Dempwolffstraße,5701,+49 40 428 96 08-0,Grundschule,Grundschule,HH
+"Maretstraße 50, 21073 Hamburg",+49 40 428 97-5212,true,HH-5703,53.453706,9.982173,Schule Maretstraße,5703,+49 40 428 97-502,Stadtteilschule,Stadtteilschule,HH
+"Grumbrechtstraße 63, 21075 Hamburg",+49 40 79 18 81-22,true,HH-5704,53.468524,9.955276,Schule Grumbrechtstraße,5704,+49 40 428 96 09-0,Grundschule,Grundschule,HH
+"In der Alten Forst 1, 21077 Hamburg",+49 40 70 38 57 575,true,HH-5706,53.449069,9.93533,Schule In der Alten Forst,5706,+49 40 428 96 69-0,Grundschule,Grundschule,HH
+"Kanzlerstraße 25, 21079 Hamburg",+49 40 701 06 57 5,true,HH-5707,53.439055,10.00758,Schule Rönneburg,5707,+49 40 428 96 11-0,Grundschule,Grundschule,HH
+"Kapellenweg 63, 21077 Hamburg",+49 40 428 86 94 22,true,HH-5708,53.445538,9.988124,Schule Kapellenweg,5708,+49 40 428 86 94 0,Grundschule,Grundschule,HH
+"Kerschensteinerstraße 16, 21073 Hamburg",+49 40 428 88 39 22,true,HH-5710,53.461707,9.973429,Schule Kerschensteinerstraße,5710,+49 40 428 88-390,Grundschule,Grundschule,HH
+"Ernst-Bergeest-Weg 54, 21077 Hamburg",+49 40 7 90 14-677,true,HH-5713,53.438472,9.963522,Schule Marmstorf,5713,+49 40 428 96 12-0,Grundschule,Grundschule,HH
+"Neuländer Elbdeich 241, 21079 Hamburg",+49 40 428 96 13-22,true,HH-5714,53.468637,10.03751,Schule Neuland,5714,+49 40 428 96 13-0,Grundschule,Grundschule,HH
+"Scheeßeler Kehre 2, 21079 Hamburg",+49 40 428 96 14-22,true,HH-5718,53.426707,9.987142,Schule Scheeßeler Kehre,5718,+49 40 428 96 14-0,Grundschule,Grundschule,HH
+"Weusthoffstraße 95, 21075 Hamburg",+49 40 428 88 18 26,true,HH-5719,53.461274,9.957321,Grundschule am Kiefernberg,5719,+49 40 428 88 18 01,Grundschule,Grundschule,HH
+"Elfenwiese 3, 21077 Hamburg",+49 40 428 98-8210,true,HH-5722,53.439854,9.970486,Schule Elfenwiese,5722,+49 40 428 98-801,Sonderschule,Sonderschule,HH
+"Hausbrucher Bahnhofstraße 19, 21077 Hamburg",+49 40 428 98-8510,true,HH-5723,53.474398,9.893733,Schule Nymphenweg,5723,4 28 98 - 805,Sonderschule,Sonderschule,HH
+"Rahmwerder Straße 3, 21109 Hamburg",+49 40 428 76 21 1,true,HH-5742,53.512144,10.019359,Elbinselschule,5742,+49 40 428 76 21 0,Grundschule,Grundschule,HH
+"Estebogen 3, 21129 Hamburg",+49 40 75602022,true,HH-5743,53.529856,9.773472,Schule Cranz,5743,+49 40 7560200,Grundschule,Grundschule,HH
+"Fährstraße 90, 21107 Hamburg",+49 40 428 76 29-22,true,HH-5744,53.517166,9.98147,Ganztagsschule Fährstraße,5744,+49 40 428 76 29-0,Grundschule,Grundschule,HH
+"Am Johannisland 4, 21147 Hamburg",+49 40 428 88 43 22,true,HH-5747,53.475995,9.854173,Ganztagsgrundschule Am Johannisland,5747,+49 40 428 88 43 0,Grundschule,Grundschule,HH
+"Lange Striepen 51, 21147 Hamburg",+49 40 428 9334-48,true,HH-5749,53.476962,9.886229,Grundschule An der Haake,5749,+49 40 428 9334-0,Grundschule,Grundschule,HH
+"Arp-Schnitger-Stieg 19, 21129 Hamburg",+49 40 317 98 47 0,true,HH-5753,53.516199,9.810992,Schule Arp-Schnitger-Stieg,5753,+49 40 428 96 58-0,Grundschule,Grundschule,HH
+"Francoper Straße 32, 21147 Hamburg",+49 40 790 14 22 2,true,HH-5755,53.474585,9.864352,Grundschule Neugraben - Offene Ganztagsgrundschule (GBS),5755,+49 40 428 96 15-0,Grundschule,Grundschule,HH
+"Rotenhäuser Damm 45, 21107 Hamburg",+49 40 485 09 75 2,true,HH-5761,53.511335,9.991511,Schule Rotenhäuser Damm,5761,+49 40 428 96 65-0,Grundschule,Grundschule,HH
+"Schnuckendrift 21, 21149 Hamburg",+49 40 428 96 16-61,true,HH-5762,53.467194,9.838566,Schule Schnuckendrift,5762,+49 40 428 96 16-0,Grundschule,Grundschule,HH
+"Stübenhofer Weg 20, 21109 Hamburg",+49 40 750 60 22 2,true,HH-5763,53.483074,10.014632,Grundschule Stübenhofer Weg,5763,+49 40 428 96 66-0,Grundschule,Grundschule,HH
+"Ohrnsweg 52, 21149 Hamburg",+49 40 428 96 17-29,true,HH-5768,53.471494,9.817175,Schule Ohrnsweg,5768,+49 40 428 96 17-0,Grundschule,Grundschule,HH
+"Karl-Arnold-Ring 13, 21109 Hamburg",+49 40 333 99 46 22,true,HH-5773,53.486789,10.023942,Schule an der Burgweide,5773,+49 40 428 96 61-0,Grundschule,Grundschule,HH
+"Pergamentweg 1, 22117 Hamburg",+4940 428 7648–40,true,HH-5800,53.541154,10.12098,Kurt-Körber-Gymnasium,5800,+4940 428 7648–30,Gymnasium,Gymnasium,HH
+"Alter Postweg 30, 21075 Hamburg",+49 40 428 76 31 22,true,HH-5801,53.464992,9.965082,Friedrich-Ebert-Gymnasium,5801,+49 40 428 76 31 0,Gymnasium,Gymnasium,HH
+"Witthöfftstraße 8, 22041 Hamburg",+49 40 428 76 22 22,true,HH-5802,53.57298,10.072872,Matthias-Claudius-Gymnasium,5802,+49 40 428 76 22 10,Gymnasium,Gymnasium,HH
+"Falkenbergsweg 5, 21149 Hamburg",+49 40 428 93 35-50,true,HH-5803,53.470083,9.863995,Gymnasium Süderelbe,5803,+49 40 428 93 35-0,Gymnasium,Gymnasium,HH
+"Krieterstraße 5, 21109 Hamburg",+49 40 428 87 72 27,true,HH-5807,53.499773,10.01352,Helmut-Schmidt-Gymnasium,5807,+49 40 428 87 70 1,Gymnasium,Gymnasium,HH
+"Voßhagen 15, 22559 Hamburg",+49 40 428 93 14-28,true,HH-5809,53.580404,9.752433,Gymnasium Rissen,5809,+49 40 428 93 14-0,Gymnasium,Gymnasium,HH
+"Struckholt 27, 22337 Hamburg",+49 40 428 93 36-17,true,HH-5810,53.628066,10.031383,Albert-Schweitzer-Gymnasium,5810,+49 40 428 93 36-0,Gymnasium,Gymnasium,HH
+"Erdkampsweg 89, 22335 Hamburg",+49 40 428 95 53 1,true,HH-5811,53.632737,10.018569,Gymnasium Alstertal,5811,+49 40 428 95 50,Gymnasium,Gymnasium,HH
+"Im Regestall 25, 22359 Hamburg",+49 40 428 93 37-38,true,HH-5812,53.66452,10.151184,Gymnasium Buckhorn,5812,+49 40 428 93 37-0,Gymnasium,Gymnasium,HH
+"Otto-Ernst-Straße 34, 22605 Hamburg",+49 40 428 88 28 31,true,HH-5813,53.55805,9.874134,Christianeum,5813,+49 40 428 88-280,Gymnasium,Gymnasium,HH
+"Triftstraße 43, 21075 Hamburg",+49 40 428 88-7110,true,HH-5814,53.457194,9.944168,Heisenberg-Gymnasium,5814,+49 40 428 88-710,Gymnasium,Gymnasium,HH
+"Im Allhorn 45, 22359 Hamburg",+49 40 428 969 322,true,HH-5816,53.65189,10.175431,Walddörfer-Gymnasium,5816,+49 40 428 969 30,Gymnasium,Gymnasium,HH
+"Rostocker Straße 41, 20099 Hamburg",+49 40 428 974-525,false,HH-5818,53.557215,10.015731,Abendschule St. Georg,5818,+49 40 428 974-21,Abendgymnasiuym,Abend-Gymnasium,HH
+"Holstenglacis 6, 20355 Hamburg",+49 40 428 986-210,false,HH-5819,53.558032,9.977063,Abendschule Vor dem Holstentor,5819,+49 40 428 986-01,Abendgymnasiuym,Abend-Gymnasium,HH
+"Höhnkoppelort 24, 22179 Hamburg",+49 40 428 8629-30,true,HH-5822,53.612768,10.082888,Johannes-Brahms-Gymnasium,5822,+49 40 428 8629-0,Gymnasium,Gymnasium,HH
+"Corveystraße 6, 22529 Hamburg",+49 40 428 86 79 31,true,HH-5823,53.596781,9.969265,Gymnasium Corveystraße,5823,+49 40 428 86 79 0,Gymnasium,Gymnasium,HH
+"Rispenweg 28, 22547 Hamburg",+49 40 428 93 38-40,true,HH-5824,53.598487,9.892536,Goethe-Gymnasium,5824,+49 40 428 93 38-0,Gymnasium,Gymnasium,HH
+"Knabeweg 3, 22549 Hamburg",+49 40 428 88 52 33,true,HH-5825,53.573042,9.856687,Lise-Meitner-Gymnasium,5825,+49 40 428 88 52 0,Gymnasium,Gymnasium,HH
+"Sachsenweg 76, 22455 Hamburg",+49 40 5 55 89-110,true,HH-5829,53.642079,9.960346,Gymnasium Ohmoor,5829,+49 40 428 96 68-0,Gymnasium,Gymnasium,HH
+"Bleickenallee 5, 22763 Hamburg",+49 40 428 970-233,true,HH-5830,53.550615,9.921174,Gymnasium Altona,5830,+49 40 428 970-0,Gymnasium,Gymnasium,HH
+"Oesterleystraße 27, 22587 Hamburg",+49 40 428 971-244,true,HH-5831,53.562704,9.807773,Gymnasium Blankenese,5831,+49 40 428 971-0,Gymnasium,Gymnasium,HH
+"Walter-Rothenburg-Weg 41, 21035 Hamburg",+49 40 428 93 39-10,true,HH-5832,53.485845,10.153092,Gymnasium Allermöhe,5832,+49 40 428 93 39-0,Gymnasium,Gymnasium,HH
+"Langenfort 5, 22307 Hamburg",+49 40 428 86 86 19,true,HH-5834,53.599295,10.042722,Margaretha-Rothe-Gymnasium,5834,+49 40 428 86 86 0,Gymnasium,Gymnasium,HH
+"Fritz-Schumacher-Allee 200, 22417 Hamburg",+49 40 428 9309-25,true,HH-5835,53.669934,10.030969,Gymnasium Heidberg,5835,+49 40 428 9309-0,Gymnasium,Gymnasium,HH
+"Birrenkovenallee 12, 22143 Hamburg",+49 40 428 86 63-30,true,HH-5837,53.610609,10.159506,Gymnasium Oldenfelde,5837,+49 40 428 86 63-01,Gymnasium,Gymnasium,HH
+"Schulenburgring 4, 21031 Hamburg",+49 40 428 95 41 9,true,HH-5838,53.50786,10.194434,Gymnasium Bornbrook,5838,+49 40 428 95 40,Gymnasium,Gymnasium,HH
+"Am Pavillon 15, 21077 Hamburg",+49 40 428 9341-44,true,HH-5839,53.431565,9.967041,Immanuel-Kant-Gymnasium,5839,+49 40 428 9341-0,Gymnasium,Gymnasium,HH
+"Rönneburger Straße 50, 21079 Hamburg",+49 40 645 39 13 6,true,HH-5840,53.438785,9.993343,Alexander-von-Humboldt-Gymnasium,5840,+49 40 428 96 18-0,Gymnasium,Gymnasium,HH
+"Willhöden 74, 22587 Hamburg",+49 40 428 93 42-15,true,HH-5841,53.57141,9.806883,Marion Dönhoff Gymnasium,5841,+49 40 428 93 42-0,Gymnasium,Gymnasium,HH
+"Christian-Förster-Straße 19, 20253 Hamburg",+49 40 428 88 48 10,true,HH-5842,53.582732,9.963209,Gymnasium Hoheluft,5842,+49 40 428 88 48 0,Gymnasium,Gymnasium,HH
+"Hegestraße 35, 20249 Hamburg",+49 40 428 972 - 231,true,HH-5844,53.584888,9.9844,Gymnasium Eppendorf,5844,+49 40 428 972 - 0,Gymnasium,Gymnasium,HH
+"Hermann-Distel-Straße 25, 21029 Hamburg",+49 40 428 93 43-50,true,HH-5845,53.49337,10.220179,Hansa-Gymnasium Bergedorf,5845,+49 40 428 93 43-0,Gymnasium,Gymnasium,HH
+"Kaiser-Friedrich-Ufer 6, 20259 Hamburg",+49 40 428 01 19 56,true,HH-5846,53.573406,9.966373,Gymnasium Kaiser-Friedrich-Ufer,5846,+49 40 428 01 23 33,Gymnasium,Gymnasium,HH
+"An der Twiete 23, 21031 Hamburg",+49 40 428 87-6230,true,HH-5847,53.502654,10.203271,Gymnasium Lohbrügge,5847,+49 40 428 87-601,Gymnasium,Gymnasium,HH
+"Reinbeker Weg 76, 21029 Hamburg",+49 40 7 24 16-210,true,HH-5848,53.49231,10.228069,Luisen-Gymnasium Bergedorf,5848,+49 40 428 93 45-0,Gymnasium,Gymnasium,HH
+"Müssenredder 59, 22399 Hamburg",+49 40 427 96 79 16,true,HH-5849,53.655215,10.068211,Carl-von-Ossietzky-Gymnasium,5849,+49 40 428 93 15-0,Gymnasium,Gymnasium,HH
+"Alsterredder 26, 22395 Hamburg",+49 40 428 93 46-22,true,HH-5850,53.658849,10.101151,Gymnasium Oberalster,5850,+49 40 428 93 46-0,Gymnasium,Gymnasium,HH
+"Ebelingplatz 8, 20537 Hamburg",+49 40 428 85 14 00,true,HH-5853,53.554569,10.046999,Gymnasium Hamm,5853,+49 40 428 85 10 4,Gymnasium,Gymnasium,HH
+"Norderschulweg 18, 21129 Hamburg",+49 40 428 85 93 10,true,HH-5856,53.531603,9.874973,Gymnasium Finkenwerder,5856,+49 40 428 859 03,Gymnasium,Gymnasium,HH
+"Dörpsweg 10, 22527 Hamburg",+49 40 571 94  23 7,true,HH-5859,53.607876,9.911962,Gymnasium Dörpsweg,5859,+49 40 428 96 36-0,Gymnasium,Gymnasium,HH
+"Wegenkamp 3, 22527 Hamburg",+49 40 428 93 47-30,true,HH-5860,53.600474,9.925237,Albrecht-Thaer-Gymnasium,5860,+49 40 428 93 47-0,Gymnasium,Gymnasium,HH
+"Neumann-Reichardt-Straße 20, 22041 Hamburg",+49 40 428 820-210,true,HH-5862,53.57252,10.078481,Charlotte-Paulsen-Gymnasium,5862,+49 40 428 820-01,Gymnasium,Gymnasium,HH
+"Bundesstraße 78, 20144 Hamburg",+49 40 428 88 05-42,true,HH-5863,53.570918,9.972009,Emilie-Wüstenfeld-Gymnasium,5863,+49 40 428 88 05-0,Gymnasium,Gymnasium,HH
+"Bogenstraße 32, 20144 Hamburg",+49 40 428 981-210,true,HH-5864,53.57365,9.974617,Helene Lange Gymnasium,5864,+49 40 428 981-0,Gymnasium,Gymnasium,HH
+"Westphalensweg 7, 20099 Hamburg",+49 40 428 821 210,true,HH-5866,53.555768,10.025142,Gymnasium Klosterschule,5866,+49 40 428 821 0,Gymnasium,Gymnasium,HH
+"Finkenau 42, 22081 Hamburg",+49 40 428 88 47 40,true,HH-5868,53.5684,10.032816,Gymnasium Lerchenfeld,5868,+49 40 428 88 47 0,Gymnasium,Gymnasium,HH
+"Scharbeutzer Straße 36, 22147 Hamburg",+49 40 428 86-6540,true,HH-5869,53.600743,10.145879,Gymnasium Rahlstedt,5869,+49 40 428 86-650,Gymnasium,Gymnasium,HH
+"Klosterstieg 17, 20149 Hamburg",+49 40 428 93 16-20,true,HH-5872,53.573991,9.99661,Wilhelm-Gymnasium,5872,+49 40 428 93 16-0,Gymnasium,Gymnasium,HH
+"Max-Brauer-Allee 83, 22765 Hamburg",+49 40 428 88 06 19,true,HH-5881,53.554851,9.940882,Gymnasium Allee,5881,+49 40 428 88 06 0,Gymnasium,Gymnasium,HH
+"Bondenwald 14, 22453 Hamburg",+49 40 428 88-2549,true,HH-5882,53.622366,9.938782,Gymnasium Bondenwald,5882,+49 40 428 88-250,Gymnasium,Gymnasium,HH
+"Swebenhöhe 50, 22159 Hamburg",+49 40 428 93 48-22,true,HH-5885,53.612011,10.109818,Gymnasium Farmsen,5885,+49 40 428 93 48-0,Gymnasium,Gymnasium,HH
+"Maria-Louisen-Straße 114, 22301 Hamburg",+49 40 428 827 210,true,HH-5886,53.589963,10.006038,Gelehrtenschule des Johanneums,5886,+49 40 428 827 0,Gymnasium,Gymnasium,HH
+"Hochrad 2, 22605 Hamburg",+49 40 428 93 49-50,true,HH-5887,53.554025,9.876215,Gymnasium Hochrad,5887,+49 40 428 93 49-0,Gymnasium,Gymnasium,HH
+"Wilhelm-Metzger-Straße 4, 22297 Hamburg",+49 40 428 86-8910,true,HH-5888,53.604958,9.998888,Heilwig-Gymnasium,5888,+49 40 428 86-890,Gymnasium,Gymnasium,HH
+"Schierenberg 60, 22145 Hamburg",+49 40 428 86 38 47,true,HH-5890,53.624881,10.150905,Gymnasium Meiendorf,5890,+49 40 428 86 38 0,Gymnasium,Gymnasium,HH
+"Walderseestraße 99, 22605 Hamburg",+49 40 428 93 51-42,true,HH-5891,53.554719,9.883955,Gymnasium Othmarschen,5891,+49 40 428 93 51-0,Gymnasium,Gymnasium,HH
+"Harksheider Straße 70, 22399 Hamburg",+49 40 428 86 81 10,true,HH-5894,53.665243,10.073511,Heinrich-Heine-Gymnasium,5894,+49 40 428 86 81 0,Gymnasium,Gymnasium,HH
+"Am Damm 47, 22175 Hamburg",+49 40 428 93 52-99,true,HH-5895,53.630031,10.097457,Gymnasium Grootmoor,5895,+49 40 428 93 52-0,Gymnasium,Gymnasium,HH
+"Sthamerstraße 55, 22397 Hamburg",+49 40 605 80 31 0,true,HH-5896,53.693403,10.140887,Gymnasium Ohlstedt,5896,+49 40 428 93 53-0,Gymnasium,Gymnasium,HH
+"Turnierstieg 24, 22179 Hamburg",+49 40 428 9354-55,true,HH-5897,53.600184,10.093516,Gymnasium Osterbek,5897,+49 40 428 9354-0,Gymnasium,Gymnasium,HH
+"Holstenhofweg 86, 22043 Hamburg",+49 40 428 86-3131,true,HH-5898,53.566721,10.1066,Gymnasium Marienthal,5898,4 28 86 - 310,Gymnasium,Gymnasium,HH
+"Hummelsbüttler Hauptstraße 107, 22339 Hamburg",+49 40 5 38 90 6-44,true,HH-5899,53.647333,10.040988,Gymnasium Hummelsbüttel,5899,+49 40 428 93 55-0,Gymnasium,Gymnasium,HH
+"Norderstraße 163, 20097 Hamburg",+49 40 21 11 12-0,true,HH-7703,53.551065,10.018207,Privates Gymnasium Brecht,7703,+49 40 21 11 12-0,Gymnasium,Gymnasium,HH
+"Bergstedter Chaussee 205, 22395 Hamburg",+49 40 60 4428-25,true,HH-7706,53.675663,10.13557,Christophorus-Schule,7706,+49 40 60 4428-0,Sonderschule,Sonderschule,HH
+"Quellental 25, 22609 Hamburg",+49 40 8 19 92-643,true,HH-7707,53.552359,9.861204,Raphael-Schule,7707,+49 40 8 19 92-640,Sonderschule,Sonderschule,HH
+"August-Bebel-Straße 196, 21029 Hamburg",+49 40 7210 6427,true,HH-7708,53.480937,10.241404,Montessorischule Hamburg-Bergedorf,7708,72 10 64 22,Grundschule,Grundschule,HH
+"Norderstraße 163, 20097 Hamburg",+49 40 21 11 12-20,true,HH-7714,53.551065,10.018207,Private Stadtteilschule Brecht,7714,+49 40 21 11 12-0,Stadtteilschule,Stadtteilschule,HH
+"Norderstraße 163, 20097 Hamburg",+49 40 21 11 12-20,true,HH-7715,53.551065,10.018207,Private Grundschule Brecht,7715,+49 40 21 11 12-0,Grundschule,Grundschule,HH
+"Rostocker Straße 62, 20099 Hamburg",+49 40 24 68 69,true,HH-7801,53.5577,10.016922,Stadtteilschule St. Georg,7801,+49 40 24 70 87,Stadtteilschule,Stadtteilschule,HH
+"Heinrichstraße 14, 22769 Hamburg",,false,HH-7909,53.566061,9.957599,Christian-Morgenstern-Schule (Grundschule),7909,+49 40 41 35 94 44,Grundschule,Grundschule,HH
+"Schimmelreiterweg 11, 22149 Hamburg",,true,HH-7910,53.591862,10.181015,Neue Schule Hamburg,7910,+49 40 6690 99-45,Stadtteilschule,Stadtteilschule,HH
+"Bei der Osterkirche 17, 22765 Hamburg",,true,HH-7911,53.555101,9.932323,"Bugenhagen-Schule Ottensen, Evangelische Grundschule an der Osterkirche",7911,2 88 02 - 933,Grundschule,Grundschule,HH
+"Wittenkamp 15, 22307 Hamburg",+49 40 226 223 531,true,HH-7915,53.597049,10.048367,Alsterring Gymnasium,7915,+49 40 226 223 530,Gymnasium,Gymnasium,HH
+"Schäferkampsallee 27, 20357 Hamburg",,false,HH-7916,53.568261,9.967796,Monaddrei-Schule Hamburg,7916,+49 40 533 08 37-0,Grundschule,Grundschule,HH
+"Alsterdorfer Straße 523, 22337 Hamburg",+49 40 529 85 167,false,HH-7917,53.618202,10.027869,Zukunftsschule Alsterpalais (Grundschule),7917,+49 40 529 85 157,Grundschule,Grundschule,HH
+"Wendenstraße 35, 20097 Hamburg",+40 40 325 370-55,true,HH-7918,53.547458,10.02699,Bilinguale Grundschule PHORMS Hamburg,7918,32537050,Grundschule,Grundschule,HH
+"Brödermannsweg 17, 22453 Hamburg",,true,HH-7920,53.605886,9.978596,Moderne Schule Hamburg (Grundschule),7920,67381670,Grundschule,Grundschule,HH
+"Brödermannsweg 17, 22453 Hamburg",,false,HH-7921,53.605886,9.978596,Moderne Schule Hamburg (Gymnasium),7921,67381670,Gymnasium,Gymnasium,HH
+"Saarlandstraße 30, 22303 Hamburg",,false,HH-7924,53.587594,10.033718,OKO Private School Talent-Schule Hamburg,7924,+49 40 53283260,Gymnasium,Gymnasium,HH
+"Hartsprung 23, 22529 Hamburg",+49 40 79 01 47-56,false,HH-8003,53.604141,9.958474,"Lycée Français de Hambourg 'Antoine de St. Exupéry' (Gymnasium)",8003,+49 40 79 01 47-0,Gymnasium,Gymnasium,HH
+"Grindelhof 30, 20146 Hamburg",+49 40 44 09 44 12,true,HH-8004,53.568649,9.983728,Joseph-Carlebach-Schule (Grundschule),8004,+49 40 44 09 44 11,Grundschule,Grundschule,HH
+"Grindelhof 30, 20146 Hamburg",+49 40 44 09 44 12,true,HH-8007,53.568649,9.983728,Joseph-Carlebach-Schule (Stadtteilschule),8007,+49 40 44 09 44 11,Stadtteilschule,Stadtteilschule,HH
+"August-Krogmann-Straße 115, 22159 Hamburg",+49 40 64 55 22-87,true,HH-8008,53.61493,10.114133,August-Hermann-Francke-Schule Farmsen,8008,+49 40 64 55 22 82,Grundschule,Grundschule,HH
+"Bachstraße 13, 22083 Hamburg",,true,HH-8012,53.573279,10.028938,August-Hermann-Francke-Schule Uhlenhorst,8012,+49 40 28 00 27-81,Stadtteilschule,Stadtteilschule,HH
+"Hartsprung 23, 22529 Hamburg",,true,HH-8013,53.604141,9.958474,"Lycée Français de Hambourg 'Antoine de St. Exupéry' (Grundschule)",8013,+49 40 79 01 47-0,Grundschule,Grundschule,HH
+"Händelstraße 11, 22761 Hamburg",,true,HH-8014,53.561996,9.907671,August-Hermann-Francke-Schule Bahrenfeld,8014,+49 40 88 16 81-85,Grundschule,Grundschule,HH
+"Berner Allee 20, 22159 Hamburg",,true,HH-8015,53.628827,10.133725,August-Hermann-Francke-Schule Berne,8015,+49 40 64 42 82-42,Grundschule,Grundschule,HH
+"Glasbläserhöfe 2, 21035 Hamburg",,true,HH-8016,53.4829374,10.202108,August-Hermann-Francke-Schule Bergedorf,8016,+49 40 64664802,Grundschule,Grundschule,HH
+"Rahlstedter Weg 60, 22159 Hamburg",+49 40 64 58 95-20,false,HH-8101,53.602838,10.127174,Rudolf-Steiner-Schule Wandsbek,8101,+49 40 64 58 95-0,Stadtteilschule,Stadtteilschule,HH
+"Elbchaussee 366, 22609 Hamburg",+49 40 8 22 40-024,false,HH-8102,53.549041,9.855735,Rudolf-Steiner-Schule Nienstedten,8102,+49 40 8 22 40-00,Stadtteilschule,Stadtteilschule,HH
+"Bärenallee 15, 22041 Hamburg",+49 40 6 52 87 62,true,HH-8106,53.569672,10.063457,Friedrich-Robbe-Institut,8106,+49 40 68 44 55,Sonderschule,Sonderschule,HH
+"Bergstedter Chaussee 207, 22395 Hamburg",,true,HH-8112,53.676324,10.135846,Rudolf-Steiner-Schule Bergstedt,8112,645 08 20,Stadtteilschule,Stadtteilschule,HH
+"Bleickenallee 1, 22763 Hamburg",+49 40 4 10 09-950,false,HH-8113,53.55055,9.922053,Rudolf-Steiner-Schule Altona,8113,+49 40 4 10 09-93,Stadtteilschule,Stadtteilschule,HH
+"Ehestorfer Heuweg 82, 21149 Hamburg",+49 40 797 18 20,false,HH-8114,53.461212,9.891795,Rudolf-Steiner-Schule Harburg,8114,+49 40 797 18 10,Stadtteilschule,Stadtteilschule,HH
+"Am Brink 7, 21029 Hamburg",+49 40 721 22-41,true,HH-8115,53.485116,10.216802,Rudolf-Steiner-Schule Bergedorf,8115,7 21 22 22,Stadtteilschule,Stadtteilschule,HH
+"Woellmerstraße 1, 21075 Hamburg",+49 40 70973778-19,true,HH-8117,53.46531,9.959604,Michael Schule,8117,+49 40 70973778-0,Sonderschule,Sonderschule,HH
+"Lienaustraße 14, 22159 Hamburg",6 38 56 - 9929,false,HH-8118,53.627908,10.124184,Haus des Lernens,8118,6 38 56 - 990,Stadtteilschule,Stadtteilschule,HH
+"Horner Weg 164, 22111 Hamburg",+49 40 6 55 91-256,true,HH-8201,53.555078,10.069796,Wichern-Schule (Stadtteilschule),8201,+49 40 6 55 91-191,Stadtteilschule,Stadtteilschule,HH
+"Horner Weg 164, 22111 Hamburg",+49 40 6 55 91-256,true,HH-8202,53.555078,10.069796,Wichern-Schule (Gymnasium),8202,+49 40 6 55 91-190,Gymnasium,Gymnasium,HH
+"Horner Weg 164, 22111 Hamburg",+49 40 655 91-256,true,HH-8204,53.555078,10.069796,Wichern-Schule (Grundschule),8204,+49 40 655 91-191,Grundschule,Grundschule,HH
+"Jenischstraße 48, 22609 Hamburg",+49 40 8 23 33-7,true,HH-8301,53.562519,9.854583,Jenisch-Gymnasium,8301,+49 40 8 26 00-2,Gymnasium,Gymnasium,HH
+"Wendenstraße 35, 20097 Hamburg",+49 40 325 370-55,false,HH-8302,53.547458,10.02699,Bilinguales Gymnasium Phorms Hamburg,8302,+49 40 32537050,Gymnasium,Gymnasium,HH
+"Heinrichstraße 14, 22769 Hamburg",,false,HH-8501,53.566061,9.957599,Christian- Morgenstern- Schule (Stadtteilschule),8501,,Stadtteilschule,Stadtteilschule,HH
+"Alsterdorfer Straße 523, 22337 Hamburg",+49 40 529 85-184,false,HH-8502,53.618202,10.027869,Zukunftsschule Alsterpalais (Stadtteilschule),8502,+40 40 529 85-157,Stadtteilschule,Stadtteilschule,HH

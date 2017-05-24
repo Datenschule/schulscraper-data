@@ -1,370 +1,371 @@
-"name","id","address","website","school_type","school_type_entity","legal_status","fax","phone",""
-"Grundschule Eschberg","SL-1100-101031","Rostocker Straße 97, 66121 Saarbrücken",,"Grundschule","Grundschule",1,"0681-812501","0681-812121",
-"Max-Ophüls-Grundschule Saarbrücken","SL-1100-101051","Schumannstraße 42, 66111 Saarbrücken",,"Grundschule","Grundschule",1,"0681-36628","0681-36684",
-"Ganztagsgrundschule Saarbrücken-Kirchberg","SL-1100-101071","St. Josef-Straße 11, 66115 Saarbrücken",,"Grundschule","Grundschule",1,"0681-4171585","0681-42090",
-"Grundschule Dudweiler","SL-1100-101081","Am Geisenberg 41, 66125 Saarbrücken",,"Grundschule","Grundschule",1,"06897-972382","06897-972380",
-"Grundschule Rastpfuhl","SL-1100-101111","Im Knappenroth 2, 66113 Saarbrücken",,"Grundschule","Grundschule",1,"0681-7300540","0681 - 71704",
-"Grundschule Russhütte","SL-1100-101131","Am Hof 28, 66113 Saarbrücken",,"Grundschule","Grundschule",1,"0681-41620021","0681-41166",
-"Grundschule Saarbrücken- Wallenbaum","SL-1100-101151","Kirchberg 3, 66115 Saarbrücken",,"Grundschule","Grundschule",1,"0681-4170211","0681-42001",
-"Grundschule Turmschule Dudweiler","SL-1100-101211","Saarbrücker Straße 289, 66125 Saarbrücken",,"Grundschule","Grundschule",1,"0681-905-2367","0681-905-8960",
-"Grundschule Herrensohr","SL-1100-101221","Marktstraße 43, 66125 Saarbrücken",,"Grundschule","Grundschule",1,"06897/972961","06897-762486",
-"Freiwillige Ganztagsgrundschule Plus Sbr.-Scheidt","SL-1100-101261","Schulstraße 10, 66133 Saarbrücken-Scheidt",,"Grundschule","Grundschule",1,"0681-814674","0681-814652",
-"Ganztagsgrundschule Rastpfuhl","SL-1100-101301","Im Knappenroth, 66113 Saarbrücken",,"Grundschule","Grundschule",1,"0681-74339","0681-74325",
-"Grundschule Rodenhof","SL-1100-101311","Ziegelstrasse 35, 66113 Saarbrücken",,"Grundschule","Grundschule",1,"0681-498776","0681-42394",
-"Grundschule Saarbrücken-Ost","SL-1100-101331","Hellwigstraße 20, 66121 Saarbrücken",,"Grundschule","Grundschule",1,"0681-66497","0681-66497",
-"Grundschule Dellengarten","SL-1100-201021","Dellengartenstraße 2, 66117 Saarbrücken",,"Grundschule","Grundschule",1,"0681-5849460","0681-5849462",
-"Grundschule Füllengarten","SL-1100-201041","Im Füllengarten 89, 66115 Saarbrücken",,"Grundschule","Grundschule",1,"0681-9767125","0681-9767124",
-"Grundschule Folsterhöhe","SL-1100-201081","Am Heidenhübel 1, 66117 Saarbrücken",,"Grundschule","Grundschule",1,"0681-5849412","0681-57870",
-"Grundschule Am Ordensgut","SL-1100-201091","Moltkestraße 31, 66117 Saarbrücken",,"Grundschule","Grundschule",1,"0681-581877","0681-581882",
-"Grundschule St. Arnual","SL-1100-201141","Arnulfstraße 15, 66119 Saarbrücken",,"Grundschule","Grundschule",1,"0681-9850189","0681-9850184",
-"Offene Ganztagsgrundschule Weyersberg","SL-1100-201161","Große Weyersbergstraße 7, 66115 Saarbrücken",,"Grundschule","Grundschule",1,"0681-76542","0681-79939",
-"Grundschule Altenkessel","SL-1100-201171","Kirchstraße 1-3, 66126 Saarbrücken",,"Grundschule","Grundschule",1,"06898-984047","06898-984046",
-"Grundschule Bübingen","SL-1100-201201","Bergstraße 63, 66129 Saarbrücken-Bübingen",,"Grundschule","Grundschule",1,"06805-8407","06805-8416",
-"Grundschule Gersweiler","SL-1100-201241","Aschbachstraße 38, 66128 Saarbrücken-Gersweiler",,"Grundschule","Grundschule",1,"0681-7020492","0681-9970110",
-"Grundschule Saarbrücken-Am Geisberg","SL-1100-201271","Friedrich-Ebert-Straße 23, 66132 Saarbrücken-Bischmisheim",,"Grundschule","Grundschule",1,"0681-9893044","0681-9893045",
-"Grundschule Ensheim","SL-1100-201281","Am Marktweg, 66131 Saarbrücken-Ensheim",,"Grundschule","Grundschule",1,"06893-2548","06893-2536",
-"Grund- und Ganztagsgrundschule","SL-1100-201291","Peter-und-Paul-Straße 38, 66130 Saarbrücken-Brebach-Fechingen",,"Grundschule","Grundschule",1,"0681-872181","0681-872121",
-"Grundschule Hohe Wacht","SL-1100-201301","Hohe Wacht 25, 66119 Saarbrücken",,"Grundschule","Grundschule",1,"0681-5893786","0681-55826",
-"Private Grundschule Don Bosco","SL-1100-201322","Schulstraße 30, 66130 Saarbrücken-Brebach-Fechingen",,"Grundschule","Grundschule",0,,"06893/802759",
-"Grundschule Klarenthal","SL-1100-201351","Hauptstraße 53, 66127 Saarbrücken-Klarenthal",,"Grundschule","Grundschule",1,"06898-32774","06898-32772",
-"Ecole Francaise de Sarrebruck et Dilling","SL-1100-301362","Halbergstraße 112, 66121 Saarbrücken",,"Grundschule","Grundschule",0,"0681 - 638000","0681 - 62624",
-"Grundschule Friedrichsthal","SL-1511-101011","Bismarckstraße 4, 66299 Friedrichsthal",,"Grundschule","Grundschule",1,"06897-812278","06897-842411",
-"Grundschule Bildstock","SL-1511-101021","Birkenweg 7, 66299 Friedrichsthal-Bildstock",,"Grundschule","Grundschule",1,"06897-843687","06897-842533",
-"Wilhelm-Heinrich-Grundschule der Gemeinde Grossrosseln","SL-1512-201031","Wilhelm-Heinrich-Weg 2, 66352 Grossrosseln",,"Grundschule","Grundschule",1,"06898-40567","06898-40546",
-"Grundschule Heusweiler","SL-1513-301011","Dilsburger Straße 2, 66265 Heusweiler",,"Grundschule","Grundschule",1,"06806-608232","06806-608230",
-"Grundschule Holz - Erich Kästner Schule","SL-1513-301061","Glück-Auf-Weg, 66265 Heusweiler-Holz",,"Grundschule","Grundschule",1,"06806-989367","06806-8773",
-"Grundschule Auersmacher Rilchingen-Hanweiler","SL-1514-201011","Auf dem Bies 23, 66271 Kleinblittersdorf-Auersmacher",,"Grundschule","Grundschule",1,"06805-912003","06805-8565",
-"Grundschule Kleinblittersdorf","SL-1514-201051","Wintringer Straße 78, 66271 Kleinblittersdorf",,"Grundschule","Grundschule",1,"06805-2008638","06805-2008-631",
-"Grundschule Püttlingen I","SL-1515-301011","Goethestraße, 66346 Püttlingen",,"Grundschule","Grundschule",1,"06898-689980","06898-61885",
-"Grundschule Köllerbach","SL-1515-301031","Zur Sporthalle, 66346 Püttlingen",,"Grundschule","Grundschule",1,"06806-922869","06806-48791",
-"Grundschule Viktoria Püttlingen-Ritterstraße","SL-1515-301041","Theodolinde-Katzenmaier-Straße 5, 66346 Püttlingen",,"Grundschule","Grundschule",1,"06898-689572","06898-67271",
-"Grundschule Lasbach","SL-1516-301011","Lasbachstraße 21, 66287 Quierschied",,"Grundschule","Grundschule",1,"06897-601438","06897-63006",
-"Grundschule Fischbach-Göttelborn","SL-1516-301021","Hauptstraße 189, 66287 Quierschied-Göttelborn",,"Grundschule","Grundschule",1,"06825-8007700","06825-5680",
-"Grundschule Riegelsberg","SL-1517-301011","Lindenschule, 66292 Riegelsberg",,"Grundschule","Grundschule",1,"06806-860682","06806-3683",
-"Grundschule Hilschbach-Walpershofen","SL-1517-301021","Ellerstraße 7, 66292 Riegelsberg",,"Grundschule","Grundschule",1,"06806-102119","06806-2719",
-"Grundschule Pflugscheid","SL-1517-301031","Wolfskaulstraße 88, 66292 Riegelsberg",,"Grundschule","Grundschule",1,"06806-860591","06806-3684",
-"Grundschule Sulzbach I Mellin Schule","SL-1518-101011","Mellinweg 13, 66280 Sulzbach",,"Grundschule","Grundschule",1,"06897-569481","06897-4936",
-"Grundschule II Sulzbach-Altenwald Waldschule","SL-1518-101021","Richard Eberle Str.1, 66280 Sulzbach-Altenwald",,"Grundschule","Grundschule",1,"06897-88114","06897-88107",
-"Grundschule Bergstrasse/Hermann-Röchling-Höhe","SL-1519-301011","Bergstraße 30, 66333 Völklingen",,"Grundschule","Grundschule",1,"06898-23442","06898-23316",
-"Grundschule Haydnstrasse","SL-1519-301021","Haydnstraße 44, 66333 Völklingen",,"Grundschule","Grundschule",1,"06898-294402","06898-23831",
-"Grundschule Fürstenhausen","SL-1519-301031","Am Hasseleich 19, 66333 Völklingen-Fürstenhausen",,"Grundschule","Grundschule",1,"06898-935366","06898-31320",
-"Grundschule Ludweiler-Lauterbach","SL-1519-301071","Schulstraße 12, 66333 Völklingen-Ludweiler",,"Grundschule","Grundschule",1,"06898-439016","06898-40117",
-"Grundschule Heidstock-Luisenthal","SL-1519-301091","Neckarstraße 12, 66333 Völklingen-Heidstock",,"Grundschule","Grundschule",1,"06898-851167","06898-851055",
-"Grundschule Wehrden/Geislautern - Regenbogenschule","SL-1519-301101","Kleine Bergstraße 3, 66333 Völklingen- Wehrden",,"Grundschule","Grundschule",1,"06898-16370","Wehrden: 06898-26639\nGeislautern: 06898-7263",
-"Grundschule Reimsbach","SL-2111-201041","Zur Plätsch, 66701 Beckingen",,"Grundschule","Grundschule",1,"06832-446","06832-801612",
-"Grundschule Düppenweiler","SL-2111-201051","Pfarrer-Gierend-Straße 5, 66701 Beckingen",,"Grundschule","Grundschule",1,"06832-801395","06832-383",
-"Grundschule Beckingen","SL-2111-201061","Schulstraße 5, 66701 Beckingen",,"Grundschule","Grundschule",1,"06835-601790","06835-601789",
-"Nicolaus-Voltz-Grundschule-Losheim","SL-2112-201011","Schulstraße 11, 66679 Losheim am See",,"Grundschule","Grundschule",1,"06872-8624","06872-2295",
-"Grundschule Bachem-Britten","SL-2112-201021","Quellenstraße 14, 66679 Losheim am See-Bachem",,"Grundschule","Grundschule",1,"06872-887008","06872-2675",
-"Grundschule Wahlen","SL-2112-201041","Am Herrenpfad 4, 66679 Losheim am See-Wahlen",,"Grundschule","Grundschule",1,"06872-8474","06872-2556",
-"Grundschule Kreuzberg","SL-2113-101011","Kreuzbergstraße 51, 66663 Merzig",,"Grundschule","Grundschule",1,"06861-793601","06861-6684",
-"Grundschule St. Josef","SL-2113-101021","Beethovenstrasse 2, 66663 Merzig",,"Grundschule","Grundschule",1,"06861-790654","06861-6378",
-"Grundschule Besseringen","SL-2113-101051","Bezirksstraße 100, 66663 Merzig-Besseringen",,"Grundschule","Grundschule",1,"06861 790682","06861-2944",
-"Grundschule Saargau","SL-2113-101061","Zum Schotzberg 3, 66663 Merzig-Schwemlingen",,"Grundschule","Grundschule",1,"06861-2560","06861-3750",
-"Grundschule Brotdorf","SL-2113-101071","Ringstrasse 1, 66663 Merzig",,"Grundschule","Grundschule",1,"06861-790151","06861-3789",
-"Grundschule Hilbringen","SL-2113-101081","Schulstraße 26, 66663 Merzig-Hilbringen",,"Grundschule","Grundschule",1,"06861 79322","06861-3222",
-"Private Grundschule ""Forscherschule""","SL-2113-101092","Martinusstraße, 66663 Merzig-Bietzen",,"Grundschule","Grundschule",0,,"06861-8390578",
-"Grundschule Langwies der Gemeinde Mettlach","SL-2114-101011","Von-Boch-Liebieg-Straße 34, 66693 Mettlach",,"Grundschule","Grundschule",1,"06864-1390","06864-1390",
-"Grundschule Orscholz","SL-2114-101021","Saarburger Straße, 66693 Mettlach-Orscholz",,"Grundschule","Grundschule",1,"06865 180213","06865-322",
-"Grundschule Dreiländereck  Schule der Gemeinde Perl","SL-2115-101011","Kirschenstraße 6-8, 66706 Perl",,"Grundschule","Grundschule",1,"06867-560023","06867-560022",
-"Grundschule Lockweiler","SL-2116-201031","Michaelstraße 4, 66687 Wadern-Lockweiler",,"Grundschule","Grundschule",1,"06871-922723","06871-2596",
-"Grundschule Nunkirchen","SL-2116-201041","Saarbruecker Straße 65, 66687 Wadern-Nunkirchen",,"Grundschule","Grundschule",1,"06874-182816","06874-263",
-"Grundschule St. Martin Wadrill-Steinberg","SL-2116-201051","Schlimmfeldstraße 1, 66687 Wadern-Wadrill",,"Grundschule","Grundschule",1,"06871-922761","06871-2376",
-"Grundschule Weiskirchen","SL-2117-201011","Schulstraße10, 66709 Weiskirchen",,"Grundschule","Grundschule",1,"06876-791802","06876-373",
-"Grundschule Eppelborn","SL-3111-201011","St.Sebastianstraße 1, 66571 Eppelborn",,"Grundschule","Grundschule",1,"06881-88693","06881-6642",
-"Grundschule Wiesbach-Dirmingen","SL-3111-201051","Jägerbergstraße 2, 66571 Eppelborn-Wiesbach",,"Grundschule","Grundschule",1,"06806-81361","06806-81305",
-"Private Montessori-Grundschule","SL-3111-201062","In der Humes 40, 66571 Eppelborn-Humes",,"Grundschule","Grundschule",0,"06881-8994738","06881-8994716",
-"Grundschule An der Ill, Hüttigweiler","SL-3112-201031","Dr.Maxein-Straße 2, 66557 Illingen",,"Grundschule","Grundschule",1,"06825-499519","06825-2840",
-"Grundschule Uchtelfangen","SL-3112-201041","In der Drischeck, 66557 Illingen-Uchtelfangen",,"Grundschule","Grundschule",1,"06825-499518","06825-3010",
-"Grundschule Auf der Lehn, Illingen","SL-3112-201051","Schulstrasse 4, 66557 Illingen",,"Grundschule","Grundschule",1,"06825-47465","06825-47354",
-"Grundschule Merchweiler","SL-3113-201011","Allenfeldstraße, 66589 Merchweiler",,"Grundschule","Grundschule",1,"06825-970210","06825-7780",
-"Grundschule Merchweiler-Wemmetsweiler","SL-3113-201021","Zum Striedt 59, 66589 Merchweiler-Wemmetsweiler",,"Grundschule","Grundschule",1,"06825-499738","06825-2144",
-"Grundschule Bachschule Neunkirchen","SL-3114-101011","Kleiststraße 30, 66538 Neunkirchen",,"Grundschule","Grundschule",1,"06821 9728485","06821-23455",
-"Grundschule Wellesweiler","SL-3114-101051","Berthold-Günther-Platz 5, 66539 Neunkirchen-Wellesweiler",,"Grundschule","Grundschule",1,"06821-485341","06821-41252",
-"Grundschule Wiebelskirchen","SL-3114-101081","Kuchenbergstraße 47, 66540 Neunkirchen-Wiebelskirchen",,"Grundschule","Grundschule",1,"06821-953475","06821-53691",
-"Ganztagsgrundschule Am Stadtpark","SL-3114-101091","Freiherr-von-Stein-Straße 6, 66540 Neunkirchen",,"Grundschule","Grundschule",1,"06821-179228","06821-23429",
-"Grundschule Furpach","SL-3114-101101","Zur Ewigkeit 7, 66539 Neunkirchen-Furpach",,"Grundschule","Grundschule",1,"06821-308883","06821-31821",
-"Grundschule Steinwald","SL-3114-101111","Nachtigallenweg 45 a, 66538 Neunkirchen-Steinwald",,"Grundschule","Grundschule",1,"06821-9046648","06821-4018744",
-"Grundschule (privat)","SL-3114-102032","Prälat-Schütz-Straße 15, 66540 Neunkirchen-Wiebelskirchen",,"Grundschule","Grundschule",0,"06821-950444","06821-95040",
-"Grundschule Lehbesch","SL-3115-201011","Freiherr v. Stein-Straße 16, 66564 Ottweiler",,"Grundschule","Grundschule",1,"06824-709573","06824-2172",
-"Grundschule Neumünster","SL-3115-201021","Betzelbacher Weg 17, 66564 Ottweiler-Neumünster",,"Grundschule","Grundschule",1,"06824-300904","06824-4310",
-"Grundschule Schiffweiler","SL-3116-201011","Comeniusstraße 9, 66578 Schiffweiler",,"Grundschule","Grundschule",1,"06821-634412","06821-6048",
-"Grundschule Landsweiler-Reden","SL-3116-201031","Im Wiesengrund, 66578 Schiffweiler-Landsweiler-Reden",,"Grundschule","Grundschule",1,"06821-635523","06821-63174",
-"Grundschule Heiligenwald","SL-3116-201041","Karlstraße 19, 66578 Schiffweiler-Heiligenwald",,"Grundschule","Grundschule",1,"06821-635516","06821-6017",
-"Grundschule Elversberg","SL-3117-101011","Pestalozzistraße 3, 66583 Spiesen-Elversberg (Elversberg)",,"Grundschule","Grundschule",1,"06821-742249","06821-78168",
-"Grundschule Spiesen","SL-3117-101021","Pastor-Kollmann-Straße, 66583 Spiesen-Elversberg (Spiesen)",,"Grundschule","Grundschule",1,"06821-742228","06821-78163",
-"Grundschule Dillingen I -Römerschule-","SL-4111-201011","Römerstraße 7, 66763 Dillingen-Pachten",,"Grundschule","Grundschule",1,"06831-1 27 38 35","06831-1 27 28 84",
-"Grundschule Dillingen II - Philipp-Schmitt-Schule","SL-4111-201021","Kerlinger Straße 2, 66763 Dillingen",,"Grundschule","Grundschule",1,"06831/7682059","06831/7685670",
-"Grundschule Dillingen III Odilienschule","SL-4111-201031","Friedrich-Ebert-Straße 69, 66763 Dillingen",,"Grundschule","Grundschule",1,"06831-7614842","06831-7614840",
-"Primsschule Grundschule Dillingen IV","SL-4111-201041","Richard-Wagner-Straße 16, 66763 Dillingen",,"Grundschule","Grundschule",1,"06831-769508","06831-79886",
-"Grundschule Lebach","SL-4112-101011","Mottener Straße 46, 66822 Lebach",,"Grundschule","Grundschule",1,"06881-5390147","06881-537015",
-"Grundschule Landsweiler","SL-4112-101061","Im Breitenfeld, 66822 Lebach-Landsweiler",,"Grundschule","Grundschule",1,"06881-537758","06881-2116",
-"Grundschule Steinbach","SL-4112-101071","Pestalozzistraße 2-3, 66822 Lebach",,"Grundschule","Grundschule",1,"06888-901324","06888-282",
-"Grundschule Lebach (Nikolaus Groß)","SL-4112-101092","Dillinger Straße 67, 66822 Lebach",,"Grundschule","Grundschule",0,"06881-91324","06881-91323",
-"Grundschule Nalbach","SL-4113-101031","Piesbacher Str. 11a, 66809 Nalbach",,"Grundschule","Grundschule",1,"06838-9812019","06838-981200",
-"Grundschule Hemmersdorf","SL-4114-201031","Niedaltdorfer Straße 32, 66780 Rehlingen-Siersburg",,"Grundschule","Grundschule",1,"06833-894652","06833-235",
-"Grundschule Siersburg","SL-4114-201041","Zum Horst 12, 66780 Rehlingen-Siersburg",,"Grundschule","Grundschule",1,"06835-601349","06835-601348",
-"Grundschule Rehlingen","SL-4114-201051","Beckinger Straße 25, 66780 Rehlingen-Siersburg",,"Grundschule","Grundschule",1,"06835-600132","06835-600130",
-"Grund- und Ganztagsgrundschule","SL-4115-101021","Taubenstraße 1, 66740 Saarlouis",,"Grundschule","Grundschule",1,"06831-94589430","06831-9458940",
-"Grundschule Beaumarais","SL-4115-101031","Bruchwiesenstraße 2, 66740 Saarlouis-Beaumarais",,"Grundschule","Grundschule",1,"06831-9969926","06831-996992",
-"Grundschule Im Alten Kloster","SL-4115-101041","Klosterstraße 17, 66740 Saarlouis-Fraulautern",,"Grundschule","Grundschule",1,"06831-98698719","06831-9869870",
-"Grundschule Lisdorf","SL-4115-101061","Prof.-Ecker-Straße 13, 66740 Saarlouis-Lisdorf",,"Grundschule","Grundschule",1,"06831-94588920","06831-9458890",
-"Grundschule Römerberg","SL-4115-101071","Roemerstraße 20, 66740 Saarlouis-Roden",,"Grundschule","Grundschule",1,"06831-98698117","06831-9869810",
-"Grundschule Steinrausch","SL-4115-101081","Kurt-Schumacher-Allee 127, 66740 Saarlouis-Steinrausch",,"Grundschule","Grundschule",1,"06831-9869893","06831-9869890",
-"Grundschule Gutberg Saarwellingen","SL-4116-101011","Rodener Straße 11b, 66793 Saarwellingen",,"Grundschule","Grundschule",1,"06838 983808","06838-983807",
-"Grundschule Reisbach","SL-4116-101031","Lohwiese 13, 66793 Saarwellingen-Reisbach",,"Grundschule","Grundschule",1,"06838 830847","06838-830846",
-"Grundschule Schmelz","SL-4117-101011","Saarbrücker Straße 37, 66839 Schmelz",,"Grundschule","Grundschule",1,"06887-889611","06887-2502",
-"Grundschule Hüttersdorf","SL-4117-101031","Im Fluerchen 19a, 66839 Schmelz-Hüttersdorf",,"Grundschule","Grundschule",1,"06887-300094","06887-2391",
-"Grundschule Schwalbach Kirchbergschule","SL-4118-201021","Am Howatt 29, 66773 Schwalbach",,"Grundschule","Grundschule",1,"06834-401868","06834-52700",
-"Grundschule Elm","SL-4118-201051","Bachtalschule, 66773 Schwalbach-Elm",,"Grundschule","Grundschule",1,"06834-952791","06834-51180",
-"Grundschule Hülzweiler","SL-4118-201061","Zur Turnhalle 7, 66773 Schwalbach-Hülzweiler",,"Grundschule","Grundschule",1,"06831-5010116","06831-52237",
-"Grundschule Überherrn","SL-4119-201011","Waldstraße 15, 66802 Überherrn",,"Grundschule","Grundschule",1,"06836-2724","06836-2644",
-"Grundschule Berus","SL-4119-201041","St. Oranna, 66802 Überherrn",,"Grundschule","Grundschule",1,"06836-684991","06836-2426",
-"Grundschule Wadgassen","SL-4120-201011","Abteistraße 18a, 66787 Wadgassen",,"Grundschule","Grundschule",1,"06834-409433","06834-409428",
-"Grundschule Differten/Werbeln","SL-4120-201031","Friedhofstraße 10, 66787 Wadgassen",,"Grundschule","Grundschule",1,"06834-697204","06834-61460",
-"Grundschule Hostenbach-Schaffhausen","SL-4120-201041","Kaiserstraße 17 A, 66787 Wadgassen-Hostenbach",,"Grundschule","Grundschule",1,"06834-49677","06834-490629",
-"Grundschule Wallerfangen","SL-4121-201021","Adolphshöhe 1, 66798 Wallerfangen",,"Grundschule","Grundschule",1,"06831-643422","06831-965199",
-"Grundschule Wallerfangen-Gisingen","SL-4121-201031","Gaustraße 22, 66798 Wallerfangen-Gisingen",,"Grundschule","Grundschule",1,"06837-7080051","06837-91001",
-"Grundschule Bous","SL-4122-201031","Auf der Mühlenscheib, 66359 Bous",,"Grundschule","Grundschule",1,"06834-922217","06834-922215",
-"Grundschule Ensdorf","SL-4123-201051","Parkstr.16, 66806 Ensdorf",,"Grundschule","Grundschule",1,"06831-507441","06831-506096",
-"Grundschule Bexbach","SL-5111-101011","Schillerstraße 8b, 66450 Bexbach",,"Grundschule","Grundschule",1,"06826-189680","06826 5959",
-"Schillerschule Grundschule am Höcherberg","SL-5111-101021","Pfarrer-Layes-Straße, 66450 Bexbach-Frankenholz",,"Grundschule","Grundschule",1,"06826-800842","06826-800843",
-"Grundschule Oberbexbach","SL-5111-101051","Am Kälberberg, 66450 Bexbach-Oberbexbach",,"Grundschule","Grundschule",1,"06826-800970","06826-6013",
-"Grundschule Blieskastel, Kirchberg-Schlossberg","SL-5112-201021","Edith-Stein-Straße 4, 66440 Blieskastel-Lautzkirchen",,"Grundschule","Grundschule",1,"06842-538812","06842-3566",
-"Grundschule Breitfurt/Blickweiler","SL-5112-201071","Griessackerweg 13, 66440 Blieskastel-Breitfurt",,"Grundschule","Grundschule",1,"06842-538148","06842-2474",
-"Grundschule am Würzbacher Weiher","SL-5112-201081","Kirkeler Straße 41, 66440 Bliesk. - Niederwürzbach",,"Grundschule","Grundschule",1,"06842-891750","06842-6183",
-"Grundschule Medelsheim","SL-5113-201021","Burgstraße 11, 66453 Gersheim-Medelsheim",,"Grundschule","Grundschule",1,"06844-991273","06844-324",
-"Grundschule Reinheim","SL-5113-201031","Grenzlandstraße 3, 66453 Gersheim-Reinheim",,"Grundschule","Grundschule",1,"06843-902608","06843-283",
-"Grundschule Langenäcker","SL-5114-101021","Thomastraße 15, 66424 Homburg",,"Grundschule","Grundschule",1,"06841-756679","06841-78274",
-"Grundschule Bruchhof","SL-5114-101041","Rosenstraße 22, 66424 Homburg-Bruchhof",,"Grundschule","Grundschule",1,"06841-120565","06841-3219",
-"Grundschule Luitpold","SL-5114-101051","Luitpoldstraße 9, 66424 Homburg",,"Grundschule","Grundschule",1,"06841-757319","06841-78465",
-"Grundschule Sonnenfeld","SL-5114-101061","Akazienweg 3, 66424 Homburg",,"Grundschule","Grundschule",1,"06841-99300715","06841-9930070",
-"Grundschule Einöd","SL-5114-101081","Im Wieschen, 66424 Homburg-Einöd",,"Grundschule","Grundschule",1,"06848-730009","06848-6366",
-"Grundschule Limbach","SL-5115-101021","Talstraße 1-3, 66459 Kirkel-Limbach",,"Grundschule","Grundschule",1,"06841-890134","06841-80583",
-"Grundschule Kirkel-Neuhäusel","SL-5115-101031","Friedhofstraße, 66459 Kirkel-Neuhäusel",,"Grundschule","Grundschule",1,"06849-774","06849-325",
-"Arnold-Rütter-Schule der Gemeinde Mandelbachtal","SL-5116-201031","Schützengasse 6, 66399 Mandelbachtal-Erfweiler-Ehlingen",,"Grundschule","Grundschule",1,,"06803-2758",
-"Theo-Carlen-Schule der Gemeinde Mandelbachtal","SL-5116-201051","Theo - Carlen - Platz 4, 66399 Mandelbachtal-Ormesheim",,"Grundschule","Grundschule",1,"06893-986104","06893-3881",
-"Grundschule Albert-Weisgerber","SL-5117-201011","Robert-Koch-Straße 4, 66386 St.Ingbert",,"Grundschule","Grundschule",1,"06894-382419","06894-37565",
-"Grundschule Rischbachschule","SL-5117-201021","Zur Rothell 20, 66386 St.Ingbert",,"Grundschule","Grundschule",1,"06894-385989","06894-34567",
-"Grundschule Rohrbach Pestalozzischule","SL-5117-201071","Hochstraße 47, 66386 St.Ingbert-Rohrbach",,"Grundschule","Grundschule",1,"06894-959085","06894-52413",
-"Grundschule Südschule","SL-5117-201101","Fidelisstraße, 66386 St.Ingbert",,"Grundschule","Grundschule",1,"06894-870214","06894-6913",
-"Montessori Grundschule Am Hasenfels","SL-5117-201112","Hasenfelsstraße 12, 66386 St. Ingbert-Oberwürzbach",,"Grundschule","Grundschule",0,"06894-5823232","06894/7710",
-"Grundschule Freisen/ Oberkirchen","SL-6111-201021","Rosenstr. 19 a, 66629 Freisen-Oberkirchen",,"Grundschule","Grundschule",1,"06855/184656","06855-344",
-"Grundschule Marpingen","SL-6112-101011","Marienstraße 21a, 66646 Marpingen",,"Grundschule","Grundschule",1,"06853-9198598","06853-9198590",
-"Grundschule Namborn, Marienschule","SL-6113-201011","Goethestraße 8, 66640 Namborn",,"Grundschule","Grundschule",1,"06854/90 895830","06854/90 895810",
-"Grundschule der Gemeinde Nohfelden","SL-6114-201011","Kirchstraße 6, 66625 Nohfelden-Gonnesweiler",,"Grundschule","Grundschule",1,"06852-802396","06852-802395",
-"Grundschule Nonnweiler","SL-6115-201031","Auf der Geig 12, 66620 Nonnweiler",,"Grundschule","Grundschule",1,"06873-992054","06873-7131",
-"Grundschule Oberthal","SL-6116-201021","Schwimmbadstraße 35, 66649 Oberthal",,"Grundschule","Grundschule",1,"06854-802757","06854-802756",
-"Grundschule Oberlinxweiler","SL-6117-101021","Am Flur 12, 66606 St.Wendel-Oberlinxweiler",,"Grundschule","Grundschule",1,"06851-840306","06851-2942",
-"Grundschule Bliesen","SL-6117-101051","Webergasse, 66606 St.Wendel-Bliesen",,"Grundschule","Grundschule",1,"06854-803726","06854-8557",
-"Grundschule Niederkirchen","SL-6117-101061","Ebereschenstraße 18, 66606 St. Wendel-Niederkirchen",,"Grundschule","Grundschule",1,"06856-892140","06856-404",
-"Grundschule Nikolaus-Obertreis","SL-6117-101071","Nikolaus-Obertreis-Straße, 66606 St. Wendel",,"Grundschule","Grundschule",1,"06851-839371","06851-3221",
-"Grundschule Hasborn-Dautweiler","SL-6118-101031","Parkstraße 7-9, 66636 Tholey-Hasborn-Dautweiler",,"Grundschule","Grundschule",1,"06853-892367","06853-6440",
-"Grundschule Theley","SL-6118-101051","Selbacher Straße 4, 66636 Tholey-Theley",,"Grundschule","Grundschule",1,"06853-5020562","06853-5020561",
-"Förderschule soziale Entwicklung","SL-1100-118011","Von der Heydt 9a, 66115 Saarbrücken-Von der Heydt",,"Förderschule","Förderschule",1,"0681-75359520","0681-7535950",
-"Förderschule Lernen","SL-1100-317011","Ziegelstrasse, 66113 Saarbrücken",,"Förderschule","Förderschule",1,"0681-498693","0681-47741",
-"Förderschule Lernen","SL-1100-317021","In den Grasgärten, 66126 Saarbrücken-Altenkessel",,"Förderschule","Förderschule",1,"06898-81821","06898-81826",
-"Förderschule Lernen Dudweiler","SL-1100-317031","Schulstraße 93, 66125 Saarbrücken-Dudweiler",,"Förderschule","Förderschule",1,"0681-31230","0681-36155",
-"Förderschule geistige Entwicklung","SL-1100-420021","Winterbachsroth 9, 66125 Saarbrücken-Dudweiler",,"Förderschule","Förderschule",1,"06897-9520905","06897-952090",
-"Förderschule Lernen -Hofschule-","SL-1511-217011","Hofstraße 5a, 66299 Friedrichsthal-Bildstock",,"Förderschule","Förderschule",1,"06897-88271","06897-88223",
-"Förderschule geistige Entwicklung Heusweiler","SL-1513-420011","Goethestraße 8, 66265 Heusweiler",,"Förderschule","Förderschule",1,"06806 9949939","06806 9949930",
-"Förderschule körperliche und motorische Entwicklung","SL-1515-121011","Köllertalstrasse 145, 66346 Püttlingen",,"Förderschule","Förderschule",1,"06806-46649","06806-46630",
-"Förderschule Sprache Weierwiesschule","SL-1518-227011","Brennender-Berg-Str., 66280 Sulzbach-Neuweiler",,"Förderschule","Förderschule",1,"06897-567113","06897-3512",
-"Förderschule Lernen","SL-1519-117011","Friedhofstraße 9, 66333 Völklingen-Geislautern",,"Förderschule","Förderschule",1,"06898-78286","06898-78235",
-"Förderschule Lernen, Schule Am Kappwald","SL-2112-217011","Im Schneppenbruch 14, 66679 Losheim am See/Niederlosheim",,"Förderschule","Förderschule",1,"06872-887596","06872-2992",
-"Förderschule Lernen -Schule Auf der Wild-","SL-2113-117011","Ringstrasse 3, 66663 Merzig-Brotdorf",,"Förderschule","Förderschule",1,"06861-780907","06861-78461",
-"Förderschule geistige Entwicklung","SL-2113-120011","Zum Broch 3, 66663 Merzig-Merchingen",,"Förderschule","Förderschule",1,"06861-792656","06861-2668",
-"Förderschule Lernen -Noswendel-","SL-2116-217011","Am Wergkäulchen 22, 66687 Wadern-Noswendel",,"Förderschule","Förderschule",1,"06871-921640","06871-2588",
-"Private Förderschule geistige Entwicklung Rothenbergschule","SL-3111-220012","Am Rotenberg 3, 66571 Eppelborn-Dirmingen",,"Förderschule","Förderschule",0,"06827-3552","06827-415",
-"Förderschule Lernen","SL-3112-217011","Am Markt, 66557 Illingen-Uchtelfangen",,"Förderschule","Förderschule",1,"06825-406433","06825-3344",
-"Förderschule Lernen","SL-3114-117011","Jägermeisterpfad, 66538 Neunkirchen",,"Förderschule","Förderschule",1,"06821-290640","06821-2906 0",
-"Private Förderschule soziale Entwicklung","SL-3114-118012","Hardenbergstraße 2, 66538 Neunkirchen",,"Förderschule","Förderschule",0,"06821-860244","06821-860247",
-"Förderschule geistige Entwicklung","SL-3114-120011","Jägermeisterpfad, 66538 Neunkirchen",,"Förderschule","Förderschule",1,"06821-290543","06821-29050",
-"Private Förderschule geistige Entwicklung","SL-3115-220012","Am Buehl 8, 66564 Ottweiler-Mainzweiler",,"Förderschule","Förderschule",0,"06824-91109","06824-91107",
-"Schule am Ökosee AWO Förderschule geistige Entwicklung","SL-4111-220012","Luisenstraße 4, 66763 Dillingen",,"Förderschule","Förderschule",0,"06831-767177","06831/767171",
-"Förderschule Lernen","SL-4112-217011","An der Ziegelhütte 1, 66822 Lebach",,"Förderschule","Förderschule",1,"06881-53060","06881-3209",
-"Förderschule für Gehörlose und Schwerhörige","SL-4112-223011","Dillinger Straße 69, 66822 Lebach",,"Förderschule","Förderschule",1,"06881-928309","06881-928311",
-"Förderschule für Blinde und Sehbehinderte","SL-4112-226011","Dillinger Straße 69, 66822 Lebach",,"Förderschule","Förderschule",1,"06881-928400","06881-928321",
-"Förderschule Lernen","SL-4115-117011","Zeughausstraße 32, 66740 Saarlouis",,"Förderschule","Förderschule",1,"06831-460035","06831-3843",
-"Förderschule soziale Entwicklung","SL-4115-118011","Adolf-Hetzler-Straße 3, 66740 Saarlouis",,"Förderschule","Förderschule",1,"06831-964794","06831-61277",
-"Förderschule geistige Entwicklung","SL-4116-120011","Bahnhofstraße 269, 66793 Saarwellingen",,"Förderschule","Förderschule",1,"06838 983901","06838-983900",
-"Anne-Frank-Schule Saarlouis Dependance Schwalbach","SL-4118-117011","Alleestraße 20, 66773 Schwalbach",,"Förderschule","Förderschule",1,"06834-953901","06834-953900",
-"Förderschule Lernen - Franz-Carl-Schule","SL-5112-217011","Am Schloss 10 - 10a, 66440 Blieskastel",,"Förderschule","Förderschule",1,"06842-924317","06842-924328",
-"Anna Betzner Schule  Förderschule G in freier Trägerschaft","SL-5113-220012","Oben am Dorf 60, 66453 Gersheim-Walsheim",,"Förderschule","Förderschule",0,"06843-809-39","06843/809-0",
-"Der Landesbeauftragte für den Krankenhaus- und Hausunterricht","SL-5114-000001","Warburgring 80, 66424 Homburg",,"Förderschule","Förderschule",1,"06841-170096","06841-170092",
-"Förderschule Lernen","SL-5114-117011","Spandauer Straße, 66424 Homburg",,"Förderschule","Förderschule",1,"06841/9729430","06841-972940",
-"Förderschule geistige Entwicklung","SL-5114-120011","Spandauer Straße, 66424 Homburg",,"Förderschule","Förderschule",1,,"06841-972940",
-"Förderschule körperliche und motorische Entwicklung","SL-5114-121011","Universitätskliniken 84, 66424 Homburg",,"Förderschule","Förderschule",1,"06841-1627514","06841-1627400",
-"Förderschule Lernen","SL-5117-217011","Zur Schnapphahner Dell 1, 66386 St. Ingbert",,"Förderschule","Förderschule",1,"06894-9989925","06894-9989920",
-"Förderschule geistige Entwicklung","SL-6113-220011","Am Hirtenbrunnen 7, 66640 Namborn-Baltersweiler",,"Förderschule","Förderschule",1,"06851/839896","06851-3160",
-"Förderschule Lernen","SL-6116-217011","Schwimmbadstraße 39, 66649 Oberthal",,"Förderschule","Förderschule",1,"06854-7230","06854-7314",
-"Förderschule soziale Entwicklung - Wingert-Schule","SL-6117-119011","Pestalozzistraße 7, 66606 St. Wendel",,"Förderschule","Förderschule",1,"06851-806370","06851-6870",
-"Willi-Graf-Realschule","SL-1100-307042","Sachsenweg 3, 66121 Saarbrücken",,"Realschule","Realschule",0,"0681-6683530","0681-6683512",
-"Maximilian-Kolbe-Schule","SL-3114-108012","Prälat-Schütz-Straße 15, 66540 Neunkirchen-Wiebelskirchen",,"Realschule","Realschule",0,"06821-950444","06821-95040",
-"Albertus-Magnus-Realschule (privat)","SL-5117-207022","Auf der Meß 16, 66386 St. Ingbert",,"Realschule","Realschule",0,"06894-3287","06894-2242",
-"Erweiterte Realschule Bruchwiese","SL-1100-350011","Sachsenweg 8, 66121 Saarbrücken",,"erweiterte Realschule","erweiterte Realschule",1,"0681-61598","0681/635032",
-"Erweiterte Realschule Klarenthal","SL-1100-350041","Hauptstraße 53, 66127 Saarbrücken",,"erweiterte Realschule","erweiterte Realschule",1,"06898-935899","06898/37558",
-"Erweiterte Realschule Güdingen","SL-1100-450021","Saargemünder Straße 157, 66130 Saarbrücken",,"erweiterte Realschule","erweiterte Realschule",1,"0681-8739990","0681/8739715",
-"Private Erweiterte Realschule des Don-Bosco-Schulvereins","SL-1100-450052","Schulstraße 30, 66130 Saarbrücken-Fechingen",,"erweiterte Realschule","erweiterte Realschule",0,"06893 8010127","0693 802759",
-"Erweiterte Realschule Heusweiler","SL-1513-250011","Schillerstraße 65, 66265 Heusweiler",,"erweiterte Realschule","erweiterte Realschule",1,"06806/6634","06806/6308",
-"Erweiterte Realschule Kleinblittersdorf","SL-1514-450011","Wintringer Straße 78, 66271 Kleinblittersdorf",,"erweiterte Realschule","erweiterte Realschule",1,"06805-8427","06805/1445",
-"Erweiterte Realschule Püttlingen","SL-1515-150011","Pickardstraße 33, 66346 Püttlingen",,"erweiterte Realschule","erweiterte Realschule",1,"06898-64431","06898/64421",
-"Erweiterte Realschule Quierschied","SL-1516-250011","Schulzentrum Taubenfeld, 66287 Quierschied",,"erweiterte Realschule","erweiterte Realschule",1,"06897/63478","06897/62212",
-"Erweiterte Realschule Am Vopeliuspark Sulzbach","SL-1518-250011","Parkstraße 10, 66280 Sulzbach",,"erweiterte Realschule","erweiterte Realschule",1,"06897/952095-29","06897/952095-0",
-"Erweiterte Realschule Am Sonnenhügel","SL-1519-150011","Heinestraße 70, 66333 Völklingen",,"erweiterte Realschule","erweiterte Realschule",1,"06898/296911","06898 9149730",
-"Hermann-Neuberger-Schule Erweiterte Realschule Völklingen","SL-1519-150021","Heinestraße 70, 66333 Völklingen",,"erweiterte Realschule","erweiterte Realschule",1,"06898/296911","06898 9149730",
-"Friedrich-Bernhard-Karcher-Schule Beckingen -Erweiterte Realschule-","SL-2111-250011","Hindenburgstraße 19, 66701 Beckingen",,"erweiterte Realschule","erweiterte Realschule",1,"06835/608199","06835/608190",
-"Erweiterte Realschule Merzig","SL-2113-150011","Von-Boch-Straße 75, 66663 Merzig",,"erweiterte Realschule","erweiterte Realschule",1,"06861/7707729","06861/770770",
-"Graf Anton Schule Wadern -Erweiterte Realschule-","SL-2116-250011","Gartenfeldstraße 23, 66687 Wadern",,"erweiterte Realschule","erweiterte Realschule",1,"06871-9230230","06871/923020",
-"Eichenlaubschule Weiskirchen -Erweiterte Realschule-","SL-2117-250011","Am Marktplatz 1, 66709 Weiskirchen",,"erweiterte Realschule","erweiterte Realschule",1,"06876-7540","06876/345",
-"Erweiterte Realschule Eppelborn","SL-3111-250011","Hellbergstraße 21, 66571 Eppelborn",,"erweiterte Realschule","erweiterte Realschule",1,"06881-962129","06881/962127",
-"Erweiterte Realschule Illingen","SL-3112-250011","Schwarzer Weg 2, 66557 Illingen",,"erweiterte Realschule","erweiterte Realschule",1,"06825-942011","06825/94200",
-"Erweiterte Realschule Merchweiler - Max von der Grün Schule","SL-3113-250011","Bildstockstr. 127, 66589 Merchweiler",,"erweiterte Realschule","erweiterte Realschule",1,"06825-42262","06825/42261",
-"Erweiterte Realschule Neunkirchen Stadtmitte und Wiebelskirchen","SL-3114-150011","Lutherstraße 2, 66538 Neunkirchen",,"erweiterte Realschule","erweiterte Realschule",1,"06821-9997130","06821-999710",
-"Erweiterte Realschule Neunkirchen -Wellesweiler","SL-3114-150021","Pestalozzistraße, 66539 Neunkirchen",,"erweiterte Realschule","erweiterte Realschule",1,"06821/940940","06821/94090",
-"Erweiterte Realschule Ottweiler","SL-3115-250011","Seminarstraße 56, 66564 Ottweiler",,"erweiterte Realschule","erweiterte Realschule",1,"06824-4361","06824/5320",
-"Erweiterte Realschule Spiesen-Elversberg","SL-3117-150011","Am Ring 39 a, 66583 Spiesen-Elversberg",,"erweiterte Realschule","erweiterte Realschule",1,"06821/970013","06821/97000",
-"Schule am Römerkastell Dillingen - Erweiterte Realschule","SL-4111-250011","Industriestraße 29, 66763 Dillingen",,"erweiterte Realschule","erweiterte Realschule",1,"06831-9869601","06831/9869600",
-"Theeltalschule -Erweiterte Realschule- Lebach","SL-4112-250011","Mottener Straße 52, 66822 Lebach",,"erweiterte Realschule","erweiterte Realschule",1,"06881/3025","06881/3065",
-"Nikolaus-Gross-Schule (Erweiterte Realschule)","SL-4112-250012","Dillinger Straße 67, 66822 Lebach",,"erweiterte Realschule","erweiterte Realschule",0,"06881-91324","06881-91323",
-"Erweiterte Realschule","SL-4113-250011","Josefstraße 11, 66809 Nalbach",,"erweiterte Realschule","erweiterte Realschule",1,"06838-983708","06838-983706",
-"Erweiterte Realschule Rehlingen-Siersburg","SL-4114-350011","Beckinger Straße 38, 66780 Rehlingen-Siersburg",,"erweiterte Realschule","erweiterte Realschule",1,"06835 922414","06835/92240",
-"Erweiterte Realschule I","SL-4115-150011","St. Nazairer Allee 6, 66740 Saarlouis",,"erweiterte Realschule","erweiterte Realschule",1,"06831-41898","06831/41878",
-"Erweiterte Realschule II","SL-4115-150021","Kreuzbergstraße 87, 66740 Saarlouis",,"erweiterte Realschule","erweiterte Realschule",1,"06831-80057","06831-80056",
-"Erweiterte Realschule Saarwellingen","SL-4116-150011","An der Waldwies 2-4, 66793 Saarwellingen",,"erweiterte Realschule","erweiterte Realschule",1,"06838-900620","06838/90060",
-"Erweiterte Realschule Schmelz","SL-4117-250011","Wilhelm-Busch-Straße 11, 66839 Schmelz",,"erweiterte Realschule","erweiterte Realschule",1,"06887-887126","06887/2570",
-"Erweiterte Realschule Schwalbach","SL-4118-150011","Weiherstraße 24a, 66773 Schwalbach",,"erweiterte Realschule","erweiterte Realschule",1,"06834-953954","06834/953953",
-"Erweiterte Realschule Überherrn","SL-4119-350011","Comeniusstraße 22, 66802 Überherrn",,"erweiterte Realschule","erweiterte Realschule",1,"06836-2031","06836/2531",
-"Erweiterte Realschule Wallerfangen","SL-4121-350011","Bungertstraße 30, 66798 Wallerfangen",,"erweiterte Realschule","erweiterte Realschule",1,"06831-964594","06831/964585",
-"Erweiterte Realschule Blieskastel","SL-5112-250011","Schulzentrum, 66440 Blieskastel",,"erweiterte Realschule","erweiterte Realschule",1,"06842/923766","06842/923760",
-"Erweiterte Realschule Homburg I","SL-5114-150011","Virchowstraße 7, 66424 Homburg",,"erweiterte Realschule","erweiterte Realschule",1,"06841-923326","06841/92330",
-"Erweiterte Realschule Homburg II","SL-5114-150021","Cranachstraße 7, 66424 Homburg",,"erweiterte Realschule","erweiterte Realschule",1,"06841/9729321","06841/972930",
-"Erweiterte Realschule Kirkel-Limbach","SL-5115-150011","Hauptstraße 75, 66459 Kirkel-Limbach",,"erweiterte Realschule","erweiterte Realschule",1,"06841-980429","06841-980040",
-"Erweiterte Realschule Mandelbachtal","SL-5116-250011","Vichter Straße 1, 66399 Mandelbachtal",,"erweiterte Realschule","erweiterte Realschule",1,"06803/390020","06803/39000",
-"Erweiterte Realschule I St. Ingbert","SL-5117-250011","Im Schmelzerwald 66, 66386 St. Ingbert",,"erweiterte Realschule","erweiterte Realschule",1,"06894-960918","06894/96090",
-"Erweiterte Realschule II St. Ingbert","SL-5117-250021","Sportplatzstraße 3, 66386 St. Ingbert",,"erweiterte Realschule","erweiterte Realschule",1,"06894/9989829","06894/9989820",
-"Erweiterte Realschule Freisen","SL-6111-250011","Schulstraße 43, 66629 Freisen",,"erweiterte Realschule","erweiterte Realschule",1,"06855/996902","06855/7992",
-"Erweiterte Realschule St. Wendel","SL-6117-150011","Willi-Graf-Straße 3, 66606 St. Wendel",,"erweiterte Realschule","erweiterte Realschule",1,"06851/931933","06851/93190",
-"Erweiterte Realschule Tholey","SL-6118-150011","Toni Lermen Straße  2, 66636 Tholey-Theley",,"erweiterte Realschule","erweiterte Realschule",1,"06853/912850","06853/9128-0",
-"Ludwigsgymnasium","SL-1100-010011","Stengelstraße 31, 66117 Saarbrücken",,"Gymnasium","Gymnasium",1,"0681-92605-28","0681-926050",
-"Gymnasium Am Rotenbühl","SL-1100-011011","Neugrabenweg 66-90, 66123 Saarbrücken",,"Gymnasium","Gymnasium",1,"0681-9369840","0681-936980",
-"Deutsch-Französisches Gymnasium","SL-1100-011021","Halbergstraße 112, 66121 Saarbrücken",,"Gymnasium","Gymnasium",1,"0681-99681-40","0681-99681-0",
-"Willi-Graf-Gymnasium (privat)","SL-1100-011042","Sachsenweg 3, 66121 Saarbrücken",,"Gymnasium","Gymnasium",0,"0681-66835-30","0681-66835-11",
-"Gymnasium Am Schloss","SL-1100-012011","Spichererbergstraße 15, 66119 Saarbrücken",,"Gymnasium","Gymnasium",1,"0681-52084","0681-581884",
-"Marienschule","SL-1100-012032","Hohenzollernstraße 59 A, 66117 Saarbrücken",,"Gymnasium","Gymnasium",0,"0681-57033","0681-51367",
-"Otto Hahn Gymnasium","SL-1100-013011","Landwehrplatz 3, 66111 Saarbrücken",,"Gymnasium","Gymnasium",1,"0681/37981-11","0681-37981-0",
-"Wirtschaftswissenschaftliches Gymnasium","SL-1100-030011","Rheinstraße 95, 66113 Saarbrücken",,"Gymnasium","Gymnasium",1,"0681-754826","0681-751610",
-"Theodor-Heuss-Gymnasium Sulzbach","SL-1518-012011","Quierschieder Weg, 66280 Sulzbach",,"Gymnasium","Gymnasium",1,"06897-908128","06897-90810",
-"Marie-Luise-Kaschnitz-Gymnasium","SL-1519-011011","Lortzingstraße 2, 66333 Völklingen",,"Gymnasium","Gymnasium",1,"06898-502831","06898-50280",
-"Albert-Einstein-Gymnasium","SL-1519-011021","Hohenzollernstraße 28, 66333 Völklingen",,"Gymnasium","Gymnasium",1,"06898-16594","06898-91300",
-"Warndt-Gymnasium","SL-1519-011031","Am Warndtgymnasium 1, 66333 Völklingen",,"Gymnasium","Gymnasium",1,"06898-7015","06898-972990",
-"Peter-Wust-Gymnasium","SL-2113-011011","Goethestraße 16 A, 66663 Merzig",,"Gymnasium","Gymnasium",1,"06861-9399220","06861-939920",
-"Gymnasium Am Stefansberg","SL-2113-011021","Waldstraße 48, 66663 Merzig",,"Gymnasium","Gymnasium",1,"06861-9396829","06861-939680",
-"Hochwaldgymnasium","SL-2116-011011","Am Kaisergarten 1, 66687 Wadern",,"Gymnasium","Gymnasium",1,"06871-902699","06871-90260",
-"Illtal-Gymnasium","SL-3112-012011","Schwarzer Weg, 66557 Illingen",,"Gymnasium","Gymnasium",1,"06825-930820","06825-93080",
-"Gymnasium Am Steinwald","SL-3114-012011","Am Mädchenrealgymnasium, 66538 Neunkirchen",,"Gymnasium","Gymnasium",1,"06821-909833","06821-90980",
-"Gymnasium Am Krebsberg","SL-3114-012021","Alb. Schweitzer-Straße 23, 66538 Neunkirchen/Saar",,"Gymnasium","Gymnasium",1,"06821/981535","06821-98150",
-"Gymnasium","SL-3115-012011","Seminarstraße 43, 66564 Ottweiler",,"Gymnasium","Gymnasium",1,"06824-930833","06824-930830",
-"Albert-Schweitzer-Gymnasium","SL-4111-012011","Karcherstraße 2, 66763 Dillingen",,"Gymnasium","Gymnasium",1,"06831-976089","06831-976547",
-"Technisch-wissenschaftliches Gymnasium","SL-4111-032011","Wallerfangerstraße 25, 66763 Dillingen",,"Gymnasium","Gymnasium",1,"06831-7698322","06831-769830",
-"Geschwister-Scholl-Gymnasium","SL-4112-011011","Straße der weißen Rose, 66822 Lebach",,"Gymnasium","Gymnasium",1,"06881-53035","06881-53033",
-"Johannes-Kepler-Gymnasium","SL-4112-013011","Dillinger Straße 67, 66822 Lebach",,"Gymnasium","Gymnasium",1,"06881-537030","06881-53051",
-"Gymnasium Am Stadtgarten","SL-4115-010011","Holtzendorfferstraße 1, 66740 Saarlouis",,"Gymnasium","Gymnasium",1,"06831-121412","06831-42985",
-"Robert-Schuman-Gymnasium","SL-4115-011011","Praelat-Subtil Ring 2, 66740 Saarlouis",,"Gymnasium","Gymnasium",1,"06831-121001","06831-2262",
-"Max-Planck-Gymnasium","SL-4115-013011","Pavillonstraße 24, 66740 Saarlouis",,"Gymnasium","Gymnasium",1,"06831-945930","06831-94590",
-"Von der Leyen-Gymnasium","SL-5112-011011","Schlossbergstraße 42, 66440 Blieskastel",,"Gymnasium","Gymnasium",1,"06842-923232","06842-92320",
-"Gymnasium Johanneum (privat)","SL-5114-010012","Kardinal Wendel Straße12, 66424 Homburg",,"Gymnasium","Gymnasium",0,"06841-61523","06841-934770",
-"Mannlich-Gymnasium","SL-5114-011011","Hiltebrandtstr. 1, 66424 Homburg",,"Gymnasium","Gymnasium",1,"06841/9348372","06841-9348360",
-"Saarpfalz-Gymnasium","SL-5114-012021","Untere Allee 75, 66424 Homburg",,"Gymnasium","Gymnasium",1,"06841-923122","06841-92310",
-"Alb.Magnus-Gymnasium (privat)","SL-5117-011022","Neue Messstraße 24, 66386 St. Ingbert",,"Gymnasium","Gymnasium",0,"06894-383839","06894-2138",
-"Leibniz-Gymnasium","SL-5117-012011","Im Schmelzerwald 51a, 66386 St. Ingbert",,"Gymnasium","Gymnasium",1,"06894-963918","06894-96390",
-"Gymnasium-Wendalinum","SL-6117-010011","Schorlemer Straße 28, 66606 St. Wendel",,"Gymnasium","Gymnasium",1,"06851-932233","06851-93220",
-"Arnold-Janssen-Gymnasium (privat)","SL-6117-010022","Missionshausstraße 50, 66606 St. Wendel",,"Gymnasium","Gymnasium",0,"06851-805375","06851-805300",
-"Cusanus-Gymnasium","SL-6117-011011","Missionshausstraße 14, 66606 St. Wendel",,"Gymnasium","Gymnasium",1,"06851-932333","06851-93230",
-"Gesamtschule Saarbrücken-Ludwigspark","SL-1100-005041","Ziegelstraße 17, 66113 Saarbrücken",,"Gesamtschule","Gesamtschule",1,"0681-47652","0681-9471970",
-"Montessori-Zentrum Saar, Gemeinschafts-/Gesamtschule","SL-1100-005052","Im Grühlingswald 19, 66299 Friedrichsthal",,"Gesamtschule","Gesamtschule",0,"06897-9699011","06897-9699010",
-"Gesamtschule Sulzbachtal","SL-1100-305031","An der Mühlenschule 3, 66125 Saarbrücken",,"Gesamtschule","Gesamtschule",1,"06897-74069","06897-97460",
-"Gesamtschule Saarbrücken-Rastbachtal","SL-1100-405011","Weissenburger Straße 23, 66113 Saarbrücken",,"Gesamtschule","Gesamtschule",1,"0681-73692","0681-971460",
-"Gesamtschule Bellevue","SL-1100-405021","Am Hagen 30, 66117 Saarbrücken",,"Gesamtschule","Gesamtschule",1,"0681-9262017","0681-926200",
-"Gesamtschule Riegelsberg","SL-1517-205011","Lindenstrasse 9, 66292 Riegelsberg",,"Gesamtschule","Gesamtschule",1,"06806-992140","06806-99210",
-"Graf-Ludwig-Gemeinschaftsschule im Warndt (Gesamtschule)","SL-1519-105011","Hohlstraße 35, 66333 Völklingen-Ludweiler",,"Gesamtschule","Gesamtschule",1,"06898-9458129","06898-945810",
-"Peter-Dewes-Gesamtschule","SL-2112-205011","Weiskirchener Straße 18, 66679 Losheim",,"Gesamtschule","Gesamtschule",1,"06872-9219630","06872-921960",
-"Gesamtschule Mettlach-Orscholz","SL-2114-105011","Saarbrücker Straße, 66693 Mettlach-Orscholz",,"Gesamtschule","Gesamtschule",1,"06865 9111100","06865-91110",
-"Deutsch-Luxemburgisches Schengen-Lyceum Perl","SL-2115-005011","Auf dem Sabel 2, 66706 Perl",,"Gesamtschule","Gesamtschule",1,"06867-9111220","06867-9111200",
-"Gesamtschule Neunkirchen","SL-3114-105011","Haspelstrasse, 66538 Neunkirchen",,"Gesamtschule","Gesamtschule",1,"06821-982428","06821-98240",
-"Gesamtschule","SL-3116-205011","Comeniusstraße, 66578 Schiffweiler",,"Gesamtschule","Gesamtschule",1,"06821-9648428","06821-964840",
-"Integrierte Gesamtschule (Sophie-Scholl-Schule)","SL-4111-204011","Industriestraße 40, 66763 Dillingen",,"Gesamtschule","Gesamtschule",1,"06831-978630","06831-97860",
-"Gesamtschule  - Bisttalschule Wadgassen","SL-4120-305011","Weberstrasse, 66787 Wadgassen",,"Gesamtschule","Gesamtschule",1,"06834-99416","06834-99415",
-"Gesamtschule ""Galileo-Schule""","SL-5111-105011","Eichendorffweg 1, 66450 Bexbach",,"Gesamtschule","Gesamtschule",1,"06826-932929","06826-93290",
-"Gesamtschule","SL-5113-205011","Schulzentrum, 66453 Gersheim",,"Gesamtschule","Gesamtschule",1,"06843-9007-127","06843-9007-29",
-"Gesamtschule Marpingen","SL-6112-105011","Marienstrasse 21, 66646 Marpingen",,"Gesamtschule","Gesamtschule",1,"06853-910611","06853-91060",
-"Gesamtschule","SL-6114-205011","Trierer Straße 23, 66625 Nohfelden-Türkismühle",,"Gesamtschule","Gesamtschule",1,"06852-902511","06852-90250",
-"Freie Waldorfschule","SL-1100-006012","Schulstraße 11, 66126 Saarbrücken-Altenkessel",,"freie Waldorfschule","freie Waldorfschule",0,"06898-9869749","06898-986970",
-"Waldorfschule für Lern- und Erziehungshilfe","SL-1511-006012","Neunkircher Straße 70, 66299 Friedrichsthal-Bildstock",,"freie Waldorfschule","freie Waldorfschule",0,"06897-843913","06897-840000",
-"Freie Waldorfschule","SL-5111-006012","Parkstraße, 66450 Bexbach",,"freie Waldorfschule","freie Waldorfschule",0,"06826-4561","06826-3260",
-"Freie Waldorfschule Saar-Hunsrück","SL-6114-006012","Schoosbergstraße 11, 66625 Nohfelden-Walhausen",,"freie Waldorfschule","freie Waldorfschule",0,"06852-802179","06852-82599",
-"Erweiterte Abendrealschule","SL-1100-354011","Sachsenweg 8, 66121 Saarbrücken",,"erweiterte Realschule Abendform","erweiterte Realschule Abendform",1,"0681-61598","0681-635032",
-"Erweiterte Realschule in Abendform","SL-4111-254011","Industriestraße 29, 66763 Dillingen",,"erweiterte Realschule Abendform","erweiterte Realschule Abendform",1,"06831-9869601","06831-9869600",
-"Montessori-Zentrum Saar, Gemeinschafts-/Gesamtschule","SL-1100-6052","Im Grühlingswald 19, 66299 Friedrichsthal",,"Gemeinschaftsschule","Gemeinschaftsschule",0,"06897-9699011","06897-9699010",
-"Gemeinschaftsschule","SL-1100-60011","Ziegelstraße 17, 66113 Saarbrücken",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"0681-47652","0681-9471970",
-"Gemeinschaftsschule","SL-1100-60021","An der Mühlenschule 3, 66125 Saarbrücken",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06897-74069","06897-97460",
-"Gemeinschaftsschule Bruchwiese","SL-1100-60031","Sachsenweg 8, 66121 Saarbrücken",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"0681-61598","0681/635032",
-"Gemeinschaftsschule Klarenthal","SL-1100-60041","Hauptstraße 53, 66127 Saarbrücken",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06898-935899","06898/37558",
-"Gemeinschaftsschule","SL-1100-60051","Weissenburger Straße 23, 66113 Saarbrücken",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"0681-73692","0681-971460",
-"Gemeinschaftsschule","SL-1100-60061","Am Hagen 30, 66117 Saarbrücken",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"0681-9262017","0681-926200",
-"Gemeinschaftsschule Güdingen","SL-1100-60071","Saargemünder Straße 157, 66130 Saarbrücken",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"0681-8739990","0681/8739715",
-"Gemeinschaftsschule Heusweiler","SL-1513-260011","Schillerstraße 65, 66265 Heusweiler",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06806/6634","06806/6308",
-"Gemeinschaftsschule Kleinblittersdorf","SL-1514-460011","Wintringer Straße 78, 66271 Kleinblittersdorf",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06805-8427","06805/1445",
-"Gemeinschaftsschule Püttlingen","SL-1515-160011","Pickardstraße 33, 66346 Püttlingen",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06898-64431","06898/64421",
-"Gemeinschaftsschule","SL-1516-260011","Schulzentrum Taubenfeld, 66287 Quierschied",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06897/63478","06897/62212",
-"Gemeinschaftsschule","SL-1517-260011","Lindenstrasse 9, 66292 Riegelsberg",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06806-992140","06806-99210",
-"Gemeinschaftsschule","SL-1518-260011","Parkstraße 10, 66280 Sulzbach",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06897/952095-29","06897/952095-0",
-"Graf-Ludwig-Gemeinschaftsschule im Warndt","SL-1519-160011","Hohlstraße 35, 66333 Völklingen-Ludweiler",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06898-9458129","06898-945810",
-"Gemeinschaftsschule Am Sonnenhügel","SL-1519-160021","Heinestraße 70, 66333 Völklingen",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06898/296911","06898 9149730",
-"Gemeinschaftsschule Hermann Neuberger Völklingen","SL-1519-160031","Heinestraße 70, 66333 Völklingen",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06898/296911","06898 9149730",
-"Friedrich-Bernhard-Karcher- Schule Beckingen -Gemeinschaftsschule","SL-2111-260011","Hindenburgstraße 19, 66701 Beckingen",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06835/608199","06835/608190",
-"Gemeinschaftsschule","SL-2112-260011","Weiskirchener Straße 18, 66679 Losheim",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06872-9219630","06872-921960",
-"Gemeinschaftsschule Merzig","SL-2113-160011","Von-Boch-Straße 75, 66663 Merzig",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06861/7707729","06861/770770",
-"Gemeinschaftsschule Mettlach-Orscholz","SL-2114-160011","Saarbrücker Straße, 66693 Mettlach-Orscholz",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06865 9111100","06865-91110",
-"Gemeinschaftsschule Wadern","SL-2116-260011","Gartenfeldstraße 23, 66687 Wadern",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06871-9230230","06871/923020",
-"Eichenlaubschule - Gemeinschaftsschule","SL-2117-260011","Am Marktplatz 1, 66709 Weiskirchen",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06876-7540","06876/345",
-"Gemeinschaftsschule Eppelborn","SL-3111-260011","Hellbergstraße 40A, 66571 Eppelborn",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06881-962129","06881/962127",
-"Gemeinschaftsschule Illingen","SL-3112-260011","Schwarzer Weg 2, 66557 Illingen",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06825-942011","06825/94200",
-"Gemeinschaftsschule Merchweiler - Max von der Grün Schule","SL-3113-260011","Bildstockstr. 127, 66589 Merchweiler",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06825-42262","06825/42261",
-"Gemeinschaftsschule","SL-3114-160011","Haspelstrasse, 66538 Neunkirchen",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06821-982428","06821-98240",
-"Maximilian-Kolbe-Schule Gemeinschaftsschule","SL-3114-160012","Prälat-Schütz-Straße 15, 66540 Neunkirchen-Wiebelskirchen",,"Gemeinschaftsschule","Gemeinschaftsschule",0,"06821-950444","06821-95040",
-"Gemeinschaftsschule","SL-3114-160021","Lutherstraße 2, 66538 Neunkirchen",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06821-9997130","06821-999710",
-"Gemeinschaftsschule Neunkirchen Wellesweiler","SL-3114-160031","Pestalozzistraße, 66539 Neunkirchen",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06821/940940","06821/94090",
-"bachem","SL-3115-260011","Seminarstraße 56, 66564 Ottweiler",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06824-4361","06824/5320",
-"Gemeinschaftsschule","SL-3116-260011","Comeniusstraße, 66578 Schiffweiler",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06821-9648428","06821-964840",
-"Gemeinschaftsschule Spiesen-Elversberg","SL-3117-160011","Am Ring 39 a, 66583 Spiesen-Elversberg",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06821/970013","06821/97000",
-"Sophie-Scholl-Gemeinschaftsschule","SL-4111-260011","Industriestraße 40, 66763 Dillingen",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06831-978630","06831-97860",
-"Schule am Römerkastell Dillingen - Gemeinschaftsschule","SL-4111-260021","Industriestraße 29, 66763 Dillingen",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06831-9869601","06831-9869600",
-"Nikolaus-Gross-Schule (Gemeinschaftsschule)","SL-4112-160012","Dillinger Straße 67, 66822 Lebach",,"Gemeinschaftsschule","Gemeinschaftsschule",0,"06881-91324","06881-91323",
-"Gemeinschaftsschule Lebach","SL-4112-260011","Mottener Straße 52, 66822 Lebach",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06881/3025","06881/3065",
-"Gemeinschaftsschule Nalbach - Schule am Litermont","SL-4113-260011","Josefstraße 11, 66809 Nalbach",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06838-983708","06838-983706",
-"Gemeinschaftsschule Rehlingen-Siersburg","SL-4114-360011","Beckinger Straße 38, 66780 Rehlingen-Siersburg",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06835 922414","06835/92240",
-"Gemeinschaftsschule In den Fliesen Saarlouis I","SL-4115-160011","St. Nazairer Allee 6, 66740 Saarlouis",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06831-41898","06831/41878",
-"Gemeinschaftsschule Saarlouis II","SL-4115-160021","Kreuzbergstraße 87, 66740 Saarlouis",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06831-80057","06831-80056",
-"Gemeinschaftsschule Saarwellingen","SL-4116-160011","An der Waldwies 2-4, 66793 Saarwellingen",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06838-900620","06838/90060",
-"Gemeinschaftsschule Schmelz","SL-4117-260011","Wilhelm-Busch-Straße 11, 66839 Schmelz",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06887-887126","06887/2570",
-"Gemeinschaftsschule Schwalbach","SL-4118-160011","Weiherstraße 24a, 66773 Schwalbach",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06834-953954","06834/953953",
-"Gemeinschaftsschule Überherrn","SL-4119-360011","Comeniusstraße 22, 66802 Überherrn",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06836-2031","06836/2531",
-"Gemeinschaftsschule - Bisttalschule Wadgassen","SL-4120-360011","Weberstrasse, 66787 Wadgassen",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06834-99416","06834-99415",
-"Gemeinschaftsschule Wallerfangen","SL-4121-360011","Bungertstraße 30, 66798 Wallerfangen",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06831-964594","06831/964585",
-"Gemeinschaftsschule ""Galileo-Schule""","SL-5111-160011","Eichendorffweg 1, 66450 Bexbach",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06826-932929","06826-93290",
-"Gemeinschaftsschule Blieskastel","SL-5112-260011","Schulzentrum, 66440 Blieskastel",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06842/923766","06842/923760",
-"Gemeinschaftsschule","SL-5113-260011","Schulzentrum, 66453 Gersheim",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06843-9007-127","06843-9007-29",
-"Gemeinschaftsschule Homburg I","SL-5114-160011","Virchowstraße 7, 66424 Homburg",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06841-923326","06841/92330",
-"Gemeinschaftsschule Homburg II","SL-5114-160021","Cranachstraße 7, 66424 Homburg",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06841/9729321","06841/972930",
-"Gemeinschaftsschule Kirkel- Limbach","SL-5115-160011","Hauptstraße 75, 66459 Kirkel-Limbach",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06841-980429","06841-980040",
-"Gemeinschaftsschule Mandelbachtal","SL-5116-260011","Vichter Straße 1, 66399 Mandelbachtal",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06803/390020","06803/39000",
-"Gemeinschaftsschule I St. Ingbert","SL-5117-260011","Im Schmelzerwald 66, 66386 St. Ingbert",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06894-960918","06894/96090",
-"Gemeinschaftsschule St. Ingbert-Rohrbach","SL-5117-260021","Sportplatzstraße 3, 66386 St. Ingbert",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06894/9989829","06894/9989820",
-"Gemeinschaftsschule Freisen","SL-6111-260011","Schulstraße 43, 66629 Freisen",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06855/996902","06855/7992",
-"Gemeinschaftsschule","SL-6112-160011","Marienstrasse 21, 66646 Marpingen",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06853-910611","06853-91060",
-"Gemeinschaftsschule","SL-6114-260011","Trierer Straße 23, 66625 Nohfelden-Türkismühle",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06852-902511","06852-90250",
-"Gemeinschaftsschule St. Wendel","SL-6117-160011","Willi-Graf-Straße 3, 66606 St. Wendel",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06851/931933","06851/93190",
-"Gemeinschaftsschule Tholey","SL-6118-160011","Toni Lermen Straße 2, 66636 Tholey-Theley",,"Gemeinschaftsschule","Gemeinschaftsschule",1,"06853/912850","06853/9128-0",
-"Abendgymnasium Saarbrücken","SL-1100-015011","Am Landwehrplatz 3, 66111 Saarbrücken",,"Abendgymnasium-Saarland-Kolleg","Abend-Gymnasium",1,,"0681-3798118",
-"Saarland-Kolleg","SL-1100-016011","Rheinstraße 95, 66113 Saarbrücken",,"Abendgymnasium-Saarland-Kolleg","Abend-Gymnasium",1,"0681-754826","0681-751610",
+address,fax,full_time_school,id,lat,lon,name,official_id,phone,school_type,school_type_entity,state
+"Rostocker Straße 97, 66121 Saarbrücken",0681-812501,false,SL-1100-101031,49.236615,7.042201,Grundschule Eschberg,101031,0681-812121,Grundschule,Grundschule,SL
+"Schumannstraße 42, 66111 Saarbrücken",0681-36628,true,SL-1100-101051,49.237816,7.002197,Max-Ophüls-Grundschule Saarbrücken,101051,0681-36684,Grundschule,Grundschule,SL
+"St. Josef-Straße 11, 66115 Saarbrücken",0681-4171585,true,SL-1100-101071,49.240982,6.973557,Ganztagsgrundschule Saarbrücken-Kirchberg,101071,0681-42090,Grundschule,Grundschule,SL
+"Am Geisenberg 41, 66125 Saarbrücken",06897-972382,true,SL-1100-101081,49.268632,7.047704,Grundschule Dudweiler,101081,06897-972380,Grundschule,Grundschule,SL
+"Im Knappenroth 2, 66113 Saarbrücken",0681-7300540,true,SL-1100-101111,49.250831,6.964733,Grundschule Rastpfuhl,101111,0681 - 71704,Grundschule,Grundschule,SL
+"Am Hof 28, 66113 Saarbrücken",0681-41620021,true,SL-1100-101131,49.25813,6.974559,Grundschule Russhütte,101131,0681-41166,Grundschule,Grundschule,SL
+"Kirchberg 3, 66115 Saarbrücken",0681-4170211,true,SL-1100-101151,49.24133,6.975818,Grundschule Saarbrücken- Wallenbaum,101151,0681-42001,Grundschule,Grundschule,SL
+"Saarbrücker Straße 289, 66125 Saarbrücken",0681-905-2367,true,SL-1100-101211,49.278832,7.03692,Grundschule Turmschule Dudweiler,101211,0681-905-8960,Grundschule,Grundschule,SL
+"Marktstraße 43, 66125 Saarbrücken",06897/972961,true,SL-1100-101221,49.274718,7.010377,Grundschule Herrensohr,101221,06897-762486,Grundschule,Grundschule,SL
+"Schulstraße 10, 66133 Saarbrücken-Scheidt",0681-814674,true,SL-1100-101261,49.204218,7.109199,Freiwillige Ganztagsgrundschule Plus Sbr.-Scheidt,101261,0681-814652,Grundschule,Grundschule,SL
+"Im Knappenroth, 66113 Saarbrücken",0681-74339,true,SL-1100-101301,49.251556,6.968102,Ganztagsgrundschule Rastpfuhl,101301,0681-74325,Grundschule,Grundschule,SL
+"Ziegelstrasse 35, 66113 Saarbrücken",0681-498776,false,SL-1100-101311,49.24674,6.986287,Grundschule Rodenhof,101311,0681-42394,Grundschule,Grundschule,SL
+"Hellwigstraße 20, 66121 Saarbrücken",0681-66497,true,SL-1100-101331,49.232564,7.01399,Grundschule Saarbrücken-Ost,101331,0681-66497,Grundschule,Grundschule,SL
+"Dellengartenstraße 2, 66117 Saarbrücken",0681-5849460,false,SL-1100-201021,49.230821,6.98069,Grundschule Dellengarten,201021,0681-5849462,Grundschule,Grundschule,SL
+"Im Füllengarten 89, 66115 Saarbrücken",0681-9767125,true,SL-1100-201041,49.24617,6.928738,Grundschule Füllengarten,201041,0681-9767124,Grundschule,Grundschule,SL
+"Am Heidenhübel 1, 66117 Saarbrücken",0681-5849412,true,SL-1100-201081,49.216017,6.962295,Grundschule Folsterhöhe,201081,0681-57870,Grundschule,Grundschule,SL
+"Moltkestraße 31, 66117 Saarbrücken",0681-581877,true,SL-1100-201091,49.23093,6.970312,Grundschule Am Ordensgut,201091,0681-581882,Grundschule,Grundschule,SL
+"Arnulfstraße 15, 66119 Saarbrücken",0681-9850189,true,SL-1100-201141,49.218774,7.016507,Grundschule St. Arnual,201141,0681-9850184,Grundschule,Grundschule,SL
+"Große Weyersbergstraße 7, 66115 Saarbrücken",0681-76542,false,SL-1100-201161,49.242783,6.948208,Offene Ganztagsgrundschule Weyersberg,201161,0681-79939,Grundschule,Grundschule,SL
+"Kirchstraße 1-3, 66126 Saarbrücken",06898-984047,true,SL-1100-201171,49.212387,7.037837,Grundschule Altenkessel,201171,06898-984046,Grundschule,Grundschule,SL
+"Bergstraße 63, 66129 Saarbrücken-Bübingen",06805-8407,false,SL-1100-201201,49.18226,7.045509,Grundschule Bübingen,201201,06805-8416,Grundschule,Grundschule,SL
+"Aschbachstraße 38, 66128 Saarbrücken-Gersweiler",0681-7020492,true,SL-1100-201241,49.237815,6.911504,Grundschule Gersweiler,201241,0681-9970110,Grundschule,Grundschule,SL
+"Friedrich-Ebert-Straße 23, 66132 Saarbrücken-Bischmisheim",0681-9893044,true,SL-1100-201271,49.19325,7.024145,Grundschule Saarbrücken-Am Geisberg,201271,0681-9893045,Grundschule,Grundschule,SL
+"Am Marktweg, 66131 Saarbrücken-Ensheim",06893-2548,true,SL-1100-201281,49.22408885,7.1130534999999995,Grundschule Ensheim,201281,06893-2536,Grundschule,Grundschule,SL
+"Peter-und-Paul-Straße 38, 66130 Saarbrücken-Brebach-Fechingen",0681-872181,true,SL-1100-201291,49.211988,7.048128,Grund- und Ganztagsgrundschule,201291,0681-872121,Grundschule,Grundschule,SL
+"Hohe Wacht 25, 66119 Saarbrücken",0681-5893786,true,SL-1100-201301,49.220475,6.985713,Grundschule Hohe Wacht,201301,0681-55826,Grundschule,Grundschule,SL
+"Schulstraße 30, 66130 Saarbrücken-Brebach-Fechingen",,true,SL-1100-201322,49.201295,7.067612,Private Grundschule Don Bosco,201322,06893/802759,Grundschule,Grundschule,SL
+"Hauptstraße 53, 66127 Saarbrücken-Klarenthal",06898-32774,true,SL-1100-201351,49.23677,6.931615,Grundschule Klarenthal,201351,06898-32772,Grundschule,Grundschule,SL
+"Halbergstraße 112, 66121 Saarbrücken",0681 - 638000,true,SL-1100-301362,49.230323,7.016476,Ecole Francaise de Sarrebruck et Dilling,301362,0681 - 62624,Grundschule,Grundschule,SL
+"Bismarckstraße 4, 66299 Friedrichsthal",06897-812278,true,SL-1511-101011,49.325419,7.095324,Grundschule Friedrichsthal,101011,06897-842411,Grundschule,Grundschule,SL
+"Birkenweg 7, 66299 Friedrichsthal-Bildstock",06897-843687,true,SL-1511-101021,49.3357,7.09585,Grundschule Bildstock,101021,06897-842533,Grundschule,Grundschule,SL
+"Wilhelm-Heinrich-Weg 2, 66352 Grossrosseln",06898-40567,true,SL-1512-201031,49.205557,6.836424,Wilhelm-Heinrich-Grundschule der Gemeinde Grossrosseln,201031,06898-40546,Grundschule,Grundschule,SL
+"Dilsburger Straße 2, 66265 Heusweiler",06806-608232,false,SL-1513-301011,49.33389,6.933143,Grundschule Heusweiler,301011,06806-608230,Grundschule,Grundschule,SL
+"Glück-Auf-Weg, 66265 Heusweiler-Holz",06806-989367,true,SL-1513-301061,49.330443,6.939072,Grundschule Holz - Erich Kästner Schule,301061,06806-8773,Grundschule,Grundschule,SL
+"Auf dem Bies 23, 66271 Kleinblittersdorf-Auersmacher",06805-912003,true,SL-1514-201011,49.145721,7.050773,Grundschule Auersmacher Rilchingen-Hanweiler,201011,06805-8565,Grundschule,Grundschule,SL
+"Wintringer Straße 78, 66271 Kleinblittersdorf",06805-2008638,true,SL-1514-201051,49.163134,7.041739,Grundschule Kleinblittersdorf,201051,06805-2008-631,Grundschule,Grundschule,SL
+"Goethestraße, 66346 Püttlingen",06898-689980,true,SL-1515-301011,49.2909375,6.8788063,Grundschule Püttlingen I,301011,06898-61885,Grundschule,Grundschule,SL
+"Zur Sporthalle, 66346 Püttlingen",06806-922869,true,SL-1515-301031,49.3064066,6.8984617,Grundschule Köllerbach,301031,06806-48791,Grundschule,Grundschule,SL
+"Theodolinde-Katzenmaier-Straße 5, 66346 Püttlingen",06898-689572,true,SL-1515-301041,49.278117,6.911504,Grundschule Viktoria Püttlingen-Ritterstraße,301041,06898-67271,Grundschule,Grundschule,SL
+"Lasbachstraße 21, 66287 Quierschied",06897-601438,false,SL-1516-301011,49.320981,7.045508,Grundschule Lasbach,301011,06897-63006,Grundschule,Grundschule,SL
+"Hauptstraße 189, 66287 Quierschied-Göttelborn",06825-8007700,true,SL-1516-301021,49.342881,7.027291,Grundschule Fischbach-Göttelborn,301021,06825-5680,Grundschule,Grundschule,SL
+"Lindenschule, 66292 Riegelsberg",06806-860682,true,SL-1517-301011,49.294214,6.953389,Grundschule Riegelsberg,301011,06806-3683,Grundschule,Grundschule,SL
+"Ellerstraße 7, 66292 Riegelsberg",06806-102119,true,SL-1517-301021,49.315735,6.942065,Grundschule Hilschbach-Walpershofen,301021,06806-2719,Grundschule,Grundschule,SL
+"Wolfskaulstraße 88, 66292 Riegelsberg",06806-860591,true,SL-1517-301031,49.298799,6.93031,Grundschule Pflugscheid,301031,06806-3684,Grundschule,Grundschule,SL
+"Mellinweg 13, 66280 Sulzbach",06897-569481,true,SL-1518-101011,49.303206,7.061291,Grundschule Sulzbach I Mellin Schule,101011,06897-4936,Grundschule,Grundschule,SL
+"Richard Eberle Str.1, 66280 Sulzbach-Altenwald",06897-88114,false,SL-1518-101021,49.3162917,7.0793035,Grundschule II Sulzbach-Altenwald Waldschule,101021,06897-88107,Grundschule,Grundschule,SL
+"Bergstraße 30, 66333 Völklingen",06898-23442,false,SL-1519-301011,49.254498,6.854869,Grundschule Bergstrasse/Hermann-Röchling-Höhe,301011,06898-23316,Grundschule,Grundschule,SL
+"Haydnstraße 44, 66333 Völklingen",06898-294402,false,SL-1519-301021,49.258685,6.863138,Grundschule Haydnstrasse,301021,06898-23831,Grundschule,Grundschule,SL
+"Am Hasseleich 19, 66333 Völklingen-Fürstenhausen",06898-935366,true,SL-1519-301031,49.2392,6.867466,Grundschule Fürstenhausen,301031,06898-31320,Grundschule,Grundschule,SL
+"Schulstraße 12, 66333 Völklingen-Ludweiler",06898-439016,true,SL-1519-301071,49.217974,6.807752,Grundschule Ludweiler-Lauterbach,301071,06898-40117,Grundschule,Grundschule,SL
+"Neckarstraße 12, 66333 Völklingen-Heidstock",06898-851167,true,SL-1519-301091,49.25764,6.883518,Grundschule Heidstock-Luisenthal,301091,06898-851055,Grundschule,Grundschule,SL
+"Kleine Bergstraße 3, 66333 Völklingen- Wehrden",06898-16370,true,SL-1519-301101,49.248344,6.827892,Grundschule Wehrden/Geislautern - Regenbogenschule,301101,"Wehrden: 06898-26639
+Geislautern: 06898-7263",Grundschule,Grundschule,SL
+"Zur Plätsch, 66701 Beckingen",06832-446,true,SL-2111-201041,49.451128,6.764953,Grundschule Reimsbach,201041,06832-801612,Grundschule,Grundschule,SL
+"Pfarrer-Gierend-Straße 5, 66701 Beckingen",06832-801395,true,SL-2111-201051,49.41513,6.763323,Grundschule Düppenweiler,201051,06832-383,Grundschule,Grundschule,SL
+"Schulstraße 5, 66701 Beckingen",06835-601790,true,SL-2111-201061,49.387369,6.702509,Grundschule Beckingen,201061,06835-601789,Grundschule,Grundschule,SL
+"Schulstraße 11, 66679 Losheim am See",06872-8624,true,SL-2112-201011,49.508761,6.747346,Nicolaus-Voltz-Grundschule-Losheim,201011,06872-2295,Grundschule,Grundschule,SL
+"Quellenstraße 14, 66679 Losheim am See-Bachem",06872-887008,true,SL-2112-201021,49.477988,6.709198,Grundschule Bachem-Britten,201021,06872-2675,Grundschule,Grundschule,SL
+"Am Herrenpfad 4, 66679 Losheim am See-Wahlen",06872-8474,true,SL-2112-201041,49.488128,6.778596,Grundschule Wahlen,201041,06872-2556,Grundschule,Grundschule,SL
+"Kreuzbergstraße 51, 66663 Merzig",06861-793601,false,SL-2113-101011,49.446023,6.64278,Grundschule Kreuzberg,101011,06861-6684,Grundschule,Grundschule,SL
+"Beethovenstrasse 2, 66663 Merzig",06861-790654,false,SL-2113-101021,49.452682,6.635713,Grundschule St. Josef,101021,06861-6378,Grundschule,Grundschule,SL
+"Bezirksstraße 100, 66663 Merzig-Besseringen",06861 790682,false,SL-2113-101051,49.45,6.61667,Grundschule Besseringen,101051,06861-2944,Grundschule,Grundschule,SL
+"Zum Schotzberg 3, 66663 Merzig-Schwemlingen",06861-2560,true,SL-2113-101061,49.464967,6.588315,Grundschule Saargau,101061,06861-3750,Grundschule,Grundschule,SL
+"Ringstrasse 1, 66663 Merzig",06861-790151,true,SL-2113-101071,49.47302,6.677886,Grundschule Brotdorf,101071,06861-3789,Grundschule,Grundschule,SL
+"Schulstraße 26, 66663 Merzig-Hilbringen",06861 79322,true,SL-2113-101081,49.437192,6.613307,Grundschule Hilbringen,101081,06861-3222,Grundschule,Grundschule,SL
+"Martinusstraße, 66663 Merzig-Bietzen",,true,SL-2113-101092,49.410409,6.668579,"Private Grundschule ""Forscherschule""",101092,06861-8390578,Grundschule,Grundschule,SL
+"Von-Boch-Liebieg-Straße 34, 66693 Mettlach",06864-1390,true,SL-2114-101011,49.5,6.58333,Grundschule Langwies der Gemeinde Mettlach,101011,06864-1390,Grundschule,Grundschule,SL
+"Saarburger Straße, 66693 Mettlach-Orscholz",06865 180213,true,SL-2114-101021,49.4940158,6.5852876,Grundschule Orscholz,101021,06865-322,Grundschule,Grundschule,SL
+"Kirschenstraße 6-8, 66706 Perl",06867-560023,true,SL-2115-101011,49.47741,6.394147,Grundschule Dreiländereck  Schule der Gemeinde Perl,101011,06867-560022,Grundschule,Grundschule,SL
+"Michaelstraße 4, 66687 Wadern-Lockweiler",06871-922723,true,SL-2116-201031,49.528012,6.926533,Grundschule Lockweiler,201031,06871-2596,Grundschule,Grundschule,SL
+"Saarbruecker Straße 65, 66687 Wadern-Nunkirchen",06874-182816,false,SL-2116-201041,49.51667,6.86667,Grundschule Nunkirchen,201041,06874-263,Grundschule,Grundschule,SL
+"Schlimmfeldstraße 1, 66687 Wadern-Wadrill",06871-922761,true,SL-2116-201051,49.585478,6.891312,Grundschule St. Martin Wadrill-Steinberg,201051,06871-2376,Grundschule,Grundschule,SL
+"Schulstraße10, 66709 Weiskirchen",06876-791802,true,SL-2117-201011,49.55611,6.82,Grundschule Weiskirchen,201011,06876-373,Grundschule,Grundschule,SL
+"St.Sebastianstraße 1, 66571 Eppelborn",06881-88693,true,SL-3111-201011,49.38333,6.96667,Grundschule Eppelborn,201011,06881-6642,Grundschule,Grundschule,SL
+"Jägerbergstraße 2, 66571 Eppelborn-Wiesbach",06806-81361,true,SL-3111-201051,49.369338,6.981516,Grundschule Wiesbach-Dirmingen,201051,06806-81305,Grundschule,Grundschule,SL
+"In der Humes 40, 66571 Eppelborn-Humes",06881-8994738,true,SL-3111-201062,49.38865,6.99796,Private Montessori-Grundschule,201062,06881-8994716,Grundschule,Grundschule,SL
+"Dr.Maxein-Straße 2, 66557 Illingen",06825-499519,true,SL-3112-201031,49.36667,7.03333,"Grundschule An der Ill, Hüttigweiler",201031,06825-2840,Grundschule,Grundschule,SL
+"In der Drischeck, 66557 Illingen-Uchtelfangen",06825-499518,true,SL-3112-201041,49.36667,7.03333,Grundschule Uchtelfangen,201041,06825-3010,Grundschule,Grundschule,SL
+"Schulstrasse 4, 66557 Illingen",06825-47465,true,SL-3112-201051,49.374258,7.052597,"Grundschule Auf der Lehn, Illingen",201051,06825-47354,Grundschule,Grundschule,SL
+"Allenfeldstraße, 66589 Merchweiler",06825-970210,true,SL-3113-201011,49.3564362,7.0618136,Grundschule Merchweiler,201011,06825-7780,Grundschule,Grundschule,SL
+"Zum Striedt 59, 66589 Merchweiler-Wemmetsweiler",06825-499738,false,SL-3113-201021,49.370174,7.08505,Grundschule Merchweiler-Wemmetsweiler,201021,06825-2144,Grundschule,Grundschule,SL
+"Kleiststraße 30, 66538 Neunkirchen",06821 9728485,false,SL-3114-101011,49.35088,7.180937,Grundschule Bachschule Neunkirchen,101011,06821-23455,Grundschule,Grundschule,SL
+"Berthold-Günther-Platz 5, 66539 Neunkirchen-Wellesweiler",06821-485341,true,SL-3114-101051,50.79972,8,Grundschule Wellesweiler,101051,06821-41252,Grundschule,Grundschule,SL
+"Kuchenbergstraße 47, 66540 Neunkirchen-Wiebelskirchen",06821-953475,true,SL-3114-101081,49.36917,7.186046,Grundschule Wiebelskirchen,101081,06821-53691,Grundschule,Grundschule,SL
+"Freiherr-von-Stein-Straße 6, 66540 Neunkirchen",06821-179228,false,SL-3114-101091,49.338634,7.191438,Ganztagsgrundschule Am Stadtpark,101091,06821-23429,Grundschule,Grundschule,SL
+"Zur Ewigkeit 7, 66539 Neunkirchen-Furpach",06821-308883,true,SL-3114-101101,49.322659,7.21608,Grundschule Furpach,101101,06821-31821,Grundschule,Grundschule,SL
+"Nachtigallenweg 45 a, 66538 Neunkirchen-Steinwald",06821-9046648,true,SL-3114-101111,49.345717,7.1999,Grundschule Steinwald,101111,06821-4018744,Grundschule,Grundschule,SL
+"Prälat-Schütz-Straße 15, 66540 Neunkirchen-Wiebelskirchen",06821-950444,true,SL-3114-102032,49.366518,7.189038,Grundschule (privat),102032,06821-95040,Grundschule,Grundschule,SL
+"Freiherr v. Stein-Straße 16, 66564 Ottweiler",06824-709573,true,SL-3115-201011,49.413005850000005,7.1917655,Grundschule Lehbesch,201011,06824-2172,Grundschule,Grundschule,SL
+"Betzelbacher Weg 17, 66564 Ottweiler-Neumünster",06824-300904,true,SL-3115-201021,49.403883,7.17317,Grundschule Neumünster,201021,06824-4310,Grundschule,Grundschule,SL
+"Comeniusstraße 9, 66578 Schiffweiler",06821-634412,true,SL-3116-201011,49.367479,7.127134,Grundschule Schiffweiler,201011,06821-6048,Grundschule,Grundschule,SL
+"Im Wiesengrund, 66578 Schiffweiler-Landsweiler-Reden",06821-635523,true,SL-3116-201031,49.361316,7.127437,Grundschule Landsweiler-Reden,201031,06821-63174,Grundschule,Grundschule,SL
+"Karlstraße 19, 66578 Schiffweiler-Heiligenwald",06821-635516,true,SL-3116-201041,49.354878,7.098692,Grundschule Heiligenwald,201041,06821-6017,Grundschule,Grundschule,SL
+"Pestalozzistraße 3, 66583 Spiesen-Elversberg (Elversberg)",06821-742249,false,SL-3117-101011,49.313241,7.12619,Grundschule Elversberg,101011,06821-78168,Grundschule,Grundschule,SL
+"Pastor-Kollmann-Straße, 66583 Spiesen-Elversberg (Spiesen)",06821-742228,false,SL-3117-101021,49.316131,7.15118,Grundschule Spiesen,101021,06821-78163,Grundschule,Grundschule,SL
+"Römerstraße 7, 66763 Dillingen-Pachten",06831-1 27 38 35,true,SL-4111-201011,48.597606,10.543148,Grundschule Dillingen I -Römerschule-,201011,06831-1 27 28 84,Grundschule,Grundschule,SL
+"Kerlinger Straße 2, 66763 Dillingen",06831/7682059,true,SL-4111-201021,49.345216,6.718444,Grundschule Dillingen II - Philipp-Schmitt-Schule,201021,06831/7685670,Grundschule,Grundschule,SL
+"Friedrich-Ebert-Straße 69, 66763 Dillingen",06831-7614842,true,SL-4111-201031,49.358126,6.723448,Grundschule Dillingen III Odilienschule,201031,06831-7614840,Grundschule,Grundschule,SL
+"Richard-Wagner-Straße 16, 66763 Dillingen",06831-769508,true,SL-4111-201041,49.371226,6.764857,Primsschule Grundschule Dillingen IV,201041,06831-79886,Grundschule,Grundschule,SL
+"Mottener Straße 46, 66822 Lebach",06881-5390147,false,SL-4112-101011,49.414085,6.903446,Grundschule Lebach,101011,06881-537015,Grundschule,Grundschule,SL
+"Im Breitenfeld, 66822 Lebach-Landsweiler",06881-537758,true,SL-4112-101061,49.391933,6.923229,Grundschule Landsweiler,101061,06881-2116,Grundschule,Grundschule,SL
+"Pestalozzistraße 2-3, 66822 Lebach",06888-901324,false,SL-4112-101071,49.462597,6.955548,Grundschule Steinbach,101071,06888-282,Grundschule,Grundschule,SL
+"Dillinger Straße 67, 66822 Lebach",06881-91324,true,SL-4112-101092,49.404791,6.895171,Grundschule Lebach (Nikolaus Groß),101092,06881-91323,Grundschule,Grundschule,SL
+"Piesbacher Str. 11a, 66809 Nalbach",06838-9812019,true,SL-4113-101031,49.38039,6.791233,Grundschule Nalbach,101031,06838-981200,Grundschule,Grundschule,SL
+"Niedaltdorfer Straße 32, 66780 Rehlingen-Siersburg",06833-894652,true,SL-4114-201031,49.354785,6.613296,Grundschule Hemmersdorf,201031,06833-235,Grundschule,Grundschule,SL
+"Zum Horst 12, 66780 Rehlingen-Siersburg",06835-601349,true,SL-4114-201041,49.357686,6.665181,Grundschule Siersburg,201041,06835-601348,Grundschule,Grundschule,SL
+"Beckinger Straße 25, 66780 Rehlingen-Siersburg",06835-600132,true,SL-4114-201051,49.37949,6.684736,Grundschule Rehlingen,201051,06835-600130,Grundschule,Grundschule,SL
+"Taubenstraße 1, 66740 Saarlouis",06831-94589430,true,SL-4115-101021,49.309002,6.74138,Grund- und Ganztagsgrundschule,101021,06831-9458940,Grundschule,Grundschule,SL
+"Bruchwiesenstraße 2, 66740 Saarlouis-Beaumarais",06831-9969926,true,SL-4115-101031,49.314001,6.723667,Grundschule Beaumarais,101031,06831-996992,Grundschule,Grundschule,SL
+"Klosterstraße 17, 66740 Saarlouis-Fraulautern",06831-98698719,true,SL-4115-101041,49.323138,6.762839,Grundschule Im Alten Kloster,101041,06831-9869870,Grundschule,Grundschule,SL
+"Prof.-Ecker-Straße 13, 66740 Saarlouis-Lisdorf",06831-94588920,true,SL-4115-101061,49.301106,6.762984,Grundschule Lisdorf,101061,06831-9458890,Grundschule,Grundschule,SL
+"Roemerstraße 20, 66740 Saarlouis-Roden",06831-98698117,false,SL-4115-101071,49.31667,6.75,Grundschule Römerberg,101071,06831-9869810,Grundschule,Grundschule,SL
+"Kurt-Schumacher-Allee 127, 66740 Saarlouis-Steinrausch",06831-9869893,true,SL-4115-101081,49.334253,6.765108,Grundschule Steinrausch,101081,06831-9869890,Grundschule,Grundschule,SL
+"Rodener Straße 11b, 66793 Saarwellingen",06838 983808,true,SL-4116-101011,49.35396,6.799716,Grundschule Gutberg Saarwellingen,101011,06838-983807,Grundschule,Grundschule,SL
+"Lohwiese 13, 66793 Saarwellingen-Reisbach",06838 830847,true,SL-4116-101031,49.351209,6.828922,Grundschule Reisbach,101031,06838-830846,Grundschule,Grundschule,SL
+"Saarbrücker Straße 37, 66839 Schmelz",06887-889611,true,SL-4117-101011,49.440871,6.860859,Grundschule Schmelz,101011,06887-2502,Grundschule,Grundschule,SL
+"Im Fluerchen 19a, 66839 Schmelz-Hüttersdorf",06887-300094,true,SL-4117-101031,49.41888,6.843481,Grundschule Hüttersdorf,101031,06887-2391,Grundschule,Grundschule,SL
+"Am Howatt 29, 66773 Schwalbach",06834-401868,true,SL-4118-201021,49.299391,6.801911,Grundschule Schwalbach Kirchbergschule,201021,06834-52700,Grundschule,Grundschule,SL
+"Bachtalschule, 66773 Schwalbach-Elm",06834-952791,true,SL-4118-201051,49.29145,6.83796,Grundschule Elm,201051,06834-51180,Grundschule,Grundschule,SL
+"Zur Turnhalle 7, 66773 Schwalbach-Hülzweiler",06831-5010116,true,SL-4118-201061,49.321341,6.816508,Grundschule Hülzweiler,201061,06831-52237,Grundschule,Grundschule,SL
+"Waldstraße 15, 66802 Überherrn",06836-2724,true,SL-4119-201011,49.238945,6.696793,Grundschule Überherrn,201011,06836-2644,Grundschule,Grundschule,SL
+"St. Oranna, 66802 Überherrn",06836-684991,true,SL-4119-201041,49.25,6.7,Grundschule Berus,201041,06836-2426,Grundschule,Grundschule,SL
+"Abteistraße 18a, 66787 Wadgassen",06834-409433,true,SL-4120-201011,49.268759,6.798807,Grundschule Wadgassen,201011,06834-409428,Grundschule,Grundschule,SL
+"Friedhofstraße 10, 66787 Wadgassen",06834-697204,true,SL-4120-201031,49.240115,6.776975,Grundschule Differten/Werbeln,201031,06834-61460,Grundschule,Grundschule,SL
+"Kaiserstraße 17 A, 66787 Wadgassen-Hostenbach",06834-49677,true,SL-4120-201041,49.263003,6.823257,Grundschule Hostenbach-Schaffhausen,201041,06834-490629,Grundschule,Grundschule,SL
+"Adolphshöhe 1, 66798 Wallerfangen",06831-643422,true,SL-4121-201021,49.31278,6.735,Grundschule Wallerfangen,201021,06831-965199,Grundschule,Grundschule,SL
+"Gaustraße 22, 66798 Wallerfangen-Gisingen",06837-7080051,true,SL-4121-201031,49.33351,6.658061,Grundschule Wallerfangen-Gisingen,201031,06837-91001,Grundschule,Grundschule,SL
+"Auf der Mühlenscheib, 66359 Bous",06834-922217,true,SL-4122-201031,49.281644,6.804853,Grundschule Bous,201031,06834-922215,Grundschule,Grundschule,SL
+"Parkstr.16, 66806 Ensdorf",06831-507441,true,SL-4123-201051,49.3,6.76667,Grundschule Ensdorf,201051,06831-506096,Grundschule,Grundschule,SL
+"Schillerstraße 8b, 66450 Bexbach",06826-189680,true,SL-5111-101011,49.351472,7.254306,Grundschule Bexbach,101011,06826 5959,Grundschule,Grundschule,SL
+"Pfarrer-Layes-Straße, 66450 Bexbach-Frankenholz",06826-800842,true,SL-5111-101021,49.3788678,7.2571333,Schillerschule Grundschule am Höcherberg,101021,06826-800843,Grundschule,Grundschule,SL
+"Am Kälberberg, 66450 Bexbach-Oberbexbach",06826-800970,true,SL-5111-101051,49.349001,7.258511,Grundschule Oberbexbach,101051,06826-6013,Grundschule,Grundschule,SL
+"Edith-Stein-Straße 4, 66440 Blieskastel-Lautzkirchen",06842-538812,true,SL-5112-201021,49.251037,7.257086,"Grundschule Blieskastel, Kirchberg-Schlossberg",201021,06842-3566,Grundschule,Grundschule,SL
+"Griessackerweg 13, 66440 Blieskastel-Breitfurt",06842-538148,false,SL-5112-201071,49.2263891,7.2684335,Grundschule Breitfurt/Blickweiler,201071,06842-2474,Grundschule,Grundschule,SL
+"Kirkeler Straße 41, 66440 Bliesk. - Niederwürzbach",06842-891750,true,SL-5112-201081,49.246038,7.201341,Grundschule am Würzbacher Weiher,201081,06842-6183,Grundschule,Grundschule,SL
+"Burgstraße 11, 66453 Gersheim-Medelsheim",06844-991273,true,SL-5113-201021,49.144851,7.267909,Grundschule Medelsheim,201021,06844-324,Grundschule,Grundschule,SL
+"Grenzlandstraße 3, 66453 Gersheim-Reinheim",06843-902608,true,SL-5113-201031,49.139341,7.179604,Grundschule Reinheim,201031,06843-283,Grundschule,Grundschule,SL
+"Thomastraße 15, 66424 Homburg",06841-756679,true,SL-5114-101021,49.332593,7.331111,Grundschule Langenäcker,101021,06841-78274,Grundschule,Grundschule,SL
+"Rosenstraße 22, 66424 Homburg-Bruchhof",06841-120565,false,SL-5114-101041,49.344636,7.366427,Grundschule Bruchhof,101041,06841-3219,Grundschule,Grundschule,SL
+"Luitpoldstraße 9, 66424 Homburg",06841-757319,false,SL-5114-101051,49.341951,7.33352,Grundschule Luitpold,101051,06841-78465,Grundschule,Grundschule,SL
+"Akazienweg 3, 66424 Homburg",06841-99300715,false,SL-5114-101061,49.311153,7.339683,Grundschule Sonnenfeld,101061,06841-9930070,Grundschule,Grundschule,SL
+"Im Wieschen, 66424 Homburg-Einöd",06848-730009,true,SL-5114-101081,49.273661,7.321802,Grundschule Einöd,101081,06848-6366,Grundschule,Grundschule,SL
+"Talstraße 1-3, 66459 Kirkel-Limbach",06841-890134,true,SL-5115-101021,49.472587,9.150975,Grundschule Limbach,101021,06841-80583,Grundschule,Grundschule,SL
+"Friedhofstraße, 66459 Kirkel-Neuhäusel",06849-774,true,SL-5115-101031,49.285169,7.230998,Grundschule Kirkel-Neuhäusel,101031,06849-325,Grundschule,Grundschule,SL
+"Schützengasse 6, 66399 Mandelbachtal-Erfweiler-Ehlingen",,true,SL-5116-201031,49.196805,7.181666,Arnold-Rütter-Schule der Gemeinde Mandelbachtal,201031,06803-2758,Grundschule,Grundschule,SL
+"Theo - Carlen - Platz 4, 66399 Mandelbachtal-Ormesheim",06893-986104,true,SL-5116-201051,49.198191,7.144082,Theo-Carlen-Schule der Gemeinde Mandelbachtal,201051,06893-3881,Grundschule,Grundschule,SL
+"Robert-Koch-Straße 4, 66386 St.Ingbert",06894-382419,true,SL-5117-201011,49.289082,7.119337,Grundschule Albert-Weisgerber,201011,06894-37565,Grundschule,Grundschule,SL
+"Zur Rothell 20, 66386 St.Ingbert",06894-385989,true,SL-5117-201021,49.286051,7.097139,Grundschule Rischbachschule,201021,06894-34567,Grundschule,Grundschule,SL
+"Hochstraße 47, 66386 St.Ingbert-Rohrbach",06894-959085,false,SL-5117-201071,49.279784,7.165317,Grundschule Rohrbach Pestalozzischule,201071,06894-52413,Grundschule,Grundschule,SL
+"Fidelisstraße, 66386 St.Ingbert",06894-870214,false,SL-5117-201101,49.274704,7.128784,Grundschule Südschule,201101,06894-6913,Grundschule,Grundschule,SL
+"Hasenfelsstraße 12, 66386 St. Ingbert-Oberwürzbach",06894-5823232,true,SL-5117-201112,49.2418,7.144984,Montessori Grundschule Am Hasenfels,201112,06894/7710,Grundschule,Grundschule,SL
+"Rosenstr. 19 a, 66629 Freisen-Oberkirchen",06855/184656,true,SL-6111-201021,49.523183,7.25463,Grundschule Freisen/ Oberkirchen,201021,06855-344,Grundschule,Grundschule,SL
+"Marienstraße 21a, 66646 Marpingen",06853-9198598,true,SL-6112-101011,49.450854,7.05532,Grundschule Marpingen,101011,06853-9198590,Grundschule,Grundschule,SL
+"Goethestraße 8, 66640 Namborn",06854/90 895830,true,SL-6113-201011,49.518215,7.142682,"Grundschule Namborn, Marienschule",201011,06854/90 895810,Grundschule,Grundschule,SL
+"Kirchstraße 6, 66625 Nohfelden-Gonnesweiler",06852-802396,true,SL-6114-201011,49.566133,7.092526,Grundschule der Gemeinde Nohfelden,201011,06852-802395,Grundschule,Grundschule,SL
+"Auf der Geig 12, 66620 Nonnweiler",06873-992054,true,SL-6115-201031,49.609215,6.967284,Grundschule Nonnweiler,201031,06873-7131,Grundschule,Grundschule,SL
+"Schwimmbadstraße 35, 66649 Oberthal",06854-802757,true,SL-6116-201021,49.508196,7.079874,Grundschule Oberthal,201021,06854-802756,Grundschule,Grundschule,SL
+"Am Flur 12, 66606 St.Wendel-Oberlinxweiler",06851-840306,true,SL-6117-101021,49.454396,7.146732,Grundschule Oberlinxweiler,101021,06851-2942,Grundschule,Grundschule,SL
+"Webergasse, 66606 St.Wendel-Bliesen",06854-803726,false,SL-6117-101051,49.49273,7.113314,Grundschule Bliesen,101051,06854-8557,Grundschule,Grundschule,SL
+"Ebereschenstraße 18, 66606 St. Wendel-Niederkirchen",06856-892140,true,SL-6117-101061,49.469007,7.248523,Grundschule Niederkirchen,101061,06856-404,Grundschule,Grundschule,SL
+"Nikolaus-Obertreis-Straße, 66606 St. Wendel",06851-839371,true,SL-6117-101071,49.4645622,7.1715026,Grundschule Nikolaus-Obertreis,101071,06851-3221,Grundschule,Grundschule,SL
+"Parkstraße 7-9, 66636 Tholey-Hasborn-Dautweiler",06853-892367,true,SL-6118-101031,49.491465,6.981883,Grundschule Hasborn-Dautweiler,101031,06853-6440,Grundschule,Grundschule,SL
+"Selbacher Straße 4, 66636 Tholey-Theley",06853-5020562,true,SL-6118-101051,49.501724,7.022935,Grundschule Theley,101051,06853-5020561,Grundschule,Grundschule,SL
+"Von der Heydt 9a, 66115 Saarbrücken-Von der Heydt",0681-75359520,false,SL-1100-118011,49.241434,6.96088,Förderschule soziale Entwicklung,118011,0681-7535950,Förderschule,Förderschule,SL
+"Ziegelstrasse, 66113 Saarbrücken",0681-498693,false,SL-1100-317011,49.246887,6.987662,Förderschule Lernen,317011,0681-47741,Förderschule,Förderschule,SL
+"In den Grasgärten, 66126 Saarbrücken-Altenkessel",06898-81821,false,SL-1100-317021,49.2482586,6.9154553,Förderschule Lernen,317021,06898-81826,Förderschule,Förderschule,SL
+"Schulstraße 93, 66125 Saarbrücken-Dudweiler",0681-31230,false,SL-1100-317031,49.268722,7.007276,Förderschule Lernen Dudweiler,317031,0681-36155,Förderschule,Förderschule,SL
+"Winterbachsroth 9, 66125 Saarbrücken-Dudweiler",06897-9520905,false,SL-1100-420021,49.275879,7.03638,Förderschule geistige Entwicklung,420021,06897-952090,Förderschule,Förderschule,SL
+"Hofstraße 5a, 66299 Friedrichsthal-Bildstock",06897-88271,false,SL-1511-217011,49.333148,7.094364,Förderschule Lernen -Hofschule-,217011,06897-88223,Förderschule,Förderschule,SL
+"Goethestraße 8, 66265 Heusweiler",06806 9949939,false,SL-1513-420011,49.336842,6.924043,Förderschule geistige Entwicklung Heusweiler,420011,06806 9949930,Förderschule,Förderschule,SL
+"Köllertalstrasse 145, 66346 Püttlingen",06806-46649,false,SL-1515-121011,49.29443,6.891063,Förderschule körperliche und motorische Entwicklung,121011,06806-46630,Förderschule,Förderschule,SL
+"Brennender-Berg-Str., 66280 Sulzbach-Neuweiler",06897-567113,false,SL-1518-227011,49.288888888889,7.0536111111111,Förderschule Sprache Weierwiesschule,227011,06897-3512,Förderschule,Förderschule,SL
+"Friedhofstraße 9, 66333 Völklingen-Geislautern",06898-78286,false,SL-1519-117011,49.237487,6.833536,Förderschule Lernen,117011,06898-78235,Förderschule,Förderschule,SL
+"Im Schneppenbruch 14, 66679 Losheim am See/Niederlosheim",06872-887596,false,SL-2112-217011,49.501918,6.789229,"Förderschule Lernen, Schule Am Kappwald",217011,06872-2992,Förderschule,Förderschule,SL
+"Ringstrasse 3, 66663 Merzig-Brotdorf",06861-780907,false,SL-2113-117011,49.473544,6.676746,Förderschule Lernen -Schule Auf der Wild-,117011,06861-78461,Förderschule,Förderschule,SL
+"Zum Broch 3, 66663 Merzig-Merchingen",06861-792656,false,SL-2113-120011,49.441763,6.682816,Förderschule geistige Entwicklung,120011,06861-2668,Förderschule,Förderschule,SL
+"Am Wergkäulchen 22, 66687 Wadern-Noswendel",06871-921640,false,SL-2116-217011,49.527555,6.895606,Förderschule Lernen -Noswendel-,217011,06871-2588,Förderschule,Förderschule,SL
+"Am Rotenberg 3, 66571 Eppelborn-Dirmingen",06827-3552,false,SL-3111-220012,49.42156,7.011977,Private Förderschule geistige Entwicklung Rothenbergschule,220012,06827-415,Förderschule,Förderschule,SL
+"Am Markt, 66557 Illingen-Uchtelfangen",06825-406433,false,SL-3112-217011,49.36667,7.03333,Förderschule Lernen,217011,06825-3344,Förderschule,Förderschule,SL
+"Jägermeisterpfad, 66538 Neunkirchen",06821-290640,false,SL-3114-117011,49.356224,7.186056,Förderschule Lernen,117011,06821-2906 0,Förderschule,Förderschule,SL
+"Hardenbergstraße 2, 66538 Neunkirchen",06821-860244,false,SL-3114-118012,49.340383,7.192608,Private Förderschule soziale Entwicklung,118012,06821-860247,Förderschule,Förderschule,SL
+"Jägermeisterpfad, 66538 Neunkirchen",06821-290543,false,SL-3114-120011,49.356224,7.186056,Förderschule geistige Entwicklung,120011,06821-29050,Förderschule,Förderschule,SL
+"Am Buehl 8, 66564 Ottweiler-Mainzweiler",06824-91109,false,SL-3115-220012,49.402037,7.155663,Private Förderschule geistige Entwicklung,220012,06824-91107,Förderschule,Förderschule,SL
+"Luisenstraße 4, 66763 Dillingen",06831-767177,false,SL-4111-220012,49.348896,6.714917,Schule am Ökosee AWO Förderschule geistige Entwicklung,220012,06831/767171,Förderschule,Förderschule,SL
+"An der Ziegelhütte 1, 66822 Lebach",06881-53060,false,SL-4112-217011,49.415156,6.904996,Förderschule Lernen,217011,06881-3209,Förderschule,Förderschule,SL
+"Dillinger Straße 69, 66822 Lebach",06881-928309,false,SL-4112-223011,49.404611,6.891409,Förderschule für Gehörlose und Schwerhörige,223011,06881-928311,Förderschule,Förderschule,SL
+"Dillinger Straße 69, 66822 Lebach",06881-928400,false,SL-4112-226011,49.404611,6.891409,Förderschule für Blinde und Sehbehinderte,226011,06881-928321,Förderschule,Förderschule,SL
+"Zeughausstraße 32, 66740 Saarlouis",06831-460035,false,SL-4115-117011,49.317758,6.756091,Förderschule Lernen,117011,06831-3843,Förderschule,Förderschule,SL
+"Adolf-Hetzler-Straße 3, 66740 Saarlouis",06831-964794,false,SL-4115-118011,49.314572,6.754432,Förderschule soziale Entwicklung,118011,06831-61277,Förderschule,Förderschule,SL
+"Bahnhofstraße 269, 66793 Saarwellingen",06838 983901,false,SL-4116-120011,49.368324,6.793672,Förderschule geistige Entwicklung,120011,06838-983900,Förderschule,Förderschule,SL
+"Alleestraße 20, 66773 Schwalbach",06834-953901,false,SL-4118-117011,49.295446,6.797597,Anne-Frank-Schule Saarlouis Dependance Schwalbach,117011,06834-953900,Förderschule,Förderschule,SL
+"Am Schloss 10 - 10a, 66440 Blieskastel",06842-924317,false,SL-5112-217011,49.236211,7.255007,Förderschule Lernen - Franz-Carl-Schule,217011,06842-924328,Förderschule,Förderschule,SL
+"Oben am Dorf 60, 66453 Gersheim-Walsheim",06843-809-39,false,SL-5113-220012,49.157038,7.228198,Anna Betzner Schule  Förderschule G in freier Trägerschaft,220012,06843/809-0,Förderschule,Förderschule,SL
+"Warburgring 80, 66424 Homburg",06841-170096,false,SL-5114-000001,49.306691,7.338854,Der Landesbeauftragte für den Krankenhaus- und Hausunterricht,000001,06841-170092,Förderschule,Förderschule,SL
+"Spandauer Straße, 66424 Homburg",06841/9729430,false,SL-5114-117011,49.3406349,7.3283072,Förderschule Lernen,117011,06841-972940,Förderschule,Förderschule,SL
+"Spandauer Straße, 66424 Homburg",,false,SL-5114-120011,49.3406349,7.3283072,Förderschule geistige Entwicklung,120011,06841-972940,Förderschule,Förderschule,SL
+"Universitätskliniken 84, 66424 Homburg",06841-1627514,false,SL-5114-121011,49.303134,7.340201,Förderschule körperliche und motorische Entwicklung,121011,06841-1627400,Förderschule,Förderschule,SL
+"Zur Schnapphahner Dell 1, 66386 St. Ingbert",06894-9989925,false,SL-5117-217011,49.270124,7.101926,Förderschule Lernen,217011,06894-9989920,Förderschule,Förderschule,SL
+"Am Hirtenbrunnen 7, 66640 Namborn-Baltersweiler",06851/839896,false,SL-6113-220011,49.495608,7.163946,Förderschule geistige Entwicklung,220011,06851-3160,Förderschule,Förderschule,SL
+"Schwimmbadstraße 39, 66649 Oberthal",06854-7230,false,SL-6116-217011,49.509924,7.078162,Förderschule Lernen,217011,06854-7314,Förderschule,Förderschule,SL
+"Pestalozzistraße 7, 66606 St. Wendel",06851-806370,false,SL-6117-119011,49.472327,7.158928,Förderschule soziale Entwicklung - Wingert-Schule,119011,06851-6870,Förderschule,Förderschule,SL
+"Sachsenweg 3, 66121 Saarbrücken",0681-6683530,false,SL-1100-307042,49.234129,7.006891,Willi-Graf-Realschule,307042,0681-6683512,Realschule,Realschule,SL
+"Prälat-Schütz-Straße 15, 66540 Neunkirchen-Wiebelskirchen",06821-950444,true,SL-3114-108012,49.366518,7.189038,Maximilian-Kolbe-Schule,108012,06821-95040,Realschule,Realschule,SL
+"Auf der Meß 16, 66386 St. Ingbert",06894-3287,true,SL-5117-207022,49.277564,7.115909,Albertus-Magnus-Realschule (privat),207022,06894-2242,Realschule,Realschule,SL
+"Sachsenweg 8, 66121 Saarbrücken",0681-61598,false,SL-1100-350011,49.233296,7.007854,Erweiterte Realschule Bruchwiese,350011,0681/635032,erweiterte Realschule,erweiterte Realschule,SL
+"Hauptstraße 53, 66127 Saarbrücken",06898-935899,true,SL-1100-350041,49.23677,6.931615,Erweiterte Realschule Klarenthal,350041,06898/37558,erweiterte Realschule,erweiterte Realschule,SL
+"Saargemünder Straße 157, 66130 Saarbrücken",0681-8739990,true,SL-1100-450021,49.200915,7.027992,Erweiterte Realschule Güdingen,450021,0681/8739715,erweiterte Realschule,erweiterte Realschule,SL
+"Schulstraße 30, 66130 Saarbrücken-Fechingen",06893 8010127,true,SL-1100-450052,49.201295,7.067612,Private Erweiterte Realschule des Don-Bosco-Schulvereins,450052,0693 802759,erweiterte Realschule,erweiterte Realschule,SL
+"Schillerstraße 65, 66265 Heusweiler",06806/6634,true,SL-1513-250011,49.333335,6.923151,Erweiterte Realschule Heusweiler,250011,06806/6308,erweiterte Realschule,erweiterte Realschule,SL
+"Wintringer Straße 78, 66271 Kleinblittersdorf",06805-8427,true,SL-1514-450011,49.163134,7.041739,Erweiterte Realschule Kleinblittersdorf,450011,06805/1445,erweiterte Realschule,erweiterte Realschule,SL
+"Pickardstraße 33, 66346 Püttlingen",06898-64431,false,SL-1515-150011,49.287387,6.886432,Erweiterte Realschule Püttlingen,150011,06898/64421,erweiterte Realschule,erweiterte Realschule,SL
+"Schulzentrum Taubenfeld, 66287 Quierschied",06897/63478,true,SL-1516-250011,49.31667,7.03333,Erweiterte Realschule Quierschied,250011,06897/62212,erweiterte Realschule,erweiterte Realschule,SL
+"Parkstraße 10, 66280 Sulzbach",06897/952095-29,true,SL-1518-250011,49.303969,7.060334,Erweiterte Realschule Am Vopeliuspark Sulzbach,250011,06897/952095-0,erweiterte Realschule,erweiterte Realschule,SL
+"Heinestraße 70, 66333 Völklingen",06898/296911,true,SL-1519-150011,49.257411,6.867823,Erweiterte Realschule Am Sonnenhügel,150011,06898 9149730,erweiterte Realschule,erweiterte Realschule,SL
+"Heinestraße 70, 66333 Völklingen",06898/296911,true,SL-1519-150021,49.257411,6.867823,Hermann-Neuberger-Schule Erweiterte Realschule Völklingen,150021,06898 9149730,erweiterte Realschule,erweiterte Realschule,SL
+"Hindenburgstraße 19, 66701 Beckingen",06835/608199,true,SL-2111-250011,49.388015,6.704213,Friedrich-Bernhard-Karcher-Schule Beckingen -Erweiterte Realschule-,250011,06835/608190,erweiterte Realschule,erweiterte Realschule,SL
+"Von-Boch-Straße 75, 66663 Merzig",06861/7707729,true,SL-2113-150011,49.436392,6.63556,Erweiterte Realschule Merzig,150011,06861/770770,erweiterte Realschule,erweiterte Realschule,SL
+"Gartenfeldstraße 23, 66687 Wadern",06871-9230230,true,SL-2116-250011,49.539803,6.88757,Graf Anton Schule Wadern -Erweiterte Realschule-,250011,06871/923020,erweiterte Realschule,erweiterte Realschule,SL
+"Am Marktplatz 1, 66709 Weiskirchen",06876-7540,true,SL-2117-250011,49.555815,6.817538,Eichenlaubschule Weiskirchen -Erweiterte Realschule-,250011,06876/345,erweiterte Realschule,erweiterte Realschule,SL
+"Hellbergstraße 21, 66571 Eppelborn",06881-962129,false,SL-3111-250011,49.404836,6.964012,Erweiterte Realschule Eppelborn,250011,06881/962127,erweiterte Realschule,erweiterte Realschule,SL
+"Schwarzer Weg 2, 66557 Illingen",06825-942011,false,SL-3112-250011,49.367616,7.042521,Erweiterte Realschule Illingen,250011,06825/94200,erweiterte Realschule,erweiterte Realschule,SL
+"Bildstockstr. 127, 66589 Merchweiler",06825-42262,true,SL-3113-250011,49.362267,7.077866,Erweiterte Realschule Merchweiler - Max von der Grün Schule,250011,06825/42261,erweiterte Realschule,erweiterte Realschule,SL
+"Lutherstraße 2, 66538 Neunkirchen",06821-9997130,true,SL-3114-150011,49.346785,7.176264,Erweiterte Realschule Neunkirchen Stadtmitte und Wiebelskirchen,150011,06821-999710,erweiterte Realschule,erweiterte Realschule,SL
+"Pestalozzistraße, 66539 Neunkirchen",06821/940940,true,SL-3114-150021,49.347308,7.226654,Erweiterte Realschule Neunkirchen -Wellesweiler,150021,06821/94090,erweiterte Realschule,erweiterte Realschule,SL
+"Seminarstraße 56, 66564 Ottweiler",06824-4361,true,SL-3115-250011,49.401034,7.157514,Erweiterte Realschule Ottweiler,250011,06824/5320,erweiterte Realschule,erweiterte Realschule,SL
+"Am Ring 39 a, 66583 Spiesen-Elversberg",06821/970013,false,SL-3117-150011,49.319441,7.134318,Erweiterte Realschule Spiesen-Elversberg,150011,06821/97000,erweiterte Realschule,erweiterte Realschule,SL
+"Industriestraße 29, 66763 Dillingen",06831-9869601,true,SL-4111-250011,49.350422,6.716099,Schule am Römerkastell Dillingen - Erweiterte Realschule,250011,06831/9869600,erweiterte Realschule,erweiterte Realschule,SL
+"Mottener Straße 52, 66822 Lebach",06881/3025,false,SL-4112-250011,49.414291,6.902927,Theeltalschule -Erweiterte Realschule- Lebach,250011,06881/3065,erweiterte Realschule,erweiterte Realschule,SL
+"Dillinger Straße 67, 66822 Lebach",06881-91324,true,SL-4112-250012,49.404791,6.895171,Nikolaus-Gross-Schule (Erweiterte Realschule),250012,06881-91323,erweiterte Realschule,erweiterte Realschule,SL
+"Josefstraße 11, 66809 Nalbach",06838-983708,false,SL-4113-250011,49.380294,6.783348,Erweiterte Realschule,250011,06838-983706,erweiterte Realschule,erweiterte Realschule,SL
+"Beckinger Straße 38, 66780 Rehlingen-Siersburg",06835 922414,true,SL-4114-350011,49.377395,6.682702,Erweiterte Realschule Rehlingen-Siersburg,350011,06835/92240,erweiterte Realschule,erweiterte Realschule,SL
+"St. Nazairer Allee 6, 66740 Saarlouis",06831-41898,true,SL-4115-150011,49.32305,6.74288,Erweiterte Realschule I,150011,06831/41878,erweiterte Realschule,erweiterte Realschule,SL
+"Kreuzbergstraße 87, 66740 Saarlouis",06831-80057,false,SL-4115-150021,49.331832,6.781331,Erweiterte Realschule II,150021,06831-80056,erweiterte Realschule,erweiterte Realschule,SL
+"An der Waldwies 2-4, 66793 Saarwellingen",06838-900620,true,SL-4116-150011,49.35,6.83333,Erweiterte Realschule Saarwellingen,150011,06838/90060,erweiterte Realschule,erweiterte Realschule,SL
+"Wilhelm-Busch-Straße 11, 66839 Schmelz",06887-887126,true,SL-4117-250011,49.442066,6.848665,Erweiterte Realschule Schmelz,250011,06887/2570,erweiterte Realschule,erweiterte Realschule,SL
+"Weiherstraße 24a, 66773 Schwalbach",06834-953954,true,SL-4118-150011,49.306365,6.814084,Erweiterte Realschule Schwalbach,150011,06834/953953,erweiterte Realschule,erweiterte Realschule,SL
+"Comeniusstraße 22, 66802 Überherrn",06836-2031,false,SL-4119-350011,49.23264,6.70581,Erweiterte Realschule Überherrn,350011,06836/2531,erweiterte Realschule,erweiterte Realschule,SL
+"Bungertstraße 30, 66798 Wallerfangen",06831-964594,true,SL-4121-350011,49.324331,6.713363,Erweiterte Realschule Wallerfangen,350011,06831/964585,erweiterte Realschule,erweiterte Realschule,SL
+"Schulzentrum, 66440 Blieskastel",06842/923766,true,SL-5112-250011,49.24222,7.25444,Erweiterte Realschule Blieskastel,250011,06842/923760,erweiterte Realschule,erweiterte Realschule,SL
+"Virchowstraße 7, 66424 Homburg",06841-923326,false,SL-5114-150011,49.31497,7.338603,Erweiterte Realschule Homburg I,150011,06841/92330,erweiterte Realschule,erweiterte Realschule,SL
+"Cranachstraße 7, 66424 Homburg",06841/9729321,true,SL-5114-150021,49.333053,7.325007,Erweiterte Realschule Homburg II,150021,06841/972930,erweiterte Realschule,erweiterte Realschule,SL
+"Hauptstraße 75, 66459 Kirkel-Limbach",06841-980429,true,SL-5115-150011,50.859967,12.802456,Erweiterte Realschule Kirkel-Limbach,150011,06841-980040,erweiterte Realschule,erweiterte Realschule,SL
+"Vichter Straße 1, 66399 Mandelbachtal",06803/390020,true,SL-5116-250011,49.21823,7.155979,Erweiterte Realschule Mandelbachtal,250011,06803/39000,erweiterte Realschule,erweiterte Realschule,SL
+"Im Schmelzerwald 66, 66386 St. Ingbert",06894-960918,false,SL-5117-250011,49.271203,7.104844,Erweiterte Realschule I St. Ingbert,250011,06894/96090,erweiterte Realschule,erweiterte Realschule,SL
+"Sportplatzstraße 3, 66386 St. Ingbert",06894/9989829,false,SL-5117-250021,49.286512,7.166076,Erweiterte Realschule II St. Ingbert,250021,06894/9989820,erweiterte Realschule,erweiterte Realschule,SL
+"Schulstraße 43, 66629 Freisen",06855/996902,false,SL-6111-250011,49.547767,7.252041,Erweiterte Realschule Freisen,250011,06855/7992,erweiterte Realschule,erweiterte Realschule,SL
+"Willi-Graf-Straße 3, 66606 St. Wendel",06851/931933,true,SL-6117-150011,49.469108,7.153093,Erweiterte Realschule St. Wendel,150011,06851/93190,erweiterte Realschule,erweiterte Realschule,SL
+"Toni Lermen Straße  2, 66636 Tholey-Theley",06853/912850,false,SL-6118-150011,49.500473,7.025386,Erweiterte Realschule Tholey,150011,06853/9128-0,erweiterte Realschule,erweiterte Realschule,SL
+"Stengelstraße 31, 66117 Saarbrücken",0681-92605-28,true,SL-1100-010011,49.233693,6.98352,Ludwigsgymnasium,010011,0681-926050,Gymnasium,Gymnasium,SL
+"Neugrabenweg 66-90, 66123 Saarbrücken",0681-9369840,false,SL-1100-011011,49.24088,7.010493,Gymnasium Am Rotenbühl,011011,0681-936980,Gymnasium,Gymnasium,SL
+"Halbergstraße 112, 66121 Saarbrücken",0681-99681-40,true,SL-1100-011021,49.230323,7.016476,Deutsch-Französisches Gymnasium,011021,0681-99681-0,Gymnasium,Gymnasium,SL
+"Sachsenweg 3, 66121 Saarbrücken",0681-66835-30,true,SL-1100-011042,49.234129,7.006891,Willi-Graf-Gymnasium (privat),011042,0681-66835-11,Gymnasium,Gymnasium,SL
+"Spichererbergstraße 15, 66119 Saarbrücken",0681-52084,true,SL-1100-012011,49.229249,6.992539,Gymnasium Am Schloss,012011,0681-581884,Gymnasium,Gymnasium,SL
+"Hohenzollernstraße 59 A, 66117 Saarbrücken",0681-57033,true,SL-1100-012032,49.235035,6.982593,Marienschule,012032,0681-51367,Gymnasium,Gymnasium,SL
+"Landwehrplatz 3, 66111 Saarbrücken",0681/37981-11,true,SL-1100-013011,49.234423,7.001044,Otto Hahn Gymnasium,013011,0681-37981-0,Gymnasium,Gymnasium,SL
+"Rheinstraße 95, 66113 Saarbrücken",0681-754826,false,SL-1100-030011,49.24736,6.958567,Wirtschaftswissenschaftliches Gymnasium,030011,0681-751610,Gymnasium,Gymnasium,SL
+"Quierschieder Weg, 66280 Sulzbach",06897-908128,false,SL-1518-012011,49.3022447,7.0570952,Theodor-Heuss-Gymnasium Sulzbach,012011,06897-90810,Gymnasium,Gymnasium,SL
+"Lortzingstraße 2, 66333 Völklingen",06898-502831,true,SL-1519-011011,49.25575,6.866896,Marie-Luise-Kaschnitz-Gymnasium,011011,06898-50280,Gymnasium,Gymnasium,SL
+"Hohenzollernstraße 28, 66333 Völklingen",06898-16594,true,SL-1519-011021,49.253213,6.860604,Albert-Einstein-Gymnasium,011021,06898-91300,Gymnasium,Gymnasium,SL
+"Am Warndtgymnasium 1, 66333 Völklingen",06898-7015,true,SL-1519-011031,49.230094,6.823782,Warndt-Gymnasium,011031,06898-972990,Gymnasium,Gymnasium,SL
+"Goethestraße 16 A, 66663 Merzig",06861-9399220,true,SL-2113-011011,49.444387,6.653358,Peter-Wust-Gymnasium,011011,06861-939920,Gymnasium,Gymnasium,SL
+"Waldstraße 48, 66663 Merzig",06861-9396829,true,SL-2113-011021,49.451473,6.637217,Gymnasium Am Stefansberg,011021,06861-939680,Gymnasium,Gymnasium,SL
+"Am Kaisergarten 1, 66687 Wadern",06871-902699,true,SL-2116-011011,49.54411,6.900792,Hochwaldgymnasium,011011,06871-90260,Gymnasium,Gymnasium,SL
+"Schwarzer Weg, 66557 Illingen",06825-930820,true,SL-3112-012011,49.367825,7.0418913,Illtal-Gymnasium,012011,06825-93080,Gymnasium,Gymnasium,SL
+"Am Mädchenrealgymnasium, 66538 Neunkirchen",06821-909833,true,SL-3114-012011,49.343597,7.193982,Gymnasium Am Steinwald,012011,06821-90980,Gymnasium,Gymnasium,SL
+"Alb. Schweitzer-Straße 23, 66538 Neunkirchen/Saar",06821/981535,true,SL-3114-012021,49.228964,6.808628,Gymnasium Am Krebsberg,012021,06821-98150,Gymnasium,Gymnasium,SL
+"Seminarstraße 43, 66564 Ottweiler",06824-930833,true,SL-3115-012011,49.400497,7.161011,Gymnasium,012011,06824-930830,Gymnasium,Gymnasium,SL
+"Karcherstraße 2, 66763 Dillingen",06831-976089,true,SL-4111-012011,49.359087,6.728547,Albert-Schweitzer-Gymnasium,012011,06831-976547,Gymnasium,Gymnasium,SL
+"Wallerfangerstraße 25, 66763 Dillingen",06831-7698322,false,SL-4111-032011,49.345377,6.715338,Technisch-wissenschaftliches Gymnasium,032011,06831-769830,Gymnasium,Gymnasium,SL
+"Straße der weißen Rose, 66822 Lebach",06881-53035,true,SL-4112-011011,49.402934,6.897565,Geschwister-Scholl-Gymnasium,011011,06881-53033,Gymnasium,Gymnasium,SL
+"Dillinger Straße 67, 66822 Lebach",06881-537030,false,SL-4112-013011,49.404791,6.895171,Johannes-Kepler-Gymnasium,013011,06881-53051,Gymnasium,Gymnasium,SL
+"Holtzendorfferstraße 1, 66740 Saarlouis",06831-121412,true,SL-4115-010011,49.319075,6.745943,Gymnasium Am Stadtgarten,010011,06831-42985,Gymnasium,Gymnasium,SL
+"Praelat-Subtil Ring 2, 66740 Saarlouis",06831-121001,true,SL-4115-011011,49.314243,6.756259,Robert-Schuman-Gymnasium,011011,06831-2262,Gymnasium,Gymnasium,SL
+"Pavillonstraße 24, 66740 Saarlouis",06831-945930,true,SL-4115-013011,49.319031,6.751592,Max-Planck-Gymnasium,013011,06831-94590,Gymnasium,Gymnasium,SL
+"Schlossbergstraße 42, 66440 Blieskastel",06842-923232,true,SL-5112-011011,49.24222,7.25444,Von der Leyen-Gymnasium,011011,06842-92320,Gymnasium,Gymnasium,SL
+"Kardinal Wendel Straße12, 66424 Homburg",06841-61523,true,SL-5114-010012,49.302994,7.326591,Gymnasium Johanneum (privat),010012,06841-934770,Gymnasium,Gymnasium,SL
+"Hiltebrandtstr. 1, 66424 Homburg",06841/9348372,false,SL-5114-011011,49.320388,7.334777,Mannlich-Gymnasium,011011,06841-9348360,Gymnasium,Gymnasium,SL
+"Untere Allee 75, 66424 Homburg",06841-923122,true,SL-5114-012021,49.316164,7.34794,Saarpfalz-Gymnasium,012021,06841-92310,Gymnasium,Gymnasium,SL
+"Neue Messstraße 24, 66386 St. Ingbert",06894-383839,true,SL-5117-011022,49.277219,7.117051,Alb.Magnus-Gymnasium (privat),011022,06894-2138,Gymnasium,Gymnasium,SL
+"Im Schmelzerwald 51a, 66386 St. Ingbert",06894-963918,false,SL-5117-012011,49.26843,7.101885,Leibniz-Gymnasium,012011,06894-96390,Gymnasium,Gymnasium,SL
+"Schorlemer Straße 28, 66606 St. Wendel",06851-932233,true,SL-6117-010011,49.463308,7.175955,Gymnasium-Wendalinum,010011,06851-93220,Gymnasium,Gymnasium,SL
+"Missionshausstraße 50, 66606 St. Wendel",06851-805375,true,SL-6117-010022,49.46417,7.191686,Arnold-Janssen-Gymnasium (privat),010022,06851-805300,Gymnasium,Gymnasium,SL
+"Missionshausstraße 14, 66606 St. Wendel",06851-932333,true,SL-6117-011011,49.463529,7.180892,Cusanus-Gymnasium,011011,06851-93230,Gymnasium,Gymnasium,SL
+"Ziegelstraße 17, 66113 Saarbrücken",0681-47652,true,SL-1100-005041,49.246059,6.985793,Gesamtschule Saarbrücken-Ludwigspark,005041,0681-9471970,Gesamtschule,Gesamtschule,SL
+"Im Grühlingswald 19, 66299 Friedrichsthal",06897-9699011,true,SL-1100-005052,49.325894,7.091024,"Montessori-Zentrum Saar, Gemeinschafts-/Gesamtschule",005052,06897-9699010,Gesamtschule,Gesamtschule,SL
+"An der Mühlenschule 3, 66125 Saarbrücken",06897-74069,true,SL-1100-305031,49.275708,7.031932,Gesamtschule Sulzbachtal,305031,06897-97460,Gesamtschule,Gesamtschule,SL
+"Weissenburger Straße 23, 66113 Saarbrücken",0681-73692,true,SL-1100-405011,49.246661,6.95873,Gesamtschule Saarbrücken-Rastbachtal,405011,0681-971460,Gesamtschule,Gesamtschule,SL
+"Am Hagen 30, 66117 Saarbrücken",0681-9262017,false,SL-1100-405021,49.226823,6.976698,Gesamtschule Bellevue,405021,0681-926200,Gesamtschule,Gesamtschule,SL
+"Lindenstrasse 9, 66292 Riegelsberg",06806-992140,true,SL-1517-205011,49.306609,6.939944,Gesamtschule Riegelsberg,205011,06806-99210,Gesamtschule,Gesamtschule,SL
+"Hohlstraße 35, 66333 Völklingen-Ludweiler",06898-9458129,true,SL-1519-105011,49.223854,6.799969,Graf-Ludwig-Gemeinschaftsschule im Warndt (Gesamtschule),105011,06898-945810,Gesamtschule,Gesamtschule,SL
+"Weiskirchener Straße 18, 66679 Losheim",06872-9219630,true,SL-2112-205011,49.509511,6.746234,Peter-Dewes-Gesamtschule,205011,06872-921960,Gesamtschule,Gesamtschule,SL
+"Saarbrücker Straße, 66693 Mettlach-Orscholz",06865 9111100,false,SL-2114-105011,49.4940158,6.5852876,Gesamtschule Mettlach-Orscholz,105011,06865-91110,Gesamtschule,Gesamtschule,SL
+"Auf dem Sabel 2, 66706 Perl",06867-9111220,true,SL-2115-005011,49.478519,6.386255,Deutsch-Luxemburgisches Schengen-Lyceum Perl,005011,06867-9111200,Gesamtschule,Gesamtschule,SL
+"Haspelstrasse, 66538 Neunkirchen",06821-982428,true,SL-3114-105011,49.340686,7.185383,Gesamtschule Neunkirchen,105011,06821-98240,Gesamtschule,Gesamtschule,SL
+"Comeniusstraße, 66578 Schiffweiler",06821-9648428,false,SL-3116-205011,49.366598,7.127465,Gesamtschule,205011,06821-964840,Gesamtschule,Gesamtschule,SL
+"Industriestraße 40, 66763 Dillingen",06831-978630,false,SL-4111-204011,49.348111,6.717178,Integrierte Gesamtschule (Sophie-Scholl-Schule),204011,06831-97860,Gesamtschule,Gesamtschule,SL
+"Weberstrasse, 66787 Wadgassen",06834-99416,true,SL-4120-305011,49.265133,6.816505,Gesamtschule  - Bisttalschule Wadgassen,305011,06834-99415,Gesamtschule,Gesamtschule,SL
+"Eichendorffweg 1, 66450 Bexbach",06826-932929,true,SL-5111-105011,49.352201,7.253793,"Gesamtschule ""Galileo-Schule""",105011,06826-93290,Gesamtschule,Gesamtschule,SL
+"Schulzentrum, 66453 Gersheim",06843-9007-127,true,SL-5113-205011,49.13333,7.2,Gesamtschule,205011,06843-9007-29,Gesamtschule,Gesamtschule,SL
+"Marienstrasse 21, 66646 Marpingen",06853-910611,true,SL-6112-105011,49.450562,7.055691,Gesamtschule Marpingen,105011,06853-91060,Gesamtschule,Gesamtschule,SL
+"Trierer Straße 23, 66625 Nohfelden-Türkismühle",06852-902511,true,SL-6114-205011,49.580851,7.101035,Gesamtschule,205011,06852-90250,Gesamtschule,Gesamtschule,SL
+"Schulstraße 11, 66126 Saarbrücken-Altenkessel",06898-9869749,false,SL-1100-006012,49.204294,7.109389,Freie Waldorfschule,006012,06898-986970,freie Waldorfschule,Waldorfschule,SL
+"Neunkircher Straße 70, 66299 Friedrichsthal-Bildstock",06897-843913,true,SL-1511-006012,49.335082,7.104007,Waldorfschule für Lern- und Erziehungshilfe,006012,06897-840000,freie Waldorfschule,Waldorfschule,SL
+"Parkstraße, 66450 Bexbach",06826-4561,false,SL-5111-006012,49.3443218,7.2561741,Freie Waldorfschule,006012,06826-3260,freie Waldorfschule,Waldorfschule,SL
+"Schoosbergstraße 11, 66625 Nohfelden-Walhausen",06852-802179,true,SL-6114-006012,49.561412,7.124336,Freie Waldorfschule Saar-Hunsrück,006012,06852-82599,freie Waldorfschule,Waldorfschule,SL
+"Sachsenweg 8, 66121 Saarbrücken",0681-61598,false,SL-1100-354011,49.233296,7.007854,Erweiterte Abendrealschule,354011,0681-635032,erweiterte Realschule Abendform,erweiterte Realschule Abendform,SL
+"Industriestraße 29, 66763 Dillingen",06831-9869601,false,SL-4111-254011,49.350422,6.716099,Erweiterte Realschule in Abendform,254011,06831-9869600,erweiterte Realschule Abendform,erweiterte Realschule Abendform,SL
+"Im Grühlingswald 19, 66299 Friedrichsthal",06897-9699011,true,SL-1100-6052,49.325894,7.091024,"Montessori-Zentrum Saar, Gemeinschafts-/Gesamtschule",6052,06897-9699010,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Ziegelstraße 17, 66113 Saarbrücken",0681-47652,true,SL-1100-60011,49.246059,6.985793,Gemeinschaftsschule,60011,0681-9471970,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"An der Mühlenschule 3, 66125 Saarbrücken",06897-74069,true,SL-1100-60021,49.275708,7.031932,Gemeinschaftsschule,60021,06897-97460,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Sachsenweg 8, 66121 Saarbrücken",0681-61598,false,SL-1100-60031,49.233296,7.007854,Gemeinschaftsschule Bruchwiese,60031,0681/635032,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Hauptstraße 53, 66127 Saarbrücken",06898-935899,true,SL-1100-60041,49.23677,6.931615,Gemeinschaftsschule Klarenthal,60041,06898/37558,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Weissenburger Straße 23, 66113 Saarbrücken",0681-73692,true,SL-1100-60051,49.246661,6.95873,Gemeinschaftsschule,60051,0681-971460,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Am Hagen 30, 66117 Saarbrücken",0681-9262017,true,SL-1100-60061,49.226823,6.976698,Gemeinschaftsschule,60061,0681-926200,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Saargemünder Straße 157, 66130 Saarbrücken",0681-8739990,true,SL-1100-60071,49.200915,7.027992,Gemeinschaftsschule Güdingen,60071,0681/8739715,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Schillerstraße 65, 66265 Heusweiler",06806/6634,true,SL-1513-260011,49.333335,6.923151,Gemeinschaftsschule Heusweiler,260011,06806/6308,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Wintringer Straße 78, 66271 Kleinblittersdorf",06805-8427,true,SL-1514-460011,49.163134,7.041739,Gemeinschaftsschule Kleinblittersdorf,460011,06805/1445,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Pickardstraße 33, 66346 Püttlingen",06898-64431,false,SL-1515-160011,49.287387,6.886432,Gemeinschaftsschule Püttlingen,160011,06898/64421,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Schulzentrum Taubenfeld, 66287 Quierschied",06897/63478,true,SL-1516-260011,49.31667,7.03333,Gemeinschaftsschule,260011,06897/62212,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Lindenstrasse 9, 66292 Riegelsberg",06806-992140,true,SL-1517-260011,49.306609,6.939944,Gemeinschaftsschule,260011,06806-99210,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Parkstraße 10, 66280 Sulzbach",06897/952095-29,true,SL-1518-260011,49.303969,7.060334,Gemeinschaftsschule,260011,06897/952095-0,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Hohlstraße 35, 66333 Völklingen-Ludweiler",06898-9458129,true,SL-1519-160011,49.223854,6.799969,Graf-Ludwig-Gemeinschaftsschule im Warndt,160011,06898-945810,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Heinestraße 70, 66333 Völklingen",06898/296911,true,SL-1519-160021,49.257411,6.867823,Gemeinschaftsschule Am Sonnenhügel,160021,06898 9149730,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Heinestraße 70, 66333 Völklingen",06898/296911,true,SL-1519-160031,49.257411,6.867823,Gemeinschaftsschule Hermann Neuberger Völklingen,160031,06898 9149730,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Hindenburgstraße 19, 66701 Beckingen",06835/608199,true,SL-2111-260011,49.388015,6.704213,Friedrich-Bernhard-Karcher- Schule Beckingen -Gemeinschaftsschule,260011,06835/608190,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Weiskirchener Straße 18, 66679 Losheim",06872-9219630,true,SL-2112-260011,49.509511,6.746234,Gemeinschaftsschule,260011,06872-921960,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Von-Boch-Straße 75, 66663 Merzig",06861/7707729,true,SL-2113-160011,49.436392,6.63556,Gemeinschaftsschule Merzig,160011,06861/770770,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Saarbrücker Straße, 66693 Mettlach-Orscholz",06865 9111100,true,SL-2114-160011,49.4940158,6.5852876,Gemeinschaftsschule Mettlach-Orscholz,160011,06865-91110,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Gartenfeldstraße 23, 66687 Wadern",06871-9230230,true,SL-2116-260011,49.539803,6.88757,Gemeinschaftsschule Wadern,260011,06871/923020,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Am Marktplatz 1, 66709 Weiskirchen",06876-7540,true,SL-2117-260011,49.555815,6.817538,Eichenlaubschule - Gemeinschaftsschule,260011,06876/345,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Hellbergstraße 40A, 66571 Eppelborn",06881-962129,false,SL-3111-260011,49.40423,6.959418,Gemeinschaftsschule Eppelborn,260011,06881/962127,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Schwarzer Weg 2, 66557 Illingen",06825-942011,false,SL-3112-260011,49.367616,7.042521,Gemeinschaftsschule Illingen,260011,06825/94200,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Bildstockstr. 127, 66589 Merchweiler",06825-42262,true,SL-3113-260011,49.362267,7.077866,Gemeinschaftsschule Merchweiler - Max von der Grün Schule,260011,06825/42261,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Haspelstrasse, 66538 Neunkirchen",06821-982428,true,SL-3114-160011,49.340686,7.185383,Gemeinschaftsschule,160011,06821-98240,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Prälat-Schütz-Straße 15, 66540 Neunkirchen-Wiebelskirchen",06821-950444,true,SL-3114-160012,49.366518,7.189038,Maximilian-Kolbe-Schule Gemeinschaftsschule,160012,06821-95040,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Lutherstraße 2, 66538 Neunkirchen",06821-9997130,true,SL-3114-160021,49.346785,7.176264,Gemeinschaftsschule,160021,06821-999710,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Pestalozzistraße, 66539 Neunkirchen",06821/940940,true,SL-3114-160031,49.347308,7.226654,Gemeinschaftsschule Neunkirchen Wellesweiler,160031,06821/94090,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Seminarstraße 56, 66564 Ottweiler",06824-4361,true,SL-3115-260011,49.401034,7.157514,bachem,260011,06824/5320,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Comeniusstraße, 66578 Schiffweiler",06821-9648428,true,SL-3116-260011,49.366598,7.127465,Gemeinschaftsschule,260011,06821-964840,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Am Ring 39 a, 66583 Spiesen-Elversberg",06821/970013,false,SL-3117-160011,49.319441,7.134318,Gemeinschaftsschule Spiesen-Elversberg,160011,06821/97000,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Industriestraße 40, 66763 Dillingen",06831-978630,true,SL-4111-260011,49.348111,6.717178,Sophie-Scholl-Gemeinschaftsschule,260011,06831-97860,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Industriestraße 29, 66763 Dillingen",06831-9869601,true,SL-4111-260021,49.350422,6.716099,Schule am Römerkastell Dillingen - Gemeinschaftsschule,260021,06831-9869600,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Dillinger Straße 67, 66822 Lebach",06881-91324,true,SL-4112-160012,49.404791,6.895171,Nikolaus-Gross-Schule (Gemeinschaftsschule),160012,06881-91323,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Mottener Straße 52, 66822 Lebach",06881/3025,false,SL-4112-260011,49.414291,6.902927,Gemeinschaftsschule Lebach,260011,06881/3065,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Josefstraße 11, 66809 Nalbach",06838-983708,false,SL-4113-260011,49.380294,6.783348,Gemeinschaftsschule Nalbach - Schule am Litermont,260011,06838-983706,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Beckinger Straße 38, 66780 Rehlingen-Siersburg",06835 922414,true,SL-4114-360011,49.377395,6.682702,Gemeinschaftsschule Rehlingen-Siersburg,360011,06835/92240,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"St. Nazairer Allee 6, 66740 Saarlouis",06831-41898,true,SL-4115-160011,49.32305,6.74288,Gemeinschaftsschule In den Fliesen Saarlouis I,160011,06831/41878,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Kreuzbergstraße 87, 66740 Saarlouis",06831-80057,true,SL-4115-160021,49.331832,6.781331,Gemeinschaftsschule Saarlouis II,160021,06831-80056,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"An der Waldwies 2-4, 66793 Saarwellingen",06838-900620,true,SL-4116-160011,49.35,6.83333,Gemeinschaftsschule Saarwellingen,160011,06838/90060,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Wilhelm-Busch-Straße 11, 66839 Schmelz",06887-887126,true,SL-4117-260011,49.442066,6.848665,Gemeinschaftsschule Schmelz,260011,06887/2570,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Weiherstraße 24a, 66773 Schwalbach",06834-953954,true,SL-4118-160011,49.306365,6.814084,Gemeinschaftsschule Schwalbach,160011,06834/953953,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Comeniusstraße 22, 66802 Überherrn",06836-2031,false,SL-4119-360011,49.23264,6.70581,Gemeinschaftsschule Überherrn,360011,06836/2531,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Weberstrasse, 66787 Wadgassen",06834-99416,true,SL-4120-360011,49.265133,6.816505,Gemeinschaftsschule - Bisttalschule Wadgassen,360011,06834-99415,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Bungertstraße 30, 66798 Wallerfangen",06831-964594,true,SL-4121-360011,49.324331,6.713363,Gemeinschaftsschule Wallerfangen,360011,06831/964585,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Eichendorffweg 1, 66450 Bexbach",06826-932929,true,SL-5111-160011,49.352201,7.253793,"Gemeinschaftsschule ""Galileo-Schule""",160011,06826-93290,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Schulzentrum, 66440 Blieskastel",06842/923766,true,SL-5112-260011,49.24222,7.25444,Gemeinschaftsschule Blieskastel,260011,06842/923760,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Schulzentrum, 66453 Gersheim",06843-9007-127,true,SL-5113-260011,49.13333,7.2,Gemeinschaftsschule,260011,06843-9007-29,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Virchowstraße 7, 66424 Homburg",06841-923326,true,SL-5114-160011,49.31497,7.338603,Gemeinschaftsschule Homburg I,160011,06841/92330,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Cranachstraße 7, 66424 Homburg",06841/9729321,true,SL-5114-160021,49.333053,7.325007,Gemeinschaftsschule Homburg II,160021,06841/972930,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Hauptstraße 75, 66459 Kirkel-Limbach",06841-980429,true,SL-5115-160011,50.859967,12.802456,Gemeinschaftsschule Kirkel- Limbach,160011,06841-980040,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Vichter Straße 1, 66399 Mandelbachtal",06803/390020,true,SL-5116-260011,49.21823,7.155979,Gemeinschaftsschule Mandelbachtal,260011,06803/39000,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Im Schmelzerwald 66, 66386 St. Ingbert",06894-960918,false,SL-5117-260011,49.271203,7.104844,Gemeinschaftsschule I St. Ingbert,260011,06894/96090,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Sportplatzstraße 3, 66386 St. Ingbert",06894/9989829,true,SL-5117-260021,49.286512,7.166076,Gemeinschaftsschule St. Ingbert-Rohrbach,260021,06894/9989820,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Schulstraße 43, 66629 Freisen",06855/996902,false,SL-6111-260011,49.547767,7.252041,Gemeinschaftsschule Freisen,260011,06855/7992,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Marienstrasse 21, 66646 Marpingen",06853-910611,true,SL-6112-160011,49.450562,7.055691,Gemeinschaftsschule,160011,06853-91060,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Trierer Straße 23, 66625 Nohfelden-Türkismühle",06852-902511,true,SL-6114-260011,49.580851,7.101035,Gemeinschaftsschule,260011,06852-90250,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Willi-Graf-Straße 3, 66606 St. Wendel",06851/931933,true,SL-6117-160011,49.469108,7.153093,Gemeinschaftsschule St. Wendel,160011,06851/93190,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Toni Lermen Straße 2, 66636 Tholey-Theley",06853/912850,false,SL-6118-160011,49.500473,7.025386,Gemeinschaftsschule Tholey,160011,06853/9128-0,Gemeinschaftsschule,Gemeinschaftsschule,SL
+"Am Landwehrplatz 3, 66111 Saarbrücken",,false,SL-1100-015011,49.233761,7.001224,Abendgymnasium Saarbrücken,015011,0681-3798118,Abendgymnasium-Saarland-Kolleg,Abend-Gymnasium,SL
+"Rheinstraße 95, 66113 Saarbrücken",0681-754826,false,SL-1100-016011,49.24736,6.958567,Saarland-Kolleg,016011,0681-751610,Abendgymnasium-Saarland-Kolleg,Abend-Gymnasium,SL

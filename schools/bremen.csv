@@ -1,221 +1,221 @@
-"name","id","address","website","school_type","school_type_entity","legal_status","fax","phone",""
-"Schule an der Admiralstraße","HB-002","Winterstr. 20, 28215 Bremen",,"Grundschule",,,"0421/361-8177","0421/361-8110",
-"Schule am Alten Postweg","HB-003","Alter Postweg 302, 28207 Bremen",,"Grundschule",,,"0421/361-81258","0421/361-3376",
-"Schule Am Mönchshof","HB-005","Hindenburgstr. 33 A, 28717 Bremen",,"Grundschule",,,"0421/361-79 587","0421/361-7165",
-"Schule An der Gete","HB-006","An der Gete 103, 28211 Bremen",,"Grundschule",,,"0421/361-96016","0421/361-3158",
-"Schule an der Alfred-Faust-Straße","HB-007","Alfred-Faust-Str. 34, 28277 Bremen",,"Grundschule",,,"0421/361-18239","0421/361-3511",
-"Schule Arbergen","HB-008","Heisiusstr. 7, 28307 Bremen",,"Grundschule",,,"0421/4843429","0421/480548",
-"Schule Arsten","HB-009","Korbhauser Weg 1, 28279 Bremen",,"Grundschule",,,"0421/361-96001","0421/361-3130",
-"Schule Auf den Heuen","HB-010","An der Fuchtelkuhle 15, 28239 Bremen",,"Grundschule",,,"0421/361-79682","0421/361-9275",
-"Schule an der Andernacher Straße","HB-011","Andernacher Str. 6, 28325 Bremen",,"Grundschule",,,"0421/361-59054","0421/361-3364",
-"Schule an der Augsburger Straße","HB-012","Augsburger Str. 175, 28215 Bremen",,"Grundschule",,,"0421/361-3590","0421/361-8370",
-"Schule Alt-Aumund","HB-013","Ritterkamp 10, 28757 Bremen",,"Grundschule",,,"0421/361-79386","0421/361-7651",
-"Schule Am Wasser","HB-014","Tidemanstr. 11, 28759 Bremen",,"Grundschule",,,"0421/361-79416","0421/361-7622",
-"Schule am Baumschulenweg","HB-015","Baumschulenweg 12, 28213 Bremen",,"Grundschule",,,"0421/361-89362","0421/361-3162",
-"Schule an der Parsevalstraße","HB-016","Parsevalstr. 2, 28309 Bremen",,"Grundschule",,,"0421/361-16958","0421/361-3048",
-"Schule Borchshöhe","HB-018","Auf dem Flintacker 51, 28755 Bremen",,"Grundschule",,,"0421/361-79387","0421/361-7383",
-"Schule Borgfeld","HB-019","Katrepeler Landstr. 1, 28357 Bremen",,"Grundschule",,,"0421/361-89077","0421/361-3086",
-"Schule an der Brinkmannstraße","HB-020","Brinkmannstr. 40, 28309 Bremen",,"Grundschule",,,"0421/361-14087","0421/361-3091",
-"Schule Am Weidedamm","HB-021","Am Weidedamm 20, 28215 Bremen",,"Grundschule",,,"0421/361-18386","0421/361-14452",
-"Bürgermeister-Smidt-Schule","HB-023","Contrescarpe 26, 28203 Bremen",,"Grundschule",,,"0421/361-10131","0421/361-10711",
-"Schule am Buntentorsteinweg","HB-024","Buntentorsteinweg 245, 28201 Bremen",,"Grundschule",,,"0421/361-59267","0421/361-59531",
-"Schule Burgdamm","HB-025","Stargarder Str. 11, 28717 Bremen",,"Grundschule",,,"0421/361-79846","0421/361-7131",
-"Marie-Curie-Schule","HB-028","Curiestr. 2 A, 28357 Bremen",,"Grundschule",,,"0421/361-89453","0421/361-3021",
-"Schule an der Carl-Schurz-Straße","HB-029","Carl-Schurz-Str. 25, 28209 Bremen",,"Grundschule",,,"0421/361-17446","0421/361-3059",
-"Schule an der Düsseldorfer Straße","HB-032","Düsseldorfer Str. 2 A, 28327 Bremen",,"Grundschule",,,"0421/361-59490","0421/361-3032",
-"Schule Fährer Flur","HB-034","Fährer Flur 15, 28755 Bremen",,"Grundschule",,,"0421/361-79388","0421/361-7248",
-"Schule am Ellenerbrokweg","HB-035","Ellenerbrokweg 28, 28325 Bremen",,"Grundschule",,,"0421/361-18189","0421/361-3190",
-"Schule Farge-Rekum","HB-036","Betonstr. 4, 28777 Bremen",,"Grundschule",,,"0421/361-79826","0421/361-79141",
-"Schule an der Freiligrathstraße","HB-039","Freiligrathstr. 11, 28211 Bremen",,"Grundschule",,,"0421/496-3269","0421/361-3269",
-"Schule an der Wigmodistraße","HB-040","Wigmodistr. 37, 28779 Bremen",,"Grundschule",,,"0421/361-7726","0421/361-7436",
-"Schule an der Glockenstraße","HB-043","Westerholzstr. 19 A, 28309 Bremen",,"Grundschule",,,"0421/361-14747","0421/361-3290",
-"Schule an der Grambker Heerstraße","HB-045","Grambker Heerstr. 121, 28719 Bremen",,"Grundschule",,,"0421/361-79037","0421/361-7147",
-"Schule Grolland","HB-048","Brakkämpe 4, 28259 Bremen",,"Grundschule",,,"0421/361-13286","0421/361-19610",
-"Schule Am Borgfelder Saatland","HB-049","Am Borgfelder Saatland 1-3, 28357 Bremen",,"Grundschule",,,"0421/361-82897","0421/361-14885",
-"Schule am Bunnsackerweg","HB-050","Bunnsackerweg 4, 28279 Bremen",,"Grundschule",,,"0421/361-15265","0421/361-3310",
-"Schule am Halmerweg","HB-051","Halmerweg 71, 28237 Bremen",,"Grundschule",,,"0421/361-16819","0421/361-9174",
-"Schule Hammersbeck","HB-052","Fährer Str. 4, 28755 Bremen",,"Grundschule",,,"0421/361-79449","0421/361-7245",
-"Schule Rönnebeck","HB-053","Helgenstr. 10-12, 28777 Bremen",,"Grundschule",,,"0421/361-79090","0421/361-7284",
-"Schule an der Horner Heerstraße","HB-060","Horner Heerstr. 17, 28359 Bremen",,"Grundschule",,,"0421/361-16556","0421/361-3368",
-"Schule In der Vahr","HB-062","In der Vahr 75, 28329 Bremen",,"Grundschule",,,"0421/361-10848","0421/361-3343",
-"Schule an der Kantstraße","HB-064","Kantstr. 63, 28201 Bremen",,"Grundschule",,,"0421/361-16961","0421/361-59541",
-"Schule an der Karl-Lerbs-Straße","HB-065","Karl-Lerbs-Str. 70 A, 28201 Bremen",,"Grundschule",,,"0421/361-59571","0421/361-59561",
-"Schule am Pastorenweg","HB-069","Pastorenweg 91-93, 28237 Bremen",,"Grundschule",,,"0421/361-17288","0421/361-9297",
-"Kinderschule","HB-070","Auf der Hohwisch 61-63, 28207 Bremen",,"Grundschule",,,"0421/361-16816","0421/361-16887",
-"Schule Kirchhuchting","HB-071","Kirchhuchtinger Landstr. 28, 28259 Bremen",,"Grundschule",,,"0421/361-83888","0421/361-15955",
-"Schule an der Lessingstraße","HB-076","Lessingstr. 30, 28203 Bremen",,"Grundschule",,,"0421/361-82899","0421/361-3225",
-"Tami-Oelfken-Schule","HB-077","Lüssumer Ring 55, 28777 Bremen",,"Grundschule",,,"0421/361-79494","0421/361-7755",
-"Schule Mahndorf","HB-081","Mahndorfer Heerstr. 55, 28307 Bremen",,"Grundschule",,,"0421/4842161","0421/480063",
-"Schule an der Melanchthonstraße","HB-082","Melanchthonstr. 150, 28217 Bremen",,"Grundschule",,,"0421/361-16869","0421/361-8292",
-"Schule an der Landskronastraße","HB-083","Landskronastr. 46, 28719 Bremen",,"Grundschule",,,"0421/361-79390","0421/361-7191",
-"Schule an der Nordstraße","HB-085","Nordstr. 349, 28217 Bremen",,"Grundschule",,,"0421/361-88921","0421/361-8282",
-"Schule Oberneuland","HB-087","Oberneulander Landstr. 36, 28355 Bremen",,"Grundschule",,,"0421/2575297","0421/259465",
-"Schule an der Oderstraße","HB-088","Oderstr. 75, 28199 Bremen",,"Grundschule",,,"0421/361-17063","0421/361-8228",
-"Schule an der Oslebshauser Heerstr.","HB-089","Oslebshauser Heerstr. 115, 28239 Bremen",,"Grundschule",,,"0421/361-17175","0421/361-9280",
-"Schule Osterholz","HB-090","Osterholzer Heerstr. 160, 28325 Bremen",,"Grundschule",,,"0421/361-59046","0421/361-3003",
-"Schule am Pfälzer Weg","HB-091","Koblenzer Str. 10, 28325 Bremen",,"Grundschule",,,"0421/361-15298","0421/361-3244",
-"Schule an der Paul-Singer-Straße","HB-094","Paul-Singer-Str. 160, 28329 Bremen",,"Grundschule",,,"0421/361-19828","0421/361-3356",
-"Schule an der Philipp-Reis-Straße","HB-096","Werner-von-Siemens-Str. 57, 28357 Bremen",,"Grundschule",,,"0421/361-17494","0421/361-3322",
-"Schule am Pürschweg","HB-097","Pürschweg 5, 28779 Bremen",,"Grundschule",,,"0421/361-7279","0421/361-7816",
-"Schule am Pulverberg","HB-099","Schleswiger Str. 10, 28219 Bremen",,"Grundschule",,,"0421/361-5691","0421/361-5690",
-"Schule Rablinghausen","HB-100","Dorfkampsweg 50, 28197 Bremen",,"Grundschule",,,"0421/361-8385","0421/361-8268",
-"Schule an der Rechtenflether Str.","HB-101","Rechtenflether Str. 24, 28197 Bremen",,"Grundschule",,,"0421/361-96770","0421/361-8223",
-"Schule an der Robinsbalje","HB-105","Robinsbalje 10, 28259 Bremen",,"Grundschule",,,"0421/361-59137","0421/361-15950",
-"Schule an der Fischerhuder Straße","HB-106","Fischerhuder Str. 20, 28237 Bremen",,"Grundschule",,,"0421/361-18013","0421/361-9139",
-"Schule an der Schmidtstraße","HB-110","Schmidtstr. 9, 28203 Bremen",,"Grundschule",,,"0421/361-59017","0421/361-3131",
-"Schule Schönebeck","HB-111","Herbartstr. 25, 28757 Bremen",,"Grundschule",,,"0421/664290","0421/662886",
-"Schule an der Stichnathstraße","HB-112","Max-Jahn-Weg 13, 28277 Bremen",,"Grundschule",,,"0421/361-16422","0421/361-3584",
-"Schule Seehausen","HB-113","Seehauser Landstr. 141, 28197 Bremen",,"Grundschule",,,"0421/541500","0421/541500",
-"Schule am Osterhop","HB-114","Osterhop 88, 28309 Bremen",,"Grundschule",,,"0421/361-14587","0421/361-3101",
-"Schule an der Stader Straße","HB-115","Stader Str. 150, 28205 Bremen",,"Grundschule",,,"0421/361-16331","0421/361-3288",
-"Schule St. Magnus","HB-116","Richthofenstr. 37, 28759 Bremen",,"Grundschule",,,"0421/361-79842","0421/361-7314",
-"Schule Strom","HB-117","Stromer Landstr. 26 A, 28197 Bremen",,"Grundschule",,,"0421/541214","0421/541214",
-"Schule an der Uphuser Straße","HB-118","Uphuser Str. 9, 28327 Bremen",,"Grundschule",,,"0421/361-5441","0421/361-3247",
-"Schule an der Witzlebenstraße","HB-127","Witzlebenstr. 3, 28327 Bremen",,"Grundschule",,,"0421/361-59661","0421/361-3373",
-"Schule an der Delfter Straße","HB-129","Delfter Str. 10, 28259 Bremen",,"Grundschule",,,"0421/361-15969","0421/361-15990",
-"Amerikanische Schule","HB-150","Kleiner Blink 8, 27580 Bremerhaven",,"Grundschule",,,"0471/391-3689","0471/391-3680",
-"Altwulsdorfer Schule","HB-151","Sandbredenstr. 11, 27572 Bremerhaven",,"Grundschule",,,"0471/3080383","0471/3080382",
-"Fichteschule","HB-152","Heidacker 13, 27572 Bremerhaven",,"Grundschule",,,"0471/391-3721","0471/391-3720",
-"Fritz-Reuter-Schule","HB-153","Braunstr. 5, 27574 Bremerhaven",,"Grundschule",,,"0471/391-3745","0471/391-3740",
-"Surheider Schule","HB-154","Isarstr. 58, 27574 Bremerhaven",,"Grundschule",,,"0471/391-3909","0471/391-3902",
-"Veernschule","HB-155","Schiffdorfer Chaussee 193, 27574 Bremerhaven",,"Grundschule",,,"0471/391-3959","0471/391-3950",
-"Allmersschule","HB-156","Allmersstr. 2, 27570 Bremerhaven",,"Grundschule",,,"0471/391-3679","0471/391-3670",
-"Gorch-Fock-Schule","HB-157","Klußmannstr. 10-11, 27570 Bremerhaven",,"Grundschule",,,"0471/95845213","0471/9584520",
-"Goetheschule","HB-159","Deichstr. 39, 27568 Bremerhaven",,"Grundschule",,,"0471/391-3667","0471/391-3666",
-"Pestalozzischule","HB-160","Am Leher Tor 21, 27568 Bremerhaven",,"Grundschule",,,"0471/3000149","0471/3000141",
-"Lutherschule","HB-163","Dionysiusstr. 52, 27576 Bremerhaven",,"Grundschule",,,"0471/309-47319","0471/309-47311",
-"Marktschule","HB-164","Brookstr. 3, 27580 Bremerhaven",,"Grundschule",,,"0471/391-39617","0471/391-3960",
-"Astrid-Lindgren-Schule","HB-165","Frenssenstr. 49, 27576 Bremerhaven",,"Grundschule",,,"0471/391-55926","0471/391-5590",
-"Gaußschule I","HB-166","Gaußstr. 107, 27580 Bremerhaven",,"Grundschule",,,"0471/3082412","0471/3082410",
-"Fritz-Husmann-Schule","HB-167","Debstedter Weg 84, 27578 Bremerhaven",,"Grundschule",,,"0471/391-3739","0471/391-3730",
-"Karl-Marx-Schule","HB-168","Ferdinand-Lassalle-Str. 68, 27578 Bremerhaven",,"Grundschule",,,"0471/391-3999","0471/391-3990",
-"Friedrich-Ebert-Schule","HB-169","Mecklenburger Weg 174, 27578 Bremerhaven",,"Grundschule",,,"0471/391-3659","0471/391-3650",
-"Immanuel-Kant-Schule","HB-172","Flensburger Str. 10, 27570 Bremerhaven",,"Oberschule",,,"0471/309 555 49","0471/309 5550",
-"Gaußschule II","HB-174","Gaußstr. 107, 27580 Bremerhaven",,"Oberschule",,,"0471/3082422","0471/3082420",
-"Schule Am Leher Markt","HB-176","Brookstr. 7, 27580 Bremerhaven",,"Oberschule",,,"0471/391-3899","0471/391-3880",
-"Schule an der Dudweilerstraße","HB-206","Dudweilerstr. 2, 28309 Bremen",,"Förderzentrum Lernen-Sprache-Verhalten",,,"0421/361-59037","0421/361-3188",
-"Schule an der Kerschensteinerstr.","HB-209","Kerschensteinerstr. 4, 28757 Bremen",,"Förderzentrum Lernen-Sprache-Verhalten",,,"0421/361-79584","0421/361-7301",
-"Schule an der Mainstraße","HB-210","Mainstr. 18, 28199 Bremen",,"Förderzentrum Lernen-Sprache-Verhalten",,,"0421/361-59501","0421/361-59491",
-"Schule an der Züricher Straße","HB-216","Züricher Str. 40, 28325 Bremen",,"Förderzentrum sonstige",,,"0421/03212-1023528","0421/408-1621",
-"Schule an der Fritz-Gansberg-Straße","HB-223","Fritz-Gansberg-Str. 22, 28213 Bremen",,"Förderzentrum sonstige",,,"0421/361-96021","0421/361-96022",
-"Georg-Droste-Schule","HB-225","An der Gete 103, 28211 Bremen",,"Förderzentrum sonstige",,,"0421/361-3149","0421/361-3001",
-"Paul-Goldschmidt-Schule","HB-226","Louis-Seegelken-Str. 130, 28717 Bremen",,"Förderzentrum sonstige",,,"0421/361-7156","0421/361-7150",
-"Schule an der Marcusallee","HB-227","Marcusallee 31, 28359 Bremen",,"Förderzentrum sonstige",,,"0421/361-3383","0421/361-14360",
-"Anne-Frank-Schule","HB-253","Wurster Str. 387, 27580 Bremerhaven",,"Förderzentrum sonstige",,,"0471/391-3694","0471/391-3690",
-"Erwachsenenschule","HB-301","Doventorscontrescarpe (Block A) 172, 28195 Bremen",,"Abendschule/Erwachsenen Schule",,,"0421/361-17080","0421/361-10759",
-"Altes Gymnasium","HB-302","Kleine Helle 7, 28195 Bremen",,"Durchgängiges Gymnasium",,,"0421/361-16995","0421/361-16990",
-"Gymnasium Vegesack","HB-305","Kerschensteinerstr. 2, 28757 Bremen",,"Durchgängiges Gymnasium",,,"0421/361-79508","0421/361-7305",
-"Gymnasium an der Hamburger Straße","HB-306","Hamburger Str. 12, 28205 Bremen",,"Durchgängiges Gymnasium",,,"0421/361-96944","0421/361-96930",
-"Alexander-von-Humboldt-Gymnasium","HB-307","Delfter Str. 16, 28259 Bremen",,"Durchgängiges Gymnasium",,,"0421/361-16709","0421/361-16470",
-"Hermann-Böse-Gymnasium","HB-308","Hermann-Böse-Str. 1-9, 28209 Bremen",,"Durchgängiges Gymnasium",,,"0421/361-6285","0421/361-6272",
-"Gymnasium Horn","HB-309","Vorkampsweg 97, 28359 Bremen",,"Durchgängiges Gymnasium",,,"0421/361-14265","0421/361-14260",
-"Kippenberg-Gymnasium","HB-312","Schwachhauser Heerstr. 62, 28209 Bremen",,"Durchgängiges Gymnasium",,,"0421/361-59093","0421/361-3640",
-"Gymnasium Links der Weser","HB-324","Alfred-Faust-Str. 6, 28277 Bremen",,"Durchgängiges Gymnasium",,,"0421/361-16618","0421/361-16360",
-"Schulzentrum Carl von Ossietzky","HB-331","Schiffdorfer Chaussee 97, 27574 Bremerhaven",,"Schulzentrum des Sekundarbereich  II (Gymnasiale Oberstufe)",,,"0471/391-39139","0471/391-39130",
-"Schulzentrum Geschwister Scholl","HB-333","Walter-Kolb-Weg 2, 27568 Bremerhaven",,"Schulzentrum des Sekundarbereich  II (Gymnasiale Oberstufe)",,,"0471/3000113","0471/3000110",
-"Lloyd Gymnasium Bremerhaven","HB-334","Grazer Str. 61, 27568 Bremerhaven",,"Durchgängiges Gymnasium",,,"0471/3000159","0471/3000100",
-"Abendschule Bremerhaven","HB-349","Sonnenstr. 22, 27568 Bremerhaven",,"Abendschule/Erwachsenen Schule",,,"0471/391-3603","0471/391-3601",
-"Allgemeine Berufsbildende Schule","HB-351","Steffensweg 171, 28217 Bremen",,"Berufsbildende Schule",,,"0421/361-59667","0421/361-19639",
-"Berufsbildende Schule für Metalltechnik","HB-352","Reiherstr. 80, 28239 Bremen",,"Berufsbildende Schule",,,"0421/361-59533","0421/361-18042",
-"Wilhelm Wagenfeld Schule","HB-355","Delfter Str. 16, 28259 Bremen",,"Berufsbildende Schule",,,"0421/361-59040","0421/361-16620",
-"Schulzentrum des Sekundarbereichs II","HB-358","Kerschensteinerstr. 5, 28757 Bremen",,"Berufsbildende Schule",,,"0421/361-79574","0421/361-79550",
-"Berufsbildende Schule für Einzelhandel und Logistik","HB-359","Carl-Goerdeler-Str. 27, 28327 Bremen",,"Berufsbildende Schule",,,"0421/361-14297","0421/361-14280",
-"Berufsschule für den Großhandel,","HB-360","Ellmersstr. 24, 28217 Bremen",,"Berufsbildende Schule",,,"0421/361-16621","0421/361-8647",
-"Schulzentrum Grenzstraße","HB-361","Grenzstr. 90, 28217 Bremen",,"Berufsbildende Schule",,,"0421/361-59640","0421/361-5637/8/9",
-"Schulzentrum des Sekundarbereichs II","HB-364","Delmestr. 141 B, 28199 Bremen",,"Berufsbildende Schule",,,"0421/361-18351","0421/361-18340",
-"Schulzentrum des Sekundarbereichs II","HB-368","Meta-Sattler-Str. 33, 28217 Bremen",,"Berufsbildende Schule",,,"0421/361-16019","0421/361-59688 oder 89",
-"Technisches Bildungszentrum Mitte","HB-369","An der Weserbahn 4, 28195 Bremen",,"Berufsbildende Schule",,,"0421/361-3077","0421/361-16770",
-"Kaufmännische Lehranstalten","HB-382","Max-Eyth-Platz 3-4, 27568 Bremerhaven",,"Berufsbildende Schule",,,"0471/391-3559","0471/391-3530",
-"Schulzentrum Geschwister Scholl","HB-383","Walter-Kolb-Weg 2, 27568 Bremerhaven",,"Berufsbildende Schule",,,"0471/3000123","0471/3000120",
-"Werkstattschule Bremerhaven","HB-384","Hinrich-Schmalfeldt-Str. 26, 27576 Bremerhaven",,"Berufsbildende Schule",,,"0471/501-0557","0471/958-4430",
-"Schulzentrum Carl von Ossietzky","HB-385","Georg-Büchner-Str. 7, 27574 Bremerhaven",,"Berufsbildende Schule",,,"0471/39198-256","0471/39198-101",
-"Schulzentrum Carl von Ossietzky","HB-386","Georg-Büchner-Str. 13, 27574 Bremerhaven",,"Berufsbildende Schule",,,"0471/309-44522","0471/309-46510",
-"Oberschule an der Helsinkistraße","HB-403","Helsinkistr. 10, 28719 Bremen",,"Oberschule",,,"0421/361-79071","0421/361-79070",
-"Wilhelm-Olbers-Oberschule","HB-404","Drebberstr. 10, 28309 Bremen",,"Oberschule",,,"0421/361-59548","0421/361-59539",
-"Oberschule an der Koblenzer Straße","HB-409","Koblenzer Str. 15, 28325 Bremen",,"Oberschule",,,"0421/361-15463","0421/361-3029",
-"Oberschule an der Lerchenstraße","HB-410","Lerchenstr. 86, 28755 Bremen",,"Oberschule",,,"0421/361-79262","0421/361-79263",
-"Oberschule Roter Sand","HB-412","Butjadinger Str. 21, 28197 Bremen",,"Oberschule",,,"0421/361-96812","0421/361-96800",
-"Oberschule an der Lehmhorster Straße","HB-414","Lehmhorster Str. 5, 28779 Bremen",,"Oberschule",,,"0421/361-79362","0421/361-79352",
-"Oberschule Rockwinkel","HB-416","Uppe Angst 31, 28355 Bremen",,"Oberschule",,,"0421/361-16637","0421/361-16627",
-"Oberschule an der Schaumburger Straße","HB-417","Schaumburger Str. 49 A, 28205 Bremen",,"Oberschule",,,"0421/361-96886","0421/361-96880",
-"Oberschule an der Ronzelenstraße","HB-418","Ronzelenstr. 51, 28359 Bremen",,"Oberschule",,,"0421/361-15161","0421/361-3144",
-"Oberschule Habenhausen","HB-423","Bunnsackerweg 2, 28279 Bremen",,"Oberschule",,,"0421/361-15226","0421/361-3454",
-"Oberschule an der Helgolander Straße","HB-424","Helgolander Str. 67, 28217 Bremen",,"Oberschule",,,"0421/361-17036","0421/361-17030",
-"Oberschule an der Julius-Brecht-Allee","HB-425","Konrad-Adenauer-Allee 86, 28329 Bremen",,"Oberschule",,,"0421/361-16037","0421/361-16027",
-"Oberschule Findorff","HB-428","Gothaer Str. 60, 28215 Bremen",,"Oberschule",,,"0421/361-96923","0421/361-96910",
-"Oberschule Sebaldsbrück","HB-429","Parsevalstr. 1, 28309 Bremen",,"Oberschule",,,"0421/361-59205","0421/361-3394",
-"Oberschule am Waller Ring","HB-430","Bremerhavener Str. 83, 28219 Bremen",,"Oberschule",,,"0421/361-59610","0421/361-5630",
-"Roland zu Bremen Oberschule","HB-431","Flämische Str. 9, 28259 Bremen",,"Oberschule",,,"0421/361-15132","0421/361-15971",
-"Wilhelm-Kaisen-Oberschule","HB-436","Valckenburghstr. 1-3, 28201 Bremen",,"Oberschule",,,"0421/361-59333","0421/361-59330",
-"Albert-Einstein-Oberschule","HB-438","Kolk 2, 28327 Bremen",,"Oberschule",,,"0421/null","0421/361-18395",
-"Oberschule im Park","HB-440","Am Oslebshauser Park 1-3, 28239 Bremen",,"Oberschule",,,"0421/361-9131","0421/361-9265",
-"Oberschule Am Barkhof","HB-441","Parkallee 39, 28209 Bremen",,"Oberschule",,,"0421/496-15587","0421/361-15587",
-"Oberschule Ohlenhof","HB-442","Halmerweg 71, 28237 Bremen",,"Oberschule",,,"0421/361-94232","0421/361-94246",
-"Oberschule an der Egge","HB-443","Eggestedter Str. 20, 28779 Bremen",,"Oberschule",,,"0421/361-79150","0421/361-79154",
-"Neue Oberschule Gröpelingen","HB-444","Ernst-Waldau-Str. 1 A, 28239 Bremen",,"Oberschule",,,"0421/361-18434","0421/361-18319",
-"Oberschule an der Kurt-Schumacher-Allee","HB-445","Kurt-Schumacher-Allee 65, 28327 Bremen",,"Oberschule",,,"0421/361-59856","0421/361-5650",
-"Humboldtschule","HB-451","Schillerstr. 87, 27570 Bremerhaven",,"Oberschule",,,"0471/391-3799","0471/391-3770",
-"Wilhelm-Raabe-Schule","HB-452","Friedrich-Ebert-Str. 10, 27570 Bremerhaven",,"Oberschule",,,"0471/391-3849","0471/391-3830",
-"Schulzentrum Carl von Ossietzky, Oberschule","HB-456","Georg-Büchner-Str. 5, 27574 Bremerhaven",,"Oberschule",,,"0471/391-39129","0471/391-39120",
-"Paula-Modersohn-Schule","HB-457","Dreibergen 21, 27572 Bremerhaven",,"Oberschule",,,"0471/3001030","0471/3001013",
-"Johann-Gutenberg-Schule","HB-458","Fuhrenweg 3-19, 27578 Bremerhaven",,"Oberschule",,,"0471/391-38026","0471/391-3800",
-"Gesamtschule Bremen-West","HB-501","Lissaer Str. 7, 28237 Bremen",,"Oberschule",,,"0421/49614620","0421/361-14611",
-"Gesamtschule Bremen-Ost","HB-502","Walliser Str. 125, 28325 Bremen",,"Oberschule",,,"0421/361-59831","0421/361-59802",
-"Oberschule Lesum","HB-503","Steinkamp 6, 28717 Bremen",,"Oberschule",,,"0421/361-7021","0421/361-7185",
-"Gesamtschule Bremen-Mitte","HB-504","Hemelinger Str. 11, 28205 Bremen",,"Oberschule",,,"0421/361-18180","0421/361-3135",
-"Oberschule an der Hermannsburg","HB-505","Hermannsburg 32 F, 28259 Bremen",,"Oberschule",,,"0421/361-15964","0421/361-15960",
-"Oberschule am Leibnizplatz","HB-506","Schulstr. 24, 28199 Bremen",,"Oberschule",,,"0421/361-59193","0421/361-5785",
-"Oberschule In den Sandwehen","HB-509","Neuenkirchener Weg 119, 28779 Bremen",,"Oberschule",,,"0421/361-79025","0421/361-79043",
-"Wilhelm-Focke-Oberschule","HB-511","Bergiusstr. 125, 28357 Bremen",,"Oberschule",,,"0421/361-16395","0421/361-16084",
-"Gerhard-Rohlfs-Oberschule","HB-512","Kirchheide 9, 28757 Bremen",,"Oberschule",,,"0421/361-79515","0421/361-79513",
-"Heinrich-Heine-Schule","HB-551","Hans-Böckler-Str. 30, 27578 Bremerhaven",,"Oberschule",,,"0471/391-35010","0471/391-35013",
-"Schule am Ernst-Reuter-Platz","HB-552","Hafenstr. 122, 27576 Bremerhaven",,"Oberschule",,,"0471/309493-19","0471/309493-10",
-"Oberschule Geestemünde","HB-553","Flensburger Str. 10, 27570 Bremerhaven",,"Oberschule",,,"0471/309-55549","0471/309-55540",
-"Schulzentrum des Sekundarbereichs II","HB-601","Alwin-Lonke-Str. 71, 28719 Bremen",,"Berufsbildende Schule",,,"0421/361-16609","0421/361-16560",
-"Schulzentrum des Sekundarbereichs II","HB-602","Bördestr. 10, 28717 Bremen",,"Berufsbildende Schule",,,"0421/361-7182","0421/361-7180",
-"Schulzentrum des Sekundarbereichs II","HB-603","Eggestedter Str. 20, 28779 Bremen",,"Berufsbildende Schule",,,"0421/361-79150","0421/361-79155",
-"Schulzentrum des Sekundarbereichs II","HB-618","Lange Reihe 81, 28219 Bremen",,"Berufsbildende Schule",,,"0421/361-8527","0421/361-8516",
-"Helmut Schmidt Schule","HB-698","Walliser Str. 125, 28325 Bremen",,"Berufsbildende Schule",,,"0421/361-16726","0421/361-18250",
-"Schulzentrum des Sekundarbereichs II","HB-699","Rübekamp 37-39, 28219 Bremen",,"Berufsbildende Schule",,,"0421/361-14703","0421/361-14700",
-"St.-Johannis-Schule","HB-801","Tiefer 12, 28195 Bremen",,"Private Grundschule",,,"0421/3694-214","0421/3694-171",
-"St.-Marien-Schule","HB-803","Hauffstr. 2, 28217 Bremen",,"Private Grundschule",,,"0421/3989019","0421/3809370",
-"Freie Evangelische Bekenntnisschule","HB-805","Habenhauser Brückenstr. 1, 28279 Bremen",,"Private weiterführende Schule (GS oder IHR mit Gy)",,,"0421/83936-119","0421/83936-100",
-"Freie Waldorfschule Bremen","HB-806","Touler Str. 3, 28211 Bremen",,"Private Waldorfschule",,,"0421/4914343","0421/491430",
-"Privatschule Mentor gGmbH","HB-807","Schwarzer Weg 96, 28239 Bremen",,"Private weiterführende Schule (GS oder IHR mit Gy)",,,"0421/6190-123","0421/6190-121",
-"Tobias-Schule Bremen","HB-809","Rockwinkeler Landstr. 41-43, 28355 Bremen",,"Private Sonderschule Lernen-Sprache-Verhalten",,,"0421/250627","0421/259884",
-"St.-Johannis-Schule","HB-810","Dechanatstr. 9, 28195 Bremen",,"Private weiterführende Schule (GS oder IHR mit Gy)",,,"0421/3694-186","0421/3694-180",
-"Ökumenisches Gymnasium zu Bremen","HB-811","Oberneulander Landstr. 143 A, 28355 Bremen",,"Privates Durchgängiges Gymnasium",,,"0421/223129-10","0421/223129-0",
-"Technikerschule Bremen","HB-812","Schongauer Str. 2, 28219 Bremen",,"Private berufsbildende Schule",,,"0421/3965608","0421/393089",
-"Berufsbildungswerk Bremen GmbH","HB-813","Universitätsallee 20, 28359 Bremen",,"Private berufsbildende Schule",,,"0421/2383-237","0421/2383-221",
-"International School of Bremen","HB-815","Badgasteiner Str. 11, 28359 Bremen",,"Private weiterführende Schule (GS oder IHR mit Gy)",,,"0421/515779-55","0421/515779-0",
-"Freie Waldorfschule","HB-816","Graubündener Str. 4, 28325 Bremen",,"Private Waldorfschule",,,"0421/411421","0421/411441",
-"Freie Evangelische Bekenntnisschule","HB-817","Steinsetzerstr. 6-8, 28279 Bremen",,"Private Grundschule",,,"0421/83936-311","0421/83936-300",
-"Freie Waldorfschule","HB-818","Fresenbergstr. 26, 28779 Bremen",,"Private Waldorfschule",,,"0421/4605211","0421/4605210",
-"EUMAC-European Musical Academy","HB-819","Waller Heerstr. 165, 28219 Bremen",,"Private berufsbildende Schule",,,"0421/377-5010","0421/377-5018",
-"Eduard-Nebelthau-Gymnasium","HB-820","Lesumer Heerstr. 36, 28717 Bremen",,"Privates Durchgängiges Gymnasium",,,"0421/63819988","0421/63819902",
-"St.-Pius-Schule","HB-821","Willakedamm 6, 28259 Bremen",,"Private Grundschule",,,"0421/583877","0421/583877",
-"St.-Antonius-Schule","HB-822","Oewerweg 40 A, 28325 Bremen",,"Private Grundschule",,,"0421/null","0421/424299",
-"Kunstschule Wandsbek","HB-824","Außer der Schleifmühle 4, 28203 Bremen",,"Private berufsbildende Schule",,,"0421/null","0421/336-59125",
-"Freie Gemeinschaftsschule Bremen","HB-825","Zum Sebaldsbrücker Bahnhof 59, 28309 Bremen",,"Private weiterführende Schule (GS oder IHR mit Gy)",,,"0421/699 99 96","0421/699 99 96",
-"Edith-Stein-Schule","HB-851","Grazer Str. 15 A, 27568 Bremerhaven",,"Private weiterführende Schule (GS oder IHR mit Gy)",,,"0471/30859-49","0471/30859-40",
-"Grundschule Stella Maris","HB-855","Grazer Str. 15 B, 27568 Bremerhaven",,"Private Grundschule",,,"0471/30859-29","0471/30859-20",
-"Wirtschaft-und Sozialakademie der","HB-881","Hafenstr.128, 27576 Bremerhaven",,"Private berufsbildende Schule",,,"0471/595-30","0471/595-43/-22",
-"Integratives Bildungszentrum (IBZ)","HB-900","Züricher Str. 40, 28325 Bremen",,"Schule für Gesundheitsfachberufe (Klinikum)",,,"0421/408-1985","0421/408-1734",
-"Integratives Bildungszentrum (IBZ)","HB-902","St.-Jürgen-Str. 1, 28205 Bremen",,"Schule für Gesundheitsfachberufe (Klinikum)",,,"0421/497-3343","0421/497-5296",
-"Schule für technische Assistenten in der Medizin","HB-908","St.-Jürgen-Str. 1, 28205 Bremen",,"Schule für Gesundheitsfachberufe (Klinikum)",,,"0421/497-4463","0421/497-3472",
-"Bremer Heimstiftung","HB-909","Fedelhören 78, 28203 Bremen",,"Private berufsbildende Schule",,,"0421/2434-419","0421/2434-410",
-"Friedehorst - Vereinigte Anstalten","HB-910","Rotdornallee 64, 28717 Bremen",,"Private berufsbildende Schule",,,"0421/6381-436","0421/6381-414",
-"Deutsche Außenhandels- und","HB-912","Universitätsallee 18, 28359 Bremen",,"Private berufsbildende Schule",,,"0421/325456","0421/9499-1022",
-"Joli Visage","HB-913","Norderoog 2, 28259 Bremen",,"Private berufsbildende Schule",,,"0421/7202439","0421/720240",
-"Wirtschafts- und Sozialakademie der","HB-914","Bertha-von-Suttner-Str. 17, 28207 Bremen",,"Private berufsbildende Schule",,,"0421/4499651","0421/4499639",
-"Institut für Berufs- und","HB-919","An der Silberpräge 5, 28309 Bremen",,"Private berufsbildende Schule",,,"0421/39001-22","0421/39001-25",
-"Parität. Bildungswerk Bremen e.V.","HB-922","Faulenstr. 31, 28195 Bremen",,"Private berufsbildende Schule",,,"0421/17472-30","0421/17472-0",
-"impuls e.V.","HB-923","Fleetrade 78, 28207 Bremen",,"Private berufsbildende Schule",,,"0421/4986048","0421/441999",
-"Wirtschafts- und Sozialakademie der","HB-924","Dölvesstr. 8, 28207 Bremen",,"Private berufsbildende Schule",,,"0421/4499930","0421/4499621",
-"Bremer Krankenpflegeschule der","HB-927","St.-Pauli-Deich 25, 28199 Bremen",,"Schule für Gesundheitsfachberufe",,,"0421/5599-445","0421/5599-441",
-"Fachschule für Ergotherapie","HB-928","Rotdornallee 64, 28717 Bremen",,"Schule für Gesundheitsfachberufe",,,"0421/696 685 06","0421/696 685 02",
-"Verwaltungsschule der","HB-949","Doventorscontrescarpe 172, 28195 Bremen",,"Verwaltungsschule",,,"0421/361-5173","0421/361-5335",
-"Krankenpflegeschule am","HB-950","Postbrookstr. 91 A, 27574 Bremerhaven",,"Schule für Gesundheitsfachberufe (Klinikum)",,,"0471/299-3554","0471/299-3550",
-"Krankenpflegeschule","HB-951","Wiener Str. 1, 27568 Bremerhaven",,"Schule für Gesundheitsfachberufe",,,"0471/4805-113","0471/4805-644",
-"Hansa Pflegeschulen GmbH","HB-955","Hartwigstr. 8, 27574 Bremerhaven",,"Private berufsbildende Schule",,,"0471/9212372","0471/9212370",
-"AWO Pflegedienst GmbH -Ursula Kaltenstein Akademie für Gesundheit und Pflege","HB-957","Surfeldstr. 29, 27576 Bremerhaven",,"Private berufsbildende Schule",,,"0471/309467-19","0471/9547-0",
+address,fax,full_time_school,id,lat,lon,name,official_id,phone,school_type,school_type_entity,state
+"Winterstr. 20, 28215 Bremen",0421/361-8177,true,HB-002,53.090258,8.807364,Schule an der Admiralstraße,002,0421/361-8110,Grundschule,Grundschule,HB
+"Alter Postweg 302, 28207 Bremen",0421/361-81258,false,HB-003,53.065585,8.868684,Schule am Alten Postweg,003,0421/361-3376,Grundschule,Grundschule,HB
+"Hindenburgstr. 33 A, 28717 Bremen",0421/361-79 587,false,HB-005,53.168787,8.694167,Schule Am Mönchshof,005,0421/361-7165,Grundschule,Grundschule,HB
+"An der Gete 103, 28211 Bremen",0421/361-96016,true,HB-006,53.079216,8.851296,Schule An der Gete,006,0421/361-3158,Grundschule,Grundschule,HB
+"Alfred-Faust-Str. 34, 28277 Bremen",0421/361-18239,false,HB-007,53.031878,8.824,Schule an der Alfred-Faust-Straße,007,0421/361-3511,Grundschule,Grundschule,HB
+"Heisiusstr. 7, 28307 Bremen",0421/4843429,true,HB-008,53.039492,8.918928,Schule Arbergen,008,0421/480548,Grundschule,Grundschule,HB
+"Korbhauser Weg 1, 28279 Bremen",0421/361-96001,false,HB-009,53.030326,8.851997,Schule Arsten,009,0421/361-3130,Grundschule,Grundschule,HB
+"An der Fuchtelkuhle 15, 28239 Bremen",0421/361-79682,true,HB-010,53.13464,8.729204,Schule Auf den Heuen,010,0421/361-9275,Grundschule,Grundschule,HB
+"Andernacher Str. 6, 28325 Bremen",0421/361-59054,true,HB-011,53.068227,8.959222,Schule an der Andernacher Straße,011,0421/361-3364,Grundschule,Grundschule,HB
+"Augsburger Str. 175, 28215 Bremen",0421/361-3590,true,HB-012,53.09984,8.805143,Schule an der Augsburger Straße,012,0421/361-8370,Grundschule,Grundschule,HB
+"Ritterkamp 10, 28757 Bremen",0421/361-79386,true,HB-013,53.175708,8.62667,Schule Alt-Aumund,013,0421/361-7651,Grundschule,Grundschule,HB
+"Tidemanstr. 11, 28759 Bremen",0421/361-79416,false,HB-014,53.165596,8.631885,Schule Am Wasser,014,0421/361-7622,Grundschule,Grundschule,HB
+"Baumschulenweg 12, 28213 Bremen",0421/361-89362,true,HB-015,53.093628,8.8463,Schule am Baumschulenweg,015,0421/361-3162,Grundschule,Grundschule,HB
+"Parsevalstr. 2, 28309 Bremen",0421/361-16958,true,HB-016,53.067904,8.885231,Schule an der Parsevalstraße,016,0421/361-3048,Grundschule,Grundschule,HB
+"Auf dem Flintacker 51, 28755 Bremen",0421/361-79387,true,HB-018,53.188218,8.636711,Schule Borchshöhe,018,0421/361-7383,Grundschule,Grundschule,HB
+"Katrepeler Landstr. 1, 28357 Bremen",0421/361-89077,true,HB-019,53.125982,8.906411,Schule Borgfeld,019,0421/361-3086,Grundschule,Grundschule,HB
+"Brinkmannstr. 40, 28309 Bremen",0421/361-14087,false,HB-020,53.045257,8.89435,Schule an der Brinkmannstraße,020,0421/361-3091,Grundschule,Grundschule,HB
+"Am Weidedamm 20, 28215 Bremen",0421/361-18386,false,HB-021,53.093094,8.817049,Schule Am Weidedamm,021,0421/361-14452,Grundschule,Grundschule,HB
+"Contrescarpe 26, 28203 Bremen",0421/361-10131,false,HB-023,53.075326,8.814529,Bürgermeister-Smidt-Schule,023,0421/361-10711,Grundschule,Grundschule,HB
+"Buntentorsteinweg 245, 28201 Bremen",0421/361-59267,true,HB-024,53.061088,8.810978,Schule am Buntentorsteinweg,024,0421/361-59531,Grundschule,Grundschule,HB
+"Stargarder Str. 11, 28717 Bremen",0421/361-79846,true,HB-025,53.172409,8.709193,Schule Burgdamm,025,0421/361-7131,Grundschule,Grundschule,HB
+"Curiestr. 2 A, 28357 Bremen",0421/361-89453,false,HB-028,53.108302,8.895636,Marie-Curie-Schule,028,0421/361-3021,Grundschule,Grundschule,HB
+"Carl-Schurz-Str. 25, 28209 Bremen",0421/361-17446,false,HB-029,53.084826,8.840196,Schule an der Carl-Schurz-Straße,029,0421/361-3059,Grundschule,Grundschule,HB
+"Düsseldorfer Str. 2 A, 28327 Bremen",0421/361-59490,true,HB-032,53.075203,8.932037,Schule an der Düsseldorfer Straße,032,0421/361-3032,Grundschule,Grundschule,HB
+"Fährer Flur 15, 28755 Bremen",0421/361-79388,false,HB-034,53.177978,8.611802,Schule Fährer Flur,034,0421/361-7248,Grundschule,Grundschule,HB
+"Ellenerbrokweg 28, 28325 Bremen",0421/361-18189,false,HB-035,53.070437,8.94507,Schule am Ellenerbrokweg,035,0421/361-3190,Grundschule,Grundschule,HB
+"Betonstr. 4, 28777 Bremen",0421/361-79826,false,HB-036,53.204547,8.525519,Schule Farge-Rekum,036,0421/361-79141,Grundschule,Grundschule,HB
+"Freiligrathstr. 11, 28211 Bremen",0421/496-3269,false,HB-039,53.083607,8.862559,Schule an der Freiligrathstraße,039,0421/361-3269,Grundschule,Grundschule,HB
+"Wigmodistr. 37, 28779 Bremen",0421/361-7726,false,HB-040,53.187202,8.574987,Schule an der Wigmodistraße,040,0421/361-7436,Grundschule,Grundschule,HB
+"Westerholzstr. 19 A, 28309 Bremen",0421/361-14747,false,HB-043,53.055171,8.887824,Schule an der Glockenstraße,043,0421/361-3290,Grundschule,Grundschule,HB
+"Grambker Heerstr. 121, 28719 Bremen",0421/361-79037,true,HB-045,53.150016,8.710816,Schule an der Grambker Heerstraße,045,0421/361-7147,Grundschule,Grundschule,HB
+"Brakkämpe 4, 28259 Bremen",0421/361-13286,false,HB-048,53.059602,8.764249,Schule Grolland,048,0421/361-19610,Grundschule,Grundschule,HB
+"Am Borgfelder Saatland 1-3, 28357 Bremen",0421/361-82897,true,HB-049,53.12726,8.896003,Schule Am Borgfelder Saatland,049,0421/361-14885,Grundschule,Grundschule,HB
+"Bunnsackerweg 4, 28279 Bremen",0421/361-15265,false,HB-050,53.044868,8.861112,Schule am Bunnsackerweg,050,0421/361-3310,Grundschule,Grundschule,HB
+"Halmerweg 71, 28237 Bremen",0421/361-16819,false,HB-051,53.122323,8.763879,Schule am Halmerweg,051,0421/361-9174,Grundschule,Grundschule,HB
+"Fährer Str. 4, 28755 Bremen",0421/361-79449,false,HB-052,53.185676,8.613005,Schule Hammersbeck,052,0421/361-7245,Grundschule,Grundschule,HB
+"Helgenstr. 10-12, 28777 Bremen",0421/361-79090,false,HB-053,53.185953,8.552078,Schule Rönnebeck,053,0421/361-7284,Grundschule,Grundschule,HB
+"Horner Heerstr. 17, 28359 Bremen",0421/361-16556,true,HB-060,53.094617,8.870631,Schule an der Horner Heerstraße,060,0421/361-3368,Grundschule,Grundschule,HB
+"In der Vahr 75, 28329 Bremen",0421/361-10848,true,HB-062,53.078252,8.877339,Schule In der Vahr,062,0421/361-3343,Grundschule,Grundschule,HB
+"Kantstr. 63, 28201 Bremen",0421/361-16961,false,HB-064,53.066289,8.795234,Schule an der Kantstraße,064,0421/361-59541,Grundschule,Grundschule,HB
+"Karl-Lerbs-Str. 70 A, 28201 Bremen",0421/361-59571,true,HB-065,53.058418,8.797311,Schule an der Karl-Lerbs-Straße,065,0421/361-59561,Grundschule,Grundschule,HB
+"Pastorenweg 91-93, 28237 Bremen",0421/361-17288,true,HB-069,53.110419,8.765801,Schule am Pastorenweg,069,0421/361-9297,Grundschule,Grundschule,HB
+"Auf der Hohwisch 61-63, 28207 Bremen",0421/361-16816,false,HB-070,53.066112,8.859884,Kinderschule,070,0421/361-16887,Grundschule,Grundschule,HB
+"Kirchhuchtinger Landstr. 28, 28259 Bremen",0421/361-83888,false,HB-071,53.050967,8.740756,Schule Kirchhuchting,071,0421/361-15955,Grundschule,Grundschule,HB
+"Lessingstr. 30, 28203 Bremen",0421/361-82899,true,HB-076,53.072885,8.833948,Schule an der Lessingstraße,076,0421/361-3225,Grundschule,Grundschule,HB
+"Lüssumer Ring 55, 28777 Bremen",0421/361-79494,true,HB-077,53.198157,8.561188,Tami-Oelfken-Schule,077,0421/361-7755,Grundschule,Grundschule,HB
+"Mahndorfer Heerstr. 55, 28307 Bremen",0421/4842161,true,HB-081,53.037499,8.943854,Schule Mahndorf,081,0421/480063,Grundschule,Grundschule,HB
+"Melanchthonstr. 150, 28217 Bremen",0421/361-16869,false,HB-082,53.095164,8.789538,Schule an der Melanchthonstraße,082,0421/361-8292,Grundschule,Grundschule,HB
+"Landskronastr. 46, 28719 Bremen",0421/361-79390,false,HB-083,53.176667,8.722453,Schule an der Landskronastraße,083,0421/361-7191,Grundschule,Grundschule,HB
+"Nordstr. 349, 28217 Bremen",0421/361-88921,false,HB-085,53.096961,8.777011,Schule an der Nordstraße,085,0421/361-8282,Grundschule,Grundschule,HB
+"Oberneulander Landstr. 36, 28355 Bremen",0421/2575297,false,HB-087,53.090393,8.936998,Schule Oberneuland,087,0421/259465,Grundschule,Grundschule,HB
+"Oderstr. 75, 28199 Bremen",0421/361-17063,true,HB-088,53.068623,8.783943,Schule an der Oderstraße,088,0421/361-8228,Grundschule,Grundschule,HB
+"Oslebshauser Heerstr. 115, 28239 Bremen",0421/361-17175,true,HB-089,53.133271,8.73834,Schule an der Oslebshauser Heerstr.,089,0421/361-9280,Grundschule,Grundschule,HB
+"Osterholzer Heerstr. 160, 28325 Bremen",0421/361-59046,true,HB-090,53.058336,8.947153,Schule Osterholz,090,0421/361-3003,Grundschule,Grundschule,HB
+"Koblenzer Str. 10, 28325 Bremen",0421/361-15298,true,HB-091,53.06108,8.959569,Schule am Pfälzer Weg,091,0421/361-3244,Grundschule,Grundschule,HB
+"Paul-Singer-Str. 160, 28329 Bremen",0421/361-19828,true,HB-094,53.086168,8.897571,Schule an der Paul-Singer-Straße,094,0421/361-3356,Grundschule,Grundschule,HB
+"Werner-von-Siemens-Str. 57, 28357 Bremen",0421/361-17494,false,HB-096,53.103624,8.889999,Schule an der Philipp-Reis-Straße,096,0421/361-3322,Grundschule,Grundschule,HB
+"Pürschweg 5, 28779 Bremen",0421/361-7279,false,HB-097,53.202913,8.574494,Schule am Pürschweg,097,0421/361-7816,Grundschule,Grundschule,HB
+"Schleswiger Str. 10, 28219 Bremen",0421/361-5691,true,HB-099,53.09974,8.793105,Schule am Pulverberg,099,0421/361-5690,Grundschule,Grundschule,HB
+"Dorfkampsweg 50, 28197 Bremen",0421/361-8385,false,HB-100,53.089575,8.749434,Schule Rablinghausen,100,0421/361-8268,Grundschule,Grundschule,HB
+"Rechtenflether Str. 24, 28197 Bremen",0421/361-96770,true,HB-101,53.083309,8.76497,Schule an der Rechtenflether Str.,101,0421/361-8223,Grundschule,Grundschule,HB
+"Robinsbalje 10, 28259 Bremen",0421/361-59137,true,HB-105,53.056841,8.730362,Schule an der Robinsbalje,105,0421/361-15950,Grundschule,Grundschule,HB
+"Fischerhuder Str. 20, 28237 Bremen",0421/361-18013,true,HB-106,53.115325,8.763237,Schule an der Fischerhuder Straße,106,0421/361-9139,Grundschule,Grundschule,HB
+"Schmidtstr. 9, 28203 Bremen",0421/361-59017,false,HB-110,53.072077,8.825604,Schule an der Schmidtstraße,110,0421/361-3131,Grundschule,Grundschule,HB
+"Herbartstr. 25, 28757 Bremen",0421/664290,false,HB-111,53.187237,8.645845,Schule Schönebeck,111,0421/662886,Grundschule,Grundschule,HB
+"Max-Jahn-Weg 13, 28277 Bremen",0421/361-16422,true,HB-112,53.037934,8.828468,Schule an der Stichnathstraße,112,0421/361-3584,Grundschule,Grundschule,HB
+"Seehauser Landstr. 141, 28197 Bremen",0421/541500,false,HB-113,53.111312,8.708292,Schule Seehausen,113,0421/541500,Grundschule,Grundschule,HB
+"Osterhop 88, 28309 Bremen",0421/361-14587,true,HB-114,53.04574,8.90587,Schule am Osterhop,114,0421/361-3101,Grundschule,Grundschule,HB
+"Stader Str. 150, 28205 Bremen",0421/361-16331,true,HB-115,53.071786,8.850111,Schule an der Stader Straße,115,0421/361-3288,Grundschule,Grundschule,HB
+"Richthofenstr. 37, 28759 Bremen",0421/361-79842,false,HB-116,53.169017,8.661845,Schule St. Magnus,116,0421/361-7314,Grundschule,Grundschule,HB
+"Stromer Landstr. 26 A, 28197 Bremen",0421/541214,false,HB-117,53.08272,8.70197,Schule Strom,117,0421/541214,Grundschule,Grundschule,HB
+"Uphuser Str. 9, 28327 Bremen",0421/361-5441,true,HB-118,53.063193,8.929475,Schule an der Uphuser Straße,118,0421/361-3247,Grundschule,Grundschule,HB
+"Witzlebenstr. 3, 28327 Bremen",0421/361-59661,true,HB-127,53.075898,8.903988,Schule an der Witzlebenstraße,127,0421/361-3373,Grundschule,Grundschule,HB
+"Delfter Str. 10, 28259 Bremen",0421/361-15969,true,HB-129,53.047134,8.726084,Schule an der Delfter Straße,129,0421/361-15990,Grundschule,Grundschule,HB
+"Kleiner Blink 8, 27580 Bremerhaven",0471/391-3689,true,HB-150,53.574054,8.595378,Amerikanische Schule,150,0471/391-3680,Grundschule,Grundschule,HB
+"Sandbredenstr. 11, 27572 Bremerhaven",0471/3080383,false,HB-151,53.504161,8.60061,Altwulsdorfer Schule,151,0471/3080382,Grundschule,Grundschule,HB
+"Heidacker 13, 27572 Bremerhaven",0471/391-3721,false,HB-152,53.516719,8.593772,Fichteschule,152,0471/391-3720,Grundschule,Grundschule,HB
+"Braunstr. 5, 27574 Bremerhaven",0471/391-3745,true,HB-153,53.519135,8.610881,Fritz-Reuter-Schule,153,0471/391-3740,Grundschule,Grundschule,HB
+"Isarstr. 58, 27574 Bremerhaven",0471/391-3909,false,HB-154,53.518845,8.639592,Surheider Schule,154,0471/391-3902,Grundschule,Grundschule,HB
+"Schiffdorfer Chaussee 193, 27574 Bremerhaven",0471/391-3959,false,HB-155,53.53006,8.62794,Veernschule,155,0471/391-3950,Grundschule,Grundschule,HB
+"Allmersstr. 2, 27570 Bremerhaven",0471/391-3679,false,HB-156,53.529132,8.593852,Allmersschule,156,0471/391-3670,Grundschule,Grundschule,HB
+"Klußmannstr. 10-11, 27570 Bremerhaven",0471/95845213,true,HB-157,53.53055,8.586619,Gorch-Fock-Schule,157,0471/9584520,Grundschule,Grundschule,HB
+"Deichstr. 39, 27568 Bremerhaven",0471/391-3667,false,HB-159,53.544238,8.583124,Goetheschule,159,0471/391-3666,Grundschule,Grundschule,HB
+"Am Leher Tor 21, 27568 Bremerhaven",0471/3000149,true,HB-160,53.551596,8.578417,Pestalozzischule,160,0471/3000141,Grundschule,Grundschule,HB
+"Dionysiusstr. 52, 27576 Bremerhaven",0471/309-47319,true,HB-163,53.55999,8.591488,Lutherschule,163,0471/309-47311,Grundschule,Grundschule,HB
+"Brookstr. 3, 27580 Bremerhaven",0471/391-39617,true,HB-164,53.566442,8.586547,Marktschule,164,0471/391-3960,Grundschule,Grundschule,HB
+"Frenssenstr. 49, 27576 Bremerhaven",0471/391-55926,true,HB-165,53.558311,8.57778,Astrid-Lindgren-Schule,165,0471/391-5590,Grundschule,Grundschule,HB
+"Gaußstr. 107, 27580 Bremerhaven",0471/3082412,false,HB-166,53.579315,8.587594,Gaußschule I,166,0471/3082410,Grundschule,Grundschule,HB
+"Debstedter Weg 84, 27578 Bremerhaven",0471/391-3739,false,HB-167,53.59404,8.607444,Fritz-Husmann-Schule,167,0471/391-3730,Grundschule,Grundschule,HB
+"Ferdinand-Lassalle-Str. 68, 27578 Bremerhaven",0471/391-3999,true,HB-168,53.58749,8.6217,Karl-Marx-Schule,168,0471/391-3990,Grundschule,Grundschule,HB
+"Mecklenburger Weg 174, 27578 Bremerhaven",0471/391-3659,false,HB-169,53.595276,8.624206,Friedrich-Ebert-Schule,169,0471/391-3650,Grundschule,Grundschule,HB
+"Flensburger Str. 10, 27570 Bremerhaven",0471/309 555 49,true,HB-172,53.52374,8.595368,Immanuel-Kant-Schule,172,0471/309 5550,Oberschule,Oberschule,HB
+"Gaußstr. 107, 27580 Bremerhaven",0471/3082422,false,HB-174,53.579315,8.587594,Gaußschule II,174,0471/3082420,Oberschule,Oberschule,HB
+"Brookstr. 7, 27580 Bremerhaven",0471/391-3899,true,HB-176,53.566792,8.588232,Schule Am Leher Markt,176,0471/391-3880,Oberschule,Oberschule,HB
+"Dudweilerstr. 2, 28309 Bremen",0421/361-59037,false,HB-206,53.05786,8.911278,Schule an der Dudweilerstraße,206,0421/361-3188,Förderzentrum Lernen-Sprache-Verhalten,Förderzentrum,HB
+"Kerschensteinerstr. 4, 28757 Bremen",0421/361-79584,false,HB-209,53.174794,8.621463,Schule an der Kerschensteinerstr.,209,0421/361-7301,Förderzentrum Lernen-Sprache-Verhalten,Förderzentrum,HB
+"Mainstr. 18, 28199 Bremen",0421/361-59501,false,HB-210,53.068927,8.794551,Schule an der Mainstraße,210,0421/361-59491,Förderzentrum Lernen-Sprache-Verhalten,Förderzentrum,HB
+"Züricher Str. 40, 28325 Bremen",0421/03212-1023528,false,HB-216,53.06446,8.940238,Schule an der Züricher Straße,216,0421/408-1621,Förderzentrum sonstige,Förderzentrum,HB
+"Fritz-Gansberg-Str. 22, 28213 Bremen",0421/361-96021,false,HB-223,53.090997,8.8514,Schule an der Fritz-Gansberg-Straße,223,0421/361-96022,Förderzentrum sonstige,Förderzentrum,HB
+"An der Gete 103, 28211 Bremen",0421/361-3149,false,HB-225,53.079216,8.851296,Georg-Droste-Schule,225,0421/361-3001,Förderzentrum sonstige,Förderzentrum,HB
+"Louis-Seegelken-Str. 130, 28717 Bremen",0421/361-7156,false,HB-226,53.177942,8.680497,Paul-Goldschmidt-Schule,226,0421/361-7150,Förderzentrum sonstige,Förderzentrum,HB
+"Marcusallee 31, 28359 Bremen",0421/361-3383,false,HB-227,53.090221,8.880244,Schule an der Marcusallee,227,0421/361-14360,Förderzentrum sonstige,Förderzentrum,HB
+"Wurster Str. 387, 27580 Bremerhaven",0471/391-3694,false,HB-253,53.602602,8.535101,Anne-Frank-Schule,253,0471/391-3690,Förderzentrum sonstige,Förderzentrum,HB
+"Doventorscontrescarpe (Block A) 172, 28195 Bremen",0421/361-17080,false,HB-301,53.080426,8.804322,Erwachsenenschule,301,0421/361-10759,Abendschule/Erwachsenen Schule,Abendschule/ Erwachsenen Schule,HB
+"Kleine Helle 7, 28195 Bremen",0421/361-16995,true,HB-302,53.083611,8.801944,Altes Gymnasium,302,0421/361-16990,Durchgängiges Gymnasium,Durchgängiges Gymnasium,HB
+"Kerschensteinerstr. 2, 28757 Bremen",0421/361-79508,false,HB-305,53.176465,8.621404,Gymnasium Vegesack,305,0421/361-7305,Durchgängiges Gymnasium,Durchgängiges Gymnasium,HB
+"Hamburger Str. 12, 28205 Bremen",0421/361-96944,false,HB-306,53.070429,8.835162,Gymnasium an der Hamburger Straße,306,0421/361-96930,Durchgängiges Gymnasium,Durchgängiges Gymnasium,HB
+"Delfter Str. 16, 28259 Bremen",0421/361-16709,false,HB-307,53.046753,8.727874,Alexander-von-Humboldt-Gymnasium,307,0421/361-16470,Durchgängiges Gymnasium,Durchgängiges Gymnasium,HB
+"Hermann-Böse-Str. 1-9, 28209 Bremen",0421/361-6285,false,HB-308,53.083872,8.819868,Hermann-Böse-Gymnasium,308,0421/361-6272,Durchgängiges Gymnasium,Durchgängiges Gymnasium,HB
+"Vorkampsweg 97, 28359 Bremen",0421/361-14265,false,HB-309,53.10581,8.872612,Gymnasium Horn,309,0421/361-14260,Durchgängiges Gymnasium,Durchgängiges Gymnasium,HB
+"Schwachhauser Heerstr. 62, 28209 Bremen",0421/361-59093,false,HB-312,53.082878,8.839288,Kippenberg-Gymnasium,312,0421/361-3640,Durchgängiges Gymnasium,Durchgängiges Gymnasium,HB
+"Alfred-Faust-Str. 6, 28277 Bremen",0421/361-16618,true,HB-324,53.033271,8.83045,Gymnasium Links der Weser,324,0421/361-16360,Durchgängiges Gymnasium,Durchgängiges Gymnasium,HB
+"Schiffdorfer Chaussee 97, 27574 Bremerhaven",0471/391-39139,false,HB-331,53.529971,8.613309,Schulzentrum Carl von Ossietzky,331,0471/391-39130,Schulzentrum des Sekundarbereich  II (Gymnasiale Oberstufe),Schulzentrum des Sekundarbereich,HB
+"Walter-Kolb-Weg 2, 27568 Bremerhaven",0471/3000113,false,HB-333,53.557323,8.572632,Schulzentrum Geschwister Scholl,333,0471/3000110,Schulzentrum des Sekundarbereich  II (Gymnasiale Oberstufe),Schulzentrum des Sekundarbereich,HB
+"Grazer Str. 61, 27568 Bremerhaven",0471/3000159,false,HB-334,53.550026,8.574126,Lloyd Gymnasium Bremerhaven,334,0471/3000100,Durchgängiges Gymnasium,Durchgängiges Gymnasium,HB
+"Sonnenstr. 22, 27568 Bremerhaven",0471/391-3603,false,HB-349,53.549114,8.575879,Abendschule Bremerhaven,349,0471/391-3601,Abendschule/Erwachsenen Schule,Abendschule/ Erwachsenen Schule,HB
+"Steffensweg 171, 28217 Bremen",0421/361-59667,false,HB-351,53.097225,8.781803,Allgemeine Berufsbildende Schule,351,0421/361-19639,Berufsbildende Schule,Berufsbildende Schule,HB
+"Reiherstr. 80, 28239 Bremen",0421/361-59533,false,HB-352,53.139732,8.722589,Berufsbildende Schule für Metalltechnik,352,0421/361-18042,Berufsbildende Schule,Berufsbildende Schule,HB
+"Delfter Str. 16, 28259 Bremen",0421/361-59040,false,HB-355,53.046753,8.727874,Wilhelm Wagenfeld Schule,355,0421/361-16620,Berufsbildende Schule,Berufsbildende Schule,HB
+"Kerschensteinerstr. 5, 28757 Bremen",0421/361-79574,false,HB-358,53.17542,8.620554,Schulzentrum des Sekundarbereichs II,358,0421/361-79550,Berufsbildende Schule,Berufsbildende Schule,HB
+"Carl-Goerdeler-Str. 27, 28327 Bremen",0421/361-14297,false,HB-359,53.076167,8.896204,Berufsbildende Schule für Einzelhandel und Logistik,359,0421/361-14280,Berufsbildende Schule,Berufsbildende Schule,HB
+"Ellmersstr. 24, 28217 Bremen",0421/361-16621,false,HB-360,53.089327,8.790696,"Berufsschule für den Großhandel,",360,0421/361-8647,Berufsbildende Schule,Berufsbildende Schule,HB
+"Grenzstr. 90, 28217 Bremen",0421/361-59640,false,HB-361,53.094528,8.785338,Schulzentrum Grenzstraße,361,0421/361-5637/8/9,Berufsbildende Schule,Berufsbildende Schule,HB
+"Delmestr. 141 B, 28199 Bremen",0421/361-18351,false,HB-364,53.065876,8.787636,Schulzentrum des Sekundarbereichs II,364,0421/361-18340,Berufsbildende Schule,Berufsbildende Schule,HB
+"Meta-Sattler-Str. 33, 28217 Bremen",0421/361-16019,false,HB-368,53.088871,8.794887,Schulzentrum des Sekundarbereichs II,368,0421/361-59688 oder 89,Berufsbildende Schule,Berufsbildende Schule,HB
+"An der Weserbahn 4, 28195 Bremen",0421/361-3077,false,HB-369,53.085334,8.796239,Technisches Bildungszentrum Mitte,369,0421/361-16770,Berufsbildende Schule,Berufsbildende Schule,HB
+"Max-Eyth-Platz 3-4, 27568 Bremerhaven",0471/391-3559,false,HB-382,53.548575,8.576784,Kaufmännische Lehranstalten,382,0471/391-3530,Berufsbildende Schule,Berufsbildende Schule,HB
+"Walter-Kolb-Weg 2, 27568 Bremerhaven",0471/3000123,false,HB-383,53.557323,8.572632,Schulzentrum Geschwister Scholl,383,0471/3000120,Berufsbildende Schule,Berufsbildende Schule,HB
+"Hinrich-Schmalfeldt-Str. 26, 27576 Bremerhaven",0471/501-0557,false,HB-384,53.558712,8.589526,Werkstattschule Bremerhaven,384,0471/958-4430,Berufsbildende Schule,Berufsbildende Schule,HB
+"Georg-Büchner-Str. 7, 27574 Bremerhaven",0471/39198-256,false,HB-385,53.531824,8.612887,Schulzentrum Carl von Ossietzky,385,0471/39198-101,Berufsbildende Schule,Berufsbildende Schule,HB
+"Georg-Büchner-Str. 13, 27574 Bremerhaven",0471/309-44522,false,HB-386,53.533424,8.612722,Schulzentrum Carl von Ossietzky,386,0471/309-46510,Berufsbildende Schule,Berufsbildende Schule,HB
+"Helsinkistr. 10, 28719 Bremen",0421/361-79071,true,HB-403,53.173002,8.722547,Oberschule an der Helsinkistraße,403,0421/361-79070,Oberschule,Oberschule,HB
+"Drebberstr. 10, 28309 Bremen",0421/361-59548,true,HB-404,53.040673,8.898694,Wilhelm-Olbers-Oberschule,404,0421/361-59539,Oberschule,Oberschule,HB
+"Koblenzer Str. 15, 28325 Bremen",0421/361-15463,true,HB-409,53.062291,8.960328,Oberschule an der Koblenzer Straße,409,0421/361-3029,Oberschule,Oberschule,HB
+"Lerchenstr. 86, 28755 Bremen",0421/361-79262,false,HB-410,53.191413,8.6279,Oberschule an der Lerchenstraße,410,0421/361-79263,Oberschule,Oberschule,HB
+"Butjadinger Str. 21, 28197 Bremen",0421/361-96812,true,HB-412,53.081083,8.759567,Oberschule Roter Sand,412,0421/361-96800,Oberschule,Oberschule,HB
+"Lehmhorster Str. 5, 28779 Bremen",0421/361-79362,true,HB-414,53.196906,8.5701,Oberschule an der Lehmhorster Straße,414,0421/361-79352,Oberschule,Oberschule,HB
+"Uppe Angst 31, 28355 Bremen",0421/361-16637,false,HB-416,53.097098,8.899798,Oberschule Rockwinkel,416,0421/361-16627,Oberschule,Oberschule,HB
+"Schaumburger Str. 49 A, 28205 Bremen",0421/361-96886,false,HB-417,53.073476,8.846135,Oberschule an der Schaumburger Straße,417,0421/361-96880,Oberschule,Oberschule,HB
+"Ronzelenstr. 51, 28359 Bremen",0421/361-15161,true,HB-418,53.095236,8.875806,Oberschule an der Ronzelenstraße,418,0421/361-3144,Oberschule,Oberschule,HB
+"Bunnsackerweg 2, 28279 Bremen",0421/361-15226,false,HB-423,53.045442,8.860104,Oberschule Habenhausen,423,0421/361-3454,Oberschule,Oberschule,HB
+"Helgolander Str. 67, 28217 Bremen",0421/361-17036,true,HB-424,53.098944,8.784648,Oberschule an der Helgolander Straße,424,0421/361-17030,Oberschule,Oberschule,HB
+"Konrad-Adenauer-Allee 86, 28329 Bremen",0421/361-16037,true,HB-425,53.076147,8.86729,Oberschule an der Julius-Brecht-Allee,425,0421/361-16027,Oberschule,Oberschule,HB
+"Gothaer Str. 60, 28215 Bremen",0421/361-96923,true,HB-428,53.097532,8.803964,Oberschule Findorff,428,0421/361-96910,Oberschule,Oberschule,HB
+"Parsevalstr. 1, 28309 Bremen",0421/361-59205,true,HB-429,53.067796,8.885846,Oberschule Sebaldsbrück,429,0421/361-3394,Oberschule,Oberschule,HB
+"Bremerhavener Str. 83, 28219 Bremen",0421/361-59610,false,HB-430,53.099159,8.778756,Oberschule am Waller Ring,430,0421/361-5630,Oberschule,Oberschule,HB
+"Flämische Str. 9, 28259 Bremen",0421/361-15132,true,HB-431,53.052977,8.713438,Roland zu Bremen Oberschule,431,0421/361-15971,Oberschule,Oberschule,HB
+"Valckenburghstr. 1-3, 28201 Bremen",0421/361-59333,true,HB-436,53.051605,8.815193,Wilhelm-Kaisen-Oberschule,436,0421/361-59330,Oberschule,Oberschule,HB
+"Kolk 2, 28327 Bremen",0421/null,true,HB-438,53.061103,8.928456,Albert-Einstein-Oberschule,438,0421/361-18395,Oberschule,Oberschule,HB
+"Am Oslebshauser Park 1-3, 28239 Bremen",0421/361-9131,true,HB-440,53.130886,8.739102,Oberschule im Park,440,0421/361-9265,Oberschule,Oberschule,HB
+"Parkallee 39, 28209 Bremen",0421/496-15587,false,HB-441,53.082508,8.822714,Oberschule Am Barkhof,441,0421/361-15587,Oberschule,Oberschule,HB
+"Halmerweg 71, 28237 Bremen",0421/361-94232,false,HB-442,53.122323,8.763879,Oberschule Ohlenhof,442,0421/361-94246,Oberschule,Oberschule,HB
+"Eggestedter Str. 20, 28779 Bremen",0421/361-79150,false,HB-443,53.190144,8.566084,Oberschule an der Egge,443,0421/361-79154,Oberschule,Oberschule,HB
+"Ernst-Waldau-Str. 1 A, 28239 Bremen",0421/361-18434,true,HB-444,53.128145,8.753226,Neue Oberschule Gröpelingen,444,0421/361-18319,Oberschule,Oberschule,HB
+"Kurt-Schumacher-Allee 65, 28327 Bremen",0421/361-59856,true,HB-445,53.078857,8.893096,Oberschule an der Kurt-Schumacher-Allee,445,0421/361-5650,Oberschule,Oberschule,HB
+"Schillerstr. 87, 27570 Bremerhaven",0471/391-3799,false,HB-451,53.527616,8.597035,Humboldtschule,451,0471/391-3770,Oberschule,Oberschule,HB
+"Friedrich-Ebert-Str. 10, 27570 Bremerhaven",0471/391-3849,false,HB-452,53.539161,8.592109,Wilhelm-Raabe-Schule,452,0471/391-3830,Oberschule,Oberschule,HB
+"Georg-Büchner-Str. 5, 27574 Bremerhaven",0471/391-39129,true,HB-456,53.530746,8.613503,"Schulzentrum Carl von Ossietzky, Oberschule",456,0471/391-39120,Oberschule,Oberschule,HB
+"Dreibergen 21, 27572 Bremerhaven",0471/3001030,true,HB-457,53.507238,8.601971,Paula-Modersohn-Schule,457,0471/3001013,Oberschule,Oberschule,HB
+"Fuhrenweg 3-19, 27578 Bremerhaven",0471/391-38026,false,HB-458,53.595541,8.615493,Johann-Gutenberg-Schule,458,0471/391-3800,Oberschule,Oberschule,HB
+"Lissaer Str. 7, 28237 Bremen",0421/49614620,true,HB-501,53.113966,8.774221,Gesamtschule Bremen-West,501,0421/361-14611,Oberschule,Oberschule,HB
+"Walliser Str. 125, 28325 Bremen",0421/361-59831,true,HB-502,53.070873,8.952859,Gesamtschule Bremen-Ost,502,0421/361-59802,Oberschule,Oberschule,HB
+"Steinkamp 6, 28717 Bremen",0421/361-7021,false,HB-503,53.178193,8.693797,Oberschule Lesum,503,0421/361-7185,Oberschule,Oberschule,HB
+"Hemelinger Str. 11, 28205 Bremen",0421/361-18180,true,HB-504,53.071214,8.839586,Gesamtschule Bremen-Mitte,504,0421/361-3135,Oberschule,Oberschule,HB
+"Hermannsburg 32 F, 28259 Bremen",0421/361-15964,true,HB-505,53.042129,8.736376,Oberschule an der Hermannsburg,505,0421/361-15960,Oberschule,Oberschule,HB
+"Schulstr. 24, 28199 Bremen",0421/361-59193,true,HB-506,53.070236,8.7984,Oberschule am Leibnizplatz,506,0421/361-5785,Oberschule,Oberschule,HB
+"Neuenkirchener Weg 119, 28779 Bremen",0421/361-79025,true,HB-509,53.202226,8.559242,Oberschule In den Sandwehen,509,0421/361-79043,Oberschule,Oberschule,HB
+"Bergiusstr. 125, 28357 Bremen",0421/361-16395,true,HB-511,53.109939,8.897261,Wilhelm-Focke-Oberschule,511,0421/361-16084,Oberschule,Oberschule,HB
+"Kirchheide 9, 28757 Bremen",0421/361-79515,true,HB-512,53.172983,8.620902,Gerhard-Rohlfs-Oberschule,512,0421/361-79513,Oberschule,Oberschule,HB
+"Hans-Böckler-Str. 30, 27578 Bremerhaven",0471/391-35010,true,HB-551,53.587959,8.615071,Heinrich-Heine-Schule,551,0471/391-35013,Oberschule,Oberschule,HB
+"Hafenstr. 122, 27576 Bremerhaven",0471/309493-19,true,HB-552,53.557631,8.586674,Schule am Ernst-Reuter-Platz,552,0471/309493-10,Oberschule,Oberschule,HB
+"Flensburger Str. 10, 27570 Bremerhaven",0471/309-55549,true,HB-553,53.52374,8.595368,Oberschule Geestemünde,553,0471/309-55540,Oberschule,Oberschule,HB
+"Alwin-Lonke-Str. 71, 28719 Bremen",0421/361-16609,false,HB-601,53.153143,8.716446,Schulzentrum des Sekundarbereichs II,601,0421/361-16560,Berufsbildende Schule,Berufsbildende Schule,HB
+"Bördestr. 10, 28717 Bremen",0421/361-7182,false,HB-602,53.172909,8.691515,Schulzentrum des Sekundarbereichs II,602,0421/361-7180,Berufsbildende Schule,Berufsbildende Schule,HB
+"Eggestedter Str. 20, 28779 Bremen",0421/361-79150,false,HB-603,53.190144,8.566084,Schulzentrum des Sekundarbereichs II,603,0421/361-79155,Berufsbildende Schule,Berufsbildende Schule,HB
+"Lange Reihe 81, 28219 Bremen",0421/361-8527,false,HB-618,53.104501,8.776595,Schulzentrum des Sekundarbereichs II,618,0421/361-8516,Berufsbildende Schule,Berufsbildende Schule,HB
+"Walliser Str. 125, 28325 Bremen",0421/361-16726,false,HB-698,53.070873,8.952859,Helmut Schmidt Schule,698,0421/361-18250,Berufsbildende Schule,Berufsbildende Schule,HB
+"Rübekamp 37-39, 28219 Bremen",0421/361-14703,false,HB-699,53.109674,8.777963,Schulzentrum des Sekundarbereichs II,699,0421/361-14700,Berufsbildende Schule,Berufsbildende Schule,HB
+"Tiefer 12, 28195 Bremen",0421/3694-214,true,HB-801,53.073202,8.807241,St.-Johannis-Schule,801,0421/3694-171,Private Grundschule,Private Grundschule,HB
+"Hauffstr. 2, 28217 Bremen",0421/3989019,true,HB-803,53.093806,8.786098,St.-Marien-Schule,803,0421/3809370,Private Grundschule,Private Grundschule,HB
+"Habenhauser Brückenstr. 1, 28279 Bremen",0421/83936-119,false,HB-805,53.051127,8.847751,Freie Evangelische Bekenntnisschule,805,0421/83936-100,Private weiterführende Schule (GS oder IHR mit Gy),Private weiterführende Schule (GS oder IHR mit Gy),HB
+"Touler Str. 3, 28211 Bremen",0421/4914343,false,HB-806,53.082567,8.844277,Freie Waldorfschule Bremen,806,0421/491430,Private Waldorfschule,Waldorfschule,HB
+"Schwarzer Weg 96, 28239 Bremen",0421/6190-123,true,HB-807,53.127314,8.7563,Privatschule Mentor gGmbH,807,0421/6190-121,Private weiterführende Schule (GS oder IHR mit Gy),Private weiterführende Schule (GS oder IHR mit Gy),HB
+"Rockwinkeler Landstr. 41-43, 28355 Bremen",0421/250627,true,HB-809,53.083723,8.934888,Tobias-Schule Bremen,809,0421/259884,Private Sonderschule Lernen-Sprache-Verhalten,Private Sonderschule Lernen-Sprache-Verhalten,HB
+"Dechanatstr. 9, 28195 Bremen",0421/3694-186,false,HB-810,53.073999,8.808928,St.-Johannis-Schule,810,0421/3694-180,Private weiterführende Schule (GS oder IHR mit Gy),Private weiterführende Schule (GS oder IHR mit Gy),HB
+"Oberneulander Landstr. 143 A, 28355 Bremen",0421/223129-10,true,HB-811,53.102133,8.923963,Ökumenisches Gymnasium zu Bremen,811,0421/223129-0,Privates Durchgängiges Gymnasium,Privates Durchgängiges Gymnasium,HB
+"Schongauer Str. 2, 28219 Bremen",0421/3965608,false,HB-812,53.108133,8.798714,Technikerschule Bremen,812,0421/393089,Private berufsbildende Schule,Private berufsbildende Schule,HB
+"Universitätsallee 20, 28359 Bremen",0421/2383-237,false,HB-813,53.101984,8.860383,Berufsbildungswerk Bremen GmbH,813,0421/2383-221,Private berufsbildende Schule,Private berufsbildende Schule,HB
+"Badgasteiner Str. 11, 28359 Bremen",0421/515779-55,true,HB-815,53.108846,8.8581,International School of Bremen,815,0421/515779-0,Private weiterführende Schule (GS oder IHR mit Gy),Private weiterführende Schule (GS oder IHR mit Gy),HB
+"Graubündener Str. 4, 28325 Bremen",0421/411421,true,HB-816,53.067867,8.943102,Freie Waldorfschule,816,0421/411441,Private Waldorfschule,Waldorfschule,HB
+"Steinsetzerstr. 6-8, 28279 Bremen",0421/83936-311,true,HB-817,53.047652,8.852438,Freie Evangelische Bekenntnisschule,817,0421/83936-300,Private Grundschule,Private Grundschule,HB
+"Fresenbergstr. 26, 28779 Bremen",0421/4605211,false,HB-818,53.183949,8.574732,Freie Waldorfschule,818,0421/4605210,Private Waldorfschule,Waldorfschule,HB
+"Waller Heerstr. 165, 28219 Bremen",0421/377-5010,false,HB-819,53.103576,8.784701,EUMAC-European Musical Academy,819,0421/377-5018,Private berufsbildende Schule,Private berufsbildende Schule,HB
+"Lesumer Heerstr. 36, 28717 Bremen",0421/63819988,true,HB-820,53.173646,8.677933,Eduard-Nebelthau-Gymnasium,820,0421/63819902,Privates Durchgängiges Gymnasium,Privates Durchgängiges Gymnasium,HB
+"Willakedamm 6, 28259 Bremen",0421/583877,false,HB-821,53.047101,8.736706,St.-Pius-Schule,821,0421/583877,Private Grundschule,Private Grundschule,HB
+"Oewerweg 40 A, 28325 Bremen",0421/null,true,HB-822,53.059891,8.944771,St.-Antonius-Schule,822,0421/424299,Private Grundschule,Private Grundschule,HB
+"Außer der Schleifmühle 4, 28203 Bremen",0421/null,false,HB-824,53.080335,8.820319,Kunstschule Wandsbek,824,0421/336-59125,Private berufsbildende Schule,Private berufsbildende Schule,HB
+"Zum Sebaldsbrücker Bahnhof 59, 28309 Bremen",0421/699 99 96,false,HB-825,53.061757,8.885844,Freie Gemeinschaftsschule Bremen,825,0421/699 99 96,Private weiterführende Schule (GS oder IHR mit Gy),Private weiterführende Schule (GS oder IHR mit Gy),HB
+"Grazer Str. 15 A, 27568 Bremerhaven",0471/30859-49,false,HB-851,53.546487,8.577641,Edith-Stein-Schule,851,0471/30859-40,Private weiterführende Schule (GS oder IHR mit Gy),Private weiterführende Schule (GS oder IHR mit Gy),HB
+"Grazer Str. 15 B, 27568 Bremerhaven",0471/30859-29,true,HB-855,53.546487,8.577641,Grundschule Stella Maris,855,0471/30859-20,Private Grundschule,Private Grundschule,HB
+"Hafenstr.128, 27576 Bremerhaven",0471/595-30,false,HB-881,53.5662,8.59992,Wirtschaft-und Sozialakademie der,881,0471/595-43/-22,Private berufsbildende Schule,Private berufsbildende Schule,HB
+"Züricher Str. 40, 28325 Bremen",0421/408-1985,false,HB-900,53.06446,8.940238,Integratives Bildungszentrum (IBZ),900,0421/408-1734,Schule für Gesundheitsfachberufe (Klinikum),Schule für Gesundheitsfachberufe,HB
+"St.-Jürgen-Str. 1, 28205 Bremen",0421/497-3343,false,HB-902,53.075099,8.837428,Integratives Bildungszentrum (IBZ),902,0421/497-5296,Schule für Gesundheitsfachberufe (Klinikum),Schule für Gesundheitsfachberufe,HB
+"St.-Jürgen-Str. 1, 28205 Bremen",0421/497-4463,false,HB-908,53.075099,8.837428,Schule für technische Assistenten in der Medizin,908,0421/497-3472,Schule für Gesundheitsfachberufe (Klinikum),Schule für Gesundheitsfachberufe,HB
+"Fedelhören 78, 28203 Bremen",0421/2434-419,false,HB-909,53.07821,8.819148,Bremer Heimstiftung,909,0421/2434-410,Private berufsbildende Schule,Private berufsbildende Schule,HB
+"Rotdornallee 64, 28717 Bremen",0421/6381-436,false,HB-910,53.17678,8.685082,Friedehorst - Vereinigte Anstalten,910,0421/6381-414,Private berufsbildende Schule,Private berufsbildende Schule,HB
+"Universitätsallee 18, 28359 Bremen",0421/325456,false,HB-912,53.102903,8.857939,Deutsche Außenhandels- und,912,0421/9499-1022,Private berufsbildende Schule,Private berufsbildende Schule,HB
+"Norderoog 2, 28259 Bremen",0421/7202439,false,HB-913,53.053882,8.742194,Joli Visage,913,0421/720240,Private berufsbildende Schule,Private berufsbildende Schule,HB
+"Bertha-von-Suttner-Str. 17, 28207 Bremen",0421/4499651,false,HB-914,53.069684,8.863466,Wirtschafts- und Sozialakademie der,914,0421/4499639,Private berufsbildende Schule,Private berufsbildende Schule,HB
+"An der Silberpräge 5, 28309 Bremen",0421/39001-22,false,HB-919,53.059222,8.886262,Institut für Berufs- und,919,0421/39001-25,Private berufsbildende Schule,Private berufsbildende Schule,HB
+"Faulenstr. 31, 28195 Bremen",0421/17472-30,false,HB-922,53.080436,8.797992,Parität. Bildungswerk Bremen e.V.,922,0421/17472-0,Private berufsbildende Schule,Private berufsbildende Schule,HB
+"Fleetrade 78, 28207 Bremen",0421/4986048,false,HB-923,53.064309,8.865509,impuls e.V.,923,0421/441999,Private berufsbildende Schule,Private berufsbildende Schule,HB
+"Dölvesstr. 8, 28207 Bremen",0421/4499930,false,HB-924,53.070167,8.859384,Wirtschafts- und Sozialakademie der,924,0421/4499621,Private berufsbildende Schule,Private berufsbildende Schule,HB
+"St.-Pauli-Deich 25, 28199 Bremen",0421/5599-445,false,HB-927,53.068795,8.804042,Bremer Krankenpflegeschule der,927,0421/5599-441,Schule für Gesundheitsfachberufe,Schule für Gesundheitsfachberufe,HB
+"Rotdornallee 64, 28717 Bremen",0421/696 685 06,false,HB-928,53.17678,8.685082,Fachschule für Ergotherapie,928,0421/696 685 02,Schule für Gesundheitsfachberufe,Schule für Gesundheitsfachberufe,HB
+"Doventorscontrescarpe 172, 28195 Bremen",0421/361-5173,false,HB-949,53.084162,8.797686,Verwaltungsschule der,949,0421/361-5335,Verwaltungsschule,Verwaltungsschule,HB
+"Postbrookstr. 91 A, 27574 Bremerhaven",0471/299-3554,false,HB-950,53.53486,8.637051,Krankenpflegeschule am,950,0471/299-3550,Schule für Gesundheitsfachberufe (Klinikum),Schule für Gesundheitsfachberufe,HB
+"Wiener Str. 1, 27568 Bremerhaven",0471/4805-113,false,HB-951,53.552553,8.575928,Krankenpflegeschule,951,0471/4805-644,Schule für Gesundheitsfachberufe,Schule für Gesundheitsfachberufe,HB
+"Hartwigstr. 8, 27574 Bremerhaven",0471/9212372,false,HB-955,53.533075,8.601181,Hansa Pflegeschulen GmbH,955,0471/9212370,Private berufsbildende Schule,Private berufsbildende Schule,HB
+"Surfeldstr. 29, 27576 Bremerhaven",0471/309467-19,false,HB-957,53.561813,8.597506,AWO Pflegedienst GmbH -Ursula Kaltenstein Akademie für Gesundheit und Pflege,957,0471/9547-0,Private berufsbildende Schule,Private berufsbildende Schule,HB
